@@ -12,16 +12,16 @@ ms.custom:
 - "39"
 - "41"
 - "100001"
-ms.openlocfilehash: 63889b05c3755e80b381f38dc14827f4a96e5ef8
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
-ms.translationtype: HT
+ms.openlocfilehash: ca580e981036d3c830e55d67f2a79272fe4f27e4
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36818707"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508513"
 ---
 # <a name="update-dns-records"></a>Aktualizace záznamů DNS
 
-Nastavení záznamů DNS je důležité k tomu, aby vám předplatné Office 365 fungovalo na vaší vlastní doméně. K přidání nebo aktualizaci záznamů DNS použijte následující odkazy.
+Nastavení záznamů DNS je důležité pro získání předplatného práce s vlastním názvem domény. K přidání nebo aktualizaci záznamů DNS použijte následující odkazy.
   
-- [Vytvoření záznamů DNS pro Office 365 u kteréhokoliv poskytovatele hostingu DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
-- [Přidání nebo úprava vlastních záznamů DNS](https://docs.microsoft.com/office365/admin/dns/add-or-edit-custom-dns-records)
+- [Vytvoření záznamů DNS u kteréhokoliv poskytovatele hostingu DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [Přidání nebo úprava vlastních záznamů DNS](https://docs.microsoft.com/microsoft-365/admin/dns/add-or-edit-custom-dns-records)

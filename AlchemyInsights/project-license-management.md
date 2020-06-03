@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991038"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512403"
 ---
 # <a name="project-license-management"></a>Správa licencí Projectu
 
@@ -27,6 +27,6 @@ Správu licencí Projectu můžete dokončit v **centru pro správu Microsoftu 3
 - Pokud chcete **přejít na jiný plán**, přečtěte si téma [Ruční přechod mezi plány Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Pokud chcete **přiřadit** licence Projectu, přejděte na **Fakturace > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Další informace najdete v článku o [přiřazení licencí](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Pokud chcete **přidávat nebo odebírat** licence Projectu, přejděte na **Fakturace > [Koupit služby](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Další informace najdete v článku o [přidání a odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Pokud chcete **zrušit** licence Projectu, přejděte na **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vyberte **Nastavení a akce** a klikněte na **Zrušit předplatné**. Další informace najdete v článku o [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Pokud chcete **zrušit** licence Projectu, přejděte na **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vyberte **Nastavení a akce** a klikněte na **Zrušit předplatné**. Další informace najdete v článku o [zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Další informace najdete v tématu věnovaném [správě licencí předplatných](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

@@ -11,12 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "5747"
-ms.openlocfilehash: 324cd20560925587d9c9187a0cf50579d99304e6
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+- "5200004"
+- "5767"
+ms.openlocfilehash: 1c724a131d42aa2e217b7018ed6b414cb3440a99
+ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493001"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44515622"
 ---
 # <a name="connect-a-sharepoint-site-to-a-group"></a>Připojení sharepointového webu ke skupině
 

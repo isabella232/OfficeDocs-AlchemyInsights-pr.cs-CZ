@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 2b50b021c334d5b6cb18ef3b7fd1c9bc215b3a07
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5d83fc0d00d1c5b2d07040b31ba392cac2fc32c0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687467"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502204"
 ---
 # <a name="trying-to-remove-your-domain"></a>Pokoušíte se odebrat doménu?
 
-Postupujte podle pokynů v článku [Odebrání domény](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).
+Postupujte podle pokynů v článku [Odebrání domény](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain).
   
-Než doménu odeberete, musíte aktualizovat všechny uživatele nebo skupiny přiřazené k tomuto názvu domény. Informace o dalších běžných řešeních najdete v [častých otázkách k doménám](https://docs.microsoft.com/office365/admin/setup/domains-faq).
+Než doménu odeberete, musíte aktualizovat všechny uživatele nebo skupiny přiřazené k tomuto názvu domény. Informace o dalších běžných řešeních najdete v [častých otázkách k doménám](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
   

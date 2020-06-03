@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 3d32123f757a727e1f6ef04270152e276cf803fa
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: 11321789ee6bd7568fda0d530b9b60eb382c83b9
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799044"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508585"
 ---
 # <a name="unlocking-an-account"></a>Odemknutí účtu
 
@@ -40,4 +40,4 @@ Pokud je některému z vašich uživatelů znemožněno posílání e-mailů, m�
 
 Pokud se chcete podívat na další scénáře resetování hesla, včetně možnosti samoobslužného resetování hesla, podívejte se na téma [Resetování hesel v Microsoftu 365 (multiple-attempts-to-charge-online-payment-instrumentsbusiness)](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
 
-Po zjištění důkazu o napadeném účtu a/nebo odchozím spamu znemožní služba uživateli posílat e-maily. V případě preventivního opatření postupujte podle pokynů pro uživatele v tématu [Řešení zneužitého e-mailového účtu v Microsoftu 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Po zjištění důkazu o napadeném účtu a/nebo odchozím spamu znemožní služba uživateli posílat e-maily. V případě preventivního opatření postupujte podle pokynů pro uživatele v tématu [Řešení zneužitého e-mailového účtu v Microsoftu 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account).

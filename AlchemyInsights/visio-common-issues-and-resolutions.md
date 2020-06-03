@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722555"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505192"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Známé problémy a řešení ve Visiu
 
@@ -24,13 +24,13 @@ Tady jsou některá často hledaná témata týkající se služby Microsoft Vis
 
 **Možnosti Visia Online**
 
-- Visio se prodává jako [samostatná aplikace](https://products.office.com/visio/flowchart-software). Správci můžou [předplatné Visia](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) koupit v Centru pro správu Microsoftu 365.
+- Visio se prodává jako [samostatná aplikace](https://products.office.com/visio/flowchart-software). Správci si můžou [zakoupit předplatné Aplikace Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) v Centru pro správu Microsoftu 365.
 
 - Visio nabízí [různé plány předplatného](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Pokud vám ve Visiu chybí nějaká funkce, vyzkoušejte [Porovnání možností Visia](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options), kde najdete další informace o rozdílech mezi předplatnými Plán 1 a Plán 2.  Upozorňujeme, že Visio Online (plán 1) nezahrnuje desktopovou verzi Visia.
 
 **Stažení, instalace a aktivace Visia**
 
-- Pro instalaci a aktivaci desktopové aplikace Visia s Visio Online (plán 2) musí být uživateli nejdřív přiřazená [licence Visia](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Pro instalaci a aktivaci desktopové aplikace Visia s Visio Online (plán 2) musí být uživateli nejdřív přiřazená [licence Visia](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 - Nainstalujte Visio z portálu Můj účet, pokud ještě není nainstalované. Nápovědu najdete v tématu [Instalace Visia](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +40,7 @@ Tady jsou některá často hledaná témata týkající se služby Microsoft Vis
 
 **Visio na Macu**
 
-Desktopová aplikace Visio pro Mac není k dispozici. Uživatelé s platnou [licencí Visio Online](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)ale můžou [zobrazovat, vytvářet a upravovat diagramy](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) ve Visiu Online ve webovém prohlížeči.
+Desktopová aplikace Visio pro Mac není k dispozici. Uživatelé s platnou [licencí Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)ale můžou [zobrazovat, vytvářet a upravovat diagramy](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) ve Visiu Online ve webovém prohlížeči.
 
 **Diagramy, šablony, obrazce a spojnice**
 

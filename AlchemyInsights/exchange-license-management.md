@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-ms.openlocfilehash: 296b77e6b1596732c58e5caa21954225eb31e3ec
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: f653fefccc435b80198ea6097d845549ccec56bf
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991162"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505608"
 ---
 # <a name="exchange-license-management"></a>Správa licencí Exchange
 
@@ -27,6 +27,6 @@ Licence Exchange můžete spravovat v **centru pro správu Microsoftu 365**.
 - Pokud chcete **přejít na jiný plán**, přečtěte si téma [Ruční přechod mezi plány Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Pokud chcete **přiřadit** licence Exchange, přejděte na **Fakturace > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**, vyberte předplatné, vyberte uživatele a klikněte na **Přiřadit licence**. Další informace najdete v článku o [přiřazení licencí](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Pokud chcete **přidat nebo odebrat** licence Exchange, přejděte na **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)** a klikněte na **Přidat/Odebrat licence**. Další informace najdete v článku o [přidání a odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Pokud chcete **zrušit** licence Exchange, přejděte na **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vyberte **Nastavení a akce** a klikněte na **Zrušit předplatné**. Další informace najdete v článku o [zrušení předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Pokud chcete **zrušit** licence Exchange, přejděte na **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vyberte **Nastavení a akce** a klikněte na **Zrušit předplatné**. Další informace najdete v článku o [zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Další informace najdete v tématu věnovaném [správě licencí předplatných](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
