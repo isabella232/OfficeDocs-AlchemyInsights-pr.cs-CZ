@@ -1,5 +1,5 @@
 ---
-title: Události služby v průběhu
+title: Probíhá incident služby
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666293"
 ---
-# <a name="service-incident-in-progress"></a>Události služby v průběhu
+# <a name="service-incident-in-progress"></a>Probíhá incident služby
 
-Je pravděpodobně ovlivněny události služby nebo poradní, právě kdy se vyšetřuje křivka. Nejnovější stav zjistíte tak, že přejdete na stránku [Stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Můžete být ovlivněni servisním incidentem nebo informačním zpravodajem, který je právě vyšetřován. Nejnovější stav můžete zkontrolovat na stránce [Stav služby.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Komfortu můžete najít souhrn tohoto incidentu níže:
+Pro vaše pohodlí najdete shrnutí tohoto incidentu níže:
   
-> **Číslo případu:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Číslo incidentu:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Vliv Popis: {ImpactDescription}
+> Popis dopadu: {ImpactDescription}

@@ -1,5 +1,5 @@
 ---
-title: Jak povolit bezproblémové SSO
+title: Jak povolit bezproblémové jednotné přihlašování
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663846"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Jak povolit bezproblémové SSO
+# <a name="how-to-enable-seamless-sso"></a>Jak povolit bezproblémové jednotné přihlašování
 
-Povolte plynulé jednotného přihlašování pomocí [Azure AD připojit](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Povolte bezproblémové jednotné přihlašování prostřednictvím [služby Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Pokud provádíte novou instalaci systému Azure AD připojit, zvolte [vlastní instalační cestu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na stránce **přihlášení uživatele** klepněte na přepínač **Povolit jednotné přihlašování** .
+Pokud provádíte novou instalaci služby Azure AD Connect, zvolte [vlastní instalační cestu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). Na přihlašovací stránce **Uživatel zvolte** možnost **Povolit jednotné přihlašování.**
   
-Chcete-li ověřit bezproblémové SSO mít správně povoleno:
+Chcete-li ověřit, zda jste správně povolili bezproblémové jednotné přihlašování,
   
-1. Přihlášení do [centra pro správu služby Active Directory Azure](https://aad.portal.azure.com) jako globální správce.
+1. Přihlaste se do [Centra pro správu Služby Azure Active Directory](https://aad.portal.azure.com) jako globální správce.
 
-2. V levém podokně vyberte **Azure služby Active Directory** .
+2. V levém podokně vyberte **Azure Active Directory.**
 
-3. Ověřte, zda že bezproblémové jednotného přihlášení je **povoleno**.
+3. Ověřte, zda je **povoleno**bezproblémové jednotné přihlašování .
 
-Další informace naleznete v tématu [Azure Active Directory bezproblémové Single Sign-On: rychlý start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Další informace najdete [v tématu Bezproblémové jednotné přihlašování služby Azure Active Directory: Rychlý start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
