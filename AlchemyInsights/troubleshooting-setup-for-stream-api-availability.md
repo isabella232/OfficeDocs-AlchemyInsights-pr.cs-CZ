@@ -1,5 +1,5 @@
 ---
-title: Nastavení Poradce při potížích pro datový proud - dostupnost rozhraní API
+title: Poradce při potížích s instalací datového proudu – dostupnost rozhraní API
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.custom:
 - "2800001"
 - "1338"
 ms.openlocfilehash: bd08dce9f6b037478e653bd61ad8cfa0a334bc5e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559294"
 ---
-# <a name="api-availability"></a><span data-ttu-id="0ab25-102">Dostupnost rozhraní API</span><span class="sxs-lookup"><span data-stu-id="0ab25-102">API Availability</span></span>
+# <a name="api-availability"></a><span data-ttu-id="654f0-102">Dostupnost rozhraní API</span><span class="sxs-lookup"><span data-stu-id="654f0-102">API Availability</span></span>
 
-<span data-ttu-id="0ab25-103">Rozhraní API pro proud dnes nejsou k dispozici.</span><span class="sxs-lookup"><span data-stu-id="0ab25-103">APIs for Stream are not available today.</span></span>
-<span data-ttu-id="0ab25-104">Další informace:https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="0ab25-104">For more information: https://stream.microsoft.com/support/</span></span>
+<span data-ttu-id="654f0-103">Rozhraní API pro stream nejsou dnes k dispozici.</span><span class="sxs-lookup"><span data-stu-id="654f0-103">APIs for Stream are not available today.</span></span>
+<span data-ttu-id="654f0-104">Další informace:https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="654f0-104">For more information: https://stream.microsoft.com/support/</span></span>
