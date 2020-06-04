@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: 703aa6ba1c8175b76e445a261a4081bbf0103478
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 58159ec61c9ee10e340e5f88a478d378339be3a5
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44064042"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563575"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Běžné problémy a řešení ve OneNotu
 
@@ -24,7 +24,7 @@ Tady jsou některá často požadovaná témata OneNotu:
 
 - [Řešení problémů se synchronizací](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – chcete-li vyřešit většinu běžných problémů souvisejících se synchronizací OneNotu, použijte postup [v tématu Řešení problémů, když nemůžete synchronizovat OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-- Použití [OneNotu v poznámkách k týmům](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Note**: V současné době je OneNote v Teams jen pro komerční a vzdělávací klienty. Pokud chcete provádět úpravy, použijte OneNote pro web nebo desktopovou aplikaci OneNote.
+- Použití [OneNotu v poznámkách k týmům](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) **Note**: V současné době je OneNote v Teams jen pro komerční a vzdělávací klienty. Pokud chcete provádět úpravy, použijte OneNote pro web nebo desktopovou aplikaci OneNote.
 
 - [Použití Onenotového poznámkového bloku předmětu v Teams](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) odpovídá na otázky týkající se nastavení poznámkového bloku předmětu v Teams.
 

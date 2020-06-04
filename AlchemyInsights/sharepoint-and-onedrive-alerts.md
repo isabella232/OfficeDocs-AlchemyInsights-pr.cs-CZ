@@ -1,5 +1,5 @@
 ---
-title: Zpoždění při přijímání upozornění na SharePoint a OneDrive
+title: Zpoždění při přijímání upozornění na SharePointu a OneDrivu
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: fb7ab6e8139c46d89b1cae1ee0ab9b9a601c8b64
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43741994"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563503"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Zpoždění při přijímání upozornění na SharePoint a OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Zpoždění při přijímání upozornění na SharePointu a OneDrivu
 
-- Nejprve zkontrolujte složku Nevyžádaná pošta nebo Spam v e-mailu.
-- Pokud **se mají všechny výstrahy z více souborů nebo knihoven zpozdit**, navštivte řídicí panel Stav [služby](https://portal.office.com/adminportal/home?ref=/servicehealth) a zkontrolujte, zda se u SharePointu nebo Exchange nevyskytují informační zpravodaje nebo incidenty. Problém může být s funkcí upozornění SharePoint nebo zpoždění v e-mailech prostřednictvím serveru Exchange. Všimněte si také, zda se doručují další e-maily – pokud ne, je problém pravděpodobně se zpožděním serveru Exchange.
-- Pokud **není doručena jednotlivá výstraha z určitého souboru nebo knihovny**, pokuste se ji odstranit a znovu vytvořit. Viz [Správa, zobrazení nebo odstranění sharepointových výstrah](https://support.microsoft.com/office/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) a opětovné vytvoření výstrahy.
+- Nejprve zkontrolujte složku Nevyžádaná pošta nebo Nevyžádaná pošta v e-mailu.
+- Pokud **jsou všechny výstrahy z více souborů nebo knihoven zpožděny**, navštivte [řídicí panel Stav služby](https://portal.office.com/adminportal/home?ref=/servicehealth) a zkontrolujte, zda se u SharePointu nebo Exchange nevyskytují všechny informační zpravodaje nebo incidenty, ke kterým může dojít. Problém může být s funkcí upozornění SharePoint nebo zpoždění v e-mailech prostřednictvím exchange. Všimněte si také, zda jsou doručovány další e-maily – pokud ne, problém je pravděpodobně se zpožděním exchange.
+- Pokud **není doručena jednotlivá výstraha z určitého souboru nebo knihovny**, pokuste se ji odstranit a znovu vytvořit. Viz [Správa, zobrazení nebo odstranění sharepointových výstrah,](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) abyste výstrahu znovu vytvořili.
 
 > [!NOTE]
 > - Výstrahy nelze odeslat distribuční skupině. Podporovány jsou pouze skupiny Zabezpečení a O365.
-> - Šablony e-mailů s výstrahami nelze přizpůsobit. K jejich dosažení je nutné použít pracovní postup Microsoft Flow nebo SharePoint Designer.
+> - Šablony e-mailů s výstrahami nelze přizpůsobit. K jejich dosažení je nutné použít Microsoft Flow nebo SharePoint Designer Workflow.
