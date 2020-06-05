@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511645"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581008"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Popisky citlivosti se nezobrazují
 
 Popisky citlivosti umožňují klasifikovat a chránit citlivý obsah. Mohou být vytvořeny v Centru dodržování předpisů Microsoft 365, Microsoft 365 Security Center nebo Microsoft 365 Security & Compliance Center v rámci popisků klasifikace > citlivosti. Další informace o této funkci naleznete v [tématu Přehled popisků citlivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Pokud jste nakonfigurovali štítky citlivosti, ale nezobrazují se v aplikacích Office, zkontrolujte následující:
+Pokud jste nakonfigurovali štítky citlivosti, ale nezobrazují se v aplikacích Microsoft 365, zkontrolujte následující:
 
 - Zkontrolujte, zda byl popisek [citlivosti publikován](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) uživatelům a požadovaným skupinám.
 

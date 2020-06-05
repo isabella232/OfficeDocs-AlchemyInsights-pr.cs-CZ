@@ -1,5 +1,5 @@
 ---
-title: Zprávy aplikací Office – Nepovedlo se najít přidružené licence Office
+title: Zpráva o aplikacích Microsoft 365 – Nepodařilo se najít přidružené licence Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505084"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581644"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Zprávy aplikací Office – Nepovedlo se najít přidružené licence Office
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Zpráva o aplikacích Microsoft 365 – Nepodařilo se najít přidružené licence Office
 
 Pokud chcete tuto chybu vyřešit, vyzkoušejte následující:
 
@@ -38,7 +38,7 @@ Pokud potíže potrvají, vyzkoušejte následující kroky:
 
 - Resetujte stav aktivace Office. Přečtěte si téma zaměřené na [resetování stavu aktivace Microsoft 365 Apps pro podniky](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Zkontrolujte, jestli vaše brána firewall, antivirový software nebo nastavení proxy serveru neblokují přístup aplikací Office k internetu. 
+- Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru a ověřte, zda neblokují přístup aplikací Microsoft 365 k Internetu. 
 
 Další řešení problémů najdete tady:
 

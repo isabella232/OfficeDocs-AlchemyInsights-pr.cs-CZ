@@ -1,5 +1,5 @@
 ---
-title: Sdílení v SharePointu
+title: Sdílení na SharePointu
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: daab5cfbcb52a1e946a5bd228897a2dc5e3ebe7e
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: e14bd6b4ddd0b4fbe5a6f0991e7f12009c9a2137
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911681"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582336"
 ---
 # <a name="how-to-share-in-sharepoint-online"></a>Sdílení v SharePointu Online
 
@@ -24,12 +24,12 @@ Sdílení webu:
   
 1. Otevřete web ve webovém prohlížeči.
     
-2. Pokud web patří do skupiny Microsoft 365, klikněte v pravém horním části na ikonu Nastavení a potom klikněte na **Oprávnění webu**. Klikněte na **Pozvat lidi**a pak zvolte, zda chcete přidat členy do skupiny Microsoft 365 nebo sdílet jenom web. 
+2. Pokud web patří do skupiny Microsoft 365, klikněte v pravém horním seznamu na ikonu Nastavení a potom klikněte na **Oprávnění webu**. Klikněte na **Pozvat uživatele**a pak zvolte přidání členů do skupiny Microsoft 365 nebo sdílejte jenom web. 
     
-    U komunikačního webu klikněte v pravém horním patře na **Sdílet web,** zadejte jméno osoby a vyberte úroveň oprávnění (Čtení, Úpravy nebo Úplné řízení). 
+    U komunikačního webu klikněte v pravém horním místě na **Sdílet web,** zadejte jeho jméno a vyberte úroveň oprávnění (Čtení, Úpravy nebo Úplné řízení). 
     
-    U klasického týmového webu klikněte na **Sdílet** v pravém horním. Zadejte jméno osoby, kterou chcete pozvat, nebo zadejte Všichni, které chcete sdílet se všemi uživateli ve vaší organizaci. Klepněte na **tlačítko Sdílet**.
+    U klasického týmového webu klikněte na **Sdílet** v pravém horním. Zadejte jméno osoby, kterou chcete pozvat, nebo zadejte Everyone, kterou chcete sdílet se všemi uživateli ve vaší organizaci. Klepněte na tlačítko **Sdílet**.
     
-[Informace o sdílení souboru nebo složky](https://go.microsoft.com/fwlink/?linkid=511430)
+[Přečtěte si, jak sdílet soubor nebo složku](https://go.microsoft.com/fwlink/?linkid=511430)
   
 
