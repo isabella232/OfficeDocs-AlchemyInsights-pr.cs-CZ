@@ -1,9 +1,9 @@
 ---
-title: 8000001 vypnout zaměřený doručené pošty
+title: 8000001 Vypnout prioritní doručenou poštu
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 12/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: 4d11dd687ee1408c4d747b7c01b22b1845e6eac9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 86c30e6b61b7246c5230604e7e16e1893a9195a7
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533440"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582264"
 ---
-# <a name="turn-off-focused-inbox"></a>Vypnout zaměřený doručené pošty
+# <a name="turn-off-focused-inbox"></a>Vypnout prioritní doručenou poštu
 
-1. Vyberte **Nastavení** \> **zaměřený složky Doručená pošta**.  
+1. Vyberte **Možnost** \> **Doručená pošta zaměřená na**nastavení .  
 
-2. Ve skupinovém rámečku **při doručení e-mailu**vyberte **zprávy nejsou seřazeny**.
+2. V části **Při přijetí e-mailu**vyberte **Neřadit zprávy**.
 
-3. Klepněte na tlačítko **OK**.
+3. Vyberte **OK**.
 
-Další informace naleznete v tématu [Zaměřený doručené pošty pro aplikaci Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+Další informace najdete v tématu [Prioritní doručená pošta pro Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).

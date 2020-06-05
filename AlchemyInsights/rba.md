@@ -2,7 +2,7 @@
 title: 408 RBA
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: bcb53573d31b274f73f25b61f74ac127c73984a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2e4ba8bf4a63a3368d7a769b3bc844cf788a5d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553497"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581976"
 ---
-# <a name="about-room-mailboxes"></a>O poštovní schránky místnosti
+# <a name="about-room-mailboxes"></a>O poštovních schránkách místností
 
-Poštovní schránky místnosti je poštovní schránku prostředku, přiřazené k fyzické umístění, například konferenční místnost, posluchárnu nebo školicí místnost. Další informace o poštovní schránky místnosti, viz [vytvořit a spravovat poštovní schránky místnosti](https://go.microsoft.com/fwlink/p/?linkid=717533).
+Poštovní schránka místnosti je poštovní schránka zdroje, která je přiřazena k fyzickému umístění, například k konferenční místnosti, hledišti nebo školící místnosti. Další informace o poštovních schránkách místností naleznete [v tématu Vytvoření a správa poštovních schránek místností](https://go.microsoft.com/fwlink/p/?linkid=717533).

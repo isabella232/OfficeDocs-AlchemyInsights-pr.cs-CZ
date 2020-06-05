@@ -1,5 +1,5 @@
 ---
-title: Problémy s přihlášením do aplikace sady Office
+title: Problémy s přihlášením k aplikacím Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938165"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579930"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Stanovení "Bohužel jiný účet z organizace je již přihlášen" zprávy aplikací sady Office
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Oprava zprávy Aplikace Microsoft 365 "Omlouváme se, jiný účet z vaší organizace je již přihlášen"
 
-Chcete-li tuto chybu vyřešit, vyzkoušejte následující postup:
+Pokud chcete tuto chybu vyřešit, vyzkoušejte následující:
 
-- Odeberte všechny účty práce, s výjimkou ohrožený účet, pomocí > nastavení systému Windows, **přístup k práci nebo ve škole**.
-- [Office vymazat pověření](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomocí Správce pověření systému Windows.<br/>
-    **Poznámka:** 16.0 změnily cesty registru pro Office 2016. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Otevřete aplikaci sady Office, zvolte **soubor** > **účtu** > **Odhlásit**. Pak se přihlaste pomocí uživatelského účtu s platnou licencí. Podrobné informace naleznete v tématu [účty v sadě Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Mac viz [nelze přihlásit Office 2016 pro Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Odeberte všechny pracovní účty kromě ovlivněného účtu pomocí nastavení Windows > **práce nebo školy aplikace Access**.
+- [Vymazání přihlašovacích údajů Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomocí Správce pověření systému Windows<br/>
+    **Poznámka:** Cesty registru pro Office 2016 se změnily na 16.0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- Otevřete aplikaci Office a zvolte **Odhlásit se**  >  **na účet**souborů  >  **Sign Out**. Pak se přihlaste pomocí uživatelského účtu s platnou licencí. Podrobné informace najdete v článku [Účty v Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- V případě Macu si projděte téma [Nejde se přihlásit k aplikaci Office 2016 pro Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-Další informace naleznete v tématu ["Bohužel jiný účet z organizace je již přihlášen v tomto počítači" v Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Další informace naleznete [v tématu "Omlouváme se, jiný účet z vaší organizace je již přihlášen k tomuto počítači" v office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).

@@ -1,5 +1,5 @@
 ---
-title: Problémy s přihlášením do aplikace sady Office
+title: Problémy s přihlášením k aplikacím Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 08bb0a94066f071f2ba0e9c54378f0d479191496
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938167"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579894"
 ---
-# <a name="blank-sign-in-screen-in-office-apps"></a>Prázdná obrazovka přihlášení do aplikací sady Office
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>Prázdná přihlašovací obrazovka v aplikacích Microsoft 365
 
-Chcete-li tento problém vyřešit, zkuste následující postup:
-- Nainstalujte nejnovější aktualizace pro [systém Windows](https://support.microsoft.com/help/4027667/windows-10-update) a [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- Obnovení nastavení aplikace Internet Explorer: přejděte na **Nástroje** > **Možnosti Internetu** > **Upřesnit** > **Obnovení nastavení aplikace Internet Explorer** (Všimněte si, že dojde ke ztrátě vlastního nastavení) a potom zkuste znovu přihlásit k Office.
-- Zakázání součásti Windows Defender aplikace Guard (WDAG) nebo podobný program brány firewall nebo antivirového programu:
-    1. V Ovládacích panelech přejděte na položku **programy**a pak zvolte **Zapnout funkce systému Windows zapnout nebo vypnout**.
-    2. Pokud je povolena ochrana aplikace Windows Defender, zkuste ji vypnout.<br/>
-    **Poznámka:** Musíte restartovat počítač.
-- Ujistěte se, že Microsoft.AAD.BrokerPlugin [WAM Poplašné plug-in](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) nejsou blokovány všechny aplikace nebo program brány firewall nebo antivirové.
-- [Office vymazat pověření](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomocí Správce pověření systému Windows.<br/>
-    **Poznámka:** 16.0 změnily cesty registru pro Office 2016. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+Chcete-li tento problém vyřešit, vyzkoušejte následující postup:
+- Nainstalujte nejnovější aktualizace pro [Windows](https://support.microsoft.com/help/4027667/windows-10-update) a [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- Obnovení možností aplikace Internet Explorer: Přejděte na **Nástroje**  >  **k**  >  **Advanced**  >  **rozšířenému obnovení nastavení aplikace Internet Explorer** (nezapomeňte, že ztratíte vlastní nastavení), a zkuste se znovu přihlásit k Office.
+- Zakažte ochranu aplikací programu Windows Defender (WDAG) nebo podobný firewall nebo antivirový program:
+    1. V Ovládacích panelech přejděte na **Programy**a pak zvolte **Zapnout nebo vypnout funkce systému Windows**.
+    2. Pokud je zapnutý program Ochrana aplikací programu Windows Defender, zkuste jej zakázat.<br/>
+    **Poznámka:** Pravděpodobně bude nutné restartovat počítač.
+- Ujistěte se, že modul plug-in Microsoft.AAD.BrokerPlugin [AAD WAM](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) není blokován žádnou aplikací nebo bránou firewall/antivirovým programem.
+- [Vymazání přihlašovacích údajů Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomocí Správce pověření systému Windows<br/>
+    **Poznámka:** Cesty registru pro Office 2016 se změnily na 16.0. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
 
-Další informace naleznete v tématu [připojení problémy v přihlášení po aktualizaci Office 2016 sestavení 16.0.7967 v systému Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Další informace najdete [v tématu Problémy s připojením při přihlášení po aktualizaci na sestavení Office 2016 16.0.7967 ve Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

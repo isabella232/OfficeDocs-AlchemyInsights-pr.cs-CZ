@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 02368d6a06df90d76ee1bd5448819e7ffe12c18c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908337"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580002"
 ---
-# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Skrytí skupiny Microsoft 365 ze seznamu adres (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Skrýt skupinu Microsoft 365 ze seznamu adres (GAL)
 
-Chcete-li skrýt skupinu Microsoft 365 před seznamy adres (GAL) klientů Exchange (například Outlook nebo OWA), použijte v prostředí EXO následující příkaz:
+Chcete-li skrýt skupinu Microsoft 365 ze seznamů adres (GAL) klientů serveru Exchange (například Outlook nebo OWA), použijte v prostředí EXO následující příkaz:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Chcete-li skrýt, aby se skupina Microsoft 365 nezoavká pro klienty Exchange, použijte v prostředí EXO následující příkaz:
+Chcete-li skrýt skupinu Microsoft 365 před viditelná pro klienty serveru Exchange, použijte v prostředí EXO následující příkaz:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`
