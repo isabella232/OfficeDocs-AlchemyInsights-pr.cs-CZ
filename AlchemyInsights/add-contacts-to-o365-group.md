@@ -13,15 +13,15 @@ ms.custom:
 - "78"
 - "1200017"
 ms.assetid: da91c64f-dce0-4a06-baf2-f19dcfe8716b
-ms.openlocfilehash: 802c9ab347033038860bb12bf6f44514698ee281
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e509a50e9a094943109613442067ec378272b142
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505228"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581224"
 ---
-# <a name="add-contacts-to-an-microsoft-365-group"></a><span data-ttu-id="a5025-102">Přidání kontaktů do skupiny Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="a5025-102">Add contacts to an Microsoft 365 Group</span></span>
+# <a name="add-contacts-to-a-microsoft-365-group"></a><span data-ttu-id="bcc27-102">Přidání kontaktů do skupiny Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="bcc27-102">Add contacts to a Microsoft 365 Group</span></span>
 
-<span data-ttu-id="a5025-103">Vlastníci skupin mohou v Outlooku přidávat externí uživatele a e-mailové kontakty podle následujících pokynů: [Přidání a odebrání členů skupiny v Outlooku](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="a5025-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
+<span data-ttu-id="bcc27-103">Vlastníci skupin mohou v Outlooku přidávat externí uživatele a e-mailové kontakty podle následujících pokynů: [Přidání a odebrání členů skupiny v Outlooku](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span><span class="sxs-lookup"><span data-stu-id="bcc27-103">Group owners can add external users and mail contacts in Outlook by following these instructions: [Add and remove group members in Outlook](https://support.office.com/article/3b650f4a-5c9b-4f94-a1bb-0cca4b1091de?wt.mc_id=add_contacts_group.aspx)</span></span>
   
-<span data-ttu-id="a5025-104">Můžete také přidat nebo odebrat členy skupiny na portálu pro správu: [Přidání nebo odebrání členů ze skupin Microsoftu 365 pomocí Centra pro správu Microsoftu 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span><span class="sxs-lookup"><span data-stu-id="a5025-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Microsoft 365 groups using the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span></span>
+<span data-ttu-id="bcc27-104">Můžete také přidat nebo odebrat členy skupiny na portálu pro správu: [Přidání nebo odebrání členů ze skupin Microsoftu 365 pomocí Centra pro správu Microsoftu 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span><span class="sxs-lookup"><span data-stu-id="bcc27-104">You can also add or remove group members in the Admin Portal: [Add or remove members from Microsoft 365 groups using the Microsoft 365 admin center](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)</span></span>
