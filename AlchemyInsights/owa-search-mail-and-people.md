@@ -1,9 +1,9 @@
 ---
-title: 8000003 Hledat poštu a osoby v aplikaci Outlook na webu
+title: 8000003 Pošta ve vyhledávání a lidé v Outlooku na webu
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: 1b4cde0ccfce5c1607c57a5fab4253c7923b6b0f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 09a7db3224011f3268a655d6b56a7dfe699dd34f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556162"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581940"
 ---
-# <a name="search-mail-and-people-on-outlook-on-the-web"></a><span data-ttu-id="a7b1f-102">Hledat poštu a osoby v aplikaci Outlook na webu</span><span class="sxs-lookup"><span data-stu-id="a7b1f-102">Search Mail and People on Outlook on the Web</span></span>
+# <a name="search-mail-and-people-on-outlook-on-the-web"></a><span data-ttu-id="297ba-102">Hledání pošty a lidí v Outlooku na webu</span><span class="sxs-lookup"><span data-stu-id="297ba-102">Search Mail and People on Outlook on the Web</span></span>
 
-1. <span data-ttu-id="a7b1f-103">V</span><span class="sxs-lookup"><span data-stu-id="a7b1f-103">In the</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
- <span data-ttu-id="a7b1f-104">**Vyhledávací** pole v horní části stránky zadejte, co chcete hledat (kontakt, předmět e-mailu nebo část zprávy) a stiskněte klávesu Enter.</span><span class="sxs-lookup"><span data-stu-id="a7b1f-104">**Search** box at the top of the page, type what you want to search for (a contact, email subject, or part of a message) and press Enter.</span></span>
+1. <span data-ttu-id="297ba-103">V</span><span class="sxs-lookup"><span data-stu-id="297ba-103">In the</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ <span data-ttu-id="297ba-104">**Vyhledávací** pole v horní části stránky, zadejte, co chcete vyhledat (kontakt, předmět e-mailu nebo část zprávy) a stiskněte Enter.</span><span class="sxs-lookup"><span data-stu-id="297ba-104">**Search** box at the top of the page, type what you want to search for (a contact, email subject, or part of a message) and press Enter.</span></span>
 
-2. <span data-ttu-id="a7b1f-105">Po dokončení hledání, vyberte šipku zpět</span><span class="sxs-lookup"><span data-stu-id="a7b1f-105">When you're done with the search, select the back arrow</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgFEhguGsWa9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAs0lEQVQ4jaXUsQ2FIBQF0IsyADWNYQcbExezo3YVB3ADgkvY6AIu4P2VP1/lhwC3InnJKR43T5AkAiGJ4ziglAqNb6n+Ad57jOOIfd+jCPjIeZ50znEYBq7r+hwHc0NygBuSC3yREoAkUQqQpHDOcZomaK3RNE38J35S1zX6vkfFcE2SIruug5QS8zyjbVsYY9KVa7HLstBam7fY61ECvcqWAwVrnwq9kCe0bVsUEWT5KfgAOVW28oYTSmkAAAAASUVORK5CYII=' /> <span data-ttu-id="a7b1f-106">do pole **Hledat** zadejte nebo vyberte libovolnou složku v levém podokně ukončíte hledání.</span><span class="sxs-lookup"><span data-stu-id="a7b1f-106">in the **Search** box or select any folder in the left pane to exit the search.</span></span>
+2. <span data-ttu-id="297ba-105">Až hledání dokončíte, vyberte šipku zpět</span><span class="sxs-lookup"><span data-stu-id="297ba-105">When you're done with the search, select the back arrow</span></span> <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgFEhguGsWa9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAs0lEQVQ4jaXUsQ2FIBQF0IsyADWNYQcbExezo3YVB3ADgkvY6AIu4P2VP1/lhwC3InnJKR43T5AkAiGJ4ziglAqNb6n+Ad57jOOIfd+jCPjIeZ50znEYBq7r+hwHc0NygBuSC3yREoAkUQqQpHDOcZomaK3RNE38J35S1zX6vkfFcE2SIruug5QS8zyjbVsYY9KVa7HLstBam7fY61ECvcqWAwVrnwq9kCe0bVsUEWT5KfgAOVW28oYTSmkAAAAASUVORK5CYII=' /> <span data-ttu-id="297ba-106">v poli **Hledat** nebo vyberte libovolnou složku v levém podokně a hledání ukončete.</span><span class="sxs-lookup"><span data-stu-id="297ba-106">in the **Search** box or select any folder in the left pane to exit the search.</span></span>
 
-<span data-ttu-id="a7b1f-107">Další informace naleznete v tématu čtení [Hledat poštu a osoby v aplikaci Outlook na webu](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span><span class="sxs-lookup"><span data-stu-id="a7b1f-107">For more information, read [Search Mail and People in Outlook on the web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span></span>
+<span data-ttu-id="297ba-107">Další informace na stránce [Hledat poštu a Lidé v Outlooku na webu](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span><span class="sxs-lookup"><span data-stu-id="297ba-107">For more information, read [Search Mail and People in Outlook on the web](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).</span></span>
