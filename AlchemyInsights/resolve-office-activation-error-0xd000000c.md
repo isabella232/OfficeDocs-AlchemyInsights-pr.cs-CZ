@@ -13,18 +13,18 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: e7229980d39b60ec0f60ebd5e51948e8cf34bc76
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 75795c357442799e41c39df2f963e126c944e9f0
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44474454"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582552"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Řešení chyby při aktivaci Office 0xD000000C
 
 - Zkontrolujte, že na počítači Mac, na kterém se snažíte provést instalaci, funguje internet. Můžete to udělat tak, že otevřete internetový prohlížeč a přejdete na web [Microsoftu](https://www.microsoft.com). Pokud se stránka načte, je připojení k internetu funkční.
 
-- Ukončete všechny aplikace Office.
+- Ukončete všechny aplikace Microsoft 365.
 
 - Stáhněte si [nástroj na odebrání licence](https://go.microsoft.com/fwlink/?linkid=849815) a odeberte jím všechny záznamy svazku klíčů Office.
 
