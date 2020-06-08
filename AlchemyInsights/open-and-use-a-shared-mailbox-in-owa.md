@@ -13,15 +13,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2342ef1c2b00ff8e22e05faaf45f0dcc2cebbe41
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682069"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163810"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="d89fc-102">Otevření a používání sdílené poštovní schránky v Outlooku na webu</span><span class="sxs-lookup"><span data-stu-id="d89fc-102">Open and use a shared mailbox in Outlook on the web</span></span>
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a><span data-ttu-id="93859-102">Otevření a použití sdílené poštovní schránky v Outlooku</span><span class="sxs-lookup"><span data-stu-id="93859-102">Open and use a shared mailbox in Outlook</span></span>
 
-<span data-ttu-id="d89fc-103">Sdílené poštovní schránky, ke kterým máte přístup, se v Outlooku na webu (dříve Outlook Web App) nezobrazí automaticky.</span><span class="sxs-lookup"><span data-stu-id="d89fc-103">Shared mailboxes that you have access to aren't automatically displayed in Outlook on the web (formerly known as Outlook Web App).</span></span>
+<span data-ttu-id="93859-103">Sdílené poštovní schránky umožňují skupině lidí sledovat a odesílat e-maily ze společné e-mailové adresy.</span><span class="sxs-lookup"><span data-stu-id="93859-103">Shared mailboxes allow a group of people to monitor and send email from a common email address.</span></span> 
 
-<span data-ttu-id="d89fc-104">Sdílenou poštovní schránku a svou primární poštovní schránku si můžete zobrazit dohromady anebo můžete sdílenou poštovní schránku otevřít v samostatném okně prohlížeče.</span><span class="sxs-lookup"><span data-stu-id="d89fc-104">You can display the shared mailbox and your primary mailbox together or open the shared mailbox in a separate browser window.</span></span> <span data-ttu-id="d89fc-105">Aby se vám zobrazovala oznámení o nových zprávách ve sdílené poštovní schránce, je potřeba otevřít sdílenou poštovní schránku v samostatném okně prohlížeče.</span><span class="sxs-lookup"><span data-stu-id="d89fc-105">To receive new message notifications for the shared mailbox, you need to open the shared mailbox in a separate browser window.</span></span> <span data-ttu-id="d89fc-106">Další informace najdete v tématu [Otevření a používání sdílené poštovní schránky v Outlook Web Appu](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span><span class="sxs-lookup"><span data-stu-id="d89fc-106">For more information, see [Open and use a shared mailbox in Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span></span>
+<span data-ttu-id="93859-104">**Poznámka:** Správce Microsoftu 365 musí vytvořit sdílenou poštovní schránku a přidat vás jako člena.</span><span class="sxs-lookup"><span data-stu-id="93859-104">**Note**: Your Microsoft 365 admin needs to create the shared mailbox and add you as a member.</span></span>
+
+<span data-ttu-id="93859-105">Další informace o tom, jak otevřít a používat sdílenou poštovní schránku, najdete v následujících tématech:</span><span class="sxs-lookup"><span data-stu-id="93859-105">See the following to learn how to open and use the shared mailbox:</span></span>
+
+- [<span data-ttu-id="93859-106">Přidání sdílené poštovní schránky do Outlooku na webu</span><span class="sxs-lookup"><span data-stu-id="93859-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [<span data-ttu-id="93859-107">Otevření a použití sdílené poštovní schránky v Outlooku pro Windows</span><span class="sxs-lookup"><span data-stu-id="93859-107">Open and use a shared mailbox in Outlook for Windows</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [<span data-ttu-id="93859-108">Otevření sdílené složky nebo poštovní schránky v Outlooku for Mac</span><span class="sxs-lookup"><span data-stu-id="93859-108">Open a shared folder or mailbox in Outlook for Mac</span></span>](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [<span data-ttu-id="93859-109">Přidání sdílené poštovní schránky do Outlooku mobile (Outlook pro iOS & Android)</span><span class="sxs-lookup"><span data-stu-id="93859-109">Add a shared mailbox to Outlook mobile (Outlook for iOS & Android)</span></span>](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)
