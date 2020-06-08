@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 25b5bace169fd2de0d3e2d59e9ae2aaa987eacd0
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
-ms.translationtype: HT
+ms.openlocfilehash: f463e6da68f728f02bedc5e9613857d9f53f0cbd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154223"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44064186"
 ---
 # <a name="unable-to-access-my-account"></a>Nejde mi přihlásit se k účtu
 
@@ -24,12 +24,14 @@ Pokud vám vypršela platnost předplatného nebo ho zakázal Microsoft nebo pok
 
 **Opětovná aktivace předplatného**
 
-1. V Centru pro správu přejděte na stránku **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. V Centru pro správu **Billing**přejděte na  >  stránku**[Fakturace vašich produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Na stránce Produkty a služby najděte předplatné, které chcete znovu aktivovat.
+2. Najděte předplatné, které chcete znovu aktivovat.
 
-3. V části Fakturace klikněte na **Znovu aktivovat**.  Pokud se nacházíte v zobrazení Karty, klikněte na tři tečky mezi možnostmi Název a Dostupné množství a v nabídce vyberte Znovu aktivovat. **Poznámka**: Pokud nevidíte předplatné, které hledáte, budete možná muset v horní části obrazovky upravit filtr Stav předplatného na možnost **Vše**.
+3. V části **Fakturace** klikněte na **Znovu aktivovat**. Pokud se účastníte zobrazení **Karty,** klepněte na tři tečky mezi **názvem** a **dostupným množstvím** a zvolte **Znovu aktivovat** z nabídky.
+
+**Poznámka**: Pokud nevidíte předplatné, které hledáte, budete možná muset v horní části obrazovky upravit filtr **Stav předplatného** na možnost **Vše**.
 
 4. Zadejte platební údaje a aktualizujte tak svoje stávající platební údaje. Až dokončíte zadávání způsobu platby, klikněte na **Znovu aktivovat**.
 
-Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

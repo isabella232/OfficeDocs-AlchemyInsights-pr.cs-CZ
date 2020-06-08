@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 10d57dea43a08dcdec334b7c8e37dce05e6460fc
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784000"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417993"
 ---
 # <a name="activate-your-subscription"></a>Aktivujte si předplatné
 
 **Aktivace předplatného**
 
-- Pokud chcete uživatelům poskytnout přístup ke službě, přiřaďte jim licenci. Pokyny k přiřazování licencí najdete v tématu [Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+- Pokud chcete uživatelům poskytnout přístup ke službě, přiřaďte jim licenci. Pokyny k přiřazování licencí najdete v tématu [Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 - Pokud už máte přiřazenou licenci, můžete vyhledat aplikace, které si můžete stáhnout ze stránky [Můj účet](https://portal.office.com/account/#installs). Na této stránce najdete seznam aplikací, které si můžete na základě přiřazených licencí stáhnout.
 
@@ -32,13 +32,13 @@ ms.locfileid: "43784000"
 
 Pokud vám vypršela platnost předplatného nebo ho zablokoval Microsoft nebo pokud jste předplatné zrušili v průběhu doby jeho platnosti, můžete si ho znovu aktivovat v Centru pro správu Microsoftu 365.
 
-- V Centru pro správu Microsoftu 365 přejděte na stránku [Předplatná](https://go.microsoft.com/fwlink/p/?linkid=842054) (nebo klikněte na **Fakturace > Předplatná**).
+- V Centru pro správu Microsoftu 365 přejděte na **Billing**  >  stránku**[Fakturace produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-- Zvolte předplatné, jehož platnost chcete znovu aktivovat, a potom klikněte na **Znovu aktivovat**. Pokud akce **Znovu aktivovat** není dostupná, [kontaktujte podporu](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b) a požádejte o opětovnou aktivaci předplatného.
+- Zvolte předplatné, jehož platnost chcete znovu aktivovat, a potom klikněte na **Znovu aktivovat**. Pokud akce **Znovu aktivovat** není dostupná, [kontaktujte podporu](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) a požádejte o opětovnou aktivaci předplatného.
 
-- Zadejte svoje platební údaje. Můžete tady také [aktualizovat svoje stávající platební údaje](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+- Zadejte svoje platební údaje. Můžete tady také [aktualizovat svoje stávající platební údaje](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Aktivace nového předplatného pomocí kódu Product Key**
 

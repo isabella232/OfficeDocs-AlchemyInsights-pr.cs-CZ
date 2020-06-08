@@ -1,5 +1,5 @@
 ---
-title: Zpráva aplikací Office – Produkty, nalezené ve vašem účtu, nelze použít k aktivaci
+title: Zpráva o aplikacích Microsoft 365 – produkty, které jsme našli ve vašem účtu, nelze použít k aktivaci
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 7eb169dd74d647f196ca2dd93652bf5d970d68d1
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010715"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581608"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Zpráva aplikací Office – Produkty, nalezené ve vašem účtu, nelze použít k aktivaci
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Zpráva o aplikacích Microsoft 365 – produkty, které jsme našli ve vašem účtu, nelze použít k aktivaci
 
 - Zkontrolujte, jestli je [stav předplatného](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) platný a jestli má uživatel, kterého se problém týká, [přiřazenou platnou licenci](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) a je připojený k internetu. 
 
@@ -26,7 +26,7 @@ ms.locfileid: "44010715"
 
 - Spusťte [Poradce při potížích s aktivací](https://aka.ms/SARA-OfficeActivation-Alchemy) a restartujte počítač.
 
-- Na dotyčném počítači [resetujte stav aktivace Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Na dotyčném počítači [resetujte stav aktivace Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Informace o situacích se sdílenými počítači najdete v tématu [Řešení potíží s aktivací Microsoft 365 Apps pro sdílené počítače](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 

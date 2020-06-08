@@ -11,23 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: aca228c2010b3e3497d75b46a231aa404e4dd324
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: HT
+ms.openlocfilehash: db2a906d9881b2209abbfcffb45e9edbfd9e4ab1
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599311"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44062745"
 ---
 # <a name="purchase-visio-subscription"></a>Nákup předplatného Visia
 
-Správci můžou předplatné Visia pro svou organizaci koupit v **Centru pro správu Microsoftu 365**.
+Správci si můžou zakoupit předplatné aplikace Visio pro svou organizaci v Centru pro **správu Microsoftu 365**.
 
-1. Klikněte na **Fakturace**.
+1. Přejděte na stránku **Služby fakturace**  >  **[nákupu](https://go.microsoft.com/fwlink/p/?linkid=868433)** a zobrazte dostupná předplatná k nákupu pro vaši organizaci.
 
-2. Kliknutím na **[Koupit služby](https://go.microsoft.com/fwlink/p/?linkid=868433)** si zobrazte předplatná, která můžete koupit své organizaci.
+2. Vyhledejte „Visio“ a najděte si příslušná předplatná.
 
-3. Vyhledejte „Visio“ a najděte si příslušná předplatná.
+3. Vyberte buď **Visio Plan 1**, nebo **Visio Plan 2**. Obě předplatná nabízejí měsíční nebo roční variantu.
 
-4. Vyberte buď **Visio Plan 1**, nebo **Visio Plan 2**. Obě předplatná nabízejí měsíční nebo roční variantu.
-
-Na stránce [Porovnání možností Visia](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) najdete další informace o rozdílech mezi předplatnými Visio Plan 1 a Visio Plan 2. 
+Na stránce [Porovnání možností Visia](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) najdete další informace o rozdílech mezi předplatnými Visio Plan 1 a Visio Plan 2.

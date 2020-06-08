@@ -1,5 +1,5 @@
 ---
-title: Oznámení typu Nepodařilo se ověřit předplatné v aplikacích Office
+title: Nepodařilo se ověřit oznámení o předplatném v aplikacích Microsoft 365.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: 95045bbcc096323fff551acbb2c25868b420467f
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: f2ee65f74bef00c25af7d89608ab23f7a76bbf6d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788767"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580398"
 ---
-# <a name="couldnt-verify-subscription-notice-in-office-apps"></a>Oznámení typu „Nepodařilo se ověřit předplatné v aplikacích Office“
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Oznámení o předplatném nelze ověřit v aplikacích Microsoft 365
 
 - Zkontrolujte, jestli je [stav předplatného](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) platný a jestli má uživatel, kterého se problém týká, [přiřazenou platnou licenci](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) a je připojený k internetu.
 
@@ -28,7 +28,7 @@ ms.locfileid: "43788767"
 
 - Spusťte [Poradce při potížích s aktivací](https://aka.ms/SARA-OfficeActivation-Alchemy) a restartujte počítač.
 
-- Na dotyčném počítači [resetujte stav aktivace Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Na dotyčném počítači [resetujte stav aktivace Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Podrobné pokyny: 
 

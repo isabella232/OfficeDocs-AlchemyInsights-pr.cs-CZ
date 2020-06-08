@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
-ms.translationtype: HT
+ms.openlocfilehash: ee5f1ea743de64d5c367753a1ab1b5e058c13076
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286492"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44061845"
 ---
 # <a name="apply-for-tax-exempt-status"></a>Žádost o statut osvobození od daně
 
-Připravte si prosím následující dokumenty. Ke zřízení statutu osvobození od daně musíte [vytvořit žádost os lužbu](https://docs.microsoft.com/office365/admin/contact-support-for-business-products).
+Připravte si prosím následující dokumenty. Ke zřízení statutu osvobození od daně musíte [vytvořit žádost os lužbu](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).
 
 - **Spojené státy:** Připravte si prosím doklad **Sales Tax Exemption Certificate**.
 
@@ -32,4 +32,4 @@ Připravte si prosím následující dokumenty. Ke zřízení statutu osvobozen�
 
 - **Portoriko:** Připravte si prosím doklad **Certificado de Compras Exentas**.
 
-Další informace najdete v tématu věnovaném [daňovým informacím](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide).
+Další informace najdete v tématu věnovaném [daňovým informacím](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).

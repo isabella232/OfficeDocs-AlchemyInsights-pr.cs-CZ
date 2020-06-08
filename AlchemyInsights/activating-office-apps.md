@@ -1,5 +1,5 @@
 ---
-title: Aktivace aplikací Office
+title: Aktivace aplikací Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 757366de236d84ad67cbef892abb241dd48aa2c5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682510"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581404"
 ---
-# <a name="activating-office-apps"></a>Aktivace aplikací Office
+# <a name="activating-microsoft-365-apps"></a>Aktivace aplikací Microsoft 365
 
 Informace o aktivaci Office získáte tady:
 
@@ -28,11 +28,12 @@ Informace o aktivaci Office získáte tady:
 
 Informace o postupu řešení problémů s aktivací Office získáte tady:
 
+- Spusťte [Poradce při potížích s aktivací](https://aka.ms/SARA-OfficeActivation-Alchemy) a restartujte počítač.
 - [Chyby typu Nelicencovaný produkt a chyby aktivace v Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Co zkusit, když se vám nedaří instalace nebo aktivace Office pro Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Pokud jste v poslední době změnili účty nebo přešli na jiné předplatné Office, postupujte při řešení problémů s aktivací podle následujících kroků:
+Pokud se nemůžete přihlásit k aplikacím Microsoft 365, postupujte takto:
 
 1. Otevřete aplikaci Office a [odhlaste se](https://go.microsoft.com/fwlink/?linkid=2114082) od všech existujících uživatelských účtů.
 

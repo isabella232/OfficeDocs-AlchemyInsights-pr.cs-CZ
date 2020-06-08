@@ -13,15 +13,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2342ef1c2b00ff8e22e05faaf45f0dcc2cebbe41
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682069"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163810"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a>Otevření a používání sdílené poštovní schránky v Outlooku na webu
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a>Otevření a použití sdílené poštovní schránky v Outlooku
 
-Sdílené poštovní schránky, ke kterým máte přístup, se v Outlooku na webu (dříve Outlook Web App) nezobrazí automaticky.
+Sdílené poštovní schránky umožňují skupině lidí sledovat a odesílat e-maily ze společné e-mailové adresy. 
 
-Sdílenou poštovní schránku a svou primární poštovní schránku si můžete zobrazit dohromady anebo můžete sdílenou poštovní schránku otevřít v samostatném okně prohlížeče. Aby se vám zobrazovala oznámení o nových zprávách ve sdílené poštovní schránce, je potřeba otevřít sdílenou poštovní schránku v samostatném okně prohlížeče. Další informace najdete v tématu [Otevření a používání sdílené poštovní schránky v Outlook Web Appu](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).
+**Poznámka:** Správce Microsoftu 365 musí vytvořit sdílenou poštovní schránku a přidat vás jako člena.
+
+Další informace o tom, jak otevřít a používat sdílenou poštovní schránku, najdete v následujících tématech:
+
+- [Přidání sdílené poštovní schránky do Outlooku na webu](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [Otevření a použití sdílené poštovní schránky v Outlooku pro Windows](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [Otevření sdílené složky nebo poštovní schránky v Outlooku for Mac](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [Přidání sdílené poštovní schránky do Outlooku mobile (Outlook pro iOS & Android)](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)

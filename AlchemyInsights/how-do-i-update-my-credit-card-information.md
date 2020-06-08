@@ -13,23 +13,19 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 1ff40dad69c2bf30d56118065eecc83e91b79be1
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 83932ba5857df7bd65a5544a7dde8be5cdd58ccd
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787903"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225261"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>Jak můžu aktualizovat informace o platební kartě?
 
-1. V Centru pro správu Microsoftu 365 přejděte na stránku **Fakturace** \> [Způsoby platby](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V Centru pro správu přejděte na stránku **Fakturační**  >  **účty &**  >  [platebních metod.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+2. Vyberte řádek způsobu platby, který chcete aktualizovat. V pravém podokně vyberte **Upravit**.
+3. Aktualizujte informace o způsobu platby, včetně jména na kreditní nebo debetní kartě, fakturační adresy nebo data vypršení platnosti, a pak vyberte **Uložit**.
 
-2. Na stránce **Způsoby platby** vyberte platební kartu nebo bankovní účet, který chcete aktualizovat.
-
-3. Pokud chcete změnit údaje o platební kartě nebo bankovním účtu, vyberte **Upravit podrobnosti platby**.
-
-4. Podle potřeby aktualizujte údaje o platební kartě nebo bankovním účtu (jméno na platební kartě nebo u bankovního účtu, fakturační adresu, telefonní číslo nebo datum vypršení platnosti) a pak vyberte **Uložit** > **Hotovo**.
-
-Další informace najdete v článku [Přidání, aktualizace nebo odebrání platební karty nebo bankovního účtu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Další informace najdete v [tématu Správa platebních metod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Poznámka**: Pokud předplatné koupil jiný správce, nebudete u něj moct údaje o platební kartě nebo bankovním účtu aktualizovat. Pokud se blíží konec platnosti platební karty a tento jiný správce nemůže údaje aktualizovat, zabráníte přerušení poskytování služeb tak, že k předplatnému přidáte jinou platební kartu nebo nový bankovní účet.

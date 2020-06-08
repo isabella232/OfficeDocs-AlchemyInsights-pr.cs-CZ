@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 88b754a45fe80804bfd4784bc0552499fb0371e7
-ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
-ms.translationtype: HT
+ms.openlocfilehash: 986e625e4b7ec5615d2b19927749e5efc627f691
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43160964"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225124"
 ---
 # <a name="your-payment-was-declined"></a>Vaše platba byla zamítnuta
 
@@ -24,20 +24,31 @@ ms.locfileid: "43160964"
 
 **Důležité**: Pokud jste přidali novou kartu a stále se vám zobrazuje upozornění na odmítnutí staré platební karty, bude možná potřeba tuto novou kartu přiřadit k předplatnému.
 
-1. Přejděte do části **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+**Nahradit způsob platby pro všechny položky**
 
-2. Vyberte předplatné, které chcete zaplatit novou kartou nebo bankovním účtem. V části **Fakturace** vedle způsobu platby klikněte na **Upravit**.
+1. V Centru pro správu přejděte na stránku **Fakturační**  >  **účty &**  >  [platebních metod.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
 
-3. Vedle aktuálního způsobu platby klikněte na **Změnit**.
+2. Vyberte řádek způsobu platby, který chcete nahradit. V pravém podokně jsou uvedeny všechny fakturační profily a jednotlivá předplatná, která používají vybraný způsob platby.
 
-4. V rozevírací nabídce vyberte alternativní způsob platby nebo přidejte nový způsob platby.
+3. V pravém podokně vyberte **Nahradit způsob platby pro všechny položky**.
 
-**Aktualizace způsobu platby nebo přidání nového způsobu**
+4. Chcete-li použít existující způsob platby, vyberte jeden z rozevíracího seznamu a pak vyberte **Nahradit**.
 
-1. Přejděte na stránku **Fakturace > Účty a platby > [Způsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+    > [!NOTE]
+    > Pokud máte předplatná přidružená k fakturačnímu profilu, můžete k jejich platbě použít jenom kreditní nebo debetní kartu. Pokud máte bankovní účty uvedené na stránce **Způsoby platby,** nejsou v rozevíracím seznamu k dispozici pro výběr.
 
-2. Klikněte na **Přidat způsob platby**, vyberte kartu nebo bankovní účet k aktualizaci a klikněte na **Upravit**.
+5. Pokud chcete přidat nový způsob platby, vyberte **Přidat způsob platby**.
 
-3. Aktualizujte údaje o způsobu platby (jméno na kartě nebo na bankovním účtu, fakturační adresu, telefonní číslo nebo datum vypršení platnosti) a pak klikněte na **Uložit**.
+6. V podokně **Přidat způsob platby** zadejte informace o účtu a pak vyberte **Uložit**. Musíte použít způsob platby ze stejné země jako váš nájemce.
 
-4. Nezapomeňte změnit způsob platby za předplatná na nový způsob platby. Další informace najdete v tématu [Přidání, aktualizace nebo odebrání způsobu platby](https://go.microsoft.com/fwlink/?linkid=2118133). 
+7. Nový způsob platby je již vybrán v rozevíracím seznamu. Vyberte **Nahradit**.
+
+**Aktualizovat podrobnosti způsobu platby**
+
+1. V Centru pro správu přejděte na stránku **Fakturační**  >  **účty &**  >  [platebních metod.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+
+2. Vyberte řádek způsobu platby, který chcete aktualizovat. V pravém podokně vyberte **Upravit**.
+
+3. Aktualizujte informace o způsobu platby, včetně jména na kreditní nebo debetní kartě, fakturační adresy nebo data vypršení platnosti, a pak vyberte **Uložit**.
+
+Další informace najdete v [tématu Správa platebních metod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

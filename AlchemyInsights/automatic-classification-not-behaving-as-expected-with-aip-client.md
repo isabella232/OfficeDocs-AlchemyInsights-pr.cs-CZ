@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 8c79ab50e7ddbda0cf61eb9a95279f6c42cc515c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508369"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581188"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Automatická klasifikace se u klienta AIP nechová očekávaným způsobem
 
@@ -26,7 +26,7 @@ Automatická klasifikace se nechová podle očekávání, použijte následujíc
 2. Zkontrolujte, jestli používáte zásady s vymezeným oborem, které nejsou správně nakonfigurovány: [Jak nakonfigurovat zásady Ochrany informací Azure pro konkrétní uživatele pomocí zásad s vymezeným oborem](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. Pokud automatické popisování nefunguje pro Aplikaci Outlook při připojování dokumentu s popiskem, ověřte, že `DRMEncryptProperty` není definován, jak je popsáno zde: [Nastavení registru IRM pro zabezpečení](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Pokud jste pro zásady ochrany informací Azure použili [předdefinované typy informací,](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) ověřte, zda obsah odpovídá očekávanému formátu.
-5. Ověřte, zda je popisek správně nakonfigurován pro **možnost Automatické** nebo **Doporučené**. **(Automatické** označování je k dispozici pro všechny aplikace Office, zatímco **doporučené** je k dispozici pro všechny aplikace Office s výjimkou Outlooku.)
+5. Ověřte, zda je popisek správně nakonfigurován pro **možnost Automatické** nebo **Doporučené**. **(Automatické** označování je k dispozici pro všechny aplikace Microsoft 365, zatímco **doporučené** je k dispozici pro všechny aplikace Microsoft 365 s výjimkou aplikace Outlook.)
 6. Pro dokumenty a e-maily, které byly dříve ručně označeny nebo dříve automaticky označeny vyšší klasifikací, nelze použít automatickou klasifikaci.  Další informace naleznete v tématu: [Způsob použití automatických nebo doporučených popisků](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
 7. Pokud stále dochází k problémům, shromažďovat protokoly klientů Azure Information Protection a připojit exportované protokoly k lístku podpory. Export protokolů Azure Information Protection:
     - Otevřete dokument Office nebo vytvořte nový e-mail v Outlooku.

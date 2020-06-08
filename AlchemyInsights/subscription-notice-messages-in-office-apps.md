@@ -1,5 +1,5 @@
 ---
-title: Oznamovací zprávy předplatného v aplikacích Office
+title: Oznámení o předplatném v aplikacích Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1907"
-ms.openlocfilehash: 12ffe590e9ca6326a48fce94d685b10f63d51b2f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 1e70dc0f8b4ba420c09936cf440d619ccebd2c20
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789187"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582300"
 ---
-# <a name="subscription-notice-messages-in-office-apps"></a>Oznamovací zprávy předplatného v aplikacích Office
+# <a name="subscription-notice-messages-in-microsoft-365-apps"></a>Oznámení o předplatném v aplikacích Microsoft 365
 
 - Pokud byl Office předinstalovaný na novém zařízení, s jeho aktivací vám pomůže článek [Aktivace Office](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43789187"
 
 - Spusťte [Poradce při potížích s aktivací](https://aka.ms/SARA-OfficeActivation-Alchemy) a restartujte počítač.
 
-- Na dotyčném počítači [resetujte stav aktivace Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- Na dotyčném počítači [resetujte stav aktivace Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Podrobné pokyny: 
 

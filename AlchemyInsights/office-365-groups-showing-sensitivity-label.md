@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4803"
-ms.openlocfilehash: 9aea00b8239ed126cd56385cc6265fc15466db30
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: d8cd49eae557536d67a7d3a0798984b35c5be40e
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911860"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581720"
 ---
 # <a name="microsoft-365-groups-showing-sensitivity-label"></a>Zobrazený popisek citlivosti u skupin Microsoft 365
 
 U skupiny Microsoft 365 můžete narazit na následující potíže:
 
-- Skupinu Microsoft 365 není možné vytvořit z webové aplikace Outlook, s chybou „Pole klasifikace nemůže být prázdné“.
+- Nelze vytvořit skupinu Microsoft 365 z aplikace OWA s chybou "Pole klasifikace nemůže být prázdné".
 
 - U skupin Microsoft 365 se zobrazuje popisek citlivosti, i když jste tuto funkci nepovolili.
 

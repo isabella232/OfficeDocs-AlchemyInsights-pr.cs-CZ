@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 98cc12012c270b85ff2c6437e3fdd3d589ee1bf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010175"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580182"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Oprava – „Aktuálně nemáte přiřazenou licenci Office“
 
@@ -24,7 +24,7 @@ Když si chcete nainstalovat klientské aplikace Office, ujistěte se, že máte
 
 **Poznámka:** [Office pro domácnosti a podnikatele](https://products.office.com/home-and-business) je součástí produktu [Office pro domácnosti](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) a nikoli součástí předplatného pro firmy. Project Online Essentials nezahrnuje desktopovou verzi Projectu, takže není nutná žádná instalace. Visio Online (Plán 1) neobsahuje desktopovou verzi aplikace, uživatelé mají přístup k Visiu na webu. Desktopové aplikace Project a Visio nejsou dostupné pro počítače Mac
 
-Pokud máte předplatné, které zahrnuje aplikace Office, možnost instalace neuvidíte, dokud nebudete mít [přiřazenou licenci](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Pokud jste správcem Office 365 zodpovědným za přiřazování licencí, přečtěte si článek, který se zabývá [přiřazováním licencí uživatelům](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Pokud máte předplatné, které obsahuje aplikace Microsoft 365, možnost jeho instalace se nezobrazí, pokud nemáte [přiřazenou licenci](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Pokud jste správcem Office 365 zodpovědným za přiřazování licencí, přečtěte si článek, který se zabývá [přiřazováním licencí uživatelům](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 Požádejte každého uživatele, aby udělal toto:
 

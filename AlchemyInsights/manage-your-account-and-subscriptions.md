@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
-ms.translationtype: HT
+ms.openlocfilehash: cc48ba0409eedd4e00cdc18de710663c85efa0cd
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102544"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418101"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Správa účtu a předplatných
 
@@ -33,13 +33,13 @@ ms.locfileid: "43102544"
 
 - [Vzdálená výuka v Office 365 Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**V Centru pro správu Microsoftu 365 můžete provést tyto akce:** 
+**V Centru pro správu Microsoftu 365 můžete:** 
 
 - [Zobrazení faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
 - [Vysvětlení informací na faktuře](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [Přidání, aktualizace nebo odebrání způsobu platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [Správa platebních metod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Správa předplatných a licencí** 
 

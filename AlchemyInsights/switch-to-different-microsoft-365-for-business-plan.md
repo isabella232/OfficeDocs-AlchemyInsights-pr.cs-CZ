@@ -17,12 +17,12 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: a0a9c43fe163fd8bbb45181394d3fcbba9d082f7
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
-ms.translationtype: HT
+ms.openlocfilehash: 21475c335e30bcaf5b08557c793a62fbf9b5fdf3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957971"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44064314"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>Přechod na jiný plán Microsoft 365 pro firmy
 
@@ -32,4 +32,4 @@ Změnu plánů můžete provést v Centru pro správu Microsoftu 365.
 
 - V některých situacích je k dispozici tlačítko [Přejít na jiný plán](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button), které vás procesem změny plánů provede.
 
-Další informace najdete v článku o přechodu na jiný [plán Microsoft 365 pro firmy](https://docs.microsoft.com/cs-CZ/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+Další informace najdete v článku o přechodu na jiný [plán Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).

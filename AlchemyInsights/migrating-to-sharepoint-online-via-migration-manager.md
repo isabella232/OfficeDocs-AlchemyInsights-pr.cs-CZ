@@ -11,21 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: HT
+ms.openlocfilehash: 0f4386d7981217143806c557ecac6bc40f973105
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552715"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268729"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Migrace do SharePointu Online pomocí Správce migrace
-
-**Správce migrace**
 
 V moderním centru pro správu SharePointu vám Správce migrace pomůže s nastavením vašich klientů a vytvořením úkolů. Můžete určit nastavení globálního nebo podřízeného úkolu, zobrazit průběh celého úkolu a stáhnout agregované sestavy souhrnů a úkolů.
 
 - [Začínáme se správcem migrace](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-
-- [Nastavení klientů správce migrace](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-
-- [Nastavení správce migrace](https://docs.microsoft.com/sharepointmigration/mm-settings)

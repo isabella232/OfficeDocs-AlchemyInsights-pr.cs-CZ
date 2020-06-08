@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: c1d21fb59da298c99bda8a685cb7128077349c6d
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+- "9000191"
+- "3050"
+ms.openlocfilehash: 2a4e9f9b723443d0879dedb06fb35e17f0a5e95f
+ms.sourcegitcommit: ed65b545ea3abf05fdc71a5167aaaab033063209
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182404"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44250212"
 ---
 # <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Sestava sdílení souborů a složek na sharepointovém webu
 
-Můžete vytvořit soubor CSV se všemi jedinečnými soubory, uživateli, oprávněními a odkazy pro konkrétní sharepointový web nebo knihovnu OneDrivu. Pomůže vám to pochopit, jak se sdílení využívá a jestli se některé soubory nebo složky sdílejí s hosty. Další informace najdete v tématu [Sestava sdílení souborů a složek na sharepointovém webu](https://docs.microsoft.com/sharepoint/sharing-reports).
+Můžete vytvořit soubor CSV se všemi jedinečnými soubory, uživateli, oprávněními a odkazy pro konkrétní sharepointový web nebo knihovnu OneDrivu. To vám pomůže pochopit, jak se sdílení používá a zda jsou některé soubory nebo složky sdíleny s hosty. Další informace najdete v tématu [Sestava sdílení souborů a složek na sharepointovém webu](https://docs.microsoft.com/sharepoint/sharing-reports).
