@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44617960"
+ms.locfileid: "44664239"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Chyba: Pravidla v tomto počítači se neshodují
 
@@ -28,3 +28,4 @@ Dokud nebude oprava k dispozici, použijte následující řešení:
 **Řešení:** V posledních sestavách došlo k problému u těch, kteří vytvořili pouze pravidla klienta na ploše aplikace Outlook. Pokud se na problém nadále navážáte, zvažte odstranění pravidel a potom vytvořte a upravte pravidla jenom v aplikaci OWA (Outlook Web App), dokud se problém nevyřeší.
 
 Pokud nemůžete odstranit pravidla ručně, můžete spustit příkaz aplikace Outlook při spuštění aplikace Outlook.exe /cleanrules. Tím odstraníte pravidla klienta i serveru. Odstraní všechna pravidla pro všechny účty v profilu aplikace Outlook. Tento příkaz je dále dokumentován v článku přepínače příkazového řádku.
+
