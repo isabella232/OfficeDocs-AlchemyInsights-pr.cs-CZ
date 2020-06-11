@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021491"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702199"
 ---
 # <a name="teams-outlook-add-in"></a>Doplněk Teams Outlook
 
-Existuje několik faktorů, které by mohly způsobit, že se váš doplněk Teams nezobrazí, a všechny jsou [uvedeny zde](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Chcete-li vyřešit problém s chybějícím doplňkem aplikace Teams Outlook, nejprve spusťte diagnostiku služby zde na portálu pro správu.  Pokud diagnostika služby neoznačuje žádné problémy, pokračujte stažením a **spuštěním scénáře doplňku Aplikace Microsoft** [Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) Teams v ohrožených uživatelských počítačích, který diagnostikuje a opravuje všechny problémy s klientem.
 
-**Doporučujeme nejprve zkontrolovat, zda doplněk není zakázán:**
-
-- V Outlooku klikněte na **Soubor** a potom na **Možnosti**.
-- V dialogovém okně **Možnosti aplikace Outlook** vyberte kartu **Doplňky.**
-- Zkontrolujte, zda je **doplněk Microsoft Teams Meeting pro sadu Microsoft Office** uveden v seznamu doplňků aktivních **aplikací.**
-- Pokud je doplněk Týmová schůzka uveden v seznamu **Zakázané doplňky aplikací,** vyberte **doplňky com** v **části Správa** a klikněte na **Přejít...**
-- Zaškrtněte políčko vedle **doplňku Microsoft Teams Meeting pro microsoft office**.
-- Ve všech dialogových oknech klikněte na **OK** a restartujte Outlook.
+Chcete-li problém vyřešit ručně, přečtěte si seznam potenciálních faktorů, které by mohly způsobit, že se doplněk Teams nezobrazuje [zde](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
