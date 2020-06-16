@@ -1,5 +1,5 @@
 ---
-title: stejný jako název souboru je nejlepší
+title: stejné jako název souboru je nejlepší
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -11,30 +11,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676526"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750963"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Povinné alchymie Záhlaví H1, H2 nefungují.
-Osvědčené postupy a pokyny pro vytváření alchymie:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Požadované Alchymie Záhlaví H1, H2 nefungují."
+Doporučené postupy a pokyny pro vytváření alchymie:
 
-1. **Nevnořujte Alchemy Insights do složek**- to zlomí strukturu url. Hledáme, jak to napravit.
-1. Soubory ve složce **AlchemyInsights** by měly mít názvy souborů s nižšími písmeny s pomlčkami pro mezery ex. ***jak povolit soudní spory***.
-    1. Do pole ms.custom zahrňte ID pravidla nebo id bloku z [portálu Partnera alchymie.](https://alchemyportal.azurewebsites.net) Ex. ***ms.custom: 100021***
-1. Zbytek metadat v horní části tohoto souboru použijte jako šablonu.
-1. Na [portálu Alchemy Partner](https://alchemyportal.azurewebsites.net)přejděte dolů do části **Název přehledu zákazníků:** a použijte ji jako výchozí bod pro váš titul H1 pro přehled. 
+1. **Nehnožte Alchymie Insights ve složkách**- to zlomí strukturu url. Prověřujeme, jak to napravit.
+1. Soubory ve složce **AlchymieInsights** by měly mít názvy souborů s malými písmeny s pomlčkami pro mezery ex. ***jak povolit blokování soudních sporů***.
+    1. Do pole ms.custom zahrňte ID pravidla nebo ID bloku z [portálu Alchymie Partner.](https://alchemyportal.azurewebsites.net) Ex. ***ms.custom: 100021***
+1. Jako šablonu použijte zbývající metadata v horní části tohoto souboru.
+1. Na [portálu Alchemy Partner](https://alchemyportal.azurewebsites.net)přejděte do části **Název customer insightu a** použijte ji jako výchozí bod pro titul H1 pro přehled. 
     > [!NOTE]
-    > Alchymie Insights musí mít pouze jeden H1 na vrcholu, nebo se zlomí ve výrobě. H2s nevykreslují tak použít **tučné** nebo jiné konvence znamenat samostatné oddíly.
-1. Dále vyplňte základní text pomocí konceptového materiálu v části Přehledy zákazníků na stránce Pravidlo alchymie.
+    > Alchymie Insights musí mít pouze jeden H1 na vrcholu, nebo se zlomí ve výrobě. H2s nevykreslují buď tak použít **tučné** nebo jiné konvence znamenat samostatné oddíly.
+1. Dále vyplňte základní text pomocí materiálu konceptu v části Customer Insights na stránce Pravidlo alchymie.
     1. Seznamy s odrážkami jsou v pořádku
     1. Také číslované seznamy
-    1. **Tučné** a *kurzíva* jsou-ok
-    1. Odkazy by měly být vždy buď **"odkazy na web"/ externí** NEBO **hluboké odkazy na prvky uživatelského rozhraní**, nikoli interní odkazy.
-    1. Obrázky nejsou oficiálně podporovány v tomto okamžiku, ale je to na plánu.
+    1. **Tučné** a *kurzíva* jsou a-ok
+    1. Odkazy by měly být vždy buď **"odkazy na web" / externí** nebo **hluboké odkazy na prvky uživatelského rozhraní**, nikoli interní odkazy.
+    1. Obrázky nejsou v tuto chvíli oficiálně podporovány, ale jsou v plánu.
 
-A to je opravdu už trochu příliš dlouho. Osvědčeným postupem je asi 400 znaků ---------------------------------
+A to už je opravdu trochu moc dlouhé. Osvědčeným postupem je asi 400 znaků ---------------------------------
 
-Jakmile je obsah připraven, přetáhněte jej do živé větve. Potom přejděte na [portál Partnera alchymie](https://alchemyportal.azurewebsites.net) a zadejte název souboru do pole url. 
+Jakmile je obsah připraven, vytáhněte jej do živé větve. Potom přejděte na [portál Alchymie Partner](https://alchemyportal.azurewebsites.net) a zadejte název souboru do pole url. 
