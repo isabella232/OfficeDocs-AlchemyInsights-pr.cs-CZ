@@ -13,15 +13,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 0fcb5552bc072cf3647e32e663ec7681212dc599
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0ed8826ec8b6d867f22abbc2cd33776e8db271ab
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506148"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840902"
 ---
-# <a name="calendar-publishing-information"></a>Informace o publikování kalendáře
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Povolení sdílení kalendáře pomocí Centra pro správu Microsoftu 365
 
-- Správci Microsoftu 365 můžou povolit nebo zakázat publikování kalendáře a sdílení kalendáře pro organizaci. Další informace najdete v [tématu Zapnutí publikování kalendáře, aby uživatelé mohli sdílet informace](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) a [sdílet kalendáře s externími uživateli](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users).
+1. V Centru pro správu přejděte na **Settings**   >   **Nastavení nastavení organizace**.
+2. Na kartě **Služby** vyberte **Kalendář**.
+3. Na stránce **Kalendář,** která se otevře, zvolte, jestli chcete, aby uživatelé sdíleli své kalendáře s lidmi mimo vaši organizaci, kteří mají Microsoft 365 nebo Exchange.
+4. Zvolte, zda chcete anonymním uživatelům (uživatelům bez přihlašovacích pověření) povolit přístup ke kalendářům prostřednictvím e-mailové pozvánky.
+5. Zvolte, jaký typ informací kalendáře chcete uživatelům zpřístupnit. Můžete povolit všechny informace nebo je omezit pouze na čas nebo čas, předmět a umístění.
 
-- Uživatelé aplikace Outlook mohou sdílet své vlastní kalendáře. Další informace najdete v [tématu Sdílení kalendáře Outlooku s jinými uživateli](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).
+Další informace: [Sdílení kalendářů s externími uživateli](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
