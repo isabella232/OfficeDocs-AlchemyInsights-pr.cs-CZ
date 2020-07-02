@@ -1,5 +1,5 @@
 ---
-title: Nejčastější dotazy k skupinám od Microsoftu 365
+title: Nejčastější dotazy ke skupinám Microsoftu 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: 6d80a5f3ec4a63ec81ff73a720b183d4f2859d8a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: fa6b2a1984a1c0b01938cf6310933e44c04397b6
+ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357446"
+ms.lasthandoff: 06/30/2020
+ms.locfileid: "44931393"
 ---
-# <a name="microsoft-365-groups-faq"></a>Nejčastější dotazy k skupinám od Microsoftu 365
+# <a name="microsoft-365-groups-faq"></a>Nejčastější dotazy ke skupinám Microsoftu 365
 
-Nejčastější dotazy **[ke skupině microsoft 365](https://aka.ms/M365GroupsFAQ)** najdete u hlavních úkolů správce souvisejících se skupinami Microsoft 365.
+Nejčastější **[dotazy ke skupině Microsoft 365](https://aka.ms/M365GroupsFAQ)** najdete v nejčastějších úlohách správy souvisejících se skupinami Microsoft 365.
+
+- Problémy s tokem pošty
+- Správa e-mailových adres
+- Skripty pro export informací o členech skupiny
+- Odeslání a další delegování
+- Skupiny, které se nezobrazují nebo nejsou přístupné z klienta outlooku
