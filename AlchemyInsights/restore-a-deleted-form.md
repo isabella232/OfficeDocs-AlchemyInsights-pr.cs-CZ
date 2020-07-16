@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2547"
 - "9000672"
-ms.openlocfilehash: 185e8787454efc38f378cce6fd7bea06d453bc92
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 246c3b50df856c16ea5237adc43d2126bb5b48b9
+ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "41969311"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45148030"
 ---
 # <a name="restore-a-deleted-form"></a>Obnovení odstraněného formuláře
 
-Pokud jste formulář ve formulářích Microsoft upouštíte náhodou, můžete jej obnovit. Přihlaste se k formulářům Microsoft Jako vlastník odstraněného formuláře. Vyberte **koš**, pak vyberte formulář, který chcete obnovit, a vyberte **Obnovit**. Po obnovení vyberte šipku **stránky Zpět na mé formuláře.**
+Pokud jste omylem odstranili formulář ve formulářích Microsoft Forms, můžete jej obnovit. Přihlaste se k microsoft forms jako vlastník odstraněného formuláře. Vyberte **koš**, vyberte formulář, který chcete obnovit, a vyberte **Obnovit**. Po obnovení vyberte šipku **stránky Zpět na formuláře.**
 
-Obnovit jej může pouze vlastník formuláře. Pokud byl účet vlastníka formuláře z klienta zakázán nebo odebrán, může formulář obnovit pouze globální správce. Globální správce musí mít k provedení obnovení licenci formuláře. Lze obnovit pouze formuláře vytvořené do 30 dnů od vyřazení nebo odebrání uživatelského účtu z klienta.
+Pouze vlastník formuláře jej může obnovit. Pokud byl účet vlastníka formuláře zakázán nebo odebrán z klienta, může formulář obnovit pouze globální správce. Globální správce musí mít licenci formuláře k provedení obnovení. Obnovit lze pouze formuláře vytvořené do 30 dnů od zakázání nebo odebrání uživatelského účtu z klienta.
 
-Pokud jste globálním správcem klienta a chcete obnovit formulář z účtu, který byl odstraněn nebo zakázán, nahraďte [e-mailovou adresu] e-mailovou adresou odstraněného nebo zakázaného **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com**uživatele v následující adrese URL: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner=[e-mailová adresa]** Pokud je vaše e-mailová adresa johndoe@contoso.com, adresa URL by byla: . 
+Pokud jste globální správce klienta a chcete obnovit formulář z účtu, který byl odstraněn nebo zakázán, nahraďte [e-mailovou adresu] e-mailovou adresou odstraněného nebo zakázaného uživatele v následující adrese URL: ** https://forms.office.com/Pages/delegatepage.aspx?originalowner= [e-mailová adresa]** Pokud je vaše e-mailová adresa johndoe@contoso.com, adresa URL by byla: **https://forms.office.com/Pages/delegatepage.aspx?originalowner=johndoe@contoso.com** . 
 
-Jakmile budete mít přístup k odstraněným formulářům uživatele, vyberte formulář, který chcete přesunout, a vyberte **Další akce** > formuláře**Move**.
+Jakmile budete mít přístup k odstraněným formulářům uživatele, vyberte formulář, který chcete přesunout, a pak vyberte **Další akce formuláře**  >  **Přesunout**.
 
-Pokud chcete obnovit formulář, ve kterém byl odstraněn a uživatel byl odebrán z organizace, globální správce se může rozhodnout obnovit uživatele v Office 365, obnovit heslo pro tohoto uživatele a poté při přihlášení jako tento uživatel získat přístup k formuláři a přesunout jej do svého aktivního uživatele. 
+Pokud chcete obnovit formulář, ve kterém byl odstraněn a uživatel byl odebrán z organizace, globální správce může zvolit obnovení uživatele, obnovení hesla pro tohoto uživatele a potom při přihlášení jako tento uživatel, přístup k formuláři přesunout na jiného aktivního uživatele. 
