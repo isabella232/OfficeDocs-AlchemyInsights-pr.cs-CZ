@@ -19,16 +19,14 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 391ec22f692fd0264750ea3151fbc0da8f4269bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
+ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506292"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45169701"
 ---
 # <a name="business-subscription-faq"></a>Časté otázky k předplatným pro firmy
-
-Časté otázky k předplatným pro firmy a správě licencí:
 
 - Pokud chcete zobrazit možnosti Microsoft 365 pro firmy, přečtěte si téma [Porovnání plánů Business](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Další informace získáte na lince oddělení prodeje 1-855-270-0615.
 - Pokud si chcete **zakoupit** plán, přejděte na **Fakturace > [Koupit služby](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Vyberte plán a počet uživatelů. Další informace najdete v článku o [zakoupení předplatného](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
