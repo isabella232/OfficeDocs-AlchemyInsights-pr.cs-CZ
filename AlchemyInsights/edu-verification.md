@@ -11,17 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 7bb3a74137fd6c08165a882923087aac750c6fe4
-ms.sourcegitcommit: f573e83f6eddff471449c1c3f292ba23d139b972
+ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138751"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205260"
 ---
 # <a name="edu-verification"></a>Ověření EDU
 
-Dostanete e-mail s informacemi o tom, jestli způsobilost vaší organizace byla schválena.
+Ve většině případů jsou žádosti o způsobilost akademické obce zpracovány během 24-48 hodin. Některé žádosti mohou vyžadovat důkladnější kontrolu a zpracování může trvat až 10 pracovních dnů. Po dokončení vám zašleme e-mail se stavem vaší školy.
 
-V některých případech může být nutné počkat až 48 hodin na dokončení ověření služby DNS. Můžete kliknout na "Ověřím později" a vrátit se později a přihlásit se na portál Office 365; pak přejděte do ** [Centra pro správu](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/homepage) > Nastavení** a kliknutím na [Domény](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Domains) zkontrolujte položku stavu pro vaši doménu.
+**Důležité** Pokud jste průvodce ověřením před vstupem do domény ukončili, můžete [průvodce akademickým ověřením kdykoli](https://go.microsoft.com/fwlink/p/?linkid=2135255) během bezplatné zkušební verze pokračovat.
 
-Po schválení můžete přejít na kartu **[Nákup služeb](https://go.microsoft.com/fwlink/p/?linkid=868433)** v Centru pro správu Microsoftu a zakoupit předplatná.
+Pokud chcete zkontrolovat stav své domény, přejděte do [Centra pro správu Microsoftu 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Na domovské stránce přejděte dolů a najděte **fakturační** kartu. **Fakturační** karta označuje stav ověřovacího procesu (schváleno, čeká na vyřízení, odmítnutí nebo přidání domény).
+
+Pokud je vaše žádost zamítnuta, přečtěte si informace [o tom, že moje škola není způsobilá. Co mám dělat teď?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
