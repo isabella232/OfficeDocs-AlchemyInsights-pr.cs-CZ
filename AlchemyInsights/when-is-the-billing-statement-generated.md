@@ -2,8 +2,8 @@
 title: Kdy je vygenerován výpis z vyúčtování?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510385"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45431210"
 ---
-# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="69ec0-102">Kdy je vygenerován výpis</span><span class="sxs-lookup"><span data-stu-id="69ec0-102">When is the billing statement generated</span></span>
+# <a name="when-is-the-billing-statement-generated"></a><span data-ttu-id="38de4-102">Kdy je vygenerován výpis</span><span class="sxs-lookup"><span data-stu-id="38de4-102">When is the billing statement generated</span></span>
 
-<span data-ttu-id="69ec0-103">Každý měsíc obdržíte e-mail s oznámením, že nový výpis z účtu je k dispozici v Centru pro správu Microsoftu 365.</span><span class="sxs-lookup"><span data-stu-id="69ec0-103">Each month you'll receive an email that tells you that your new billing statement is available in the Microsoft 365 admin center.</span></span> <span data-ttu-id="69ec0-104">Faktura se skládá ze dvou stránek.</span><span class="sxs-lookup"><span data-stu-id="69ec0-104">Your invoice contains two pages.</span></span> <span data-ttu-id="69ec0-105">Na stránce 1 je shrnutí faktury, které obsahuje obecné informace o faktuře, objednávce, splatné částce a o možnostech platby a taky kontakty na podporu.</span><span class="sxs-lookup"><span data-stu-id="69ec0-105">Page 1 is the invoice summary, and contains general information about the invoice, order, amount due, how to make a payment, and how to contact support.</span></span> <span data-ttu-id="69ec0-106">Stránka 2 přináší podrobné informace o fakturaci za každé předplatné.</span><span class="sxs-lookup"><span data-stu-id="69ec0-106">Page 2 contains details about the billing activity for each subscription.</span></span>
+<span data-ttu-id="38de4-103">Datum výpisu je nastaveno na den v měsíci po vytvoření účtu.</span><span class="sxs-lookup"><span data-stu-id="38de4-103">Your statement date is set to the day of month after your account was created.</span></span> <span data-ttu-id="38de4-104">Pokud jste například vytvořili účet 20.</span><span class="sxs-lookup"><span data-stu-id="38de4-104">For example, if you created your account on the 20th of January, your statement date is set to the 21st for each subsequent month.</span></span>
+
+<span data-ttu-id="38de4-105">Další poplatky, ke kterým dojde během aktivního fakturačního cyklu, jsou zahrnuty na faktuře za následující měsíc.</span><span class="sxs-lookup"><span data-stu-id="38de4-105">Additional charges that occur during an active billing cycle are included in the invoice for the following month.</span></span> <span data-ttu-id="38de4-106">Počáteční a koncové datum fakturačního cyklu pro každou fakturu jsou uvedeny v **souhrnu fakturace** faktury faktury.</span><span class="sxs-lookup"><span data-stu-id="38de4-106">The billing cycle start and end dates for each invoice are listed in the **Billing Summary** of the invoice.</span></span>
+
+<span data-ttu-id="38de4-107">Platby kreditní kartou a/nebo bankovním účtem (pokud jsou k dispozici) jsou vypořádány den po **datu fakturace**.</span><span class="sxs-lookup"><span data-stu-id="38de4-107">Credit card and/or bank account (where applicable) payments are settled the day after the **Invoice Date**.</span></span>
   
-<span data-ttu-id="69ec0-107">Další informace o konceptech fakturace najdete v [tématu Principy faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="69ec0-107">To learn more about billing concepts, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
+<span data-ttu-id="38de4-108">Další informace najdete v [tématu Principy faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span><span class="sxs-lookup"><span data-stu-id="38de4-108">To learn more, see [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).</span></span>
