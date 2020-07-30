@@ -12,14 +12,16 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502600"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522800"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Zásady uchovávání informací v Centru pro správu Exchange
+
+Pokud chcete, abychom spouštěli automatické kontroly níže uvedených nastavení, vyberte v horní části této stránky tlačítko Zpět < a zadejte e-mailovou adresu uživatele, který má problémy se zásadami uchovávání informací.
 
  **Problém:** Nově vytvořené nebo aktualizované zásady uchovávání informací v Centru pro správu Exchange se nevztahují na poštovní schránky nebo položky nejsou přesunuty do poštovní schránky archivu nebo odstraněny. 
   

@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508801"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522836"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Zvětšení velikosti archivní poštovní schránky
+
+
+Pokud chcete, abychom spouštěli automatické kontroly níže uvedených nastavení, vyberte tlačítko Zpět < v horní části této stránky a zadejte e-mailovou adresu uživatele, který potřebuje zvýšit velikost archivní poštovní schránky.
 
 Microsoft 365 [omezuje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) velikost archivních poštovních schránek na základě licence, která je přiřazena k uživatelskému účtu. Když archivní poštovní schránka dosáhne 90 % povolené velikosti, uživatel obdrží e-mailové oznámení. Když poštovní schránka archivu dosáhne limitu velikosti, uživatel nemůže přesunout více položek do archivní poštovní schránky. Microsoft 365 nezvětší velikost archivní poštovní schránky po dosažení limitu velikosti. Místo toho mohou uživatelé provést následující akce k uvolnění místa v poštovní schránce archivu:
 
