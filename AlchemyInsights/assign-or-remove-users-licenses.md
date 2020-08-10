@@ -1,5 +1,5 @@
 ---
-title: Přiřazení nebo odebrání licencí uživatelů
+title: Přiřazení nebo odebrání uživatelských licencí
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506364"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603403"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Přiřazení nebo odebrání licencí uživatelů
+# <a name="assign-or-remove-user-licenses"></a>Přiřazení nebo odebrání uživatelských licencí
 
-Jako správce můžete podle potřeby upravit licence uživatelů. Níže uvedené články vám ukážou, jak spravovat licence uživatelů, včetně:
+Jako správce můžete podle potřeby upravit licence uživatelů. Tyto články ukazují, jak spravovat uživatelské licence:
   
-- [Přiřazení licencí uživatelům v Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Přiřazení licencí uživatelům v Microsoft 365 pro firmy](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [Zrušení přiřazení licencí od uživatelů Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Zrušení přiřazení licencí uživatelům v Microsoft 365 pro firmy](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-Neodpověděl na tvou otázku? Žádný problém! Pomocí tlačítka "Potřebujete pomoc" si můžete promluvit s pracovníkem podpory.
+Neodpověděl (a) váš dotaz? Žádný problém! Pomocí tlačítka "potřebujete pomoct" můžete mluvit s pracovníkem podpory.
