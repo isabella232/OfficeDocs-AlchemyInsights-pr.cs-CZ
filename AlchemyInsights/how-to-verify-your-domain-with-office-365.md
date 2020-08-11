@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509017"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634299"
 ---
 # <a name="how-to-verify-your-domain"></a>Jak ověřit doménu
 
-Chcete-li ověřit svou doménu, budete muset přidat záznam TXT do svého doménového registrátora, abyste ověřili, že doménu vlastníte. Nejprve postupujte podle [průvodce Přidání domény](https://portal.office.com/adminportal/home#/Domains/Wizard) klepnutím na položku **Instalační** \> **domény**a potom **na Přidat doménu**.
-  
-Podle pokynů v tématu [Vytvoření záznamů DNS u libovolného poskytovatele hostingu DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) přidejte záznam TXT a ověřte svou doménu.
+Pokud chcete ověřit doménu, postupujte podle [Průvodce přidáním domény](https://portal.office.com/adminportal/home#/Domains/Wizard)nebo ručně přejděte do **Nastavení**  >  **domény**  >  **Přidat doménu**.
 
-U ostatních problémů s doménami vyzkoušejte [nejčastější dotazy k doménám](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Další informace o tom, jak přidat záznam TXT pro ověření vaší domény, najdete v pokynech v tématu [Přidání záznamů DNS pro připojení k doméně](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Informace o otázkách ostatních domén najdete v části [Časté otázky k doménám](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
