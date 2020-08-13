@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655275"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665491"
 ---
 # <a name="data-location"></a>Umístění dat
 
-Umístění vašeho tenanta můžete zobrazit v Centru pro správu nebo připojením k Exchange Online přes PowerShell.
+Umístění tenanta můžete zobrazit v centru pro správu tak, že přejdete na [stránku **profilu organizace** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) a vyberete **umístění dat**.
 
-
-**Centrum pro správu:**
-1. Přihlaste se do [Centra pro správu](https://admin.microsoft.com/Adminportal/Home).
-2. Vyberte **nastavení** > **profilu organizace**.
-3. V části **Umístění dat**vyberte **Zobrazit podrobnosti**.
-
-
-**Powershell:**
-1. Připojte se k Exchange Online pomocí prostředí Windows PowerShell.
-2. Spusťte rutinu [Get-OrganizationalUnit,](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) chcete-li zobrazit seznam vlastností vašeho klienta. 
-3. Podívejte se na majetek Organizace id.
-
-Pokud máte umístění dat pro EXO a SPO, můžete určit umístění dat pro další služby, které můžete použít z [místa, kde se vaše data nacházejí](https://products.office.com/where-is-your-data-located).
+V případě aplikací, ke kterým nejste přihlášeni, zjistěte, [kde jsou uloženy vaše data zákazníků Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
