@@ -1,7 +1,7 @@
 ---
 title: Jak vytvořit požadavek na soubor
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 933681a19d8128c49ed1ddf4494b64d46c12a5f9
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235254"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785982"
 ---
 # <a name="how-to-create-a-file-request"></a>Jak vytvořit požadavek na soubor
 
-Funkce žádosti o soubor na OneDrivu umožňuje vybrat složku, do které můžou ostatní nahrávat soubory pomocí odkazu, který jim pošlete. Uživatelé, od kterých požadujete soubory, nemohou zobrazit, co je ve složce – mohou do ní nahrávat pouze soubory.
+Funkce žádosti o soubor na OneDrivu umožňuje zvolit složku, kam můžou ostatní nahrávat soubory pomocí odkazu, který jim pošlete. Uživatelé, kterým požadujete soubory, nemohou zobrazit obsah složky – do ní mohou nahrávat pouze soubory.
 
-**Poznámka:** Správce musí povolit [propojení kdokoli](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) na OneDrivu, aby žádosti o soubor fungovaly.
+**Poznámka**: aby fungovaly žádosti o soubory, musí správce na OneDrivu povolit [odkazy na všechny uživatele](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) .
 
-- Další informace naleznete [v tématu Vytvoření žádosti o soubor](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
+- Další informace najdete v článku [Vytvoření žádosti o soubor](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
