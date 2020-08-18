@@ -1,5 +1,5 @@
 ---
-title: Zapnutí nebo vypnutí externího sdílení webu
+title: Zapnutí nebo vypnutí externího sdílení pro SharePointový Web
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 733f470e606bb6bf4b4efbfa863b1258699fc311
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 501f41d458a863dc542520ccfbb7322913d4fdfc
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912923"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785730"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a><span data-ttu-id="0718b-102">Zapnutí nebo vypnutí externího sdílení na sharepointovém webu</span><span class="sxs-lookup"><span data-stu-id="0718b-102">Turn external sharing on or off for a SharePoint site</span></span>
+# <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a><span data-ttu-id="2a384-102">Zapnutí nebo vypnutí externího sdílení pro SharePointový Web</span><span class="sxs-lookup"><span data-stu-id="2a384-102">Turn external sharing on or off for a SharePoint site</span></span>
 
-<span data-ttu-id="0718b-103">Pro web:</span><span class="sxs-lookup"><span data-stu-id="0718b-103">For a site:</span></span>
+<span data-ttu-id="2a384-103">Web:</span><span class="sxs-lookup"><span data-stu-id="2a384-103">For a site:</span></span>
   
-1. <span data-ttu-id="0718b-104">V novém Centru pro správu SharePointu klikněte v levém podokně na **Weby**.</span><span class="sxs-lookup"><span data-stu-id="0718b-104">In the new SharePoint admin center, in the left pane, click **sites**.</span></span>
+1. <span data-ttu-id="2a384-104">V novém centru pro správu SharePointu v levém podokně klikněte na **weby**.</span><span class="sxs-lookup"><span data-stu-id="2a384-104">In the new SharePoint admin center, in the left pane, click **sites**.</span></span>
     
-2. <span data-ttu-id="0718b-105">Vyberte web nebo weby a na pásu karet klikněte na **Sdílení**.</span><span class="sxs-lookup"><span data-stu-id="0718b-105">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
+2. <span data-ttu-id="2a384-105">Vyberte web nebo weby a na pásu karet klikněte na **sdílení**.</span><span class="sxs-lookup"><span data-stu-id="2a384-105">Select the site or sites, and on the ribbon, click **Sharing**.</span></span>
     
-<span data-ttu-id="0718b-106">Ve výchozím nastavení mají nové weby, které uživatelé vytvářejí (oba týmové weby, které patří do skupin microsoftu 365, tak komunikační weby) stejné nastavení sdílení jako nastavení pro celou organizaci, pokud nastavení pro celou organizaci neumožňuje sdílení souborů pomocí odkazů, které nevyžadují přihlášení.</span><span class="sxs-lookup"><span data-stu-id="0718b-106">By default, new sites that users create (both team sites that belong to Microsoft 365 Groups and communication sites) have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in.</span></span> <span data-ttu-id="0718b-107">V takovém případě umožňují weby sdílení s novými a stávajícími externími uživateli, kteří se přihlašují.</span><span class="sxs-lookup"><span data-stu-id="0718b-107">In this case, the sites allow sharing with new and existing external users who sign in.</span></span> <span data-ttu-id="0718b-108">Pokud chcete změnit nastavení pro konkrétní weby, použijte nové Centrum pro správu SharePointu.</span><span class="sxs-lookup"><span data-stu-id="0718b-108">To change the setting for specific sites, use the new SharePoint admin center.</span></span>
+<span data-ttu-id="2a384-106">Ve výchozím nastavení mají nové weby, které uživatelé vytvářejí (obě týmové weby, které patří do skupin a komunikační weby 365 společnosti Microsoft), stejné nastavení sdílení jako u celé organizace, pokud toto nastavení neumožňuje sdílení souborů pomocí odkazů, které nevyžadují přihlášení.</span><span class="sxs-lookup"><span data-stu-id="2a384-106">By default, new sites that users create (both team sites that belong to Microsoft 365 Groups and communication sites) have the same sharing setting as your organization-wide setting, unless the organization-wide setting allows sharing files using links that don't require sign-in.</span></span> <span data-ttu-id="2a384-107">V tomto případě weby povolí sdílení s novými a stávajícími externími uživateli, kteří se přihlásí.</span><span class="sxs-lookup"><span data-stu-id="2a384-107">In this case, the sites allow sharing with new and existing external users who sign in.</span></span> <span data-ttu-id="2a384-108">Pokud chcete změnit nastavení pro určité weby, použijte nové centrum pro správu SharePointu.</span><span class="sxs-lookup"><span data-stu-id="2a384-108">To change the setting for specific sites, use the new SharePoint admin center.</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="0718b-109">Externí nastavení sdílení pro libovolný web může být více omezující než nastavení celé organizace, ale ne tolerantnější než nastavení pro celou organizaci.</span><span class="sxs-lookup"><span data-stu-id="0718b-109">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
+> <span data-ttu-id="2a384-109">Nastavení externího sdílení libovolného webu může být více omezující než vaše nastavení pro celou organizaci, ale neomezenější než u celé organizace.</span><span class="sxs-lookup"><span data-stu-id="2a384-109">The external sharing setting for any site can be more restrictive than your organization-wide setting, but not more permissive than the organization-wide setting.</span></span> 
   
 
