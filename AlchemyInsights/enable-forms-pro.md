@@ -1,5 +1,5 @@
 ---
-title: Eanble Formuláře Pro
+title: Povolení nebo zakázání formulářů pro
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 087121cee32df8520dbb1eee11ea2993819508da
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 3b0c375dbcf3c49c4ceb4e0cee9411a4bccc7cf3
+ms.sourcegitcommit: 6d938730731b5c0e15cd45faa647d48ee75b5d50
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "41969303"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "46814665"
 ---
-# <a name="enable-or-disable-forms-pro"></a>Povolení nebo zakázání formulářů Pro
+# <a name="enable-or-disable-forms-pro"></a>Povolení nebo zakázání formulářů pro
 
-Pokud se pokoušíte povolit aplikaci Microsoft Forms Pro, je součástí podnikové licence [Dynamics 365.](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) Případně může správce zakoupit [licenci Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant). Licenci microsoft forms pro můžete také [odebrat](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1) uživateli.
+Microsoft Forms pro se vyvíjel na zákaznickou aplikaci Dynamics 365 a poskytuje další možnosti průzkumu a firemní výhody. Další informace najdete v tématu [Nápověda k prostředkům pro hlasovou aplikaci Dynamics 365](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+
+Microsoft Forms pro je součástí licence Dynamics 365 Enterprise. Správce může zakoupit licenci Microsoft Forms pro. Licenci pro Microsoft Forms pro můžete odebrat také uživateli.  
+
+Další informace o licencování najdete v článku o [zakoupení Microsoft Forms pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) a [zakázání Microsoft Forms pro pro uživatele](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+  
+Informace o zdrojích nápovědy najdete v článku [Poradce při potížích ve formulářích pro](https://docs.microsoft.com/forms-pro/troubleshoot).
