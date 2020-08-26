@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650561"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902613"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Vyřazení starších nástrojů eDiscovery
 
-V důsledku nové a vylepšené funkce eDiscovery v Centru dodržování předpisů Microsoftu 365 budou v nadcházejících měsících vyřazeny následující starší nástroje a příkazy eDiscovery:
+V důsledku nových a vylepšených funkcí služby eDiscovery v centru dodržování předpisů v Microsoft 365 budou v nadcházejících měsících vyřazeny následující starší nástroje a rutin.
 
-- [Místní eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) a [místní blokování v](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) Centru pro správu Exchange.
+- [Místní eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) a [Místní blokování](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) v centru pro správu Exchange
 
-- Rutiny prostředí Exchange Online PowerShell, které podporují místní eDiscovery a místní blokování. (Tyto rutiny jsou souhrnně identifikovány jako rutiny *-MailboxSearch.) To zahrnuje následující rutiny:
+- Rutiny PowerShellu Exchange Online, které podporují místní eDiscovery a místní blokování pro archivaci. (Tyto rutiny se společně identifikují jako rutiny *-MailboxSearch) To zahrnuje následující rutiny:
 
-    - [Nové poštovní schránkyHledání](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [Hledání start-poštovní schránky](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [Stop-MailboxHledání](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [Set-MailboxHledání](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [New-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [Start – MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [Zastavit – MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Rutina [Vyhledávací poštovní schránka](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) v prostředí Exchange Online PowerShell.
-- Následující operace v rozhraní API webových služeb exchange:
-    - [GetSearchablePoštovní schránky](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [Schránky SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [Schránky GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- Rutina [vyhledávání – poštovní schránka](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) v PowerShellu Exchange Online
+- Následující operace v rozhraní API webových služeb systému Exchange:
+    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Rozšířené eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Advanced eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**Časová osa odchodu do důchodu**:
-- 1. dubna 2020: Nebudete moci vytvářet nová hledání a blokování, ale stále můžete spouštět, upravovat a odstraňovat stávající hledání na vlastní nebezpečí. Podpora společnosti Microsoft již nebude podporovat místní zjišťování eDiscovery & blokování v EAC.
+**Časová osa pro odchod**:
+- **1. července 2020** Už nemůžete vytvářet nová hledání a blokování, ale můžete spouštět, upravovat a odstraňovat existující vyhledávání na vlastní nebezpečí. Podpora Microsoftu nepodporují místní eDiscovery & v poli EAC.
+    
+- **1. října 2020** Místní eDiscovery & funkce v poli EAC se budou používat v režimu jen pro čtení, takže můžete odebrat jenom existující hledání a blokování.
 
-- 1. července 2020: Funkce Na místě, & eDiscovery, bude v EAC umístěna do režimu jen pro čtení. To znamená, že budete moci odebrat pouze existující vyhledávání a blokování.
+**Další informace najdete v těchto tématech**:
 
-**Další informace naleznete v tématu**:
-
- - [Migrace starších vyhledávání eDiscovery a jejich držení do Centra dodržování předpisů Microsoftu 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Migrace starších hledání a blokování eDiscovery do centra dodržování předpisů v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [Vyřazení starších nástrojů eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Časté otázky týkající se místního zjišťování eDiscovery a místních blokování](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Nejčastější dotazy týkající se místních eDiscovery a místních blokování pro archivaci](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
