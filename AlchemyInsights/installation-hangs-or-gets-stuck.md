@@ -1,5 +1,5 @@
 ---
-title: Instalace se zasekne nebo se zasekne
+title: Instalace přestane reagovat nebo se zablokuje
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 710fc06c37d5c5cd378929a6cc50f7069104eb8f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 272f4d7ccaeb09b241ba1647996d456f6f159576
+ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763247"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300692"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Instalace office se zasekne nebo se zasekne
+# <a name="office-installation-hangs-or-gets-stuck"></a>Instalace Office přestane reagovat nebo se zablokoval
 
-Toto chování se může zobrazit z důvodu připojení k síti, antivirového softwaru nebo nastavení služby Windows Update v počítači. Zde jsou některé věci, které můžete zkusit vyřešit problém.
+Toto chování se může zobrazit kvůli síťovému připojení, antivirovému softwaru nebo nastavení Windows Update na vašem počítači. Tady je pár věcí, které můžete zkusit vyřešit.
   
-- Restartujte počítač a zkontrolujte, jestli je nainstalovaný Office
+- Restartujte počítač a zkontrolujte, jestli je nainstalovaný Office.
 
 - Použití kabelového připojení
 
-- Pokud máte pomalé připojení k internetu, nainstalujte Office [pomocí offline instalačního programu Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Pokud používáte pomalé připojení k Internetu, nainstalujte Office [pomocí offline instalačního programu Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) .
 
-- Dočasné vypnutí antivirového softwaru
+- Vypněte dočasně antivirový software.
 
-- Spustit online opravu z Ovládacích panelů
+- Spuštění online opravy z ovládacích panelů
 
 - Odebrání a přeinstalace Office
 
-[Instalace Office trvá dlouho](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Instalace Office trvá moc dlouho](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
