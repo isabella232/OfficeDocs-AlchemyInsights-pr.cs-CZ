@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005431"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316192"
 ---
-# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="6284d-102">Soukromé kanály v Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="6284d-102">Private channels in Microsoft Teams</span></span>
+# <a name="private-channels-in-microsoft-teams"></a><span data-ttu-id="d76cc-102">Soukromé kanály v Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="d76cc-102">Private channels in Microsoft Teams</span></span>
 
-<span data-ttu-id="6284d-103">Soukromé kanály jsou v Microsoft Teams novou funkcí.</span><span class="sxs-lookup"><span data-stu-id="6284d-103">Private channels is a new feature in Microsoft Teams.</span></span> <span data-ttu-id="6284d-104">Všimněte si, že soukromé kanály nelze převést ze standardních kanálů nebo naopak.</span><span class="sxs-lookup"><span data-stu-id="6284d-104">Note that private channels cannot be converted from standard channels or vice versa.</span></span>
+<span data-ttu-id="d76cc-103">Soukromé kanály v Microsoft Teams vytvářejí prioritní prostory pro spolupráci v rámci týmů.</span><span class="sxs-lookup"><span data-stu-id="d76cc-103">Private channels in Microsoft Teams create focused spaces for collaboration within your teams.</span></span> <span data-ttu-id="d76cc-104">Přístup ke kanálu mají jenom uživatelé z týmu, kteří jsou vlastníci nebo členy soukromého kanálu.</span><span class="sxs-lookup"><span data-stu-id="d76cc-104">Only the users on the team who are owners or members of the private channel can access the channel.</span></span> <span data-ttu-id="d76cc-105">Jako člen soukromého kanálu se dá přidat každý, včetně hostů, kdo už je členem týmu.</span><span class="sxs-lookup"><span data-stu-id="d76cc-105">Anyone, including guests, can be added as a member of a private channel as long as they are already members of the team.</span></span>
 
-<span data-ttu-id="6284d-105">Podrobnosti o soukromých kanálech, jako jsou informace o [vytváření a členství v privátním kanálu](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) a [soukromých webech služby SharePoint](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), naleznete [v tématu Soukromé kanály v Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span><span class="sxs-lookup"><span data-stu-id="6284d-105">For details about private channels, such as information on [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), see [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> 
+<span data-ttu-id="d76cc-106">Další informace získáte, když [v Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels)zahájíte soukromé kanály.</span><span class="sxs-lookup"><span data-stu-id="d76cc-106">To learn more, start with [Private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels).</span></span> <span data-ttu-id="d76cc-107">To zahrnuje například informace o [vytváření soukromých kanálů a](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [weby služby SharePoint pro soukromé kanály](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span><span class="sxs-lookup"><span data-stu-id="d76cc-107">This includes information such as [private channel creation and membership](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) and [private channel SharePoint sites](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).</span></span>
 
-<span data-ttu-id="6284d-106">**Poznámka:** Vzhledem k tomu, že konfigurace pro uchovávání zpráv soukromých kanálů ještě není podporována, klienti s povolenými zásadami uchovávání informací nebudou mít ve výchozím nastavení povoleny soukromé kanály.</span><span class="sxs-lookup"><span data-stu-id="6284d-106">**Note:** Because configuration for retention of private channel messages is not yet supported, tenants with retention policies enabled will not have private channels enabled by default.</span></span> <span data-ttu-id="6284d-107">Soukromé kanály můžou být povolené v Centru pro správu Teams.</span><span class="sxs-lookup"><span data-stu-id="6284d-107">Private channels can be enabled in the Teams admin center.</span></span> <span data-ttu-id="6284d-108">Všimněte si také, že zatímco uchovávání zpráv soukromých kanálů není podporováno, je podporováno uchovávání souborů sdílených v soukromých kanálech.</span><span class="sxs-lookup"><span data-stu-id="6284d-108">Also, note that while retention of private channel messages is not supported, retention of files shared in private channels is supported.</span></span>
+<span data-ttu-id="d76cc-108">**Potřebujete nového vlastníka týmu?**</span><span class="sxs-lookup"><span data-stu-id="d76cc-108">**Need a new team owner?**</span></span>
 
-<span data-ttu-id="6284d-109">**Potřebujete nového majitele týmu?**</span><span class="sxs-lookup"><span data-stu-id="6284d-109">**Need a new team owner?**</span></span>
+<span data-ttu-id="d76cc-109">Pokud vlastník soukromého kanálu opustí vaši organizaci nebo ji odeberete ze skupiny, bude člen privátního kanálu automaticky povýšen jako vlastník soukromého kanálu.</span><span class="sxs-lookup"><span data-stu-id="d76cc-109">If your private channel owner leaves your organization or is removed from the group, a member of the private channel is automatically promoted to be the private channel owner.</span></span>
 
-<span data-ttu-id="6284d-110">Pokud váš vlastník soukromého kanálu odejde, můžete přidat nového vlastníka týmu přes Teams Powershell.</span><span class="sxs-lookup"><span data-stu-id="6284d-110">If your private channel owner leaves, you can add a new team owner via Teams Powershell.</span></span>
-
-
-- <span data-ttu-id="6284d-111">Přejděte [sem](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) a nainstalujte Teams Powershell.</span><span class="sxs-lookup"><span data-stu-id="6284d-111">Go [here](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) to install Teams Powershell.</span></span>
-
-<span data-ttu-id="6284d-112">Zde je rutina, kterou budete potřebovat:</span><span class="sxs-lookup"><span data-stu-id="6284d-112">Here is the cmdlet you will need:</span></span>
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-<span data-ttu-id="6284d-113">Další informace o Teams Powershellu najdete v [tématu Přehled teams powershellu](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).</span><span class="sxs-lookup"><span data-stu-id="6284d-113">For more information on Teams Powershell, see [Teams PowerShell Overview](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).</span></span>
+<span data-ttu-id="d76cc-110">Správci můžou taky [v Microsoft Teams spravovat životní cyklus soukromých kanálů](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) a získat další informace o zásadách pro správu uživatelů, kteří můžou vytvářet soukromé kanály, a způsoby, jak pomoct s vytvářením dotazů pro eDiscovery nebo právní blokování.</span><span class="sxs-lookup"><span data-stu-id="d76cc-110">Admins can also see [Manage the life cycle of private channels in Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) to learn more about policies to manage who can create private channels, as well as ways to help build queries for eDiscovery or legal holds.</span></span>
