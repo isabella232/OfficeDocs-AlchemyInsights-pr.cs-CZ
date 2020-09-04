@@ -2,7 +2,7 @@
 title: Informace o faktuře a platbě
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "485"
 - "1500018"
-ms.openlocfilehash: 650a74eef9e2e2051c99e78b8ec1c7e8a35d3048
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c9716c4da16f085aabe5124a6ea36bd812fe7e6b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579966"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364760"
 ---
 # <a name="invoice-and-payment-information"></a>Informace o faktuře a platbě
 
-**Platby**
+**Zálohy**
 
-Když si koupíte předplatné Microsoft 365 pro firmy přímo od Microsoftu, můžete platit kreditní nebo debetní kartou.  V některých zemích nebo oblastech můžete také platit bankovním účtem.  Můžete se naučit spravovat a řešit problémy s těmito způsoby platby z [přidat, aktualizovat nebo odebrat platební kartu nebo jiný způsob platby pro Microsoft 365 pro firmy](https://go.microsoft.com/fwlink/?linkid=2118133).  To zahrnuje řešení problémů při odmítnutí platební karty a aktualizaci platebních údajů.
+Když si zakoupíte předplatné Microsoft 365 pro firmy přímo od Microsoftu, můžete zaplatit kreditní nebo debetní kartou.  V některých zemích nebo oblastech můžete také zaplatit bankovním účtem.  Informace o tom, jak spravovat a řešit tyto způsoby platby, se dozvíte ze [správy způsobů platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). To zahrnuje řešení problémů s odmítnutím platební karty a aktualizací platebních údajů.
 
-**Faktura/Faktura**
+**Faktura/faktura**
 
-Faktury si můžete najít a stáhnout na stránce **Fakturační > [faktury & platby.](https://go.microsoft.com/fwlink/p/?linkid=848039) **  
+Faktury můžete vyhledat a stáhnout na stránce **fakturace**  >  [& platby](https://go.microsoft.com/fwlink/p/?linkid=848039) .  
 
-**Poznámka:** Pokud nejsou zobrazeny žádné faktury, bude pravděpodobně nutné upravit filtr časového období.  Ve výchozím nastavení jsou zobrazeny poslední 3 měsíce faktur.
+**Poznámka**: Pokud nejsou žádné faktury viditelné, možná budete muset upravit filtr rozsahu kalendářních dat.  Ve výchozím nastavení se zobrazí poslední 3 měsíce faktur.
 
-Faktury jsou vytvářeny měsíčně nebo ročně v závislosti na frekvenci plateb zvolené během nákupu.  Pokud platíte ročně, můžete získat účet v polovině období při přidávání nebo odebírání licencí na předplatné.
- 
-- Další informace najdete v [tématu Principy faktury za Microsoft 365 pro firmy](https://go.microsoft.com/fwlink/?linkid=2119101).
+Faktury jsou vytvářeny měsíčně nebo každoročně podle četnosti fakturace zvolených během nákupu.  Při každoročním placení můžete při přidávání nebo odebírání licencí k předplatnému obdržet střední období.
+
+- Další informace najdete v článku o [vaší faktuře pro Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

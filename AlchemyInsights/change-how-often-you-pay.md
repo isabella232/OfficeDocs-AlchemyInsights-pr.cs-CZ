@@ -1,8 +1,8 @@
 ---
-title: Změna toho, jak často platíte
+title: Změna intervalu platby
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939648"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364580"
 ---
-# <a name="change-how-often-you-pay"></a>Změna toho, jak často platíte
+# <a name="change-how-often-you-pay"></a>Změna intervalu platby
 
-Pokud chcete změnit, jak často se vám budou účtovat poplatky a platit za předplatné, proveďte následující kroky v Centru pro správu Microsoftu 365. 
-1. Přejděte do části **Fakturace > [Produkty a služby](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. Najděte předplatné, které chcete změnit. V části **Fakturace** klikněte vedle **Položky Fakturované měsíčně** nebo **Fakturované ročně**na **Upravit**. 
-3. Vyberte možnost, jak často se má účtovat, a klikněte na **Změnit**.
+Chcete-li změnit frekvenci účtování a placení předplatného, proveďte následující kroky v centru pro správu Microsoft 365.
 
-**Poznámka:** Jedinou možností je měsíční nebo roční fakturace.
+1. Přejděte na stránku **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Na kartě **Products (produkty** ) vyberte předplatné, které chcete změnit. 
+3. Na stránce Podrobnosti předplatného vyberte v části **nastavení předplatného a platby** možnost **Upravit četnost fakturace**.
+4. V podokně **Upravit četnost fakturace** shoose možnost pro četnost vyúčtování a pak vyberte **změnit**.
 
-Další informace najdete v [tématu Změna četnosti plateb](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
+**Poznámka**: jedinou možností je měsíční nebo roční fakturace.
+
+Další informace najdete v tématu [Změna četnosti fakturace](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
