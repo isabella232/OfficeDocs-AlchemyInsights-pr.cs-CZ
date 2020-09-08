@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157539"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406319"
 ---
 # <a name="mover"></a>Mover
 
-21. října 2019 microsoft získal **Mover**, předního poskytovatele migrace cloudových souborů.
+Na 13. října 2019,  **Microsoft získal (a)**– přední poskytovatel migrace cloudového souboru.
 
-Další informace o společnosti Mover naleznete v následujících článcích:
+V současné době prosím na [ **Toto místo**](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [pošlete všechny žádosti o podporu](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) .  
 
-- [Průvodce migrací smoverem](https://mover.io/guides/)
-- [Nejčastější dotazy k obecné migraci](https://mover.io/guides/general/)
-- [Konektory pro smáčování](https://mover.io/connectors/)
+Další informace o stěhovací společnosti najdete v následujících článcích:
 
-V současné době **prosím nasměrujte všechny žádosti o podporu, aby** [support@mover.io](mailto:support@mover.io) o pomoc s produktem. 
-
- 
+- [Průvodce migrací na stěhovací společnosti](https://mover.io/guides/)
+- [Obecné otázky k migraci](https://mover.io/guides/general/)
