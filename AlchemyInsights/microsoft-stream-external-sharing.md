@@ -1,27 +1,28 @@
 ---
-title: Externí sdílení Microsoft Streamu
+title: Externí sdílení Microsoft streamu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 74aa7e926604e62054100b8a99d62fe403dd3b16
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2d6831cfc8a35b8c7dc698ff57909fc024aa2691
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600521"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675218"
 ---
-# <a name="microsoft-stream-external-sharing"></a>Externí sdílení Microsoft Streamu
+# <a name="microsoft-stream-external-sharing"></a>Externí sdílení Microsoft streamu
 
-Microsoft Stream zatím nepodporuje externí scénáře sdílení pro hosty nebo lidi mimo vaši organizaci. Víme, že tyto funkce jsou velmi potřebné, a pracujeme na plánech, jak tyto funkce vytvořit.
+Microsoft Stream ještě nepodporuje scénáře externího sdílení pro hosty nebo lidi mimo vaši organizaci. Víme, že tyto funkce jsou opravdu potřebné a pracujeme na plánech, jak tyto funkce vytvořit.
 
-- [Externí sdílení v streamu](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
+- [Externí sdílení v datovém proudu](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Sdílení videí v Microsoft Streamu](https://docs.microsoft.com/stream/portal-share-video)
+- [Sdílení videí v Microsoft streamu](https://docs.microsoft.com/stream/portal-share-video)

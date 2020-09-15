@@ -1,35 +1,36 @@
 ---
-title: Zanechat žádost o funkci nebo zpětnou vazbu k návrhu aplikace
+title: Opuštění žádosti o funkce nebo názory na návrh aplikací
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: a23f285d62915ab69c301390d800c1a91fd56a4a
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265142"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676515"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Zanechat žádost o funkci nebo zpětnou vazbu k návrhu aplikace
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Opuštění žádosti o funkce nebo názory na návrh aplikací
 
-Vážíme si vám sdílení vašich myšlenek, jak budeme pokračovat v práci na aplikaci Outlook. *UserVoice* je fórum, kde můžete zanechat zpětnou vazbu a hlasovat o myšlenkách druhých.  
+Vážíme si vašich myšlenek, jak dál pracujeme na Outlooku. *UserVoice* je fórum, kde můžete zanechat svůj názor a hlasovat o nápadech ostatních.  
 
-Nechat nám nápad: 
+Abychom nám zanechali nápad: 
 
-**Nastavení > nápověda & zpětná vazba > Navrhnout funkci > Příspěvek nápadu** 
+**Nastavení > nápovědy & zpětnou vazbu > navrhnout funkci > publikovat nápad** 
 
-**Záleží na tom, jak se zobrazuje vaše jméno/e-mail?**
+**Chcete se postarat o zobrazení jména a e-mailu?**
 
-Když přidáte komentář k existující žádosti o funkci, aplikace automaticky naplní vaše jméno nebo e-mailovou adresu z primárního účtu nastaveného v aplikaci. Chcete-li zvolit, jaký název se zobrazí, musíte odeslat novou žádost o **funkci.** 
+Když přidáte komentář k žádosti o stávající funkci, aplikace automaticky vyplní vaše jméno nebo e-mailovou adresu z vašeho primárního účtu, který je nastavený v aplikaci. Chcete-li zvolit, jaký název se zobrazí, musíte odeslat žádost o **novou** funkci. 
 
-Odeslání žádosti je jednoduchý třístupňový proces. Na třetí a poslední stránce uvidíte řádek pro vaši e-mailovou adresu (povinné) a řádek pro vaše jméno. Zde si můžete vybrat, jak se vaše jméno zobrazí, nebo můžete nápad odeslat anonymně. 
+Odeslání žádosti je jednoduchý proces se třemi kroky. Na třetí a poslední stránce se zobrazí řádek pro vaši e-mailovou adresu (povinné) a řádek pro vaše jméno. Zde můžete zvolit, jak se má vaše jméno zobrazovat, nebo můžete nápad odeslat anonymně. 
 
-**Poznámka:** Možná budete také muset změnit, jaká e-mailová adresa je automaticky vyplněna na této stránce. Pokud je vaše jméno nastaveno určitým způsobem v rámci nastavení vašeho e-mailového klienta, může být změna odeslání zpětné vazby na anonymní přepsána nastavením. 
+**Poznámka:** Taky možná budete muset změnit, jakou e-mailovou adresu na této stránce automaticky vyplní. Pokud vaše jméno nastavíte v nastavení svého e-mailového klienta nějakým způsobem, může být Změna předplatného zpět na anonymní. 

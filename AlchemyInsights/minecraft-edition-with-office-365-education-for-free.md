@@ -1,38 +1,39 @@
 ---
-title: Minecraft Edition s Office 365 Education zdarma
+title: Minecraftu Edition se zadarmo na Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: a1420596c2859fe163e991a9db1fe88039b01f36
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: baa2401888ab3dac8f32fd2d209c3cf3cf5ce426
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579642"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674103"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition s Office 365 Education zdarma
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraftu Edition se zadarmo na Office 365
 
-[Minecraft Edition s Office 365 Education zdarma](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[Minecraftu Edition se zadarmo na Office 365](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: Education Edition** vyžaduje Windows 10
+- **Minecraftu: vzdělávací edice** vyžaduje Windows 10
 
-- Zkušební verze nebo předplatná **hry Minecraft: Education Edition** jsou nabízeny klientům vzdělávání, které spravuje služba Azure Active Directory (Azure AD).
+- Testy nebo předplatná **Minecraftu: vzdělávací edice** se nabízí pro vzdělávací klienty, kteří jsou spravováni službou Azure Active Directory (Azure AD).
 
-  - Pokud vaše škola nemá klienta Azure AD, [může ho správce IT nastavit](https://docs.microsoft.com/education/windows/school-get-minecraft) jako součást procesu získání hry **Minecraft: Education Edition**.
+  - Pokud vaše škola nemá tenanta Azure AD, [může správce IT nastavit jednu](https://docs.microsoft.com/education/windows/school-get-minecraft) část procesu získání **Minecraftu: vzdělávací edice**.
 
-  - Office 365 Education, který zahrnuje online verze aplikací Microsoft 365 a 1 TB online úložiště, je pro učitele a studenty zdarma. [Zaregistrujte si školu pro Office 365 Education](https://products.office.com/academic/office-365-education-plan).
+  - Office 365, který obsahuje online verze aplikací Microsoft 365, a 1 TB online úložiště je zdarma pro učitele a studenty. [Zaregistrujte svou školu pro Office 365 pro školství](https://products.office.com/academic/office-365-education-plan).
 
-  - Pokud má vaše škola předplatné Office 365 Education, zahrnuje bezplatné předplatné Azure AD. [Zaregistrujte si bezplatné předplatné Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - Pokud má vaše škola předplatné Office 365 pro vzdělávací organizace, zahrnuje bezplatné předplatné Azure AD. [Zaregistrujte si bezplatné předplatné Azure AD](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
 
-[Přečtěte si, jak mohou učitelé získat a distribuovat hru Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[Zjistěte, jak můžou učitelé získat a distribuovat Minecraftu: vzdělávací edice](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Přečtěte si, jak mohou správci IT získat a distribuovat hru Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)a jak spravovat oprávnění pro hru Minecraft.
+[Zjistěte, jak můžou správci IT získat a distribuovat Minecraftu: vzdělávací edice](https://docs.microsoft.com/education/windows/school-get-minecraft)a jak spravovat oprávnění pro Minecraftu.
