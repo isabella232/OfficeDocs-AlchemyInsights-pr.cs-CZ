@@ -1,32 +1,33 @@
 ---
-title: 'Ochrana proti sabotážní klientovi '
+title: 'Ochrana proti narušení klienta v Defenderu '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 909874d06e74e7df9c2eec9b47c89c25a30ac58c
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738492"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680497"
 ---
-# <a name="defender-tamper-protection"></a>Ochrana proti násilnému vniknutí 
+# <a name="defender-tamper-protection"></a>Defender 
 
-Pomocí ochrany proti násilnému vniknutí nemohou škodlivé aplikace provádět následující akce:
+V případě ochrany proti neoprávněným útokům se nepřesné aplikace nedají provádět takové akce:
 
-- Zakázání ochrany proti virům a hrozbám
-- Zakázání ochrany v reálném čase
-- Vypnutí sledování chování
-- Zakazování antivirového programu (například IOfficeAntivirus (IOAV))
-- Zakázání ochrany s dodáním mraků
-- Odebírání aktualizací tajných informací zabezpečení
+- Zákaz ochrany proti virům a hrozbám
+- Zákaz ochrany v reálném čase
+- Vypnutí monitorování chování
+- Zakázání antivirové ochrany (například IOfficeAntivirus (IOAV))
+- Zákaz ochrany před cloudem
+- Odebrání aktualizací bezpečnostního zpravodajství
 
-Další informace naleznete v části [Ochrana nastavení zabezpečení pomocí možnosti sabotovat](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).
+Další informace najdete v článku [Ochrana nastavení zabezpečení pomocí ochrany před](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)zástupnými zástupnými programy.

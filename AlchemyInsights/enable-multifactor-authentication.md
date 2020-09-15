@@ -1,5 +1,5 @@
 ---
-title: Povolit vícefaktorové ověřování
+title: Povolení vícefaktorového ověřování
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 098f129b068eb6cb3847bb18d15b417a3fde4602
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703455"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678029"
 ---
 # <a name="enable-multi-factor-authentication"></a>Povolení vícefaktorového ověřování
 
-Povolení vícefaktorového ověřování v Centru pro správu Microsoftu 365:
+Povolení vícefaktorového ověřování v centru pro správu Microsoft 365:
 
-1. Přejděte na stránku **Uživatelé** \> **aktivní uživatelé.**
+1. Přejděte na stránku **Uživatelé** \> **aktivního uživatele** .
     
-2. V horní části stránky vyberte **Vícefaktorové ověřování**. 
+2. V horní části stránky vyberte **vícefaktorové ověřování**. 
     
-3. Vyhledejte uživatele nebo uživatele, které chcete povolit pro vícefaktorové ověřování. Chcete-li zobrazit všechny uživatele, možná budete muset změnit filtr **stavu multi-Factor Auth** v horní části.
+3. Najděte uživatele, kterým chcete povolit vícefaktorové ověřování. Pokud chcete zobrazit všechny uživatele, bude možná potřeba změnit filtr **stavu vícefaktorového ověřování** nahoře.
     
 4. Zaškrtněte políčko vedle uživatelů, které chcete povolit.
     
-5.  V pravém podokně uživatelských informací vyberte v části **Rychlé kroky** **možnost Povolit**. 
+5.  V podokně informace o správném uživateli v části **rychlé kroky**vyberte **Povolit**. 
     
-6. V zobrazeném dialogovém okně vyberte **povolit vícefaktorové auth**. 
+6. V dialogovém okně, které se otevře, vyberte **Povolit vícefaktorové ověřování**. 
     
 

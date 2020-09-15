@@ -1,29 +1,30 @@
 ---
-title: Žádné výsledky vyhledávání obsahu
+title: Hledání obsahu – žádné výsledky
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 09cdbc3cb0465e0e0bc08872c49e283081ad3e92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516772"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680640"
 ---
-# <a name="no-results-from-content-searchexports"></a>Žádné výsledky z obsahu hledání vývozu a
+# <a name="no-results-from-content-searchexports"></a>Vyhledávání a exporty obsahu bez výsledků
 
-Problémy s obsahu hledání vývozu a ne vrátí všechna data mohou být určité shody zabezpečení filtr, který byl nastavení konkrétní Admin a není sdělování všech Admins.
+Problémy s hledáním a exportem obsahu nevracejí žádná data mohou být způsobena určitým filtrem zabezpečení, který byl nastaven konkrétním správcem, a nekomunikuje ho všem správcům.
 
-Tento problém vyřešíte, zkontrolujte, pokud jsou všechny filtry zabezpečení shody, který může být příčinou to:
-1. Připojte se k zabezpečení a Powershell centra kompatibility
-2. Spusťte tyto commandlets:
+Tento problém vyřešíte tak, že zkontrolujete, jestli existují žádné filtry zabezpečení dodržování předpisů, které můžou způsobovat tyto problémy:
+1. Připojení k PowerShellu Centrum zabezpečení a dodržování předpisů
+2. Spusťte následující rutin:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-$org organizace
+<br>Get-ComplianceSecurityFilter – organizace $org

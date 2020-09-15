@@ -1,27 +1,28 @@
 ---
-title: Kontaktujte nás kliknutím na tlačítko pro sluchátka
+title: Kontaktování kliknutím na tlačítko sluchátka
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 49365a139a97ebde1b1c0c3db710b5b03cfb8738
-ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
+ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42584719"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680893"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>Kontaktujte nás kliknutím na tlačítko pro sluchátka
+# <a name="contact-us-by-clicking-the-headphone-button"></a>Kontaktování kliknutím na tlačítko sluchátka
 
-Pokud chcete kontaktovat podporu microsoftu, klikněte na **kontaktujte nás** v levém dolním rohu této aplikace. Uvnitř vyklopeného okna budete po výběru produktu a kategorie problému vedeni ke správnému kanálu podpory.
+Pokud chcete kontaktovat podporu Microsoftu, klikněte na **kontaktovat nás** v levém dolním rohu této aplikace. V okně s rozbalením se zobrazí správný kanál podpory po zvolení kategorie produkt a problém.
 
-![Kontaktujte nás kliknutím na ikonu sluchátek.](media/contact-us-headphone-icon.png)
+![Kontaktujte nás kliknutím na ikonu sluchátka.](media/contact-us-headphone-icon.png)
 
-Se zbytkem aplikace můžete pokračovat i po zahájení relace Kontaktujte nás. Panel Kontaktujte nás lze dočasně minimalizovat kliknutím na libovolné místo v aplikaci. Chcete-li se vrátit ke stejné relaci, stačí kliknout **na tlačítko Kontaktujte nás** znovu.
+V interakci s ostatními aplikacemi můžete i po zahájení relace s kontaktem kontaktovat. Panel kontakt je možné dočasně minimalizovat kliknutím kdekoli jinde uvnitř aplikace. Pokud se chcete vrátit ke stejné relaci, stačí kliknout na **kontakt** znovu.
