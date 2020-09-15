@@ -1,32 +1,33 @@
 ---
-title: Klíče pro obnovení nástroje BitLocker
+title: Obnovovací klíče nástroje BitLocker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908808"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685879"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="edb78-102">Přístup ke klíčům obnovení nástroje BitLocker</span><span class="sxs-lookup"><span data-stu-id="edb78-102">Accessing Bitlocker recovery keys</span></span>
+# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="5c70a-102">Přístup k obnovovacím klíčům nástroje BitLocker</span><span class="sxs-lookup"><span data-stu-id="5c70a-102">Accessing Bitlocker recovery keys</span></span>
 
-<span data-ttu-id="edb78-103">Při konfiguraci nastavení nástroje BitLocker v zásadách ochrany koncového bodu je možné určit, zda mají být informace o obnovení nástroje BitLocker uloženy v Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="edb78-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
+<span data-ttu-id="5c70a-103">Při konfiguraci zásad služby Endpoint Protection v nastavení BitLockeru je možné určit, zda mají být informace pro obnovení BitLocker uložené v Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="5c70a-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
 
-<span data-ttu-id="edb78-104">Pokud je toto nastavení nakonfigurováno, měly by být uložená data obnovení viditelná pro správce Intune jako součást dat záznamu zařízení ve čepele nástroje Intune Devices dvěma způsoby:</span><span class="sxs-lookup"><span data-stu-id="edb78-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
+<span data-ttu-id="5c70a-104">Pokud je toto nastavení nakonfigurováno, budou se uložená data obnovení zobrazovat v Intune správci jako součást dat záznamu zařízení v okně v Intune</span><span class="sxs-lookup"><span data-stu-id="5c70a-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
 
-<span data-ttu-id="edb78-105">Zařízení-Azure zařízení AD-> "zařízení" nebo zařízení-> všechna zařízení-> "zařízení"-> obnovovací klíče</span><span class="sxs-lookup"><span data-stu-id="edb78-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
+<span data-ttu-id="5c70a-105">Zařízení – zařízení Azure AD – > zařízení nebo zařízení – > všechna zařízení – > "zařízení" – > klíče pro obnovení</span><span class="sxs-lookup"><span data-stu-id="5c70a-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
 
-<span data-ttu-id="edb78-106">Případně, pokud existuje přístup správce k zařízení samotnému, lze klíč pro obnovení (Password) zobrazit spuštěním následujícího příkazu na příkazovém řádku se zvýšenými oprávněními:</span><span class="sxs-lookup"><span data-stu-id="edb78-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
+<span data-ttu-id="5c70a-106">Pokud máte k samotnému zařízení přístup pro správu, může se zobrazit obnovovací klíč (heslo) spuštěním následujícího příkazu z příkazového řádku s vyššími oprávněními:</span><span class="sxs-lookup"><span data-stu-id="5c70a-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-<span data-ttu-id="edb78-107">Pokud bylo zařízení zašifrováno před přijetím v Intune, mohl být klíč pro obnovení přidružen k účtu Microsoft account (MSA), který byl použit k přihlášení k zařízení během procesu OOBE.</span><span class="sxs-lookup"><span data-stu-id="edb78-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="edb78-108">V takovém případě by přístup https://onedrive.live.com/recoverykey a přihlášení k této MSA měly ukazovat zařízení, pro která byly klíče pro obnovení uloženy.</span><span class="sxs-lookup"><span data-stu-id="edb78-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
+<span data-ttu-id="5c70a-107">Pokud bylo zařízení před enrolment v Intune zašifrované, mohlo by být obnovovací klíč přidružen k účtu Microsoft (MSA), který se používá k přihlášení na zařízení během procesu OOBE.</span><span class="sxs-lookup"><span data-stu-id="5c70a-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="5c70a-108">V takovém případě  https://onedrive.live.com/recoverykey by měl přístup a přihlášení pomocí tohoto MSA zobrazovat zařízení, pro které byly uložené klíče obnovení.</span><span class="sxs-lookup"><span data-stu-id="5c70a-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
  
-<span data-ttu-id="edb78-109">Pokud bylo zařízení zašifrováno v důsledku konfigurace pomocí skupinové zásady založené na doméně, mohou být informace o obnovení uloženy v místní verzi služby Active Directory.</span><span class="sxs-lookup"><span data-stu-id="edb78-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
+<span data-ttu-id="5c70a-109">Pokud bylo zařízení zašifrováno jako výsledek konfigurace prostřednictvím zásad skupiny domény, mohou být informace pro obnovení uloženy v místní službě Active Directory.</span><span class="sxs-lookup"><span data-stu-id="5c70a-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
  
 
