@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 10ef2e8fa7c564d53177a52136eb48cd709e5c55
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158490"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702608"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce vyžaduje účet správce společnosti nebo fakturace
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce vyžaduje účet správce společnosti nebo fakturačního účtu.
 
-Modul MSCommerce vyžaduje účet s oprávněními správce fakturace společnosti nebo fakturace. Pokud se zobrazuje následující chyba, budete se muset znovu spojit s jiným účtem.
+Modul MSCommerce vyžaduje účet s oprávněními správce společnosti nebo fakturačního účtu. Pokud se zobrazí tato chybová zpráva, budete muset znovu připojit jiný účet.
 
-*ErrorMessage - Vzdálený server vrátil chybu: (403) Zakázáno. ErrorDetails - Na C:\Program Files\WindowsPowerShell\Moduly\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Nepodařilo se retri ...*<br>
+*ErrorMessage – vzdálený server vrátil chybu: (403) zakázáno. ErrorDetails-v C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 znaků: 5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-ErrorContext $ _-CustomErrorMessage "přeretri...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo : NotSpecified: (:) [Chyba zápisu], WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ Plně kvalifikovanýerrord : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. Commands. WriteErrorException, HandleError*
 
-Pokud váš účet nemá oprávnění Správce společnosti nebo správce fakturace, obraťte se na správce IT.
+Pokud váš účet nemá oprávnění správce společnosti nebo fakturace, obraťte se na správce IT.

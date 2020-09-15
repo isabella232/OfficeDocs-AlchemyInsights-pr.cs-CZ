@@ -1,40 +1,41 @@
 ---
-title: Monitorování podmíněného přístupu
+title: Sledování podmíněného přístupu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6083fc427e3791fdb0907198b525337a0c987c4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713711"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702896"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Monitorování podmíněného přístupu pro exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>Sledování podmíněného přístupu pro Exchange
 
-Uživatelé cílení s podmíněným přístupem obdrží e-mail s oznámením, pokud nesplňují požadavky na přístup vaší organizace. Chcete-li vyřešit, doporučujeme jeden nebo více z následujících řešení:
+Uživatelé s podmíněným přístupem budou dostávat e-mailové zprávy, pokud nesplňují požadavky na přístup vaší organizace. Chcete-li vyřešit problém, doporučujeme jedno nebo více následujících řešení:
   
-- Pokud se předpokládá, že zařízení je zaregistrované, řekněte uživateli, aby přešel do aplikace Portál společnosti a ověřil, že se zobrazuje na portálu společnosti. Pokud tomu tak není, uživatel by měl zaregistrovat zařízení.
+- Pokud se předpokládá, že je zařízení zaregistrované, poraďte se s tím, že přejde do aplikace Portál společnosti a ověří, že se zobrazí na portálu společnosti. Pokud to nepomůže, uživatel by měl zařízení zaregistrovat.
     
-- Na webu Azure Portal přejděte na **dodržování předpisů pro zařízení Intune \> **. V části **Monitor** klikněte na **Kompatibilita zařízení**. Chcete-li ověřit, zda je zařízení uživatele označeno jako vyhovující, zobrazte zprávu o dodržování předpisů zařízení. 
+- Na portálu Azure Portal přejděte na ** \> kompatibilitu zařízení**. V části **monitor** klikněte na položku **dodržování předpisů**. Zobrazte sestavu dodržování předpisů zařízení a ověřte, že zařízení uživatele je označené jako kompatibilní. 
     
-- Na webu Azure Portal přejděte na **dodržování předpisů pro zařízení Intune \> **. V části **Manage**klikněte na **Zásady**. V seznamu zásad dodržování předpisů ověřte, zda je k zařízení uživatele přiřazen profil. Pokud není přiřazen žádný profil, Intune nebude moct potvrdit stav kompatibility zařízení. 
+- Na portálu Azure Portal přejděte na ** \> kompatibilitu zařízení**. V části **Spravovat**klikněte na **zásady**. V seznamu zásad dodržování předpisů ověřte, zda je k zařízení uživatele přiřazen profil. Pokud není přiřazen žádný profil, nebude moci Intune potvrdit jeho stav. 
     
 - Upravte přiřazení podmíněného přístupu uživatele.
     
-1. Na webu Azure Portal přejděte na **Zásady podmíněného \> přístupu \> Intune**
+1. V Azure Portalu přejděte na ** \> \> zásady podmíněného přístupu** .
     
-2. Výběr zásadze ze seznamu
+2. V seznamu vyberte zásadu
     
-3. Klikněte na **Uživatelé a skupiny.**
+3. Klikněte na **Uživatelé a skupiny** .
     
-4. Chcete-li na někoho cílit určitou zásadu, přidejte ji do seznamu **Zahrnout.** Chcete-li zajistit, aby byla osoba ze zásad vynechána, přidejte ji do seznamu **Vyloučit.** 
+4. Chcete-li určit určitou zásadu, přidejte ji do seznamu **zahrnutí** . Chcete-li zajistit, aby některá osoba byla ze zásady vynechána, přidejte ji do seznamu **vyloučení** . 
     
-Přečtěte si více: [Jak monitorovat zařízení podmíněného přístupu](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Další informace: [sledování zařízení podmíněného přístupu](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 
