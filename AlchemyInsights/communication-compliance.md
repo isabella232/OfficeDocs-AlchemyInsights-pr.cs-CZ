@@ -1,43 +1,44 @@
 ---
-title: Dodržování předpisů pro komunikaci
+title: Shoda komunikace
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: a10d6ce44ab205087669b3f2152351a949030b02
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 33f15f34b93e60d86c0ce185345f40fd0d3809f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706158"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713844"
 ---
-# <a name="communication-compliance-in-microsoft-365"></a>Dodržování předpisů pro komunikaci v Microsoftu 365
+# <a name="communication-compliance-in-microsoft-365"></a>Shoda komunikace v Microsoft 365
 
-Dodržování předpisů pro komunikaci je nové řešení dodržování předpisů microsoftu 365, které organizacím pomáhá splnit požadavky na dodržování předpisů dohledu a minimalizovat rizika komunikace. Je založen na funkci Dohled a obsahuje nová vylepšení, včetně:
+Shoda komunikace je nové řešení dodržování předpisů Microsoft 365, které pomáhá organizacím splnit požadavky na dodržování předpisů pro kontrolu a minimalizovat rizika komunikace. Je založen na funkci dozoru a obsahuje nová vylepšení, mezi které patří:
 
-- Inteligentní přizpůsobitelné šablony
-- Flexibilní nápravné pracovní postupy
-- Užitečné přehledy
+- Inteligentní přizpůsobitelná šablona
+- Pružné nápravné pracovní postupy
+- Přehledy s akcemi
 
-Pokud v současné době používáte [zásady dohledu](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), doporučujeme nyní použít nové dodržování předpisů komunikace k řešení regulačních potřeb.
+Pokud používáte [zásady kontroly dozoru](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies), doporučujeme vám nyní použít novou komunikaci, která bude splňovat požadavky na předpisy.
 
-Informace o nastavení dodržování předpisů v komunikaci naleznete [v tématu Konfigurace dodržování předpisů pro komunikaci](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
+Pokud chcete nastavit kompatibilitu komunikace, přečtěte si článek [Konfigurace dodržování předpisů komunikace](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
-Informace o kontrole, kontrole a nápravě dodržování předpisů v komunikaci naleznete v [tématu Investigate and resante communication compliance alerts](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
+Informace o tom, jak zkontrolovat a opravit dodržování podmínek komunikace, najdete v tématu [zkoumání a oprava upozornění na kompatibilitu komunikace](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-investigate-remediate).
 
-Přehled funkce dodržování předpisů komunikace najdete [v tématu Dodržování předpisů komunikace v Microsoftu 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
+Přehled funkce pro dodržování předpisů v komunikaci najdete v tématu [Kompatibilita komunikace v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance).
 
-Licenční požadavky: Uživatelé monitorovaná komunikačními zásadami musí mít jednu z následujících možností:
+Licenční požadavky: uživatelé, kteří sledují zásady komunikace, musí mít jednu z těchto možností:
 
-- Licence microsoft 365 E5 compliance
-- Licence Office 365 Enterprise E3 s doplňkem Advanced Compliance
+- Licence pro dodržování předpisů v Microsoft 365 E5
+- Licence Office 365 Enterprise E3 s doplňkem rozšířený dodržování předpisů
 - Předplatné Office 365 Enterprise E5
 
-Pokud nemáte nic z výše uvedeného a chcete vyzkoušet dodržování předpisů pro komunikaci, **[zaregistrujte se ke zkušební verzi Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
+Pokud nemáte žádnou z výše uvedených skutečností a chcete vyzkoušet dodržování předpisů komunikace, **[Zaregistrujte si zkušební verzi Office 365 Enterprise E5](https://go.microsoft.com/fwlink/p/?LinkID=698279)**.
