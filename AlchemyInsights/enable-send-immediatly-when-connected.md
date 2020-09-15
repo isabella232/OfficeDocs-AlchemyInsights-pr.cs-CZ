@@ -1,10 +1,11 @@
 ---
-title: Povolit odeslat okamžitě po připojení
+title: Povolit odesílání okamžitě po připojení
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 6daf26a899519d16711548113d4a04de0a563fee
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44568955"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709576"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Povolit odeslat okamžitě po připojení
+# <a name="enable-send-immediately-when-connected"></a>Povolit odesílání okamžitě po připojení
  
-1. Na kartě Soubor klepněte na tlačítko **Možnosti**.
+1. Na kartě soubor klikněte na **Možnosti**.
 
-2. V dialogovém okně Možnosti aplikace Outlook klepněte na tlačítko **Upřesnit**.
+2. V dialogovém okně Možnosti aplikace Outlook klikněte na **Upřesnit**.
 
-3. V části Odeslat a přijmout klepnutím povolte **možnost Odeslat okamžitě, když je připojen .** Klikněte na **OK**.
+3. V části Odeslat a přijmout kliknutím povolte **odesílání okamžitě po připojení**. Klikněte na tlačítko **OK**.
 
-Podrobné informace naleznete v tématu:
-- [Video: Odeslání nebo odstranění zablokovaný e-mail](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-mail zůstane ve složce Pošta k odeslání, dokud ručně nezahájíte operaci odesílání a přijímání v aplikaci Outlook.](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Podrobné informace najdete v těchto tématech:
+- [Video: odeslání nebo odstranění zablokovaných e-mailů](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [E-mail zůstává ve složce Pošta k odeslání, dokud ručně nespustíte operaci odesílání a přijímání v Outlooku](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
