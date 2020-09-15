@@ -5,40 +5,41 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582840"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699728"
 ---
 # <a name="unable-to-add-2010-approval-workflow"></a>Nelze přidat pracovní postup schválení 2010.
 
-V kolekci webů služby Microsoft SharePoint nelze do seznamu nebo knihovny přidat globálně opakovaně použitelný pracovní postup (například Schválení – SharePoint 2010).
+V kolekci webů Microsoft SharePointu nelze do seznamu nebo knihovny přidat globálně opakovaně použitelný pracovní postup (například schválení – SharePoint 2010 ").
   
-Chcete-li tento problém vyřešit, postupujte takto: 
+Tento problém vyřešíte takto: 
   
-1. Otevřete kořenový web kolekce webů v SharePoint Designeru 2013.
+1. Otevřete kořenový web kolekce webů v SharePoint designeru 2013.
   
-2. V části **Objekty webu**vyberte **Pracovní postupy**. 
+2. V části **objekty webu**vyberte **pracovní postupy**. 
   
-3. V části **Nový** na pásu **karet Pracovní postupy** vyberte **Opakovaně použitelný pracovní postup**. 
+3. V části **Nový** na pásu karet **pracovní postupy** vyberte **opakovaně použitelný pracovní postup**. 
   
-4. Do formuláře **Vytvořit opakovaně použitelný pracovní postup** zadejte název ** *Repair2010* **. V **části Typ platformy**klepněte na **položku Pracovní postup SharePointu 2010**a potom klepněte na tlačítko **OK**. 
+4. Ve formuláři **vytvořit opakovaně použitelný pracovní postup** zadejte název * * *Repair2010* * *. V nabídce **typ platformy**klikněte na **pracovní postup SharePointu 2010**a potom klikněte na **OK**. 
   
-1. V části **Uložit** na pásu **karet Pracovního postupu** vyberte **Publikovat**. 
+1. V části **Uložit** na pásu karet **pracovního postupu** vyberte **publikovat**. 
   
-2. V části **Spravovat** na pásu **karet Pracovního postupu** vyberte Publikovat **globálně**. V dialogovém okně s potvrzením, které se zobrazí, vyberte **OK**. 
+2. V části **Spravovat** na pásu karet **pracovního postupu** vyberte **publikovat globálně**. V potvrzovacím dialogovém okně, které se zobrazí, vyberte **OK**. 
   
-3. Ve webovém prohlížeči vyhledejte kořenový web kolekce webů a potom **získejte** přístup k \> **funkcím kolekce webů**Nastavení webu . Přepíná funkce **Pracovní postupy:** 
+3. Ve webovém prohlížeči přejděte na kořenový web kolekce webů a potom na **Site Settings** \> **funkce kolekce webů**nastavení aplikace Access. Zapnutí funkce **pracovní postupy** : 
   
-· Pokud je funkce *aktivována* , klepněte na **tlačítko Deaktivovat** a potom klepněte na tlačítko **Aktivovat**. 
+· Pokud je tato funkce  *aktivovaná*  , klikněte na **deaktivovat** a potom na **aktivovat**. 
   
-· Pokud je funkce *deaktivována* , klepněte na tlačítko **Aktivovat**. 
+· Pokud je tato funkce  *Deaktivovaná*  , klikněte na **aktivovat**. 
   
-Další informace naleznete v následujícím [článku](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Další informace najdete v následujícím [článku](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

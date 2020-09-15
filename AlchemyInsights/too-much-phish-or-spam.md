@@ -1,25 +1,26 @@
 ---
-title: 665 v poštovní schránce jste obdrželi příliš mnoho nevyžádané pošty nebo nevyžádaných zpráv?
+title: 665 v poštovní schránce máte moc nevyžádaných zpráv nebo spamu?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 91c2c347e09706c1e3730eecba053035876d6931
-ms.sourcegitcommit: 0f44a600ae90e7b98a2a10988712a3fc9f837583
+ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911624"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700232"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Je v poštovní schránce příliš mnoho nevyžádané pošty nebo nevyžádaných zpráv?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Máte v poštovní schránce příliš mnoho zpráv nevyžádané pošty nebo spamu?
 
-Jako správce Microsoft 365 admin je nejlepším způsobem, jak zjistit, proč byla zpráva o podvodné poště nebo nevyžádané poště doručena, odeslat ukázku společnosti Microsoft v aplikaci [Explorer](https://protection.office.com/reportsubmission). Získáte okamžitou zpětnou vazbu týkající se filtrování zpráv a příčin potíží.
+Jako správce Microsoft 365 je nejlepší způsob, jak zjistit, proč byla zpráva o útoku phishing nebo spam odeslána, předat tento vzorek v [Průzkumníku odeslání](https://protection.office.com/reportsubmission). Získáte okamžitou zpětnou vazbu týkající se filtrování zpráv a příčin potíží.
 
-Chcete-li ji usnadnit, můžete uživatelům povolit, aby se prostřednictvím [doplňku Report Message](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)mohli hlásit přímo společnosti Microsoft.
+Chcete-li, aby uživatelé usnadnili vytváření sestav přímo společnosti Microsoft prostřednictvím [doplňku hlášení zpráv](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-**Věděl jsi to?**: nyní můžete odesílat ukázky přímo z programu [sledování zpráv](https://protection.office.com/messagetrace) a E5/ATP Plan 2 mohou odesílat ukázky z [Průzkumníka hrozeb](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Věděli jste?**: teď můžete odesílat vzorky přímo z [sledování zpráv](https://protection.office.com/messagetrace) a s použitím plánu E5/atp. 2 zákazníci můžou z [Průzkumníku hrozeb](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)posílat ukázky.
