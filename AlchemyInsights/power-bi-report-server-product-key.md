@@ -1,29 +1,30 @@
 ---
-title: Kód Product Key Server Power BI sestavy
+title: Kód Product Key pro server sestav Power BI
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1305"
 - "2500001"
-ms.openlocfilehash: dc4418ed53bfc9e40eae8936f1b135b71ad57934
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: ec7b033d524ba257ee985b5cd11881b0b9109e8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753491"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801942"
 ---
-# <a name="power-bi-report-server-product-key"></a><span data-ttu-id="af50c-102">Kód product key se Server sestav BI napájení</span><span class="sxs-lookup"><span data-stu-id="af50c-102">Power BI Report Server product key</span></span>
+# <a name="power-bi-report-server-product-key"></a><span data-ttu-id="66cbe-102">Kód Product Key pro server sestav Power BI</span><span class="sxs-lookup"><span data-stu-id="66cbe-102">Power BI Report Server product key</span></span>
 
-<span data-ttu-id="af50c-103">Pokud jste zakoupili Power BI Premium, v kartě **Nastavení Premium** Power BI admin portálu máte přístup k serveru sestav Power BI kód product key.</span><span class="sxs-lookup"><span data-stu-id="af50c-103">If you have purchased Power BI Premium, within the **Premium settings** tab of the Power BI admin portal you have access to your Power BI Report Server product key.</span></span> <span data-ttu-id="af50c-104">To je k dispozici pouze pro globální správce nebo uživatelé přiřazeny role Správce služby Power BI.</span><span class="sxs-lookup"><span data-stu-id="af50c-104">This is only available for Global Admins or users assigned the Power BI service administrator role.</span></span>
+<span data-ttu-id="66cbe-103">Pokud jste zakoupili Power BI Premium, na kartě **Nastavení prémií** na portálu správy Power BI máte přístup ke svému kódu Product Key pro Power BI Report.</span><span class="sxs-lookup"><span data-stu-id="66cbe-103">If you have purchased Power BI Premium, within the **Premium settings** tab of the Power BI admin portal you have access to your Power BI Report Server product key.</span></span> <span data-ttu-id="66cbe-104">Tato funkce je dostupná jenom pro globální správce nebo uživatelé s rolí správce služby Power BI.</span><span class="sxs-lookup"><span data-stu-id="66cbe-104">This is only available for Global Admins or users assigned the Power BI service administrator role.</span></span>
 
-<span data-ttu-id="af50c-105">**Server sestav Power BI klíč** výběru se zobrazí dialogové okno obsahující kód product key.</span><span class="sxs-lookup"><span data-stu-id="af50c-105">Selecting **Power BI Report Server key** displays a dialog box containing your product key.</span></span> <span data-ttu-id="af50c-106">Můžete ji zkopírovat a pomocí instalace.</span><span class="sxs-lookup"><span data-stu-id="af50c-106">You can copy it and use it with the installation.</span></span>
+<span data-ttu-id="66cbe-105">Když vyberete **klíč serveru sestav Power BI** , zobrazí se dialogové okno s vaším produktem.</span><span class="sxs-lookup"><span data-stu-id="66cbe-105">Selecting **Power BI Report Server key** displays a dialog box containing your product key.</span></span> <span data-ttu-id="66cbe-106">Můžete ho zkopírovat a použít v instalaci.</span><span class="sxs-lookup"><span data-stu-id="66cbe-106">You can copy it and use it with the installation.</span></span>
 
-<span data-ttu-id="af50c-107">Pokud máte SQL Server Enterprise SA dohody, můžete získat kód product key z [Volume Licensing Service Center](https://www.microsoft.com/Licensing/servicecenter/).</span><span class="sxs-lookup"><span data-stu-id="af50c-107">If you have a SQL Server Enterprise SA agreement, you can get your product key from the [Volume Licensing Service Center](https://www.microsoft.com/Licensing/servicecenter/).</span></span>
+<span data-ttu-id="66cbe-107">Pokud máte smlouvu o přidružení zabezpečení SQL serveru Enterprise, můžete získat kód Product Key od [centra multilicenční služby](https://www.microsoft.com/Licensing/servicecenter/).</span><span class="sxs-lookup"><span data-stu-id="66cbe-107">If you have a SQL Server Enterprise SA agreement, you can get your product key from the [Volume Licensing Service Center](https://www.microsoft.com/Licensing/servicecenter/).</span></span>
 
-<span data-ttu-id="af50c-108">Další informace:https://docs.microsoft.com/power-bi/report-server/install-report-server</span><span class="sxs-lookup"><span data-stu-id="af50c-108">For more information: https://docs.microsoft.com/power-bi/report-server/install-report-server</span></span>
+<span data-ttu-id="66cbe-108">Další informace: https://docs.microsoft.com/power-bi/report-server/install-report-server</span><span class="sxs-lookup"><span data-stu-id="66cbe-108">For more information: https://docs.microsoft.com/power-bi/report-server/install-report-server</span></span>
