@@ -1,31 +1,32 @@
 ---
-title: Intune Insider archivní hlášení
+title: Intune Insider – archivace chyb
 ms.author: mandia
 author: mandia
 manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765946"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667619"
 ---
-# <a name="intune-insider-bug-filing"></a>Intune Insider archivní hlášení
+# <a name="intune-insider-bug-filing"></a>Intune Insider – archivace chyb
 
-Děkujeme vám za váš zájem o program Intune Insiders. Pokud jste již na palubě programu Intune Insiders a potřebujete podat žádost o podporu, pak:
+Děkujeme za váš zájem v programu Intune Insider. Pokud jste už v programu Intune Insider zakoupili nápovědu a potřebujete žádost o podporu, postupujte takto:
 
-1. Popište svůj problém ve výše uvedeném poli.
-2. Vytvořte novou žádost o službu pomocí níže uvedených možností.
+1. Popište svůj problém do výše uvedeného pole.
+2. Vytvořte novou žádost o služby pomocí níže uvedených možností.
 
-Bude vás kontaktovat pracovník podpory Intune.
+Pracovník podpory Intune vás bude kontaktovat.
 
-Pokud nejste v programu Intune Insiders, děkujeme vám za váš zájem. V současné době nepřijímáme nové účastníky.
+Pokud nejste v Intune programu Insider, Děkujeme za váš zájem. Zrovna nejsme nábor na nové účastníky.

@@ -1,5 +1,5 @@
 ---
-title: Jak zkontrolovat stav synchronizace hesla
+title: Jak zkontrolovat stav synchronizace hesel
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765586"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665639"
 ---
-# <a name="enable-password-sync"></a>Povolit synchronizaci hesel
+# <a name="enable-password-sync"></a>Povolení synchronizace hesel
 
-1.  Na domovské stránce Centra pro správu Microsoftu 365 zvolte **Stav DirSync.** 
+1.  Na domovské stránce centra pro správu Microsoft 365 zvolte **DirSync stav** . 
     
-     *Případně můžete přejít na **uživatele** \> **aktivní uživatele**a na stránce Aktivní uživatelé zvolit **Další** \> **synchronizace adresářů.*** 
+     *Můžete také **Přejít na** \> **aktivní**uživatele a na stránce aktivní uživatelé zvolit **Další** \> **synchronizace adresářů.*** 
     
-2. V podokně Synchronizace adresářů zvolte **Přejít na správu DirSync**. 
+2. V podokně synchronizace adresářů zvolte **Přejít na správu DirSync**. 
     
-3. Nyní uvidíte svůj stav a provedete změny:
+3. Teď uvidíte svůj stav a provedete změny:
     
-    **Synchronizace hesel povolena:** (True nebo False). Určuje, zda máte povolenou synchronizaci hesel mezi místním a vaším tenantem. 
+    **Zapnutá synchronizace hesel:** (pravda nebo NEPRAVDA) Určuje, jestli máte povolenou synchronizaci hesel mezi místními a vaším nájemcem. 
     
-    **Poslední synchronizace hesla:** (Naposledy byla synchronizace hesla spuštěna). Zobrazí se upozornění a odkaz na nástroj pro řešení potíží, pokud byla poslední synchronizace před více než třemi dny. 
+    **Poslední synchronizace hesel:** (poslední synchronizace hesel byla spuštěna). Pokud poslední synchronizace proběhla před více než třemi dny, zobrazí se upozornění a odkaz na nástroj pro řešení problémů. 
     
 
