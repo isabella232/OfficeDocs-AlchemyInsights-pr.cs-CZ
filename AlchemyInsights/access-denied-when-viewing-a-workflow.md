@@ -1,31 +1,32 @@
 ---
-title: Přístup byl odepřen při zobrazení pracovního postupu
+title: Odepřený přístup při prohlížení pracovního postupu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687323"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688795"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Přístup byl odepřen při zobrazení pracovního postupu
+# <a name="access-denied-when-viewing-a-workflow"></a>Odepřený přístup při prohlížení pracovního postupu
 
-Pracovní postupy SharePointu 2013, které se pokoušejí odeslat e-mail skupině SharePointu, můžou selhat s chybovou zprávou "Přístup byl odepřen", pokud členství ve skupině SharePoint není nastaveno na Všechny.
+Pracovní postupy SharePoint 2013, které se pokoušíte odeslat e-mail skupině SharePoint, se můžou zdařit s chybovou zprávou "přístup odepřen", pokud členství ve skupině SharePointu není nastaveno na Everyone.
   
- **Chcete-li tento problém vyřešit, postupujte takto:**
+ **Tento problém vyřešíte takto:**
   
- 1. Umožněte všem zobrazit členy skupiny SharePoint.
+ 1. Povolit všem zobrazit členy skupiny SharePointu
   
- 2. Odeberte skupinu SharePoint z řádku Komu nebo KOPIE e-mailu.
+ 2. Odeberte skupinu SharePointu z řádku Komu nebo kopie e-mailu.
   
- 3. Explicitně přidejte uživatele do řádku Komu nebo KOPIE, pokud viditelnost členství nelze pro skupinu SharePoint změnit.
+ 3. Pokud nechcete, aby byla viditelnost členství pro skupinu SharePointu změněna, přidejte uživatele do řádku Komu nebo kopie.
   
-Chcete-li zobrazit další podrobnosti naleznete [v protokolu HTTP Unauthorized to /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Pokud chcete zobrazit další podrobnosti, přečtěte si téma [http neautorizované na/_vti_bin/Client.svc/SP.Utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

@@ -1,31 +1,32 @@
 ---
-title: Odebrání centrální lokality
+title: Odebrání centrálního webu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: ff0b3b73960a5884539b7ad2d3923925b12b2aca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: ebd9b894d27e9278cda69d4a93c163e285f556f6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048897"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692864"
 ---
-# <a name="remove-a-hub-site"></a>Odebrání centrální lokality
+# <a name="remove-a-hub-site"></a>Odebrání centrálního webu
 
-Zrušení registrace centrální lokality v novém centru pro správu služby SharePoint:
+Zrušení registrace webu centra v novém centru pro správu SharePointu:
   
-1. V novém centru pro správu služby SharePoint klepněte v části **lokality**na položku **Active sites**.
+1. V novém centru pro správu SharePointu klikněte v části **weby**na **aktivní weby**.
 
-2. Vyberte web, klepněte na položku **rozbočovač**a pak klepněte na možnost **zrušit registraci jako centrální lokalitu**.
+2. Vyberte web, klikněte na **centrální lokalitu**a potom klikněte na **zrušit registraci jako centrální lokalitu**.
 
-3. Klikněte na **OK**.
+3. Klikněte na tlačítko **OK**.
 
-[Další informace o webech rozbočovačů](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
+[Další informace o centrálních webech](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   

@@ -1,41 +1,42 @@
 ---
-title: Řešení chybějících dat v aplikaci OneNote
+title: Řešení chybějících dat ve OneNotu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2500"
-ms.openlocfilehash: 4fe4574786674add89040fd530b931c1fd4e38de
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 6d458e3b2318b47be971be9a3c6f4d323d9ad740
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800261"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662309"
 ---
-# <a name="resolving-missing-data-in-onenote"></a>Řešení chybějících dat v aplikaci OneNote
+# <a name="resolving-missing-data-in-onenote"></a>Řešení chybějících dat ve OneNotu
 
-**Chybějící poznámkového bloku**
+**Chybějící Poznámkový blok**
 
-- Pokud poznámkového bloku na OneDrive byl omylem odstraněn, můžete ho obnovit pomocí následujících kroků v [Obnovit odstraněné soubory nebo složky v OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
-- Můžete obnovit poznámkového bloku na odstranění OneDrive do 30 dnů ve výchozím nastavení těchto hodnot kroky [Obnovit odstraněné OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
-- Aplikace OneNote může pomocí jiného účtu, než očekáváte. Pokud máte pracovní nebo pokud škola účet kromě svůj osobní účet Microsoft, budete muset přidat další účet chcete-li zobrazit všechny poznámkové bloky (najdete pokyny, jak [Přidat účet do aplikace OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+- Pokud byl Poznámkový blok na OneDrivu omylem odstraněn, můžete ho obnovit podle pokynů v části [obnovení odstraněných souborů nebo složek na OneDrivu](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f) .
+- Poznámkový blok můžete na odstraněném OneDrivu ve výchozím nastavení obnovit do 30 dnů podle pokynů v části [Obnovení odstraněného OneDrivu](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) .
+- OneNote může používat jiný účet, než očekáváte. Pokud máte kromě svého osobního účtu Microsoft k dispozici pracovní nebo školní účet, budete muset přidat další účet a zobrazit všechny vaše poznámkové bloky (podívejte se na pokyny, jak [Přidat účet ve OneNotu](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
 
 **Chybějící poznámky v poznámkovém bloku**
 
-Jednou z nejčastějších příčin chybějící stránky nebo oddíly v poznámkovém bloku je chyba synchronizace. V tomto případě data nejsou ztracena a lze obnovit po synchronizace funguje. Zkontrolujte každé aplikace OneNote použili uživatelé klientského počítače Chcete-li zjistit, zda některý z nich zobrazí chybu poznámkového bloku a pokud dojde k chybě, naleznete v tématu [Odstraňování problémů při aplikaci OneNote nelze synchronizovat](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
+Jednou z nejběžnějších příčin chybějících stránek nebo oddílů v poznámkovém bloku je chyba synchronizace. V tomto případě se data neztratí a po dokončení synchronizace je bude možné obnovit. Zkontrolovat, jestli se všichni uživatelé OneNotu mohli podívat na chybu poznámkového bloku, a pokud dojde k chybě, podívejte se na článek [řešení problémů, když nemůžete synchronizovat OneNote](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45).
 
-- V aplikaci OneNote pro Windows 10 žlutá výstražná ikona trojúhelníku pravděpodobně zobrazí se vedle poznámkového bloku.
-- V aplikaci OneNote 2016 klepněte pravým tlačítkem myši na název poznámkového bloku pod pásem karet a klepněte na tlačítko "Stav synchronizace poznámkového bloku"
-- Zkontrolujte žlutý vykřičník vedle ikony poznámkového bloku aplikace OneNOte pro Mac
-- V aplikaci OneNote pro iPhone navigace v poznámkovém bloku a klepněte na tlačítko akce v pravém horním rohu
-- V aplikaci OneNote pro Android přejděte k další chyby synchronizace poznámkových bloků >View
+- Ve OneNotu pro Windows 10 se vedle poznámkového bloku zobrazuje žlutá trojúhelníková ikona s upozorněním.
+- Ve OneNotu 2016 klikněte pravým tlačítkem myši na název poznámkového bloku pod pásem karet a klikněte na "stav synchronizace poznámkového bloku".
+- Ve OneNotu pro Mac zkontrolujte, jestli je v blízkosti ikony poznámkového bloku žlutý vykřičník.
+- Ve OneNotu pro iPhone přejděte do poznámkového bloku a klikněte na tlačítko akce v pravém horním rohu.
+- V OneNotu pro Android přejděte na další poznámkové bloky – >zobrazení chyb synchronizace.
 
-Postupujte podle kroků v [Najít ztracené poznámky](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) k vyhledávání, synchronizace souboru nebo obnovit své poznámky.
+Postupujte podle pokynů v tématu [vyhledání ztracených poznámek](https://support.office.com/article/32cb2bd7-afe7-44d2-a711-398a88421287) k vyhledávání, synchronizaci souboru nebo obnovení poznámek.
 
-Pokud používáte aplikaci OneNote 2016, je možné Chcete-li [Obnovit odstraněné poznámky](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) ze zálohy.
+Pokud používáte OneNote 2016, můžete [Obnovit odstraněné poznámky](https://support.office.com/article/32ed1036-74fd-4c21-bc28-033a486e6b14) ze zálohy.

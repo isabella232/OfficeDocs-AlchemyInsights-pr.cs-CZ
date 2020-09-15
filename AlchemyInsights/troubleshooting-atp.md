@@ -1,34 +1,35 @@
 ---
-title: Řešení potíží s pokročilou ochranou před pokročilými hrozbami Office 365
+title: Řešení potíží s rozšířeným zabezpečením Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512583"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658907"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Řešení potíží s pokročilou ochranou před pokročilými hrozbami Office 365
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Řešení potíží s rozšířeným zabezpečením Office 365
 
-- Všimli jste si zpoždění při doručování zpráv? V zásadách bezpečné přílohy ATP použijte možnost [Dynamické doručování.](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) To pomůže vyhnout se zpoždění zpráv a zároveň chránit příjemce před škodlivými soubory.
+- Zaznamenáte zpoždění doručení zpráv? Použijte možnost [dynamického doručování](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) v zásadě bezpečné přílohy atp. Tím se zabrání zpoždění zpráv při ochraně příjemců před škodlivými soubory.
 
-- Chcete společnosti Microsoft nahlásit falešně pozitivní nebo falešně negativy? Tento [odkaz](https://www.microsoft.com/wdsi/filesubmission/) slouží k odeslání souborů k analýze.
+- Chcete Microsoftu ohlásit nepravdivé kladné nebo falešně záporné hodnoty? Pomocí tohoto [odkazu](https://www.microsoft.com/wdsi/filesubmission/) můžete odesílat soubory k analýze.
 
-- Věděli jste, že můžete povolit ochranu bezpečných odkazů pro interní e-maily odeslané mezi příjemci v rámci vaší organizace? Postupujte takto:
+- Věděli jste, že můžete povolit ochranu bezpečných odkazů pro interní e-maily poslané mezi příjemci v organizaci? Postupujte takto:
 
-  1. Přejděte na [https://protection.office.com](https://protection.office.com) globální účet správce nebo správce zabezpečení a přihlaste se k jeho účtu.
+  1. Přejděte na stránku [https://protection.office.com](https://protection.office.com) a přihlaste se pomocí globálního správce nebo účtu správce zabezpečení.
 
-  2. V levém navigačním podokně v části **Správa hrozeb**zvolte Bezpečné odkazy **zásad** \> **Safe Links**.
+  2. V levém navigačním podokně v části **Správa hrozeb**zvolte **Policy** \> **bezpečné odkazy**zásad.
 
-  3. V části **Zásady, které platí pro celou organizaci,** vyberte zásadu a klepněte na tlačítko **Upravit**.
+  3. V **zásadách, které platí pro celou organizaci** , vyberte zásadu a klikněte na **Upravit**.
 
-  4. V části **Nastavení**povolte **použít bezpečné odkazy na zprávy odeslané v rámci organizace**.
+  4. V části **Nastavení**povolte **použití bezpečných odkazů na zprávy poslané v rámci organizace**.

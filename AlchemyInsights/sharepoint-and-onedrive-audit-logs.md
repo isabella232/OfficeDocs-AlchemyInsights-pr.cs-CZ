@@ -1,51 +1,52 @@
 ---
-title: Klasické sestavy protokolu auditu služby SharePoint
+title: Klasické sestavy protokolu auditování služby SharePoint
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 0aedb549f11db54d3cd480671fb0767c60680ad3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509593"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662201"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>Protokoly auditu SharePointu a OneDrivu
+# <a name="sharepoint-and-onedrive-audit-logs"></a>Protokoly auditování SharePointu a OneDrivu
 
-## <a name="sharepoint-classic-audit-logs"></a>Klasické protokoly auditu sharepointu
+## <a name="sharepoint-classic-audit-logs"></a>Protokoly auditování klasické verze SharePointu
 
-Starší auditování SPO bylo migrováno do jednotného protokolu auditu (UAL). Všechny starší zprávy o auditu SPO budou nyní napájeny přes UAL a starší signály auditu byly migrovány do UAL.
+SPO starší auditování bylo migrováno do protokolu Unified audit (UAL). Všechny SPO sestavy auditování starší verze teď budou napájeny přes UAL a starší signály auditu byly migrovány do UAL.
 
 Klíčové změny:
 
-* Ořezávání není k dispozici jako funkce.
-* Výběr konkrétních událostí k auditování není k dispozici. Úplný seznam auditovaných událostí, které jsou ve výchozím nastavení k dispozici, naleznete v [tomto dokumentu.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
-* Možnost **Umístění** v části **Přizpůsobené sestavy** NENÍ k dispozici.
-* Možnost **Otevření nebo stažení událostí dokumentů** není k dispozici.
+* Střih není k dispozici jako možnost.
+* Výběr konkrétních událostí k auditování není k dispozici. V [tomto dokumentu](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) najdete úplný seznam auditovaných událostí, které jsou ve výchozím nastavení dostupné.
+* Možnost **umístění** v části **přizpůsobené sestavy** není dostupná.
+* Možnost **otevřít nebo stáhnout dokumenty** není dostupná.
 
-[Konfigurace nastavení auditu pro kolekci webů](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
+[Konfigurace nastavení auditování pro kolekci webů](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
 
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Protokoly sharepointového a onedriveového moderního jednotného auditu z dodržování předpisů
+## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Moderní protokoly pro jednotné auditování v SharePointu a OneDrivu
 
-* [Zapnutí nebo vypnutí jednotného protokolování auditu](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
+* [Zapnutí nebo vypnutí protokolování jednotného auditu](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
 V SharePointu nebo OneDrivu se nevyžaduje žádná další konfigurace.
 
-Pomocí vyhledávání protokolování auditu zkontrolujte aktivitu souborů, složek, uživatelů, oprávnění:
+Použití vyhledávání protokolování auditu ke kontrole aktivit souborů, složek, uživatelů, oprávnění:
 
-* [Aktivity souborů a stránek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
-* [Aktivity složek](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Aktivity pro sdílení a přístup k žádosti](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Aktivity se soubory a stránkami](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
+* [Aktivity složky](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+* [Aktivity sdílení a žádostí o přístup](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
 * [Aktivity synchronizace](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Činnosti správy webu](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Aktivity správy webu](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Další informace o načtení těchto událostí naleznete [v tématu Hledání v protokolu auditu](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Další informace o tom, jak tyto události získat, najdete v tématu [vyhledání protokolu auditování](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
