@@ -1,10 +1,11 @@
 ---
-title: Jak provést nákup Microsoft 365
+title: Jak vytvořit nákup v systému Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 57cf149b0ecfaf06f34b7fb8cd746584e305a232
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509197"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703870"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Jak provést nákup Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Jak vytvořit nákup v systému Microsoft 365
 
-Nákupy v Microsoftu 365 lze provést v Centru pro správu.
+Nákupy v Microsoft 365 je možné vytvořit v centru pro správu.
   
-- Pokud si chcete koupit plán, přejděte na stránku **Služby fakturace** \> [nákupu.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+- Pokud chcete koupit plán, přejděte na **Billing** \> stránku [služby pro nákupy](https://go.microsoft.com/fwlink/p/?linkid=868433) fakturace.
 
-- Chcete-li zakoupit další licence, přejděte na **Billing** \> stránku **[Fakturace produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Vyberte předplatné, do kterého chcete přidat licence, a pak vyberte **Přidat nebo odebrat licence**.
+- Pokud chcete zakoupit další licence, přejděte na stránku **fakturace** \> **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Zvolte předplatné, ke kterému chcete přidat licence, a pak vyberte **Přidat nebo odebrat licence**.
   
-Další informace najdete v tématu [Zakoupení licencí pro předplatné Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Další informace najdete v článku [Nákup licencí pro předplatné Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Řešení potíží**
 
@@ -35,6 +36,6 @@ Pokud narazíte na problémy s načítáním webové stránky, zkuste ji otevř�
 
 **Další zdroje informací**
   
-- [Přiřazení licencí uživatelům v Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Přiřazení licencí uživatelům v Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [Zrušení Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Zrušení Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

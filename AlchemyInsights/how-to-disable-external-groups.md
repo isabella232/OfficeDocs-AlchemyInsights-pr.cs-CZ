@@ -5,30 +5,31 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 2159feb4aa3999072de57d76790a2959c7355976
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7a1bbda3a54d2662bdfe21cda961c32456edb82
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720761"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704121"
 ---
 # <a name="how-to-disable-external-groups"></a>Jak zakázat externí skupiny
 
-Yammer externí zasílání zpráv platí Exchange Transport Rules (ETRs), sada proaktivních ovládacích prvků, aby se zabránilo sdílení informací o společnosti. Chcete-li uživatelům zabránit ve vytváření externích skupin, je třeba nakonfigurovat pravidlo přenosu serveru Exchange (ETR) a potom nakonfigurovat Yammer tak, aby používal pravidlo přenosu exchange k blokování externího zasílání zpráv.
+Externí zasílání zpráv Yammeru používá pravidla přenosu Exchange (vynucovat), což je sada proaktivních ovládacích prvků, které brání sdílení informací o společnosti. Aby uživatelé mohli vytvářet externí skupiny, musíte nakonfigurovat pravidlo přenosu Exchange (ETR) a potom Yammer nakonfigurovat tak, aby používal pravidlo přenosu Exchange pro blokování externích zpráv.
   
-Po vytvoření pravidla v Centru pro správu Exchange Online nastavte eTR takto, aby se použilo v Yammeru:
+Po vytvoření pravidla v centru pro správu Exchange Online nastavte ETR na použít v Yammeru takto:
   
-- Přihlaste se k Yammeru jako ověřený správce a v **Centru pro správu Yammeru**přejděte na **Nastavení obsahu a zabezpečení \> C.**
+- Přihlaste se k Yammeru jako ověřený správce a v **centru pro správu Yammeru**přejděte na obsah C **a \> nastavení zabezpečení.**
 
-- V části **Externí zasílání zpráv**vyberte v **Yammeru vynutit pravidla přenosu Exchange online (ETRs).**
+- V části **externí zasílání zpráv**vyberte **v Yammeru vynutit pravidla přenosu Exchange Online (vynucovat).**
 
 - Zvolte **Uložit**.
 
-Další informace naleznete [v tématu Zakázání externích zpráv v síti Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+Další informace najdete v článku [zakázání externího zasílání zpráv v síti Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   
