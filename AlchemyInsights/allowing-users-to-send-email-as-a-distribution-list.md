@@ -1,10 +1,11 @@
 ---
-title: 717 umožnit uživatelům odesílat e-maily jako distribuční seznam
+title: 717 umožňuje uživatelům posílat e-maily jako distribuční seznam.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 8f4e00d742831f88f6609c55d13e3dfba8ffe3d5
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 71f251139160ef41acac13fd08af80515581ea10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768253"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718110"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Povolit uživatelům odesílat e-maily jako distribuční skupinu
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>Povolení uživatelům posílat e-maily jako distribuční skupinu
 
-Chcete-li uživatelům povolit odesílání zpráv, které pocházejí z existující distribuční skupiny, postupujte následujícím způsobem:
+Pokud chcete uživatelům povolit posílání zpráv, které se jeví z existující distribuční skupiny, postupujte takto:
 
-1. V [centru pro správu serveru Exchange](https://outlook.office365.com/ecp/)přejděte na **** \> **skupinu**příjemců.
+1. V [centru pro správu Exchange](https://outlook.office365.com/ecp/)přejděte na skupiny **příjemci** \> **Groups**.
 
-2. Vyberte distribuční skupinu, kterou chcete upravit, a klepněte na tlačítko **Upravit**.
+2. Vyberte distribuční skupinu, kterou chcete upravit, a klikněte na **Upravit**.
 
-3. V okně vlastností skupiny přejděte na kartu **delegování skupiny** a zadejte uživatele, kteří mohou odesílat nebo posílat jménem distribuční skupiny.
+3. Ve vlastnostech skupiny přejděte na kartu **delegování skupiny** a určete uživatele, kteří se můžou posílat nebo posílat jménem distribuční skupiny.
 
-Další informace naleznete v tématu [e-mailové možnosti](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+Další informace najdete v tématu [Možnosti e-mailu](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
