@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6bfa1924-ec45-42b7-b1e3-10093e4e446f
-ms.openlocfilehash: 3d4ebee3a7aca37b3de14c8f4acd51f33881b55f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b81f2915a3b8674dcbe30b735fc10858956ba94e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505932"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681469"
 ---
 # <a name="classification-labels"></a>Popisky klasifikace
 
-Pomocí popisků citlivosti nebo klasifikace můžete klasifikovat a chránit citlivý obsah a zároveň zajistit, aby produktivita a schopnost vašich lidí spolupracovat nebyla omezena.
+Pomocí značek citlivosti nebo klasifikace můžete klasifikovat a chránit váš citlivý obsah a zajistit, aby produktivita a schopnost lidí nebránily.
 
-Další informace naleznete v následujícím [článku](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Další informace najdete v následujícím [článku](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).

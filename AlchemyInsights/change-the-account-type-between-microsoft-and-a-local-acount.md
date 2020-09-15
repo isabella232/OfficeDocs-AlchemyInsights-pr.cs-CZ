@@ -1,29 +1,30 @@
 ---
-title: Změna typu účtu mezi účtem společnosti Microsoft a místním účtem
+title: Změna typu účtu mezi účtem Microsoft a místním účtem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 322e53e2a4ecd48f84be90b48dc0270af993a849
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796025"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681505"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Změna typu účtu, se kterým se chcete přihlásit
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Změna typu účtu, pomocí kterého se přihlašujete
 
-Postup při změně typu účtu, který používáte k přihlášení k systému Windows 10:
+Tady je postup, jak změnit typ účtu, který používáte pro přihlášení do Windows 10:
 
-1. Vyberte možnost **Spustit** > **Nastavení** > **účty** > **vaše informace**.
-2. Pokud používáte místní účet, který není propojen s e-mailovou adresou, ale chcete použít účet společnosti Microsoft, vyberte možnost **Přihlásit se pomocí účtu společnosti Microsoft**.
-3. Pokud používáte účet společnosti Microsoft, který je propojen s e-mailovou adresou, ale chcete použít místní účet, vyberte **místo toho možnost přihlásit se pomocí místního účtu**.
-4. V případě potřeby zadejte heslo a pak klepněte na **Další**.
-5. Restartujte zařízení. Při příštím přihlášení se zobrazí účet, na který jste přepnuli.
+1. Vyberte možnost **Spustit**  >  **Nastavení**  >  **Accounts**  >  **Your info**.
+2. Pokud používáte místní účet, který není propojený s e-mailovou adresou, ale chcete použít účet Microsoft, vyberte **Přihlásit se pomocí účtu Microsoft**.
+3. Pokud používáte účet Microsoft, který je propojený s e-mailovou adresou, ale chcete použít místní účet, vyberte **Přihlásit se pomocí místního účtu**.
+4. V případě potřeby zadejte heslo a pak vyberte **Další**.
+5. Restartujte zařízení. Při příštím přihlášení se zobrazí účet, na který jste přešli.

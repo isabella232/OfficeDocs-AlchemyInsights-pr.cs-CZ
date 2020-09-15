@@ -1,11 +1,12 @@
 ---
-title: Při vytváření e-mailu v Outlook.com nelze vybrat kontakty
+title: Při psaní e-mailu ve Outlook.com nejdou vybírat kontakty.
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -14,13 +15,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 9d674538e9d84f47ab7ee51975e752ac24f6e1ea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711660"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683971"
 ---
-# <a name="cant-select-contacts-when-composing-email"></a>Při vytváření e-mailů nelze vybrat kontakty
+# <a name="cant-select-contacts-when-composing-email"></a>Při psaní e-mailu se nedají vybrat kontakty.
 
-Při vytváření nového e-mailu se některým zákazníkům nezobrazí seznam kontaktů, když kliknou na tlačítka **Komu** nebo **Kopie.** Chcete-li vybrat kontakt, začněte psát do polí **Komu** nebo **Kopie** a zobrazí se související kontakty.
+Při psaní nového e-mailu se někteří zákazníci nevidí po kliknutí na tlačítka **Komu** nebo **kopie** . Pokud chcete vybrat kontakt, začněte psát do polí **Komu** nebo **kopie** a zobrazí se související kontakty.

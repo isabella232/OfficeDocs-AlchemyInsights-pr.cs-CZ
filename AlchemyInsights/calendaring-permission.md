@@ -1,26 +1,27 @@
 ---
-title: 411 Oprávnění k kalendáři
+title: 411 oprávnění ke kalendáři
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
 ms.custom: 411
-ms.openlocfilehash: a52126b8076f07001c801b4b0097d3002e550964
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ef522719c152c9629522a3feb2ab986d46b0e58a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711804"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684006"
 ---
-# <a name="calendar-permissions"></a>Oprávnění kalendáře
+# <a name="calendar-permissions"></a>Oprávnění ke kalendáři
 
-Pokud máte problémy s přístupem ke kalendáři nebo jiným kalendářům, použijte [Pomocníka pro podporu a obnovení společnosti Microsoft pro Microsoft 365](https://diagnostics.office.com/).
+Pokud máte problémy s přístupem ke kalendáři nebo jiným kalendářům, použijte Microsoft [365 a pomocníka pro obnovení](https://diagnostics.office.com/).
   
-Další informace o sdílení kalendáře najdete [v tématu Sdílení kalendáře Outlooku s jinými lidmi](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
+Další informace o sdílení kalendáře najdete v článku [Sdílení kalendáře Outlooku s dalšími lidmi](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
   
 
