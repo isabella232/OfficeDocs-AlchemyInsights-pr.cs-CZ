@@ -1,50 +1,51 @@
 ---
-title: Poradce při potížích s existujícím monitorem
+title: Řešení potíží s existujícím monitorem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: d90baddd01bdf8508bd6289509c8399b8241887a
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738562"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690704"
 ---
-# <a name="troubleshoot-an-existing-monitor"></a>Odstraňování problémů s existujícím monitorem
+# <a name="troubleshoot-an-existing-monitor"></a>Řešení potíží s existujícím monitorem
 
-Vyzkoušejte tato řešení při řešení potíží s monitorem. 
+Pokud chcete vyřešit problém s monitorem, vyzkoušejte tato řešení. 
 
-**Aktualizujte displej monitoru:**
+**Aktualizace zobrazení monitoru:**
 
-Současně stiskněte následující klávesy: Klávesa Windows + CTRL + SHIFT + B. Tímto se bude aktualizovat komunikace s grafickým ovladačem. Monitory na chvíli zabliká a po několika sekundách se vrátí.
+Současně stiskněte tyto klávesy: Klávesa Windows + CTRL + SHIFT + B. Touto akcí obnovíte komunikaci s grafickým ovladačem. Monitory se budou za chvíli blikat a po několika sekundách se zase odeberou.
 
-**Odstraňování problémů s hardwarem monitoru:**
+**Řešení potíží s hardwarem monitoru:**
 
-1. Odpojte kabel spojující počítač s monitorem a zapojte jej zpět.
-2. Odpojte od počítače všechna nepodstatná zařízení (například adaptéry nebo doky).
+1. Odpojte kabel spojující počítač s monitorem a zapojte ho zpátky.
+2. Odpojte všechna nepotřebná zařízení z počítače (například z adaptérů nebo docků).
 
-**Pokud jste nedávno nainstalovali aktualizaci do počítače, můžete vrátit zpět ovladač obrazovky:**
+**Pokud jste si nedávno nainstalovali aktualizaci na počítač, můžete si vrátit zpátky svůj ovladač zobrazení:**
 
-1. Klepněte na položku **Start**, zadejte příkaz **Správce zařízení**a z výsledků vyberte položku **Správce zařízení** .
-2. Rozbalte část **grafické adaptéry** , klepněte pravým tlačítkem myši na grafický adaptér a vyberte příkaz **vlastnosti**.
-3. Přejděte na kartu **ovladač** a vyberte možnost **vrátit zpět ovladač**. <br>
-Poznámka: Pokud tato možnost není k dispozici nebo je šedá, přejděte na další krok výběrem možnosti **ne** z následujícího seznamu.
-4. Aby se změny projevily, bude pravděpodobně nutné restartovat počítač.
+1. Vyberte **Start**, zadejte **Správce zařízení**a z výsledků vyberte **Správce zařízení** .
+2. Rozbalte oddíl Display Adapters ( **grafické adaptéry** ), klikněte pravým tlačítkem myši na grafický adaptér ANDS vyberte **vlastnosti**.
+3. Přejděte na kartu **ovladač** a vyberte **vrátit změny ovladače**. <br>
+Poznámka: Pokud tato možnost není dostupná nebo je zobrazená šedě, vyberte v možnostech níže možnost **ne** a přejděte tak k dalšímu kroku.
+4. Aby se změny projevily, může být potřeba restartovat počítač.
 
-**Odinstalujte a přeinstalujte ovladač zobrazení:**
+**Odinstalace a přeinstalace ovladače zobrazení:**
 
-1. Klepněte na položku **Start**, zadejte příkaz **Správce zařízení**a z výsledků vyberte položku **Správce zařízení** .
-2. Rozbalte sekci **grafické adaptéry** , klepněte pravým tlačítkem myši na grafický adaptér, Andy vyberte **odinstalační zařízení**. 
-3. Zaškrtněte políčko vedle možnosti **Odstranit software ovladače pro toto zařízení** a vyberte možnost **odinstalovat**.<br>
-Poznámka: v této fázi budete pravděpodobně požádáni o restartování počítače. Před restartováním si poznamenejte zbývající instrukce.
-4. Spusťte Správce zařízení znovu.
-5. Rozbalte část **grafické adaptéry** , klepněte pravým tlačítkem myši na grafický adaptér a vyberte příkaz **Aktualizovat ovladač**.
-6. Vyberte **automatické vyhledávání pro aktualizaci softwaru ovladače** a postupujte podle pokynů k instalaci.
+1. Vyberte **Start**, zadejte **Správce zařízení**a z výsledků vyberte **Správce zařízení** .
+2. Rozbalte oddíl Display Adapters ( **grafické adaptéry** ), klikněte pravým tlačítkem myši na grafický adaptér ANDS vyberte **odinstalovat zařízení**. 
+3. Zaškrtněte políčko vedle **Odstranit software ovladače tohoto zařízení** a vyberte **odinstalovat**.<br>
+Poznámka: můžete být požádáni o restartování počítače v této fázi. Než začnete, zapište si zbývající pokyny.
+4. Spusťte znovu Správce zařízení.
+5. Rozbalte oddíl Display Adapters ( **grafické adaptéry** ), klikněte pravým tlačítkem na grafický adaptér a vyberte **Aktualizovat ovladač**.
+6. **Pro aktualizaci softwaru ovladače vyberte Hledat automaticky** a postupujte podle pokynů k instalaci.

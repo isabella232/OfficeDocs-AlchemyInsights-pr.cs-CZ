@@ -5,37 +5,38 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510493"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691676"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Poradce při potížích s odepřením přístupu
 
-Pokud se při pokusu o procházení webu Sharepointu Online zobrazuje zpráva o odepření přístupu, přečtěte si níže uvedené články.
+Pokud se při pokusu o procházení webu SharePointu Online zobrazí zpráva o odepření přístupu, podívejte se na níže uvedené články.
 
-**Přidání a licencování uživatele**
+**Přidání a licence uživatele**
 
-Ujistěte se, že [přiřazujete licence uživatelům v Microsoftu 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Zkontrolujte, že [přiřadíte licence uživatelům v Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Přiřazení oprávnění**
 
-Pokud uživateli byla přiřazena licence služby SharePoint a stále dostává zprávu o odepření přístupu, ujistěte se, že je [mu přiřazena příslušná úroveň oprávnění](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Pokud má uživatel přiřazenou licenci na SharePointu a pořád obdrží zprávu o odepření přístupu, ujistěte se, že mají [přiřazenou příslušnou úroveň oprávnění](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-**Zvažte použití funkce žádosti o přístup**
+**Zvažte použití funkce žádost o přístup.**
 
-Funkce [žádosti o přístup](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) umožňuje uživatelům požádat o přístup k obsahu, ke kterému aktuálně nemají oprávnění. 
+Funkce [žádosti o přístup](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) umožňuje lidem požádat o přístup k obsahu, na který teď nemají oprávnění k zobrazení. 
 
-**Povolit vlastní skript může způsobit problémy s přístupem.**
+**Povolit vlastní skript může způsobit problémy s odepřením přístupu**
 
-Existují určité scénáře, kde funkce "Povolit vlastní skript" může představovat přístup odepřen. Seznam ovlivněných funkcí, důležité informace o zabezpečení a možnost zakázat tuto funkci. Navštivte stránku , [Povolit nebo zabránit vlastnímu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Existují určité scénáře, kdy funkce povolit vlastní skript může mít přístup odepřen. Seznam ovlivněných funkcí, důležité informace o zabezpečení a možnosti zakázání funkce. Navštivte, [povolte nebo Zabraňte vlastní skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Poznámka: Pokud web OneDrivu nebo SharePointu není dostupný pro více uživatelů, kteří k nim dříve měli přístup, může se nastat problém s dočasnými službami. [Zkontrolujte řídicí panel stavu služby](https://portal.office.com/adminportal/home#/servicehealth).
+Poznámka: Pokud SharePointový web nemá k dispozici víc uživatelů, kteří mají přístup dřív, může se jednat o dočasný problém služby. [Zkontrolujte řídicí panel stavu služeb](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   

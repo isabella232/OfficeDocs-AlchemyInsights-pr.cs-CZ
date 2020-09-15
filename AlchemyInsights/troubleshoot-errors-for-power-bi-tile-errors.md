@@ -1,25 +1,26 @@
 ---
-title: Řešení potíží při aktualizaci – chyby dlaždic
+title: Řešení potíží se scénáři aktualizace – chyby dlaždic
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748821"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690668"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Řešení potíží při aktualizaci – chyby dlaždic
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Řešení potíží se scénáři aktualizace – chyby dlaždic
 
-Pokud dojde k chybám aktualizace dlaždic v rámci služby Power BI, počkejte prosím asi 10-15 minut, aby se aktualizace projevily v dlaždicích řídicího panelu. Pokud se stále ještě nezobrazí, přepínáte vizualizaci na řídicí panel.
+Pokud dojde k chybám aktualizace dlaždic v rámci služby Power BI, počkejte prosím na 10-15 minut, než se aktualizace projeví na dlaždicích řídicího panelu. Pokud se ještě pořád nezobrazuje, připněte vizualizaci na řídicí panel.
 
-Další informace:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Další informace: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

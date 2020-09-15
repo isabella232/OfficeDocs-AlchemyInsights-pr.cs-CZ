@@ -4,6 +4,7 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,18 +12,18 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36745498"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693044"
 ---
 # <a name="dynamics-365-portals-recommended-solutions"></a>Doporučená řešení pro portály Dynamics 365
 
-* [Jak zobrazit podrobnou chybu serveru zobrazenou na portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [Zobrazení podrobné chyby serveru na mém portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [Jak obnovit portál](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [Obnovení portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
 * [Jak vymazat mezipaměť na straně serveru pro portál](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
@@ -30,8 +31,8 @@ ms.locfileid: "36745498"
 
 * [Jak změnit základní adresu URL portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [Konfigurace externího zprostředkovatele identity pomocí portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [Jak nakonfigurovat externího poskytovatele identity pomocí portálu](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [Časté otázky](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [Začínáme s portálem My Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [Začínáme s portálem Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

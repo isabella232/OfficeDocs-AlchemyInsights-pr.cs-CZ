@@ -1,32 +1,33 @@
 ---
-title: Poradce při potížích s chybami ověřování toku
+title: Řešení chyb při ověřování toku
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
-ms.openlocfilehash: 70451f074a65a4454faeadd188a31783be8e6c7e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3c4ad806ed446803d8c1e0ba17b3a06d591985d9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759721"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690560"
 ---
-# <a name="troubleshoot-flow-authentication-errors"></a>Poradce při potížích s chybami ověřování toku
+# <a name="troubleshoot-flow-authentication-errors"></a>Řešení chyb při ověřování toku
 
-V mnoha případech toky nezdaří z důvodu chyby ověřování. Pokud máte tento typ chyby, chybová zpráva obsahuje "Neautorizováno" nebo se zobrazí kód chyby 401 nebo 403. Chybu při ověřování můžete obvykle opravit aktualizací připojení:
+V mnoha případech se chyby nedaří kvůli chybě ověřování. Pokud máte tento typ chyby, chybová zpráva obsahuje "Neautorizováno" nebo se zobrazí kód chyby 401 nebo 403. Chybu ověřování obvykle opravíte aktualizací připojení:
   
-1. V horní části webového portálu kliknutím nebo klepnutím na ikonu ozubeného kola otevřete nabídku Nastavení a potom klepněte nebo klepněte na **Připojení**.
+1. V horní části webového portálu klikněte nebo klepněte na ikonu ozubeného kola a otevřete nabídku nastavení a pak klikněte nebo klepněte na **připojení**.
     
-2. Přejděte k připojení, u kterého se zoála chybová zpráva Neautorizováno.
+2. Přejděte na připojení, u kterého se zobrazila chybová zpráva o neoprávněné chybě.
     
-3. Vedle připojení klikněte nebo klepněte na odkaz **Ověřit heslo** ve zprávě o neověření připojení. 
+3. Vedle připojení klikněte nebo klepněte na odkaz **ověřit heslo** ve zprávě o připojení, které se neověřuje. 
     
-4. Ověřte svá pověření podle zobrazených pokynů, vraťte se k selhání spuštění toku a potom klepněte nebo klepněte na **Znovu odeslat**.
+4. Ověřte svoje přihlašovací údaje podle pokynů, které se zobrazí, vraťte se ke svému toku a potom klikněte nebo klepněte na **znovu odeslat**.
     
-Další nápovědu naleznete [v tématu Poradce při potížích s tokem](https://go.microsoft.com/fwlink/?linkid=872110).
+Další nápovědu najdete v tématu [Poradce při potížích s tokem toku](https://go.microsoft.com/fwlink/?linkid=872110).
   
 

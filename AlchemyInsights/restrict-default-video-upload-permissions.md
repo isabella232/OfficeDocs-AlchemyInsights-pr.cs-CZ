@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002650"
 - "5101"
-ms.openlocfilehash: ccfacd6ea910937d3474cf94b9ff8e19c456832c
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 5059f9ed565df5c97157371fe17e9bde7a384d1b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599382"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692000"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>Omezení výchozích oprávnění k nahrávání videa
 
-Když uživatelé nahrají video do služby Microsoft Stream prostřednictvím portálu Stream mimo kontext skupiny nebo skupinového kanálu, je ve výchozím nastavení zaškrtnuto políčko Povolit všem uživatelům ve vaší společnosti zobrazit toto video. Díky tomu je video k dispozici pro zobrazení všemi ve vaší společnosti.
+Když uživatelé naodesílají video do Microsoftu přes portál datových proudů mimo kontext skupinového nebo skupinového kanálu, je ve výchozím nastavení zaškrtnuté políčko Povolit všem v organizaci zobrazení tohoto videa. To umožní zobrazení videa všem ve vaší společnosti.
 
-- [Nastavení výchozích oprávnění pro nahrávání videa](https://docs.microsoft.com/stream/default-video-permissions)
+- [Nastavení výchozích oprávnění pro odesílání videa](https://docs.microsoft.com/stream/default-video-permissions)
