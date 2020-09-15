@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: efd2b09a93fb7a44c0dea7933bb9d02524bb1082
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328758"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705004"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Obnovení odstraněného týmu nebo kanálu
 
-Další informace naleznete v tématu [Obnovení odstraněného týmu v týmech Microsoft](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Další informace najdete v článku [Obnovení odstraněného týmu v Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
 
-Odstraněné kanály v rámci týmu lze obnovit po dobu 21 dní po odstranění kanálu.
+Odstraněné kanály mohou být po odstranění kanálu obnoveny až za 21 dní.
 
-K obnovení odstraněného kanálu může vlastník týmu provést následující akce:
+Vlastník týmu může obnovit odstraněný kanál takto:
 
-1. Klepnutím na 3 tečky vpravo od názvu týmu otevřete týmové nastavení.
-2. Vyberte **možnost spravovat** > **kanály** > týmu**odstraněny**a pak vyberte možnost **obnovit** vpravo.
+1. Otevřete nastavení týmu výběrem 3 teček vpravo od názvu týmu.
+2. Vyberte **Spravovat kanály týmových týmů**  >  **Channels**  >  **Deleted**a pak vpravo vyberte **obnovit** .
 
-Další informace naleznete v tématu [Obnovení odstraněného týmu v týmech Microsoft](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Další informace najdete v článku [Obnovení odstraněného týmu v Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).

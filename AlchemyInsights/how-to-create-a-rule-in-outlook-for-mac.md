@@ -1,31 +1,32 @@
 ---
-title: 1800021 jak vytvořit pravidlo v aplikaci Outlook pro počítače Macintosh
+title: 1800021 jak vytvořit pravidlo v Outlooku pro Mac
 ms.author: supravee
 author: supravee
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dbfb47da690244b34e1879c3d8d879fcc5631f75
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769080"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704338"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Vytvoření pravidla v aplikaci Outlook pro počítače Macintosh
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Vytvoření pravidla v Outlooku pro Mac
 
-1. Chcete-li vytvořit složku pro uložení e-mailových zpráv odeslaných pravidlem, vyberte kořenovou poštovní schránku, na kartě **Uspořádat** klepněte na tlačítko **Nová složka**, zadejte název složky a stiskněte klávesu ENTER.
+1. Pokud chcete vytvořit složku pro ukládání e-mailových zpráv odeslaných pravidlem, vyberte kořenovou poštovní schránku, na kartě **Uspořádat** klikněte na **Nová složka**, zadejte název složky a stiskněte ENTER.
 
-2. V seznamu zpráv klepněte na e-mailovou zprávu, pro kterou chcete vytvořit pravidlo.
+2. V seznamu zpráv klikněte na e-mailovou zprávu, pro kterou chcete vytvořit pravidlo.
 
-3. Na kartě **Domů** klikněte na tlačítko **pravidla**a poté klikněte na tlačítko **vytvořit pravidlo**.
+3. Na kartě **Domů** klikněte na **pravidla**a potom klikněte na **vytvořit pravidlo**.
 
 4. V části **při příchodu nové zprávy** upravte kritéria tak, aby vyhovovala vašim potřebám. 
 
-Podrobné pokyny pro vytváření vlastních pravidel naleznete v tématu [Vytvoření pravidla v aplikaci Outlook pro počítače Macintosh](https://aka.ms/AA1uy0v) .
+Podrobné pokyny k vytváření vlastních pravidel najdete v tématu [Vytvoření pravidla v Outlooku pro Mac](https://aka.ms/AA1uy0v) .
   

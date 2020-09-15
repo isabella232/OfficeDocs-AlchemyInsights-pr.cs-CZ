@@ -1,11 +1,12 @@
 ---
-title: Pomoc při pochopení daně z přidané hodnoty (DPH)
+title: Nápověda k principu daně z přidané hodnoty (DPH)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 28f58da6d3454e71af58305eab65ffa49b59d08b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710112"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705482"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Pomoc při pochopení daně z přidané hodnoty (DPH)
+# <a name="help-understanding-value-added-tax-vat"></a>Nápověda k principu daně z přidané hodnoty (DPH)
 
-Pokud se v zemi, která používá daň z přidané hodnoty (DPH), například ve Spojeném království, společnost Microsoft Invoicing vypočítá DPH za vás a použije částku na vaše faktury.
+Pokud jste v zemi, ve které se používá daň s daní daně (DPH), například Spojené království, společnost Microsoft fakturuje DPH za vás a částku použije na vaše faktury.
   
-Z daňových důvodů musíte také zadat své DIČ v nastavení fakturace.
+V případě daňových důvodů musíte v nastavení fakturace také zadat DIČ.
   
-Nemůžete přidávat ani odebírat sazby DPH, ale můžete změnit výchozí sazbu DPH v Nastavení. Ve výchozím nastavení služba Fakturace používá službu k ověření registračních čísel pro DPH, ale doporučujeme, abyste si [přečetli prohlášení v systému VIES](https://go.microsoft.com/fwlink/?LinkID=841741) zveřejněné Evropskou komisí. Pokud se rozhodnete službu zakázat, musíte ověřit všechna registrační čísla DPH.
+Sazby DPH nemůžete přidat ani odebrat, ale můžete změnit výchozí sazbu DPH v nastavení. Fakturace ve výchozím nastavení používá službu k ověření registračních čísel DPH, ale doporučujeme, abyste si přečetli [souhrnné zřeknutí se záruk](https://go.microsoft.com/fwlink/?LinkID=841741) zveřejněné Evropskou komisí. Pokud se rozhodnete službu zakázat, musíte ověřit všechna registrační čísla DPH.

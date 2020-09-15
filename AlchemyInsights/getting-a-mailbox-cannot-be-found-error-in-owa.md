@@ -1,11 +1,12 @@
 ---
-title: 126 Získání poštovní schránky nelze najít chybu v owa?
+title: 126 nelze najít poštovní schránku v OWA?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 72556651c3431379953b05118c688a876eab0632
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9a8897767ebfebac5807116251634c615ef6767d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720797"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706743"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Jak se v Outlooku na webu nezjistila chyba poštovní schránky?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>V Outlooku na webu se vyskytla chyba "poštovní schránka nebyla nalezena"?
 
-Pokud používáte Outlook na webu a dostanete **poštovní schránku nelze najít pro** chybu, účet, který jste použili pro připojení k Aplikaci Outlook na webu nemá exchange online licenci, a proto žádná poštovní schránka je přidružena k účtu. Správce může vašemu účtu přiřadit licenci takto:
+Pokud používáte Outlook na webu a dostanete **poštovní schránku** , která se nenašla kvůli chybě, účet, který jste použili pro připojení k Outlooku na webu, nemá licenci Exchange Online, a proto není k účtu přidružený žádná poštovní schránka. Správce může přiřadit licenci na váš účet takto:
 
-1. Otevřete [Centrum pro správu Microsoftu 365](https://portal.office.com/adminportal/home#/homepage) a přejděte na **Aktivní uživatele** v části **Uživatelé** a vyberte uživatele, kterému se chyba zobrazuje.
+1. Otevřete [Centrum pro správu Microsoft 365](https://portal.office.com/adminportal/home#/homepage) a přejděte na **aktivní uživatele** v části **Uživatelé** a vyberte uživatele, který chybu zobrazuje.
 
-2. Na stránce uživatele, která se otevře, přejděte do části **Licence a aplikace,** vyberte příslušnou hodnotu **umístění** a přiřaďte licenci, která obsahuje Exchange Online (rozbalte licenci, abyste viděli její podrobnosti). Po dokončení klikněte na **Uložit změny**.
+2. Na stránce uživatel, která se otevře, přejděte do části **licence a aplikace** , vyberte příslušnou hodnotu **umístění** a přiřaďte licenci, která obsahuje Exchange Online (Rozšiřte licenci a zobrazte podrobnosti). Až skončíte, klikněte na **Uložit změny**.

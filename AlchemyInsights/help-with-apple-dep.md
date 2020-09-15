@@ -1,33 +1,34 @@
 ---
-title: Nápověda k aplikaci Apple DEP
+title: Nápověda k Apple DEP
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 5e027994175dcdbd35ffbc67934d3c31b7ab503a
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: b3577ac32be31b213feb172b76843ba884b42a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654355"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705477"
 ---
-# <a name="help-with-apple-dep"></a>Nápověda k aplikaci Apple DEP
+# <a name="help-with-apple-dep"></a>Nápověda k Apple DEP
 
-Není-li možné zapsat zařízení s funkcí Zabránění spuštění dat a je-li povolena funkce MFA (vícefaktorová autentizace), zakažte MFA. MFA není momentálně podporována pro zápis Zabránění spuštění dat.
+Pokud se zařízení DEP nepovedlo zaregistrovat a je povolené MFA (Multi-Factor Authentication), vypněte VÍCEFAKTOROVÉ ověřování. Vícefaktorové ověřování v současné době nepodporují zápis DEP.
 
-[Začínáme s aplikací Intune a programem pro zápis zařízení Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Začínáme s Intune a programem registrace zařízení Apple](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Běžné chyby a řešení pro zápis iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Běžné chyby a řešení pro registraci iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Obecný poradce při potížích s zápisem](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Obecné řešení potíží s registrací](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Diagnostika a řešení běžných chyb při zápisu pomocí portálu Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Použití portálu pro řešení potíží Intune k diagnostice a řešení běžných chyb zápisu](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
 
 
