@@ -1,31 +1,32 @@
 ---
-title: Hledání ztracených nebo chybějících souborů na OneDrivu nebo SharePointu
+title: Nalezení ztracených nebo chybějících souborů na OneDrivu nebo SharePointu
 ms.author: matteva
 author: pebaum
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 0cd8db0ea9de03d30001aa749e2c37330ad29ef2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1d615bf8dc16528d9cbf283672225364aaae9949
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716093"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708532"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Hledání ztracených nebo chybějících souborů na OneDrivu nebo SharePointu
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Nalezení ztracených nebo chybějících souborů na OneDrivu nebo SharePointu
 
-- Zkontrolujte koš tak, že přejdete na OneDrive nebo sharepointový web na webu a kliknete na Koš v levém podokně. (Pokud koš v levém podokně nevidíte, klikněte na ikonu Nastavení a pak vyberte **Obsah webu**. **Koš je** zcela vpravo na panelu příkazů v horní části.) 
+- Zkontrolujte Koš tak, že přejdete na OneDrive nebo na web služby SharePoint na webu a v levém podokně kliknete na koš. (Pokud v levém podokně nevidíte koš, klikněte na ikonu nastavení a pak vyberte **obsah webu**. **Odpadkový koš** je úplně vpravo na panelu příkazů nahoře.) 
     
-- Pokud synchronizujete soubory v počítači, zkontrolujte koš v počítači. 
+- Pokud synchronizujete soubory na počítači, podívejte se do koše na počítači. 
     
-- Pokud požadovanou položku nevidíte a byla nedávno odstraněna, může ji správce kolekce webů obnovit z koše kolekce webů. Pokud jste správcem kolekce webů, přečtěte si informace [o obnovení odstraněných položek z koše kolekce webů](https://go.microsoft.com/fwlink/?linkid=866439).
+- Pokud nevidíte hledanou položku a nedávno byla odstraněna, správce kolekce webů ji může obnovit z koše kolekce webů. Pokud jste správce kolekce webů, přečtěte si článek [obnovení odstraněných položek z koše kolekce webů](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[Další nápověda k obnovení odstraněných souborů a složek na OneDrivu](https://go.microsoft.com/fwlink/?linkid=872872)
+[Další pomoc s obnovením odstraněných souborů a složek na OneDrivu](https://go.microsoft.com/fwlink/?linkid=872872)
   
 
