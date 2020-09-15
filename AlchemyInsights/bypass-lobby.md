@@ -1,46 +1,47 @@
 ---
-title: Obejít lobby
+title: Vynechat předsálí
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
-ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
+ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889075"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684943"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Řídit nastavení lobby a úroveň účasti v týmech
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Řízení nastavení a úrovně účasti v Teams
 
-Chcete-li všem uživatelům, včetně telefonických, externích a anonymních uživatelů, umožnit **obejít lobby**, použijte k provedení této úlohy nástroj PowerShell. Zde je příklad úpravy globálních zásad schůzek v organizaci.
+Pokud chcete umožnit všem, včetně vytáčeného připojení, externích a anonymních uživatelů, **vycházet z**této věci pomocí PowerShellu. Tady je příklad změny globální zásady pro schůzku ve vaší organizaci.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Tato rutina v současné době vyžaduje použití modulu Skype for Business PowerShell. Chcete-li nastavit použití této rutiny, podívejte se na [správu zásad prostřednictvím prostředí PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Tato rutina momentálně vyžaduje použití modulu PowerShell pro firmy. Pokud chcete tuto rutinu nastavit, přečtěte si [zásady správy prostřednictvím PowerShellu](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Po nastavení zásad je nutné tuto zásadu použít pro uživatele. Pokud jste změnili globální zásadu, bude se automaticky vztahovat i na uživatele. Chcete-li, aby se zásady projevily, je třeba u každé změny zásad počkat minimálně **4 hodiny až 24 hodin** . 
+Po nastavení zásad je potřeba ji použít pro uživatele. nebo pokud jste změnili globální zásadu, automaticky se použije pro uživatele. Pro každou změnu zásad musíte počkat alespoň **4 hodiny až 24 hodin** , aby zásady vstoupily v platnost. 
 
-Před provedením těchto změn si přečtěte následující dokumentaci, abyste přesně pochopili, co to umožňuje.
+Před provedením těchto změn si přečtěte níže uvedenou dokumentaci, abyste pochopili přesně to, co umožňuje.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Principy týmů, které se řídí zásadami lobby
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Principy řízení zásad v případě týmů
 
-Toto nastavení řídí, kteří účastníci schůzky čekají v hale před tím, než jsou přijati na schůzku, a úroveň účasti, kterou jsou na schůzce oprávněni. Pomocí prostředí PowerShell můžete aktualizovat nastavení zásad schůzky, které ještě nebylo implementováno (označeno "brzy") v centru pro správu týmů. Viz níže příklad rutiny prostředí PowerShell, která umožňuje všem uživatelům obejít halu.
+Tato nastavení určují, které účastníky schůzky před přijetím do schůzky čekají v předsálí, a úroveň jejich účasti, která je na schůzce povolená. Pomocí PowerShellu můžete aktualizovat nastavení zásad schůzky, která nejsou v centru pro správu Teams dosud implementovaná (označená příznakem brzy). V následujícím článku najdete příklad rutiny PowerShellu, která umožňuje všem uživatelům vynechat předsálí.
 
-- [Automaticky přiznat](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , že lidé jsou zásady pro organizátora, které řídí, zda se lidé připojí ke schůzce přímo nebo čekají v hale, dokud nejsou přijati ověřeným uživatelem.
+- [Automaticky připustit uživatele](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) : Jedná se o zásadu, která určuje, jestli se lidé ke schůzce můžou připojit přímo nebo počkat, dokud je nepřijmou ověřený uživatel.
 
-- [Umožnit anonymním uživatelům zahájit schůzku](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) je zásada pro jednotlivé organizátora, která řídí, zda se anonymní osoby, včetně B2B a federovaných uživatelů, mohou připojit ke schůzce uživatele bez ověřeného uživatele z organizace.
+- [Povolit zahájení schůzky anonymním uživatelům](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) je zásada, která určuje, jestli se může anonymním lidem, včetně B2B a federovaných uživatelů, připojit ke schůzce uživatele bez ověřeného uživatele z organizace v docházkě.
 
-- [Umožnit uživatelům s telefonickým připojením obejít lobby](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (která se**brzy blíží**) je politika jednotlivých organizátorů, která řídí, zda se lidé, kteří telefonuje telefonicky, připojí ke schůzce přímo nebo čekají v hale bez ohledu na nastavení **automaticky přiznali osoby** .
+- [Povolit uživatelům vytáčené komunikace obejít předsálí](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**již brzy**) je zásada pro jednotlivé organizátory, která určuje, jestli se uživatelé, kteří používají telefon, můžou připojit ke schůzce přímo nebo počkat v předsálí bez ohledu na nastavení **automaticky povolit uživatele** .
 
-- [Umožnit organizátorům přepsání nastavení v hale](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**již brzy**) je politika pro jednotlivé organizátora, která řídí, zda organizátor schůzky může přepsat nastavení v hale, které správce nastavil v **automatickém přiznání osob** a **umožnit uživatelům telefonického připojení obejít lobby** při plánování nové schůzky.
+- [Povolit organizátorům přepsat nastavení](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) informací (**už brzy**) je zásada pro jednotlivé organizátory, která určuje, jestli může organizátor schůzky přepsat nastavení s informacemi, které správce nastavil **automaticky** a **povolí uživatelům vytáčeného připojení, aby** při plánování nové schůzky tento předsálí vycházel.
 
-**Poznámka:** Chcete-li získat úplný přehled o zásadách schůzky společnosti Microsoft, přečtěte si [správu zásad schůzek v týmech](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) .
+**Poznámka:** Přečtěte si téma [Správa zásad schůzky v Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) , kde najdete kompletní přehled zásad schůzky v Microsoft Teams.

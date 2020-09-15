@@ -1,32 +1,33 @@
 ---
-title: Klíče pro obnovení nástroje BitLocker
+title: Obnovovací klíče nástroje BitLocker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908808"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685879"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Přístup ke klíčům obnovení nástroje BitLocker
+# <a name="accessing-bitlocker-recovery-keys"></a>Přístup k obnovovacím klíčům nástroje BitLocker
 
-Při konfiguraci nastavení nástroje BitLocker v zásadách ochrany koncového bodu je možné určit, zda mají být informace o obnovení nástroje BitLocker uloženy v Azure Active Directory.
+Při konfiguraci zásad služby Endpoint Protection v nastavení BitLockeru je možné určit, zda mají být informace pro obnovení BitLocker uložené v Azure Active Directory.
 
-Pokud je toto nastavení nakonfigurováno, měly by být uložená data obnovení viditelná pro správce Intune jako součást dat záznamu zařízení ve čepele nástroje Intune Devices dvěma způsoby:
+Pokud je toto nastavení nakonfigurováno, budou se uložená data obnovení zobrazovat v Intune správci jako součást dat záznamu zařízení v okně v Intune
 
-Zařízení-Azure zařízení AD-> "zařízení" nebo zařízení-> všechna zařízení-> "zařízení"-> obnovovací klíče
+Zařízení – zařízení Azure AD – > zařízení nebo zařízení – > všechna zařízení – > "zařízení" – > klíče pro obnovení
 
-Případně, pokud existuje přístup správce k zařízení samotnému, lze klíč pro obnovení (Password) zobrazit spuštěním následujícího příkazu na příkazovém řádku se zvýšenými oprávněními:
+Pokud máte k samotnému zařízení přístup pro správu, může se zobrazit obnovovací klíč (heslo) spuštěním následujícího příkazu z příkazového řádku s vyššími oprávněními:
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Pokud bylo zařízení zašifrováno před přijetím v Intune, mohl být klíč pro obnovení přidružen k účtu Microsoft account (MSA), který byl použit k přihlášení k zařízení během procesu OOBE. V takovém případě by přístup https://onedrive.live.com/recoverykey a přihlášení k této MSA měly ukazovat zařízení, pro která byly klíče pro obnovení uloženy.
+Pokud bylo zařízení před enrolment v Intune zašifrované, mohlo by být obnovovací klíč přidružen k účtu Microsoft (MSA), který se používá k přihlášení na zařízení během procesu OOBE. V takovém případě  https://onedrive.live.com/recoverykey by měl přístup a přihlášení pomocí tohoto MSA zobrazovat zařízení, pro které byly uložené klíče obnovení.
  
-Pokud bylo zařízení zašifrováno v důsledku konfigurace pomocí skupinové zásady založené na doméně, mohou být informace o obnovení uloženy v místní verzi služby Active Directory.
+Pokud bylo zařízení zašifrováno jako výsledek konfigurace prostřednictvím zásad skupiny domény, mohou být informace pro obnovení uloženy v místní službě Active Directory.
  
 

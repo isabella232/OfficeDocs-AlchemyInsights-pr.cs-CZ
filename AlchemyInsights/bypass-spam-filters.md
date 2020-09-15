@@ -1,24 +1,25 @@
 ---
-title: 2637 Obejít filtrování nevyžádané pošty, aby určité zprávy?
+title: Chcete-li povolit určité zprávy, 2637 nepoužívejte filtrování nevyžádané pošty.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 2fbc5bc9cdabf2a19181c9d5bbabf63d6c1cbfb7
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506184"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684871"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Chcete-li povolit určité zprávy, vynecháte filtrování nevyžádané pošty?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Chcete vynechat filtrování spamu, aby byly určité zprávy povolené?
 
-Při vytváření seznamu povolených [doporučujeme opatrnost.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) Pokud například povolíte vlastní doménu, budou moci uživatelé se zlými úmysly zfalšovat a odesílat jako doménu.  Místo toho doporučujeme tento [průvodce odstraňováním potíží s falešnými poplachy](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), který vám pomůže určit, proč byla legitimní zpráva označena jako spam a co můžete udělat pro bezpečné povolení doručení zprávy.
+Při vytváření seznamu povolených povolení doporučujeme [opatrnost](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) . Pokud například povolíte vaši vlastní doménu, budou se zlomyslní odesílatelé moci k falšování identity a posílání v doméně.  Místo toho doporučujeme tento [nepravdivý Průvodce odstraňováním potíží](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), který vám pomůže zjistit, proč byla legitimní zpráva označená jako spam, a co můžete udělat, abyste bezpečně povolili doručení zprávy.
