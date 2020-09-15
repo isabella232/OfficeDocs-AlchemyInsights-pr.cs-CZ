@@ -1,30 +1,31 @@
 ---
-title: Byl vyřešen problém se zařazovacími službami tisku.
+title: Problém se zařazováním tisku je vyřešený
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: 53b1c9a8efa3cc978af8b602c8ed90430042186a
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.openlocfilehash: 66b39434ef6f9ad2b8392f811704e67c1bcffd2b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088303"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801834"
 ---
-# <a name="print-spooler-issue-is-resolved"></a>Byl vyřešen problém se zařazovacími službami tisku.
+# <a name="print-spooler-issue-is-resolved"></a>Problém se zařazováním tisku je vyřešený
 
-Pokud bylo vaše zařízení aktualizováno systémem Windows 10 **OS Build 19041.329**, možná jste zaznamenali problém, kdy některé tiskárny netiskly. Zařazování tisku může vyvolat chybu nebo neočekávaně zavřít při pokusu o tisk a žádný výstup pochází z postižené tiskárny. Tento problém je vyřešen v sestavení operačního systému **19041.331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
+Pokud se vaše zařízení aktualizovalo na Windows 10  **OS Build 19041,329**, mohl se zaznamenat problém, kdy se určité tiskárny nedají vytisknout. Služba zařazování tisku může při pokusu o tisk vyvolat chybu nebo ukončit neočekávané ukončení a žádný výstup nepochází z příslušné tiskárny. Tento problém je vyřešený v buildu OS  **19041,331**, [KB4567523](https://support.microsoft.com/help/4567523/windows-10-update-kb4567523).  
 
-**Probíhající šetření**
+**Průběžné šetření**
 
-Soubor LSASS**Isass.exe**(LSASS) místního úřadu zabezpečení může na některých zařízeních selhat s chybovou zprávou "Kritický systémový proces C:\WINDOWS\system32\Isass.exe se stavovým kódem c0000008 selhal. Zařízení musí být nyní restartováno".  **Společnost Microsoft pracuje na řešení a poskytne aktualizaci v nadcházející verzi.**
+V některých zařízeních se může zdařit Chyba služby LSASS (Local Security Authority Subsystem Service) (**Isass.exe**) s chybovou zprávou "důležitý systémový proces, C:\WINDOWS\system32\Isass.exe, došlo k selhání kódu c0000008. Počítač musí být restartován.  **Microsoft pracuje na řešení a poskytne aktualizaci v nadcházející verzi.**
 
-Další informace naleznete ve [známých problémech se systémem Windows 10 Verze 2004](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).
+Další informace najdete v informacích o  [známých problémech s Windows 10 verze 2004](https://docs.microsoft.com/windows/release-information/status-windows-10-2004#442msgdesc).

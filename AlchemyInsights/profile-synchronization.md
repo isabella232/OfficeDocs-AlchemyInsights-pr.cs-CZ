@@ -1,31 +1,32 @@
 ---
-title: Synchronizace profilu
-ms.author: arnek
-author: arnek
+title: Synchronizace profilů
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: dc6e0280961d14aa3e6bd466afbe0cbe89418d17
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768106"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801762"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kdy se změny profilu synchronizují s aplikací profilu uživatele služby SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kdy se synchronizace profilu změní do aplikace profilů uživatelů SharePointu?
 
-SharePoint Online používá úlohu časovače importu služby Active Directory (Import služby AD) k importu uživatelů a skupin do aplikace profilů uživatelů. 
+SharePoint Online pomocí úlohy časovače importu služby Active Directory (import AD) umožňuje importovat uživatele a skupiny do aplikace profilů uživatelů. 
   
-1. Import služby AD synchronizuje změny z úložiště adresářů SharePointu Online do aplikace profiluživatele. Tyto změny jsou zpracovány v dávkách.
+1. Import služby AD synchronizuje změny z úložiště adresářů SharePointu Online do aplikace profilů uživatelů. Tyto změny se zpracovávají v dávkách.
     
-2. Úloha časovače se spustí, dokud nejsou synchronizovány změny.
+2. Úloha časovače se spustí, dokud se změny nesynchronizují.
     
 > [!NOTE]
-> Čas potřebný ke spuštění úlohy závisí na počtu změn procesu. Velký počet změn trvá déle. Smlouva o úrovni služeb (SLA) uvádí, že změna uživatele v adresáři SharePointu Online se projeví v aplikaci profil uživatele do 24 hodin. 
+> Doba, po kterou bude úloha trvat, závisí na počtu změn procesu. Hodně změn trvá déle. Smlouva o úrovni služeb (SLA) uvádí, že se změna uživatele v adresáři SharePointu Online projeví v aplikaci profilů uživatelů za 24 hodin. 
   
-[Další informace o synchronizaci profilu uživatelů v SharePointu Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Další informace o synchronizaci profilů uživatelů v SharePointu Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 
