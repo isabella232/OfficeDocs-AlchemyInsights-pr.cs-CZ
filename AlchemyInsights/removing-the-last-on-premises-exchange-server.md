@@ -6,20 +6,21 @@ manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "692"
 - "3500010"
 ms.assetid: 2e0be4a5-ece8-461d-a80c-202c5ede5ecf
-ms.openlocfilehash: 1cc66e8ca2da1ac8cc4a2f31b92f094307b956f3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 77dcc8d5396807f581c96ed79321a24ffe929d66
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43718193"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47741008"
 ---
 # <a name="removing-the-last-on-premises-exchange-server"></a>Odebrání posledního místního serveru Exchange
 
-Před odebráním posledního serveru Exchange z místní organizace byste se měli ujistit, že rozumíte důsledkům tohoto problému, abyste se rozhodli, zda tento poslední server potřebujete pro jiné účely. Další informace najdete v tom, [jak a kdy vyřadit z provozu místní servery Exchange v hybridním nasazení](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
+Před odebráním posledního serveru Exchange z místní organizace se ujistěte, že jste se seznámili s důsledky toho, jak tento krok udělat, abyste se mohli rozhodnout, jestli tento poslední server potřebujete pro nějaké jiné účely. Další informace najdete [v tom, jak a kdy vyřadit místní servery Exchange v hybridním nasazení z provozu](https://technet.microsoft.com/library/dn931280%28v=exchg.150%29.aspx).
   

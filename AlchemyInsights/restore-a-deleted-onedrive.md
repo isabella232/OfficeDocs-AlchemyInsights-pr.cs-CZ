@@ -6,22 +6,23 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: 134fdcd9e36e05425b21c53f7369d52b12b99afa
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f7e99a75fdac420cc2cea0ec10be681bcb2b98ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758711"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740900"
 ---
 # <a name="restore-a-deleted-onedrive"></a>Obnovení odstraněného OneDrivu
 
-Po odstranění uživatele můžete 30 dní přistupovat k OneDrivu uživatele prostřednictvím Centra pro správu Microsoftu 365. Ostatní uživatelé můžou na OneDrivu dál přistupovat ke sdílenému obsahu po dobu, kterou jste nastavili v Centru pro správu OneDrivu. (Informace o tom, jak toto nastavení nastavit, najdete [v tématu Nastavení výchozího uchování souborů pro odstraněné uživatele OneDrivu](https://go.microsoft.com/fwlink/?linkid=874267).) Po uplynutí této doby se OneDrive přesune do koše na 93 dní a pak se smaže.
+Po odstranění uživatele můžete získat přístup k OneDrivu uživatele přes centrum pro správu Microsoft 365 po dobu 30 dnů. Ostatní uživatelé mohou dál přistupovat ke sdílenému obsahu na OneDrivu po dobu nastavenou v centru pro správu OneDrivu. (Informace o tom, jak to nastavit, najdete v tématu [Nastavení výchozího uchování souborů pro odstraněné uživatele OneDrivu](https://go.microsoft.com/fwlink/?linkid=874267).) Po uplynutí této doby se OneDrive přesune do odpadkového koše za 93 dnů a pak se odstraní.
   
-Po počátečních 30 dnech, kdy se odstraněný uživatel už nezobrazí v Centru pro správu Microsoftu 365, můžete přistupovat k OneDrivu uživatele přes PowerShell. Další informace najdete [v tématu Obnovení odstraněného OneDrivu](https://go.microsoft.com/fwlink/?linkid=874269).
+Po uplynutí 30 dnů, kdy se odstraněný uživatel už v centru pro správu Microsoft 365 nezobrazí, můžete získat přístup k OneDrivu uživatele přes PowerShell. Informace najdete v článku [Obnovení odstraněného OneDrivu](https://go.microsoft.com/fwlink/?linkid=874269).
   
 
