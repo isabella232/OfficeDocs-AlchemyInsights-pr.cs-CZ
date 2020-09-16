@@ -1,27 +1,28 @@
 ---
-title: Sada Office 2019 na terminálovém serveru nebo službě RDS
+title: Office 2019 na terminálovém serveru nebo RDS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: ded0f399f1688108803fbb04aaca6a88397e1f1a
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796022"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754553"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Nasazení sady Office 2019 pro sdílené použití na serveru RDS, Terminal Server nebo VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Nasazení Office 2019 pro sdílené používání na RDS, terminálovém serveru nebo VDI
 
-Pokud je sada Office již na serveru RDS nainstalována pomocí jiných plánů sady Office, odinstalujte ji. Chcete-li například provést**odinstalaci programu**, přejděte do **ovládacího panelu** > . Pokud dochází k potížím, odinstalujte aplikaci pomocí [Pomocníka pro podporu a obnovení společnosti Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Pokud už máte Office nainstalovaný na serveru RDS pomocí jiných plánů Office, odinstalujte ho. Přejděte například na **Ovládací panely**  >  **Odinstalujte program**. Pokud máte problémy, odinstalujte ho pomocí nástroje [Microsoft Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
 
-Nainstalujte sadu Office pomocí nástroje ODT (Office Deployment Tool). Podrobné pokyny naleznete v tématu [Deploy Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
+K instalaci Office použijte nástroj pro nasazení Office (ODT). Podrobné pokyny najdete v článku [nasazení Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
-Informace o aktivaci naleznete v tématu [Přehled aktivace hlasitosti systému Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+Aktivaci najdete v tématu [Přehled aktivace multilicence Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).

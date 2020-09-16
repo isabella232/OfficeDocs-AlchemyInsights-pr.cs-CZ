@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "4341"
-ms.openlocfilehash: 6572e23009f2ebcd3d5bd5e5a83e504a2b5f500c
-ms.sourcegitcommit: 1739ead7594cbdaf256cb9f7a31da8f521a33725
-ms.translationtype: HT
+ms.openlocfilehash: 0ecf5de38280c7ce37e8bf7f918c4e8ab9c0e48e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42937967"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754512"
 ---
 # <a name="no-access-to-teams-admin-center"></a>Bez přístupu do centra pro správu Teams
 
