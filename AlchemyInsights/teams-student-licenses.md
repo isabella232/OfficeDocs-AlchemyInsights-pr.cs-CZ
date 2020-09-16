@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001723"
 - "3822"
-ms.openlocfilehash: abd37aa9b5c1cb678efdbfe127a50b0cde9361f2
-ms.sourcegitcommit: 5aa4a4f40cf064f0cdb944ef35054719e87eeda3
-ms.translationtype: HT
+ms.openlocfilehash: 56f090440b2dc22dd829019da22f47484fe7e6b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42699640"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750588"
 ---
 # <a name="teams-student-licenses"></a>Studentské licence Teams
 

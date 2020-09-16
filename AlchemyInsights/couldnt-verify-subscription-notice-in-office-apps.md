@@ -1,24 +1,25 @@
 ---
-title: Nepodařilo se ověřit oznámení o předplatném v aplikacích Microsoft 365.
+title: Nepovedlo se ověřit oznámení předplatného v aplikacích Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: f2ee65f74bef00c25af7d89608ab23f7a76bbf6d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 45a5ed79feb2e489af5b93caee29ca4709181d79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580398"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747508"
 ---
-# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Oznámení o předplatném nelze ověřit v aplikacích Microsoft 365
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>Upozornění na "Nepodařilo se ověřit předplatné" v aplikacích Microsoft 365
 
 - Zkontrolujte, jestli je [stav předplatného](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) platný a jestli má uživatel, kterého se problém týká, [přiřazenou platnou licenci](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) a je připojený k internetu.
 

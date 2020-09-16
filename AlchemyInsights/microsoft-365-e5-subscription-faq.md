@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002658"
 - "5183"
-ms.openlocfilehash: f6767fb57c6c772eaa026ad72f00f2b413a72c9e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0226e09f048c100ade860b945db56c99a25d1125
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511933"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743119"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Časté otázky k předplatným Microsoft 365 E5 a správě licencí
 

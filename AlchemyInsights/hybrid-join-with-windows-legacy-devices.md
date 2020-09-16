@@ -6,19 +6,20 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6137"
 - "9003244"
-ms.openlocfilehash: b57a9f41c104c7b77955cd9eff482d7b5debb91d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 03cc7753d1cfd93c2d87d7f2ab52ca2a2653ea84
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46554940"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743710"
 ---
 # <a name="hybrid-join-with-windows-legacy-devices"></a>Hybridní spojení se staršími zařízeními se systémem Windows
 
-Pokyny k řešení potenciálních problémů se staršími zařízeními hybridní služby Azure Active Directory (Azure AD) pro Windows najdete [v tématu Řešení potíží s hybridními zařízeními Azure Active Directory připojená k zařízením nižší úrovně](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy). 
+Pokyny, jak vyřešit potenciální problémy se staršími zařízeními hybridního nasazení služby Azure Active Directory (Azure AD), najdete v tématu [řešení potíží s hybridními připojenými zařízeními Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy). 

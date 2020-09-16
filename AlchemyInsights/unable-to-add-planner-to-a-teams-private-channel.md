@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000727"
 - "4976"
-ms.openlocfilehash: 441410399e5fa73f5855a5cf7268d7b3dc80b566
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
-ms.translationtype: HT
+ms.openlocfilehash: 63786ebf9ad8c595acfab86e08bb52b0605bae39
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530122"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735408"
 ---
 # <a name="unable-to-add-planner-to-a-teams-private-channel"></a>Nejde přidat Planner do soukromého kanálu Teams
 

@@ -6,17 +6,18 @@ manager: pamgreen
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.openlocfilehash: ba9f11da5c35c3681e9bd5ceaf13233fe8b80fc9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44343209"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737298"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Řešení potíží s příkazem „Otevřít v Průzkumníkovi“ v SharePointu Online
 

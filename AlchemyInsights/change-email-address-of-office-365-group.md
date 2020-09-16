@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 32968f085a4e9d49f60ef88e4e78bf6c67629556
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: HT
+ms.openlocfilehash: a2605bcd66f61de811ebb6e273e4ef1cff2b0119
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580650"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733680"
 ---
 # <a name="change-email-address-of-a-microsoft-365-group"></a>Změna e-mailové adresy skupiny Microsoft 365
 
-E-mailovou adresu skupiny Microsoft 365 můžete změnit pomocí Centra pro správu. Stačí vybrat skupinu a vybrat @edit e-mailovou adresu.
+E-mailovou adresu skupiny Microsoft 365 můžete změnit pomocí centra pro správu. Vyberte skupinu a vyberte @edit e-mailová adresa.
 
-Pomocí následujícího příkazu EXO PowerShell můžete také změnit primární adresu SMTP skupiny Microsoft 365:
+Primární adresu SMTP skupiny Microsoft 365 můžete změnit taky pomocí příkazu EXO PowerShellu:
 
-Set-UnifiedGroup <Group Name> -PrimarySmtpAddress<new SMTP Address>
+Set-Unified <Group Name> -PrimarySMTPAddress <new SMTP Address>
 
-Příklad:
+Pøíklad
 
 ```
     Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com

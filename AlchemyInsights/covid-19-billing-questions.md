@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -15,12 +16,12 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 75251e129e71f5f9800aa8a439d09aabb7c07bdd
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: 083a4047f86bf315702a90822eaefa5a5d2bf72a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991002"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747544"
 ---
 # <a name="covid-19-billing-and-license-questions"></a>Otázky k fakturaci a licencování s ohledem na COVID-19
 

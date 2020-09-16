@@ -1,32 +1,33 @@
 ---
-title: Výchozí nastavení zabezpečení je povoleno.
+title: Výchozí nastavení zabezpečení je povolené.
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6006"
 - "1300007"
-ms.openlocfilehash: b0e4604f7a52df8699caa3bf20add9551c091fce
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 78893d1ac260f9c9a2670969b4c50c8b911102c5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45141340"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740359"
 ---
-# <a name="security-defaults-is-enabled"></a>Výchozí nastavení zabezpečení je povoleno.
+# <a name="security-defaults-is-enabled"></a>Výchozí nastavení zabezpečení je povolené.
 
-Nastavení Výchozí zabezpečení vyzve všechny uživatele k vícefaktorovému ověřování.
+Nastavení zabezpečení vyzve všechny uživatele pro vícefaktorové ověřování.
 
-Správa výchozích hodnot zabezpečení:
+Správa výchozích nastavení zabezpečení:
 
-1. Přihlaste se k [portálu Azure](https://ms.portal.azure.com/)   pomocí svých globálních přihlašovacích údajů správce.
-2. Přejděte na **Azure Active Directory**  >  **Properties**.
+1. Přihlaste se k [portálu Azure](https://ms.portal.azure.com/)   pomocí přihlašovacích údajů globálního správce.
+2. Přejděte na **vlastnosti Azure Active Directory**  >  **Properties**.
 3. V dolní části stránky klikněte na **Spravovat výchozí nastavení zabezpečení**.
 4. Pokud chcete povolit výchozí nastavení zabezpečení, klikněte na **Ano**, pokud chcete zakázat výchozí zabezpečení, klikněte na **Ne**.
 
-Další informace naleznete v [tématu Co jsou výchozí hodnoty zabezpečení?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+Další informace najdete v tématu [co jsou výchozí nastavení zabezpečení?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).

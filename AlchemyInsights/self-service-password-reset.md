@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 9c588a21e9192a48231836c29a5238589fdf7092
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
-ms.translationtype: HT
+ms.openlocfilehash: 693b051eb5f63a9b2eea8bce9321bbf435811269
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43217822"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47740179"
 ---
 # <a name="self-service-password-reset-sspr"></a>Samoobslužné resetování hesla (SSPR)
 

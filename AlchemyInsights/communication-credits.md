@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: a4f9b04ed0fc51d9c5a79c12162ca57a75ea7eb3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44204230"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733392"
 ---
 # <a name="communication-credits"></a>Komunikační kredity
 
-Komunikační kredity představují pohodlný způsob platby za minuty zvukových konferencí a volání. Pokud chcete ze Skypu pro firmy a z Microsoft Teams volat na bezplatná telefonní čísla, musíte si dobít komunikační kredity.
+Komunikační kredity představují pohodlný způsob placení zvukových konferencí a minut volání. Pokud chcete ze Skypu pro firmy a z Microsoft Teams volat na bezplatná telefonní čísla, musíte si dobít komunikační kredity.
 
-- Informace o nastavení komunikačních kreditů naleznete [v tématu Nastavení komunikačních kreditů pro vaši organizaci](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
+- Pokud chcete nastavit kredity komunikace, přečtěte si téma [Nastavení kreditů komunikace pro vaši organizaci](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
 
-- Informace o přidání a správě fondů komunikačního kreditu naleznete v [tématu Přidání finančních prostředků a správa komunikačních kreditů](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). 
+- Pokud chcete přidat a spravovat komunikační kredity, přečtěte si článek [Přidání fondů a Správa platebních kreditů](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). 
 
-Další informace najdete v [tématu Co jsou komunikační kredity?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+Další informace najdete v tématu [co jsou komunikační kredity?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9002274"
 - "4388"
 - "4389"
-ms.openlocfilehash: 5a185272517ffccf034a5780269cdbd68516db87
-ms.sourcegitcommit: c22283bf54a23cc3989e9a77271e725980eec9e0
-ms.translationtype: HT
+ms.openlocfilehash: 689d8a0a3f765ffa8cb6ff8869eecae0e1f96fed
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43795790"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750048"
 ---
 # <a name="troubleshoot-device-actions"></a>Řešení potíží s akcemi zařízení
 

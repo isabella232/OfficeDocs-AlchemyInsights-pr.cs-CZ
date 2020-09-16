@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "9002239"
 - "4348"
 ms.assetid: ''
-ms.openlocfilehash: 2956bbc72cfcf79b09be3112aeb2a102dda5bc49
-ms.sourcegitcommit: 018aadd53eac92248bc6d5ad63b739216103090a
-ms.translationtype: HT
+ms.openlocfilehash: be4bdfe5374407a8ccecec5be8a5273d3b825414
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42940147"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736815"
 ---
 # <a name="teams-data-storage"></a>Ukládání dat v Teams
 

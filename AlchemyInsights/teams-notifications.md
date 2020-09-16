@@ -5,23 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 4821fb67a95264c5258d265b9f1d13cea0a321d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944066"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736056"
 ---
-# <a name="teams-notifications"></a>Oznámení v Teams
+# <a name="teams-notifications-faq"></a>Nejčastější dotazy týkající se týmů
 
-V desktopové aplikaci Teams je k dispozici několik způsobů, jak získat přístup k oznámením a spravovat je. Pokud budete chtít nastavení oznámení dál přizpůsobit, vyberte svůj profilový obrázek v pravém horním rohu Teams a pak přejděte na **Nastavení > Oznámení o aktivitách**. Tam můžete přesněji určit, jaká oznámení obdržíte a kde se budou zobrazovat. 
 
-V aplikacích pro iOS a Android můžete přizpůsobit oznámení klepnutím na **Další > Nastavení > Oznámení**.
+- Oznámení [nastavuje uživatelé](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)a správci nemohou změnit nastavení oznámení pro uživatele. V desktopové aplikaci Teams vyberte svůj profilový obrázek v pravém horním rohu týmů a pak přejděte na nastavení>oznámení o aktivitách.
 
-Další informace najdete v článcích [Šest věcí, které je potřeba vědět o oznámeních](https://support.microsoft.com/cs-CZ/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) a [Správa oznámení ve službě Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
+- [Poradce při potížích s mobilními aplikacemi Teams](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c)
+
+- Oznámení můžete dostávat čtyřmi způsoby: prostřednictvím informačního kanálu, chatu, oznámení proužkové reklamy a e-mailu. E-mail o zmeškané aktivitě se odešle, když jste v Teams po určitou dobu neaktivní. Podívejte [se na šest věcí, které mají vědět o oznámeních](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) pro další informace.
+
+Další informace o oznámeních Teams naleznete v tématu  [Správa oznámení v Teams](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).

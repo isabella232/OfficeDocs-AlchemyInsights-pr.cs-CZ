@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3"
 - "5029"
-ms.openlocfilehash: 76660cb108debfaa6c2d0ab00288ec7408ee0d89
-ms.sourcegitcommit: 82155846ce771c18050e6113d6c199b34a1504ff
-ms.translationtype: HT
+ms.openlocfilehash: d5d5450a9c6e000b5bc8b15dbd2520290613c148
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43810512"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732274"
 ---
 # <a name="creating-and-managing-dynamic-distribution-lists"></a>Vytváření a správa dynamických distribučních seznamů
 

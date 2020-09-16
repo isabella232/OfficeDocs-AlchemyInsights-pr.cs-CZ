@@ -1,31 +1,32 @@
 ---
-title: Vytvoření nebo migrace aktualizačních kroužků
+title: Vytvoření nebo migrace vyzvánění aktualizací
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1126"
 - "6700007"
-ms.openlocfilehash: 87102d7809d298531b5655559364c9df22e8eb91
-ms.sourcegitcommit: 3fa780811984400c525d66edf46a3196f6290df0
+ms.openlocfilehash: 06f905551cbd015c80b6de4f97d0beb535d70fa0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45423463"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732348"
 ---
-# <a name="create-or-migrate-update-rings"></a>Vytvoření nebo migrace aktualizačních kroužků
+# <a name="create-or-migrate-update-rings"></a>Vytvoření nebo migrace vyzvánění aktualizací
 
-Pokud jste na webu Windows 10 nakonfigurovali nastavení aktualizace Windows 10 na klasickém portálu Intune a chcete migrovat nastavení do Intune na webu Azure Portal, postupujte takto:
+Pokud jste nakonfigurovali nastavení aktualizací Windows 10 na portálu klasické verze a chcete migrovat nastavení na Intune na Azure Portal, postupujte takto:
 
-1.  Přejděte na portál Azure a vyberte **Všechny služby**.
-2.  Do pole **Filtr** zadejte **Intune**a zvolte **Microsoft Intune**.
-3.  Vyberte **Aktualizace softwaru**   >   **Windows 10 Aktualizační kroužky**   >   **Vytvořit**.
-4.  Zadejte název a popis a vyberte **Konfigurovat**.
-5.  Nakonfigurujte nastavení aktualizací softwaru pro vaši organizaci.
-6.  Vyberte **OK**Vytvořit vytvořit  >  **aktua pásmo**  >  **Create**.
+1.  Přejděte na Azure Portal a vyberte  **všechny služby**.
+2.  V poli  **Filtr**  zadejte  **Intune**a zvolte  **Microsoft Intune**.
+3.  Vyberte **aktualizace softwaru**   >   **Windows 10 Update Rings**   >   **Create**.
+4.  Zadejte název a popis a vyberte  **Konfigurovat**.
+5.  Konfigurace nastavení aktualizace softwaru pro vaši organizaci
+6.  Vyberte **OK**  >  **vytvořte aktualizaci vyzvánění**  >  **Create**.

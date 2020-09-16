@@ -1,30 +1,31 @@
 ---
-title: Nelze aktivovat Office.
+title: Office nejde aktivovat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 875026fe11d3745b587131cf0dd40a28fa005dc5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580146"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744619"
 ---
-# <a name="unable-to-activate-office"></a>Nelze aktivovat Office.
+# <a name="unable-to-activate-office"></a>Office nejde aktivovat
 
 - Zkontrolujte, jestli platnost vašeho předplatného vypršela.
-- Ujistěte se, že máte předplatné, které umožňuje klientské licence, jako je Office 365 Business nebo Business Premium, a [ujistěte se, že uživatel má přiřazenou licenci](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Zkontrolujte, jestli máte předplatné, které umožňuje klientské licence, třeba Office 365 Business nebo Business Premium, a [Zkontrolujte, jestli má uživatel přiřazenou licenci](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
 - Zkontrolujte, jestli je uživatel přihlášený k Office pomocí stejného účtu, který má přiřazenou licenci.
 - Podívejte se na [stránku stavu služeb Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) a zjistěte, jestli se vyskytly nějaké problémy.
-- Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru a ověřte, zda neblokují přístup aplikací Microsoft 365 k internetu. Přečtěte si [Adresy URL a rozsahy IP adres pro Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Adresy URL a rozsahy IP adres pro Office 365").
+- Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru a ověřte, že neblokují aplikace Microsoft 365 přístup k Internetu. Přečtěte si [Adresy URL a rozsahy IP adres pro Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Adresy URL a rozsahy IP adres pro Office 365").
 
 Při řešení problémů postupujte takto:
 

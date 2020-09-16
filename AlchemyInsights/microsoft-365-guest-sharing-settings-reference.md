@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000204"
 - "4843"
-ms.openlocfilehash: 99a5624d708d799dcbb8d92619a386c8380cf623
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: eb7a1ee7dedb19e48a86d57b8edac33b387f15cf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911967"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742808"
 ---
 # <a name="microsoft-365-guest-sharing-settings-reference"></a>Referenční informace k nastavení sdílení Microsoft 365 pro hosty
 

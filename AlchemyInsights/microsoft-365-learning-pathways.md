@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002632"
 - "5054"
-ms.openlocfilehash: d3a3e6c89f326e6348ff9e46710975ee2a373056
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8da865beecef8a6c3a36c2d7973e424d6cc8da50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062349"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47742694"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Způsoby výuky Microsoft 365
 

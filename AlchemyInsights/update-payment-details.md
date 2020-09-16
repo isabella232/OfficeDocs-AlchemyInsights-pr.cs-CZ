@@ -5,18 +5,19 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 5d7ee20edb0a9d298b657c14d7a75034245427a8
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 514bd6a448333c72776b387869c08915b637a3f7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418173"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735048"
 ---
 # <a name="update-credit-card-information"></a>Aktualizace údajů o platební kartě
 
@@ -40,4 +41,4 @@ ms.locfileid: "44418173"
 
 Pokud narazíte na problémy s načítáním webové stránky, zkuste ji otevřít v jiném prohlížeči nebo ji zkuste otevřít v anonymním okně prohlížeče – například v okně se službou procházení InPrivate v Microsoft Edge nebo v okně anonymního režimu v Google Chromu. 
 
-Další informace naleznete v tématu [Správa platebních metod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Další informace najdete v tématu [Správa způsobů platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
