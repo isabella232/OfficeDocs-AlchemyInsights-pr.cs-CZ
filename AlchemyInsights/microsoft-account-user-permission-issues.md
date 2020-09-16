@@ -1,38 +1,39 @@
 ---
-title: Poradce při potížích s problémem – uživatel nebyl v adresáři nalezen
+title: Řešení problému – uživatel nebyl nalezen v adresáři
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 3b863c5e9962dd29ca2ed41d113041d74830f615
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 512494a69ab274af00962cb9777a3479b4200fd7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702731"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725400"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Poradce při potížích s problémem – uživatel nebyl v adresáři nalezen
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>Řešení problému – uživatel nebyl nalezen v adresáři
 
-Pokud se uživatelům v adresáři zobrazuje chybová zpráva "uživatel nebyl nalezen", opakujte akci, pokud je typ problému Uživatel není v adresáři.
+Pokud se uživatelům zobrazí chybová zpráva "uživatel nebyl nalezen" v adresáři, zkuste to znovu, kde typ problému uživatel není v adresáři.
 
-Následující kroky lze provést k řešení problému.
+Tento problém můžete vyřešit provedením následujících kroků.
 
-- Ujistěte se, že účet, který přijal e-mailovou pozvánku, je stejný účet, který se používá k pozdějšímu přihlášení. Ujistěte se, že uživatel používá stejný účet k přijetí pozvánky a přihlášení k webu. 
+- Ujistěte se, že účet, který přijal pozvánku, je stejný účet, který se používá k pozdějšímu přihlášení. Ujistěte se, že uživatel používá stejný účet pro přijetí pozvánky a přihlášení na web. 
 
-Další informace najdete v tématu [Správa</a> aliasů pro svůj účet Microsoft ke správě přihlášení k Microsoftu 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+Další informace najdete v tématu [jak spravovat aliasy pro váš účet Microsoft </a> pro správu přihlášení Microsoft 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- Přejděte na všechny stránky, ve kterých se uživateli zobrazuje chyba. 
+- Přejděte na jednotlivé weby, ve kterých uživatel obdrží chybu. 
 
-Přidejte "/_layouts/15/people.aspx/membershipgroupid=0" (v rámci dvojitých uvozovek) na konec adresy URL webu. 
+Add "/_layouts/15/People.aspx/MembershipGroupId = 0" (uvnitř uvozovek) na konec adresy URL webu. 
 
-Příklad: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+Příklad: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - Vyberte uživatele ze seznamu.
 
-- Klikněte na **Odebrat uživatelská oprávnění** z pásu karet. 
--  Přidejte zpět uživatele a znovu odešlete pozvánku uživateli.
+- Na pásu karet klikněte na **Odebrat uživatelská oprávnění** . 
+-  Přidat uživatele a znovu odeslat pozvánku uživateli
 
