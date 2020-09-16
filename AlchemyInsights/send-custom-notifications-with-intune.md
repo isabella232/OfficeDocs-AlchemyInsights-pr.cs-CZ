@@ -1,35 +1,36 @@
 ---
-title: Odeslat vlastní oznámení s Intune
+title: Odesílání vlastních oznámení pomocí Intune
 ms.author: brenduns
 author: brenduns
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 969649084a2ac536ee1b41f225c3be5415a27c4b
-ms.sourcegitcommit: 2572c4e5a981d5f3f556835061c568cfd08b78da
+ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886850"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720639"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Jak odesílat vlastní upozornění uživatelům spravovaných zařízení iOS a Android
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Jak posílat vlastní upozornění uživatelům spravovaných zařízení s iOS a Androidem
 
-Vlastní upozornění pro Intune jsou zpracována aplikací podnikového portálu na uživatelově zařízení. Aplikace poté vytvoří na tomto zařízení upozornění na nabízenou replikaci.
+Vlastní oznámení o Intune zpracovává aplikace Portál společnosti na zařízení uživatele. Aplikace potom vytvoří nabízené oznámení na tomto zařízení.
 
-Následují předpoklady zařízení pro podporu přijímání vlastních upozornění a pro aplikaci, aby bylo oznámení o nabízenou replikaci vytvořeno:
+Níže jsou požadavky na zařízení, které podporují přijímání vlastních oznámení, a pro aplikaci pak vytvoří nabízené oznámení:
 
-- V zařízení musí být nainstalována aplikace podnikového portálu.  
+- Na zařízení musí být nainstalovaná aplikace Portál společnosti.  
 
-- Zařízení musí umožňovat, aby aplikace podnikového portálu odesílal upozornění na nabízenou replikaci. Při instalaci nebo aktualizaci aplikace vyzve uživatele k povolení oznámení.
+- Zařízení musí povolit aplikaci Portál společnosti odesílat nabízená oznámení. Když se aplikace nainstaluje nebo aktualizuje, vyzve uživatele k povolení oznámení.
 
-- Zařízení pro Android musí mít nainstalovánu službu Google Play.
+- Zařízení s Androidem musí být nainstalovaná služba Google Play.
 
-- Zařízení musí být zaregistrováni v Intune.
+- Zařízení musí být zaregistrované s Intune.
 
-Další informace včetně postupu při odesílání zpráv naleznete v dokumentaci k této [funkci](https://docs.microsoft.com/intune/custom-notifications).
+Další informace včetně odesílání zpráv najdete v [dokumentaci k funkcím](https://docs.microsoft.com/intune/custom-notifications).
