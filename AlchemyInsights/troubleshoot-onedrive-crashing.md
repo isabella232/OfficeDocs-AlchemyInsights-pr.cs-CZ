@@ -1,47 +1,48 @@
 ---
-title: Poradce při potížích s havárií OneDrivu
+title: Odstraňování potíží s OneDrivem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: 7fbc4617a0426eb11359339edc950a108f782750
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 1155d370911b28bbb1ba83a15eace66d1daea28f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44748795"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664991"
 ---
-# <a name="troubleshoot-onedrive-crashes"></a>Poradce při potížích s havárií OneDrivu
+# <a name="troubleshoot-onedrive-crashes"></a>Odstraňování potíží s OneDrivem
 
-Pokud OneDrive opakovaně havaruje, vyzkoušejte tyto kroky pro řešení potíží:
+Pokud se OneDrive opakovaně zhroutí, zkuste tyto kroky:
 
-**Ujistěte se, že klíče registru nejsou nastaveny:**
+**Zkontrolujte, jestli nejsou nastavené klíče registru:**
 
-1. Pomocí Editoru registru přejděte na HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\OneDrive
-2. Pokud disableFileSyncNGSC je k dispozici a nastavte na hodnotu 1, otevřete klíč a změňte hodnotu na 0.
-3. Ruční spuštění OneDrivu tak, že přejdete na úvodní obrazovku ![Stisknutí klávesy Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), zadejte do vyhledávacího pole OneDrive a klikněte na desktopovou aplikaci OneDrive.
-
-**Resetování OneDrivu:**
-
-Poznámky:
-
-- Resetováním OneDrivu odpojíte všechna stávající synchronizační připojení (včetně osobního OneDrivu, pokud je nastavený).
-- O soubory ani data nedojde resetováním OneDrivu v počítači.
+1. Použití Editoru registru, přejděte na HKEY_LOCAL_MACHINE \SOFTWARE\Policies\Microsoft\OneDrive
+2. Pokud je DisableFileSyncNGSC přítomen a je nastaven na 1, otevřete klíč a změňte hodnotu na 0.
+3. Ruční spuštění OneDrivu tak, že přejdete na Start ![Stiskněte klávesu Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), do vyhledávacího pole zadejte OneDrive a klikněte na desktopovou aplikaci OneDrive.
 
 **Resetování OneDrivu:**
 
-1. Otevřete dialogové okno Spustit stisknutím klávesy Windows a R.
-2. Zadejte %localappdata%\Microsoft\OneDrive\onedrive.exe /reset a stiskněte OK. Krátce se může zobrazit okno příkazu.
-3. Ruční spuštění OneDrivu tak, že přejdete na úvodní obrazovku ![Stisknutí klávesy Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), zadejte do vyhledávacího pole OneDrive a klikněte na desktopovou aplikaci OneDrive.
+Komentář
 
-Poznámky:
+- Obnovením OneDrivu se odpojí všechna vaše stávající synchronizovaná připojení (včetně osobního OneDrivu, pokud je nastavená).
+- Obnovením OneDrivu na počítači nepřijdete o soubory ani data.
 
-- Pokud jste se rozhodli synchronizovat pouze některé složky před resetováním, budete to muset udělat znovu po dokončení synchronizace. Další informace [načtěte: Zvolte, které složky OneDrivu se mají synchronizovat s](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)   počítačem.
-- Budete to muset dokončit pro osobní OneDrive a OneDrive pro firmy.
+**Obnovení OneDrivu:**
+
+1. Stisknutím kláves Windows a R otevřete dialogové okno spustit.
+2. Zadejte% localappdata% \Microsoft\OneDrive\onedrive.exe/Reset a stiskněte OK. Krátce se zobrazí okno příkazového řádku.
+3. Ruční spuštění OneDrivu tak, že přejdete na Start ![Stiskněte klávesu Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), do vyhledávacího pole zadejte OneDrive a klikněte na desktopovou aplikaci OneDrive.
+
+Komentář
+
+- Pokud jste se rozhodli synchronizovat jenom některé složky před obnovením, budete se muset pokusit po dokončení synchronizace. Přečtěte si o [tom, které složky OneDrivu se mají synchronizovat s počítačem](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85),   kde najdete další informace.
+- Tento postup musíte provést pro svůj osobní OneDrive a OneDrive pro firmy.

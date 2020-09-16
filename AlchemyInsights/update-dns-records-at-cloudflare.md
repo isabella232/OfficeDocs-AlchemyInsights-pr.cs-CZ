@@ -1,26 +1,27 @@
 ---
-title: Aktualizace DNS záznamů na Cloudflare
+title: Aktualizace záznamů DNS na webu CloudFlare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5807"
-ms.openlocfilehash: 73e143cbb62937ade55fe9f7fa260e0f897f8bb3
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 2faa5c37b57e4c49da2cdd212e1bebba76276eb1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650342"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657674"
 ---
-# <a name="update-dns-records-at-cloudflare"></a>Aktualizace DNS záznamů na Cloudflare
+# <a name="update-dns-records-at-cloudflare"></a>Aktualizace záznamů DNS na webu CloudFlare
 
-K aktualizaci záznamů DNS použijte následující odkazy.
+Pomocí odkazů dole můžete aktualizovat záznamy DNS.
 
-- [Vytváření DNS záznamů na Cloudflare](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
+- [Vytvoření záznamů DNS na webu CloudFlare](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare?view=o365-worldwide)
 - [Přidání nebo úpravy vlastních záznamů DNS v Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

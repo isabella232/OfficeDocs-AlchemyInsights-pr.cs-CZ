@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5068"
-ms.openlocfilehash: 09adcce1f7124771d6c0a1aaca44337dc02d18c2
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 84e7b2584cd622c93e3fbb55cce41b6f9436fc24
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915036"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662930"
 ---
 # <a name="mail-flow-transport-rules-in-exchange-online"></a>Pravidla toku pošty (přenosová pravidla) v Exchangi Online
 

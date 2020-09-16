@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002538"
 - "5485"
-ms.openlocfilehash: dbc3d3d9048730e709373e104345db51af9348e4
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 7cdd5c6d7e018f06fb7c063c0fea250ed78fd0e2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915077"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663290"
 ---
 # <a name="adding-phone-numbers-to-users"></a>Přidání telefonních čísel pro uživatele
 

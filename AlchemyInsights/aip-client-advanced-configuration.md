@@ -1,41 +1,42 @@
 ---
-title: Pokročilá konfigurace klienta AIP
+title: Rozšířená konfigurace klienta AIP
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 655770684f491337fe92bf742c0ba573949d8439
-ms.sourcegitcommit: 1dada930649a2625eb6d15910b2bfd5e1e00e5b6
+ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46554916"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663254"
 ---
-# <a name="aip-client-advanced-configuration"></a>Pokročilá konfigurace klienta AIP
+# <a name="aip-client-advanced-configuration"></a>Rozšířená konfigurace klienta AIP
 
-Máte problémy s pokročilou konfigurací klienta AIP? Pokud ano, udělejte toto:
+Máte problémy s pokročilou konfigurací klienta AIP? Pokud ano, postupujte takto:
 
-1. Pravděpodobně používáte zásady s vymezenou obor, které nejsou správně nakonfigurovány. Další informace najdete v [tématu Konfigurace zásad ochrany informací Azure pro konkrétní uživatele pomocí zásad s vymezeným oborem](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+1. Možná používáte zásady s oborem, které nejsou správně nakonfigurované. Další informace najdete v článku [o konfiguraci zásad ochrany informací Azure pro určité uživatele pomocí zásad pro vymezené úrovni](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 
-2. Pokud k problému dochází i nadále, podívejte se na níže uvedené zdroje. Pokud problém zůstává nevyřešen, pořiďte snímek obrazovky problému a připojte jej k lístku podpory.
+2. Pokud se problém pořád setká, podívejte se na materiály níže. Pokud problém zůstane nevyřešený, podejte snímek obrazovky a připojte se k lístku podpory.
 
-Další zdroje informací naleznete v tématu:
+Další materiály naleznete v tématech:
 
-- [Konfigurace nastavení zásad pro Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [Jak nakonfigurovat nastavení zásad pro Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [Průvodce správcem: Vlastní konfigurace pro klienta Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [Příručka pro správu: vlastní konfigurace pro klienta Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
-- [Co je Azure Information Protection?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Co je ochrana informací v Azure?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [Návody pro běžné scénáře, které používají Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Návody pro běžné scénáře používající službu Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
 - [Konfigurace zásad ochrany informací Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
@@ -43,8 +44,8 @@ Další zdroje informací naleznete v tématu:
     
 - [Jak vytvořit nový popisek pro Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [Konfigurace popisku pro ochranu správy práv](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [Jak nakonfigurovat popisek pro ochranu před správou přístupových práv](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
 - [Požadavky na ochranu informací Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [Kurz: Konfigurace nastavení zásad Ochrany informací Azure a vytvoření nového popisku](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Kurz: Konfigurace nastavení zásad ochrany informací Azure a vytvoření nového štítku](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

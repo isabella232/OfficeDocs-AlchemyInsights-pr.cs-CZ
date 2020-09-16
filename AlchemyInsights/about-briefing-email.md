@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 551804f7b9f3732ac5b33518add86ed5f83fe928
-ms.sourcegitcommit: 1d45333a0a448c15bf8430a4fea75c50f9b7464e
+ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46793778"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663695"
 ---
 # <a name="about-briefing-email"></a>O přehledných e-mailech
 

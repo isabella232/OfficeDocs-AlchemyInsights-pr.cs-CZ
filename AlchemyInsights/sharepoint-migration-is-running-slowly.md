@@ -1,28 +1,29 @@
 ---
-title: Proč nelze tento soubor upravit?
+title: Proč tento soubor nemůžu upravovat?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: aa27d36a4a16eb43c2879b6ecbd03069d567de4e
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 56031848ef23fb4823327970efa65b00d0bf9218
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44236356"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47661985"
 ---
-# <a name="sharepoint-migration-is-running-slowly"></a>Migrace služby SharePoint běží pomalu
+# <a name="sharepoint-migration-is-running-slowly"></a>Migrace SharePointu běží pomalu
 
 Na výkon migrace může mít vliv síťová infrastruktura, velikost souborů, čas migrace a omezování. Pochopení těchto možností vám pomůže naplánovat vaši migraci a zajistit její maximální efektivitu.
 
-Další informace naleznete v tématu:
+Další informace najdete v těchto tématech:
 
 - [Během migrace dochází ke snížení výkonu nebo omezování](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)
 - [Obecné rady týkající se výkonu migrace](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)

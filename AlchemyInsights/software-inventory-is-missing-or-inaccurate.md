@@ -1,32 +1,33 @@
 ---
-title: Inventář softwaru chybí nebo je nepřesný
+title: Inventář softwaru chybí nebo není přesný
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 0edafc8fab84ccdabecdc4853fde998ae79a8184
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197792"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665279"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Inventář softwaru chybí nebo je nepřesný
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Inventář softwaru chybí nebo není přesný
 
-Inventář softwaru ve službě Microsoft Defender ATP poskytuje název produktu nebo dodavatele, jeho nejnovější číslo verze a zjištěné slabiny a chyby zabezpečení. Další informace naleznete v [tématu Inventář softwaru – správa hrozeb a ohrožení zabezpečení](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Služba inventárního soupisu v Microsoft Defenderu poskytuje název produktu nebo dodavatele, nejnovější číslo verze a zjištěné slabiny a chyby zabezpečení. Další informace najdete v tématu o [správě inventáře softwaru – ohrožení a zabezpečení](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Pomocí těchto kroků můžete nahlásit vágní nebo neúplné informace, nepřesná čísla verzí nebo opravené informace o inventáři softwaru.  
+Pomocí těchto kroků můžete nahlásit informace o nekonkrétní nebo neúplných informacích, nepřesných číslech verze nebo opravené informace o inventáři softwaru.  
 
-1. Otevřete informační rámeček softwaru a vyberte aplikaci na stránce Inventář softwaru.
-2. Vyberte **Možnost Nepřesnost sestavy**a v podokně informačního rámečku vyberte kategorii z rozevírací nabídky.
-3. Vyplňte svou e-mailovou adresu a podrobnosti o nepřesnosti.
+1. Otevřete informační rámeček software a vyberte aplikaci na stránce inventář softwaru.
+2. Vyberte možnost **nepřesnost sestavy**a z podokna v podnabídce vyberte kategorii z rozevírací nabídky.
+3. Vyplňte svoji e-mailovou adresu a podrobnosti o nepřesnosti.
 4. Vyberte **Odeslat**.</br>
-    Vaše zpětná vazba je okamžitě odeslána odborníkům na službu Pro správu & ohrožení zabezpečení.
+    Váš názor je okamžitě odesílán & odborníkům na správu chyb zabezpečení.

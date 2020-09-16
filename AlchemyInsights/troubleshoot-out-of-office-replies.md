@@ -1,25 +1,26 @@
 ---
-title: Řešení potíží s automatickými odpověďmi mimo kancelář
+title: Řešení potíží se automatické odpovědí mimo kancelář
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 761ce82515eb264ea3266ccf20948a5ca470a1ec
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 3aa48fdc9c7b1ca227e32d229ce4ce2102944f58
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707652"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664955"
 ---
-# <a name="troubleshooting-out-of-office-automatic-replies"></a>Řešení potíží s automatickými odpověďmi mimo kancelář
+# <a name="troubleshooting-out-of-office-automatic-replies"></a>Řešení potíží se automatické odpovědí mimo kancelář
 
-Příčinou problémů může být široká škála možných příčin v závislosti na konfiguraci automatických odpovědí mimo kancelář.
+Příčinou problémů je celá řada možných příčin potíží v závislosti na tom, jak jste nakonfigurovali automatické odpovědi mimo kancelář.
 
-Pro hlubší pochopení, kde by mohl být problém, přečtěte si prosím [pochopení a řešení problémů mimo kancelář (Mimo kancelář) odpovědi](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
+Aby bylo možné problém pochopit, přečtěte si téma  [porozumění a řešení potíží mimo kancelář (mimo kancelář)](https://techcommunity.microsoft.com/t5/exchange-team-blog/understanding-and-troubleshooting-out-of-office-oof-replies/ba-p/1411972)
