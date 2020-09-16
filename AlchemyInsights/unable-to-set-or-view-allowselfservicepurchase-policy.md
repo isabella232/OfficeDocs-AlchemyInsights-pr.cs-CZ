@@ -1,39 +1,40 @@
 ---
-title: Zásady AllowSelfServicePurchase nelze nastavit ani zobrazit.
+title: Nelze nastavit nebo zobrazit zásady AllowSelfServicePurchase.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158554"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735192"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a><span data-ttu-id="8d665-102">Zásady AllowSelfServicePurchase nelze nastavit ani zobrazit.</span><span class="sxs-lookup"><span data-stu-id="8d665-102">Unable to set or view the AllowSelfServicePurchase policy</span></span>
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a><span data-ttu-id="21a8e-102">Nelze nastavit nebo zobrazit zásady AllowSelfServicePurchase.</span><span class="sxs-lookup"><span data-stu-id="21a8e-102">Unable to set or view the AllowSelfServicePurchase policy</span></span>
 
-<span data-ttu-id="8d665-103">Při pokusu o nastavení nebo zobrazení zásad AllowSelfServicePurchase se zobrazí následující chybová zpráva:</span><span class="sxs-lookup"><span data-stu-id="8d665-103">When attempting to set or view the AllowSelfServicePurchase policy, you receive the following error message:</span></span>
+<span data-ttu-id="21a8e-103">Při pokusu o nastavení nebo zobrazení zásad AllowSelfServicePurchase se zobrazí tato chybová zpráva:</span><span class="sxs-lookup"><span data-stu-id="21a8e-103">When attempting to set or view the AllowSelfServicePurchase policy, you receive the following error message:</span></span>
 
-<span data-ttu-id="8d665-104">*HandleError : Nepodařilo se načíst zásady produktu s PolicyId 'AllowSelfServicePurchase', ErrorMessage - Základní připojení bylo uzavřeno: Při odesílání došlo k neočekávané chybě.*</span><span class="sxs-lookup"><span data-stu-id="8d665-104">*HandleError : Failed to retrieve product policy with PolicyId 'AllowSelfServicePurchase', ErrorMessage - The underlying connection was closed: An unexpected error occurred on a send.*</span></span>
+<span data-ttu-id="21a8e-104">*HandleError: nepovedlo se načíst zásadu produktu s PolicyId AllowSelfServicePurchase, ErrorMessage – nadřízené připojení se zavřelo: došlo k neočekávané chybě při odeslání.*</span><span class="sxs-lookup"><span data-stu-id="21a8e-104">*HandleError : Failed to retrieve product policy with PolicyId 'AllowSelfServicePurchase', ErrorMessage - The underlying connection was closed: An unexpected error occurred on a send.*</span></span>
 
-<span data-ttu-id="8d665-105">To může být způsobeno starší verzí zabezpečení transportní vrstvy (TLS).</span><span class="sxs-lookup"><span data-stu-id="8d665-105">This may be due to an older version of Transport Layer Security (TLS).</span></span> <span data-ttu-id="8d665-106">Chcete-li připojit službu MSCommerce, musíte použít TLS 1.2 nebo vyšší.</span><span class="sxs-lookup"><span data-stu-id="8d665-106">To connect the MSCommerce service, you need to use TLS 1.2 or greater.</span></span>  
+<span data-ttu-id="21a8e-105">Příčinou mohou být starší verze protokolu TLS (Transport Layer Security).</span><span class="sxs-lookup"><span data-stu-id="21a8e-105">This may be due to an older version of Transport Layer Security (TLS).</span></span> <span data-ttu-id="21a8e-106">Abyste mohli připojit službu MSCommerce, musíte používat TLS 1,2 nebo vyšší.</span><span class="sxs-lookup"><span data-stu-id="21a8e-106">To connect the MSCommerce service, you need to use TLS 1.2 or greater.</span></span>  
 
-<span data-ttu-id="8d665-107">Pomocí následujících kroků povolte nebo nastavte protokol TLS na 1.2, ověřte a opakujte akci.</span><span class="sxs-lookup"><span data-stu-id="8d665-107">Try the following steps to enable/set the TLS protocol to 1.2, verify, and retry.</span></span>
- 1. <span data-ttu-id="8d665-108">Na příkazovém řádku Prostředí\) PowerShell (PS C: zadejte následující příkaz pro nastavení protokolu TLS na verzi 1.2:</span><span class="sxs-lookup"><span data-stu-id="8d665-108">At the PowerShell command prompt (PS C:\) enter the following command to set the TLS protocol to version 1.2:</span></span>
+<span data-ttu-id="21a8e-107">Zkuste použít následující postup pro povolení/nastavení protokolu TLS na 1,2, ověřte a zkuste to znova.</span><span class="sxs-lookup"><span data-stu-id="21a8e-107">Try the following steps to enable/set the TLS protocol to 1.2, verify, and retry.</span></span>
+ 1. <span data-ttu-id="21a8e-108">Na příkazovém řádku PowerShellu (PS C: \) Zadejte následující příkaz pro nastavení protokolu TLS na verzi 1,2:</span><span class="sxs-lookup"><span data-stu-id="21a8e-108">At the PowerShell command prompt (PS C:\) enter the following command to set the TLS protocol to version 1.2:</span></span>
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. <span data-ttu-id="8d665-109">Ověřte protokoly TLS, které se používají, pomocí následujícího příkazu:</span><span class="sxs-lookup"><span data-stu-id="8d665-109">Verify the TLS protocol(s) in use, with the following command:</span></span>
+2. <span data-ttu-id="21a8e-109">Ověřte používané protokoly TLS pomocí následujícího příkazu:</span><span class="sxs-lookup"><span data-stu-id="21a8e-109">Verify the TLS protocol(s) in use, with the following command:</span></span>
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. <span data-ttu-id="8d665-110">Podle potřeby opakujte příkazy Získat nebo aktualizovat.</span><span class="sxs-lookup"><span data-stu-id="8d665-110">Retry the Get or Update commands as needed.</span></span>
+3. <span data-ttu-id="21a8e-110">Opakujte pokus o spuštění nebo aktualizaci podle potřeby.</span><span class="sxs-lookup"><span data-stu-id="21a8e-110">Retry the Get or Update commands as needed.</span></span>
 
