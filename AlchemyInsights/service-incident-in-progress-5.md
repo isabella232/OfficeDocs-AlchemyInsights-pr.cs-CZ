@@ -1,10 +1,11 @@
 ---
-title: Probíhá servisní incident
-ms.author: v-crytho
+title: Probíhající incident služby
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1120857d-8af2-45e6-b6af-ece612448a62
@@ -18,19 +19,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: c667331c4ba4f5fd7b03f0f8a7f26c669ddde6df
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719724"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751344"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="dea12-102">Probíhá servisní incident</span><span class="sxs-lookup"><span data-stu-id="dea12-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="75686-102">Probíhající incident služby</span><span class="sxs-lookup"><span data-stu-id="75686-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="dea12-103">Může se vás týkat servisní incident nebo informační zpravodaj, který je právě vyšetřován.</span><span class="sxs-lookup"><span data-stu-id="dea12-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="dea12-104">Nejnovější stav můžete zkontrolovat na stránce [Stav služby.](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="dea12-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="75686-103">Může to být ovlivněno incidentem nebo zpravodajem, který je právě zkoumán.</span><span class="sxs-lookup"><span data-stu-id="75686-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="75686-104">Nejnovější stav můžete zkontrolovat na stránce [stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="75686-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="dea12-105">Pro vaše pohodlí naleznete níže shrnutí tohoto incidentu:</span><span class="sxs-lookup"><span data-stu-id="dea12-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="75686-105">Pro účely vaší pohodlí najdete shrnutí tohoto incidentu níže:</span><span class="sxs-lookup"><span data-stu-id="75686-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="dea12-106">**Číslo incidentu:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="dea12-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="75686-106">**Číslo incidentu:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="75686-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
     
-> <span data-ttu-id="dea12-107">Popis dopadu: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="dea12-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="75686-107">Popis dopadu: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="75686-107">Impact description: {ImpactDescription}</span></span>

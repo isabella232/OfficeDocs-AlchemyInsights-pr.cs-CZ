@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 778ac2d7796539f78f34a6659b75116c8866f399
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: HT
+ms.openlocfilehash: 2c332abe8c525012f4d6b2cd8c3f7054ccc8933e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553208"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736209"
 ---
-# <a name="teams-meeting-invitations"></a><span data-ttu-id="b5206-102">Pozvánky na schůzky v Teams</span><span class="sxs-lookup"><span data-stu-id="b5206-102">Teams meeting invitations</span></span>
+# <a name="teams-meeting-invitations"></a><span data-ttu-id="ef7dc-102">Pozvánky na schůzky v Teams</span><span class="sxs-lookup"><span data-stu-id="ef7dc-102">Teams meeting invitations</span></span>
 
-- <span data-ttu-id="b5206-103">Potřebujete vědět, jak [vytvořit pozvánku na schůzku v Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span><span class="sxs-lookup"><span data-stu-id="b5206-103">Do you need to know how to [create a meeting invitation in Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)?</span></span>
+<span data-ttu-id="ef7dc-103">Potřebujete pomoct s přizpůsobením pozvánek na schůzky v organizaci?</span><span class="sxs-lookup"><span data-stu-id="ef7dc-103">Need help customizing Teams Meeting Invitations for your organization?</span></span> <span data-ttu-id="ef7dc-104">Zkontrolujte [vlastní pozvánky na schůzky](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span><span class="sxs-lookup"><span data-stu-id="ef7dc-104">Be sure to review [Customize Meeting invitations](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).</span></span>  
 
-- <span data-ttu-id="b5206-104">Aktuálně **není možné si přizpůsobit** pozvánky na schůzky v Teams.</span><span class="sxs-lookup"><span data-stu-id="b5206-104">Currently, Teams meeting invitations **cannot be customized**.</span></span> <span data-ttu-id="b5206-105">Pokud chcete, aby se tento problém přidal do plánu (roadmapy), [hlasujte na Teams UserVoice](https://microsoftteams.uservoice.com/).</span><span class="sxs-lookup"><span data-stu-id="b5206-105">Please [vote on Teams UserVoice](https://microsoftteams.uservoice.com/) to have this issue added to the roadmap.</span></span>
+<span data-ttu-id="ef7dc-105">Další informace najdete v článku [Správa nastavení schůzky v Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span><span class="sxs-lookup"><span data-stu-id="ef7dc-105">For additional information see [Manage meeting settings in Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).</span></span>
