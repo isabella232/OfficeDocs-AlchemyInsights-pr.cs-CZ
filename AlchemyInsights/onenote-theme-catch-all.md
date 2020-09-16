@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: ee621d55537347d3bae836e2cf074b1ac0b8237a
-ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
+ms.openlocfilehash: d37f114c8349bcd1d6c3c2d896c54f3a31fada66
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852881"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729144"
 ---
 # <a name="common-issues-and-resolutions-with-onenote"></a>Běžné problémy a řešení pomocí OneNotu
 

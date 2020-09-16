@@ -15,22 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 284024bdf9728e8463fe69ef9c9c2695035faf2f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511357"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728064"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Obnovení odstraněné poštovní schránky
 
-Když uživatel ztratí licenci Exchange Online, jeho poštovní schránka je zachována po dobu 30 dnů a lze ji obnovit jednoduchým opětovným přiřazením licence uživateli.
+Když uživatel ztratí licenci Exchange Online, zachová se jeho poštovní schránka po dobu 30 dnů a dá se obnovit tak, že znovu přiřadí licenci uživateli.
   
- *To bude fungovat pouze do 30 dnů.*  
+ *To bude fungovat jenom do 30 dnů.*  
   
-1. V Centru pro správu Microsoftu 365 přejděte na **Users** \> stránku **Uživatelé aktivní uživatelé.** Vyberte dotyčného uživatele.
+1. V centru pro správu Microsoft 365 přejděte na stránku **Uživatelé** \> **aktivního uživatele** . Vyberte příslušného uživatele.
 
-2. Na kartě **Licence a Aplikace** přiřaďte licenci Exchange Online a vyberte Uložit **změny**.
+2. Na kartě **licence a aplikace** přiřaďte licenci Exchange Online a vyberte **Uložit změny**.
 
-Pokud se pokoušíte obnovit sdílenou poštovní schránku, lze ji obnovit také po dobu 30 dnů. Najdete je **Users** v části \> **Uživatelé odstranění uživatelé**; sdílené poštovní schránky nevyžadují licenci. Pokud si uvědomíte, že potřebujete obnovit odstraněného uživatele, přečtěte si [přečtěte nástroj Obnovení uživatele](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Pokud se pokoušíte obnovit sdílenou poštovní schránku, bude se taky obnovovat po dobu 30 dnů. Můžete je najít v části **Uživatelé** \> **Odstranění uživatelé**, sdílené poštovní schránky nevyžadují licenci. Pokud zjistíte, že je potřeba obnovit odstraněného uživatele, přečtěte si článek [obnovení uživatele](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
   
