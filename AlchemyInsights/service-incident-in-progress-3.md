@@ -1,28 +1,29 @@
 ---
-title: Probíhá servisní incident
-ms.author: v-crytho
+title: Probíhající incident služby
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f57713db-eb98-4980-a7fc-b53bf80f7e81
 ms.custom:
 - "113"
 - "1600012"
-ms.openlocfilehash: 535b0b35548044e950c3b29e6479bff50882b227
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ce3c53bcf6c84c0f30a832f1b34eacb7ee2d53d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719760"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767700"
 ---
-# <a name="service-incident-in-progress"></a>Probíhá servisní incident
+# <a name="service-incident-in-progress"></a>Probíhající incident služby
 
-Může se vás týkat servisní incident nebo informační zpravodaj, který je právě vyšetřován. Nejnovější stav můžete zkontrolovat na stránce [Stav služby.](https://admin.microsoft.com/adminportal/home#/servicehealth)
+Může to být ovlivněno incidentem nebo zpravodajem, který je právě zkoumán. Nejnovější stav můžete zkontrolovat na stránce [stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-Pro vaše pohodlí naleznete níže shrnutí tohoto incidentu:
+Pro účely vaší pohodlí najdete shrnutí tohoto incidentu níže:
   
 > **Číslo incidentu:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     

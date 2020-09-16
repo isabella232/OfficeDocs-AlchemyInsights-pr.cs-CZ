@@ -1,23 +1,24 @@
 ---
-title: Chyby sdílení OSE na SharePointu a OneDrivu
+title: Chyby sdílení rozšíření OSE SharePoint a OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: d3da42ff51b6f2fdd7df66f18fd902eee68aa2f7
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: ff3b802c91afd762e33c488258fe365fb8584882
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43641777"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769284"
 ---
-# <a name="ose-sharing-errors"></a>Chyby sdílení OSE
+# <a name="ose-sharing-errors"></a>Chyby při sdílení rozšíření OSE
 
-Článek popisuje různé chyby, se kterými se můžete setkat při sdílení souborů nebo složek ze SharePointu Online nebo OneDrivu pro firmy v Microsoftu 365. Chcete-li tyto chyby opravit, musíte být globálním správcem nebo správcem SharePointu ve vaší organizaci. Pokud nejste správce, obraťte se na technickou podporu a uveďte mu kód chyby.
+Článek popisuje různé chyby, se kterými se můžete setkat při sdílení souborů nebo složek z SharePointu Online nebo OneDrivu pro firmy v Microsoft 365. Abyste tyto chyby opravili, musíte být ve vaší organizaci globálním nebo správcem SharePointu. Pokud nejste správce, obraťte se na technickou podporu a sdělte mu kód chyby.
 
-Další informace o kódech chyb OSE najdete [v tématu Chyby sdílení na SharePointu a OneDrivu](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Další informace o kódech chyb na OSE najdete v článku [chyby sdílení v SharePointu a OneDrivu](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

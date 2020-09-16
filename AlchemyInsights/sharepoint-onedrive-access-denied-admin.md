@@ -5,24 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 9430b9786b35dda9fb2604fb6ae3c39c8c258d6e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 22f5966fdae563c44affb7d0447787a4ee0aca93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505372"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767651"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Poradce při potížích se zprávami o odepření přístupu v Centru pro správu Sharepointu/OneDrivu
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Řešení potíží s odepřením přístupu v centru pro správu SharePointu/OneDrivu
 
-Pokud se při pokusu o přechod do Centra pro správu Sharepointu/OneDrivu zobrazuje zpráva o odepření přístupu, ujistěte se, že [uživateli přiřadíte licenci](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Pokud má uživatel licenci, měli byste se také ujistit, že je [mu přiřazena role správce,](hhttps://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) která má přístup k centrům pro správu.
+Pokud se při pokusu o přechod do centra pro správu SharePointu a OneDrivu zobrazuje zpráva o odepření přístupu, ujistěte se, že [uživateli přiřadíte licenci](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Pokud má uživatel licenci, měli byste také ověřit, že je jim [přiřazena role správce](hhttps://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) , která má přístup k centrům pro správu.
 
-K tomuto problému může dojít také při odstranění uživatele a znovu vytvořit se stejným hlavním názvem uživatele (HLAVNÍ NÁZEV UŽIVATELE). Nový účet je vytvořen pomocí jiné hodnoty PUID (Passport Unique ID). Když se uživatel pokusí o přístup k kolekci webů nebo jeho OneDrive, uživatel má nesprávné PUID. Druhý scénář zahrnuje synchronizaci adresářů s organizační jednotkou služby Active Directory (OU). Pokud se uživatelé již přihlásili ke SharePointu a potom jsou přesunuti do jiné OU a znovu se sharepointem, může se k tomuto problému vyskytnout.
+Tento problém může také nastat, když se uživatel odstraní a znovu vytvoří se stejným hlavním názvem uživatele (UPN). Nový účet je vytvořen pomocí jiného identifikátoru PUID (kód účtu služby Passport). Když se uživatel pokusí získat přístup ke kolekci webů nebo k OneDrivu, má nesprávný PUID. Druhý scénář zahrnuje synchronizaci adresářů s organizační jednotkou služby Active Directory. Pokud se uživatelé už přihlásili k SharePointu a pak jsou přesunuti na jinou organizační jednotku a znovu se synchronizují se SharePointem, může dojít k těmto potížím.
 
-Chcete-li tento problém vyřešit, měli byste obnovit původní hlavní hlavní číslo uživatele s postupem v článku [Obnovení uživatele v microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Tento problém vyřešíte tak, že obnovíte původní uživatelské jméno (UPN) pomocí kroků v tomto článku a [obnovíte uživatele v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
 
-Poznámka: Pokud OneDrive nebo Centrum pro správu SharePointu není dostupné více uživatelům, kteří k nim dříve měli přístup, může se nastat problém s dočasnými službami.  [Zkontrolujte řídicí panel stavu služby](https://portal.office.com/adminportal/home#/servicehealth).
+Poznámka: Pokud centrum pro správu OneDrivu nebo SharePointu není dostupné pro víc uživatelů, kteří mají přístup dřív, může se jednat o dočasný problém služby.  [Zkontrolujte řídicí panel stavu služeb](https://portal.office.com/adminportal/home#/servicehealth).
 
 

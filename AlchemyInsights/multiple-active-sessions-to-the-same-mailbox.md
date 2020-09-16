@@ -1,35 +1,36 @@
 ---
-title: Více aktivních relací do stejné poštovní schránky
+title: Vícenásobné aktivní relace do stejné poštovní schránky
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1836"
 - "9000248"
-ms.openlocfilehash: d2fd3f20346012baed21efd4900ca4cf73391d91
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: f4ae5c5afef9972ad4ffe74144d702ed58b2f437
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438803"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769716"
 ---
-# <a name="multiple-active-sessions-to-the-same-mailbox"></a>Více aktivních relací do stejné poštovní schránky
+# <a name="multiple-active-sessions-to-the-same-mailbox"></a>Vícenásobné aktivní relace do stejné poštovní schránky
 
-Chcete-li řídit využití prostředků serveru Exchange, poštovní schránka má "rozpočet".
+Za účelem řízení využití prostředků Exchange má poštovní schránka "rozpočet".
 
-Výjimku nadměrného rozpočtu mohou vyvolat mimo jiné následující okolnosti:
+Výjimku z více rozpočtů lze aktivovat, ale není omezena na tyto okolnosti:
 
-- V rámci stejné relace Outlook Web Appu se otevře několik karet prohlížeče.
+- Ve stejné relaci Outlook Web Appu se otevírají několik karet prohlížeče.
 
-- Několik aktivních relací Outlook Web Appu do stejné poštovní schránky.
+- Několik aktivních relací Outlook Web Appu ke stejné poštovní schránce.
 
-- Několik dalších klientských aplikací (Outlook, Outlook Mobile, klientská aplikace třetí strany) přistupuje k poštovní schránce současně.
+- Několik dalších klientských aplikací (Outlook, Outlook Mobile, klientská aplikace třetí strany) k poštovní schránce přistupuje současně.
 
-- Dlouhotrvající operace, jako je například provádění požadavků na vyhledávání, jsou prováděny z jiné aktivní relace poštovní schránky.
+- Operace s dlouhým provozem, třeba provádění požadavků hledání, se provádějí z jiné aktivní relace poštovní schránky.
 

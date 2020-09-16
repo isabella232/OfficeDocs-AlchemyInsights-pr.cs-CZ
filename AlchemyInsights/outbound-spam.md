@@ -1,23 +1,24 @@
 ---
-title: Odchozí nevyžádaná pošta
+title: Odchozí spam
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2643"
 ms.assetid: ''
-ms.openlocfilehash: eeffecfd952043aa4323d3ec4fc7e7781fe8646e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 182cec016346dbc32d807a2d43ef0bd29209dcca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712955"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769248"
 ---
-# <a name="outbound-spam"></a>Odchozí nevyžádaná pošta
+# <a name="outbound-spam"></a>Odchozí spam
 
-Pokud se u odchozího spamu zobrazují falešně pozitivní výrazy (dobré odchozí zprávy jsou označeny jako spam), otevřete lístek podpory s ukázkovými zprávami.
+Pokud se vám nezobrazuje falešný příjem odchozí nevyžádané pošty (dobré odchozí zprávy jsou označené jako spam), otevřete lístek podpory s příklady zpráv.
