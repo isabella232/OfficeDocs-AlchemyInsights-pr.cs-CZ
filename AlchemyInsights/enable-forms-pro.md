@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 3b0c375dbcf3c49c4ceb4e0cee9411a4bccc7cf3
-ms.sourcegitcommit: 6d938730731b5c0e15cd45faa647d48ee75b5d50
+ms.openlocfilehash: 206cefb7d09b4c9c34ac2d5ca9c3a68d7412bf4f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "46814665"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784696"
 ---
 # <a name="enable-or-disable-forms-pro"></a>Povolení nebo zakázání formulářů pro
 

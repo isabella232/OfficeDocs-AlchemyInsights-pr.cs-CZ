@@ -1,34 +1,35 @@
 ---
-title: 2609-retenční nebo ediscovery-hold
+title: 2609 – uchovávání informací nebo eDiscovery
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: 4d2b36fb78390f32d68f1cdd11ca1af8013424a2
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576877"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727884"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Nelze odstranit položky v SharePointu Online nebo OneDrivu pro firmy.
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Nejde odstranit položky v SharePointu Online nebo OneDrivu pro firmy.
 
-Vy nebo vaši uživatelé se vám nemusí podvolit odstranění položek v SharePointu Online nebo OneDrivu pro firmy, protože zásady uchovávání informací, popisek uchovávání informací nebo blokování eDiscovery se použijí na sharepointový web OneDrivu nebo na určitou položku. To zahrnuje neschopnost odstranit dokument, verzi dokumentu, složku, knihovnu dokumentů, seznam, aplikaci, web nebo kolekci webů. 
+Je možné, že vy nebo vaši uživatelé nemůžete odstranit položky v SharePointu Online nebo OneDrivu pro firmy, protože se na SharePoint Web OneDrivu nebo na konkrétní položku vztahuje zásada uchovávání informací, popisek uchování nebo blokování eDiscovery. To zahrnuje nemožnost odstranění dokumentu, verze dokumentu, složky, knihovny dokumentů, seznamu, aplikace, webu nebo kolekce webů. 
 
-Chcete-li odstranit položky v jednom z těchto scénářů, zásady uchovávání informací, popisek uchovávání informací nebo blokování eDiscovery musí být odebrány (nebo musí být web vyloučen ze zásad uchovávání informací). Musíte buď zakázat nebo vyloučit příslušné blokování, které je příčinou tohoto problému. Po odebrání zásad uchovávání informací nebo blokování může trvat až 24 hodin, než se změna projeví. 
+Chcete-li odstranit položky v jednom z těchto scénářů, musí být odebráno zásady uchovávání informací, popisek uchovávání informací nebo blokování eDiscovery (nebo musí být web vyloučen ze zásad uchovávání informací). Musíte buď zakázat nebo vyloučit příslušného blokování, které způsobuje tento problém. Po odebrání zásad uchovávání informací nebo držení může trvat až 24 hodin, než se změna projeví. 
 
-Informace o různých funkcích uchovávání a blokování, které lze použít pro sharepointové weby a účty OneDrivu, najdete v jednom z následujících témat.
+Informace o různých funkcích pro uchovávání informací a blokování, které se dají použít u SharePointových webů a účtů OneDrivu, najdete v některém z následujících témat.
 
 - [Přehled zásad uchovávání informací](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-- [Přehled popisků uchovávání informací](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Správa blokování v rozšířené eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [eDiscovery drží](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [Starší zásady uzavření a odstranění webu](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [Přehled štítků o uchovávání informací](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [Správa blokování v rozšířeném eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [podržení eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Zásady uzavření a odstranění staršího webu](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
