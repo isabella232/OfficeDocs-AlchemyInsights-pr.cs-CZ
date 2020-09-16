@@ -1,31 +1,32 @@
 ---
-title: Pro dávku migrace veřejných složek se stavem CompletedWithErrors
+title: Pro dávku migrace veřejné složky se stavem CompletedWithErrors
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: 739e9d91f90e4c0374814d199e4372eb5625553a
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158593"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744106"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Pro dávku migrace veřejných složek se stavem CompletedWithErrors
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Pro dávku migrace veřejné složky se stavem CompletedWithErrors
 
-K dokončení dávky použijte následující kroky a přeskočení velkých/chybových položek: 
-1. Schválit přeskočené položky v migrační dávce:
+Dávku dokončíte provedením následujících kroků, které vynechají velké/špatné položky: 
+1. Schválení vynechaných položek v dávce migrace:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Pomocí následujícího příkazu můžete schválit přeskočené položky v požadavcích na migraci, které jsou "Synchronizované", ale nejsou dokončeny:
+2. Pomocí následujícího příkazu schválíte přeskočené položky u žádostí o migraci, které jsou synchronizované, ale ne dokončené:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Migrační dávka a požadavky by měly pokračovat a dokončeny během několika minut.
+3. Dávka a žádosti o migraci by měly být v průběhu několika minut obnoveny.
 

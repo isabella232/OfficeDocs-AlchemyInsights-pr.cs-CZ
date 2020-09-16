@@ -1,25 +1,26 @@
 ---
-title: Sledování nebo zrušení sledování sharepointového webu
+title: Sledování nebo zrušení sledování SharePointového webu
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5b2a44422cc49b0f0e20a7ddd802a661d4fadc5e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720919"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744407"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sledování nebo zrušení sledování sharepointového webu
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sledování nebo zrušení sledování SharePointového webu
 
-Pokud se u uživatelů vyskytnou problémy s následujícími nebo nenásledujícími prostředky služby SharePoint, proveďte následující kroky:
+Pokud mají uživatelé problémy s následujícími nebo nesledováním prostředků SharePointu, postupujte takto:
 
-* Požádejte uživatele, aby se odhlásit a přihlásit zpět do SharePointu a zkuste stejným způsobem postupovat nebo zrušit sledování sharepointového prostředku.
-* Zjistěte, zda se jedná o problém s konkrétním webem nebo se všemi weby. Pokud k problému dojde u konkrétních webů, zkontrolujte, zda je pro web aktivní funkce Sledování obsahu, a to tak, že přejdete do **části Nastavení webu > Správa funkcí webu > následující obsah**. Pokud je funkce nastavena na Aktivní, zkuste funkci znovu deaktivovat a aktivovat pro web.
-* Požádejte uživatele, aby vyzkoušel jiný internetový prohlížeč, abyste zjistili, zda je problém specifický pro prohlížeč uživatele.
-* Pokud se u všech uživatelů a všech webů vyskytnou stejný problém, zkontrolujte [řídicí panel stavu služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a zjistěte, zda má vliv na vaši organizaci.
+* Požádejte uživatele, aby se přihlásil a přihlásil zpátky do SharePointu, a zkuste použít stejný postup nebo odhlásit prostředek služby SharePoint.
+* Zjistěte, jestli se problém týká konkrétního webu nebo všech webů. Pokud se problém vyskytne u konkrétních webů, zajistěte, aby funkce následující obsah byla pro web aktivní tak, že přejdete na **Nastavení webu > spravovat funkce webu > následující obsah**. Pokud je funkce nastavená na aktivní, zkuste ji znovu deaktivovat a aktivovat.
+* Požádejte uživatele, aby vyzkoušel jiný internetový prohlížeč a zobrazil, jestli se problém týká prohlížeče uživatele.
+* Pokud všichni uživatelé a všechny weby mají stejný problém, podívejte se na [řídicí panel stavu služeb](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a zjistěte, jestli je vaše organizace ovlivněná.
