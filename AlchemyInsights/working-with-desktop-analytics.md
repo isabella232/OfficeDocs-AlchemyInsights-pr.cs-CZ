@@ -1,28 +1,29 @@
 ---
-title: Jak zavřít účet Desktop Analytics
+title: Jak zavřít účet služby analýza plochy
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771100"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725616"
 ---
-# <a name="working-with-desktop-analytics"></a>Práce se službou Desktop Analytics
+# <a name="working-with-desktop-analytics"></a>Práce s analýzou plochy
 
-Vypadá to, že se ptáte na Desktop Analytics. Pokud přeformulujete svou otázku, můžeme vám pomoci s přesnější odpovědí.
+Vypadá to, že žádáte o analýzu plochy. Při přeformulování otázky vám můžeme pomoct s přesnější odpovědí.
 
-- [Co je Desktop Analytics?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Jak nastavit Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
-- [Nejčastější dotazy](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Poradce při potížích s analýzou plochy](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Co je to analýza plochy?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Jak nastavit analýzu plochy](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Časté otázky](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [Odstraňování potíží s desktopovou analýzou](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
