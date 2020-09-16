@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003304"
 - "6207"
-ms.openlocfilehash: a2c724b9b1336c36d420df0efa6db2d3848fca11
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: 36adee4afbb8139a66538f8dcaf07757619a6396
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46871655"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727488"
 ---
 # <a name="screen-sharing-not-working-in-teams"></a>Sdílení obrazovky nefunguje v Teams
 

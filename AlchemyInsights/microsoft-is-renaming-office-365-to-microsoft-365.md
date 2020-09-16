@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002346"
 - "4566"
-ms.openlocfilehash: ac22565af3e0fbdb4f6109ad265b08b497bd75dc
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
-ms.translationtype: HT
+ms.openlocfilehash: 9d201cc2286fc609e1295caecd60b9453fd124f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100469"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724824"
 ---
 # <a name="microsoft-is-renaming-office-365-to-microsoft-365"></a>Microsoft přejmenovává Office 365 na Microsoft 365
 

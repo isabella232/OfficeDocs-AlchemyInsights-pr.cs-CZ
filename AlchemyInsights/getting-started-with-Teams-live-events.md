@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 6ddb1e74d6c7217303da4f21a3bd71cdab3eb871
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 979555a6fba46437adaf7e8c201cb9d6c4a8e965
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563611"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677272"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Začínáme s živými událostmi v Teams
 
@@ -24,7 +25,7 @@ ms.locfileid: "44563611"
 
 K vytvoření živé události budete potřebovat následující:
 
-- Nejprve potvrďte, že živé události Teams jsou [k dispozici ve vaší zemi a oblasti](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); Živé události ještě nejsou v některých zemích podporovány.  Pokud jste přiřadili licence a nastavili zásady, ale stále nemůžete vytvořit živou událost Teams, je pravděpodobné, že se nacházíte v zemi nebo oblasti, kde živé události ještě nejsou k dispozici.
+- Nejdřív ověřte, že jsou živé události aplikace Teams [ve vaší zemi a oblasti](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Živé události se zatím v některých zemích nepodporují.  Pokud jste přiřadili licence a nastavili zásady, ale stále nemůžete vytvořit živou událost v teams, je pravděpodobné, že jste v zemi nebo oblasti, kde jsou živé události zatím nedostupné.
 
 - [Licence Office 365 Enterprise E1, E3 nebo E5 nebo licence Office 365 A3 nebo A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Poznámka:** Vzhledem k nedávnému zvýšení využití Teams může po přiřazení licence Teams uživatelům trvat až 24 hodin, než se plně zprovozní. Do té doby jim nebude možné přiřadit zásady Teams a pravděpodobně nebudou mít přístup k některým funkcím Teams, jako jsou volání a audiokonference.
 

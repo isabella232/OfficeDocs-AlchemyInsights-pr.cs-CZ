@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5036"
-ms.openlocfilehash: e5df40d12a770b672a3f9c6d58741ac8f319131c
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: HT
+ms.openlocfilehash: d7d161757a7cec0e4fcdd0885f94ec3304d91d55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43553248"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707200"
 ---
 # <a name="get-started-with-teams-channels"></a>Začínáme s kanály Teams
 

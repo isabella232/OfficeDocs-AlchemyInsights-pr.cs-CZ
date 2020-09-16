@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5142"
-ms.openlocfilehash: 1467e9a6fbef512ec620dc5b43cf9cd618b202dd
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
-ms.translationtype: HT
+ms.openlocfilehash: b2de93dbc0d218924ef03ebf56aded37637435ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799326"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712465"
 ---
 # <a name="disabling-toll-free-numbers"></a>Zakázání bezplatných telefonních čísel
 

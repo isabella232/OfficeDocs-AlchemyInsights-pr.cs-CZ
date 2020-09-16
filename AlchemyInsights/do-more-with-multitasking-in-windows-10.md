@@ -1,35 +1,36 @@
 ---
-title: S multitaskingem ve Windows 10 toho můžete víc zvládání
+title: Více úkolů ve Windows 10
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002958"
 - "5660"
-ms.openlocfilehash: 8d8e73f4d9c5466badae1688981b8a968f6b010a
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.openlocfilehash: 3efdd790d40dcf76b9815bcc63c150db9ab9a177
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44268942"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679109"
 ---
-# <a name="do-more-with-multitasking-in-windows-10"></a>S multitaskingem ve Windows 10 toho můžete víc zvládání
+# <a name="do-more-with-multitasking-in-windows-10"></a>Více úkolů ve Windows 10
 
-Pokud chcete zobrazit nebo přepínat mezi aplikacemi: můžete kliknout na tlačítko **Zobrazení úloh** na hlavním panelu nebo stisknout **klávesu Alt-Tab** na klávesnici. Tlačítko Zobrazení úkolů vypadá takto:
+Pokud chcete zobrazit nebo přepínat mezi aplikacemi, klikněte na tlačítko **zobrazení úkolů** na hlavním panelu nebo stiskněte klávesu **ALT a** na klávesnici. Tlačítko zobrazení úkolů vypadá takto:
 
-![Tlačítko Zobrazení úkolů](media/task-view.png)
+![Tlačítko zobrazení úkolů](media/task-view.png)
 
-Chcete-li snadno uspořádat dvě aplikace vedle sebe, použijte Pomoc přichycení: uchopte horní část okna aplikace a přetáhněte jej na jednu stranu, abyste ji "přichytili" na tuto polovinu obrazovky. Pak zvolte jinou aplikaci a automaticky se přichytí na místo v druhé polovině obrazovky.
+Chcete-li snadno uspořádat dvě aplikace vedle sebe, použijte modul snap-in pro přichycení: přitáhněte horní část okna aplikace a přetáhněte ji do poloviny obrazovky. Pak zvolte jinou aplikaci a automaticky se přichytí do umístění v druhé polovině obrazovky.
 
-**Vytvoření různých virtuálních ploch pro domácnost a práci**:
+**Vytvoření různých virtuálních klientů pro domácnosti a pracovní**verze:
 
-1. Klikněte na tlačítko **Zobrazení úkolů** na hlavním panelu nebo stiskněte **alt-tab** na klávesnici.
-2. Klikněte na **+ Nová plocha** (umístěná v levém horním rohu obrazovky v zobrazení úloh).
+1. Na panelu nástrojů klikněte na tlačítko **zobrazení úkolů** nebo stiskněte klávesu **ALT** .
+2. V zobrazení úkolů klikněte na **+ nová plocha** (v levém horním rohu obrazovky).
 3. Otevřete aplikace, které chcete použít. 
 
-Vraťte se do **zobrazení úkolů,** kde zobrazíte své plochy a přepínejte mezi nimi.
+Vraťte se do **zobrazení úkolů** a zobrazte si plochy a přepínejte mezi nimi.

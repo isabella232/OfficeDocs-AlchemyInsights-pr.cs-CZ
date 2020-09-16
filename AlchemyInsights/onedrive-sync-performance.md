@@ -1,27 +1,28 @@
 ---
-title: Výkon synchronizace OneDrivu
+title: Synchronizace OneDrivu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5840"
-ms.openlocfilehash: f8d91b6a131b9dcb4558634964e294b2b6815df6
-ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
+ms.openlocfilehash: 155134b2ca4885af2779fef292325ae9242d0478
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707799"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729468"
 ---
-# <a name="onedrive-sync-performance"></a>Výkon synchronizace OneDrivu
+# <a name="onedrive-sync-performance"></a>Synchronizace OneDrivu
 
-Pokud dochází k pomalejší synchronizaci, než se očekávalo, nebo podobné problémy s výkonem s OneDrivem, podívejte se na následující odkazy:
+Pokud máte pomalejší než očekávanou synchronizaci nebo podobné problémy s výkonem s OneDrivem, podívejte se na tyto odkazy:
 
-- [Povolit soubory na vyžádání](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)
-- [Maximalizace rychlosti nahrávání a stahování](https://support.microsoft.com/office/8eeadfb8-501f-406d-997b-98ab6ff67f43?ui=en-us&rs=en-us&ad=us)
+- [Povolení souborů na vyžádání](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)
+- [Maximální rychlost nahrávání a stahování](https://support.microsoft.com/office/8eeadfb8-501f-406d-997b-98ab6ff67f43?ui=en-us&rs=en-us&ad=us)
 - [Řešení problémů se synchronizací OneDrivu](https://support.office.com/article/0899b115-05f7-45ec-95b2-e4cc8c4670b2)

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5479"
-ms.openlocfilehash: d7c4e97371a4c9a8643573bebd114b18cb60c866
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
-ms.translationtype: HT
+ms.openlocfilehash: dd316ae9ae691804ecda58ba2bf527968de16802
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44016933"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706120"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>Poskytnutá lhůta pro bezplatnou zkušební verzi Microsoftu 365
 

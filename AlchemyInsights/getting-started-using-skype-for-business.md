@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002421"
 - "4698"
-ms.openlocfilehash: 479a5db2ee7b579735290db18c5b664dce1da7b5
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
-ms.translationtype: HT
+ms.openlocfilehash: e609d8e58d6024355ef7e0a281755bb3215c6b0c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812790"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706480"
 ---
 # <a name="getting-started-using-skype-for-business"></a>Začínáme pracovat se Skypem pro firmy
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: ed88ce1ce99afe0c9ab8ebac7eb0ff8b7e53ea25
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: 73a2c9016d39d40fa4e46cc069dd0d3f45900c10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086845"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707632"
 ---
 # <a name="get-access-to-microsoft-bookings"></a>Získání přístupu k aplikaci Microsoft Bookings
 
@@ -26,6 +27,6 @@ Microsoft Bookings můžete povolit v **Centru pro správu Microsoftu 365**.
 2. Kliknutím na zaškrtávací políčko **Povolit organizaci používat Bookings** povolíte nebo zakážete aplikaci Bookings ve vaší organizaci.
 3. Klikněte na **Uložit změny**.
 
-**Důležité:** Aplikace Microsoft Booking je k dispozici ve výchozím nastavení pro **Microsoft 365 Education A3, A5**, **Microsoft 365 Business Standard (dříve Business Premium)** a **Microsoft 365 Business Premium (dříve Business)**. Rezervace jsou **zákazníkům enterprise e3 a e5** k dispozici jako doplněk do 12.5.2020, kdy bude ve výchozím nastavení zapnuta.
+**Důležité**: aplikace Microsoft prorezervování je k dispozici ve výchozím nastavení pro **vzdělávací aplikace Microsoft 365 pro školství, A5**, **Microsoft 365 Business (dřív business Premium)** a **Microsoft 365 Business Premium (dřív)**. K dispozici jsou přehledy pro **organizace E3 a E5** jako doplněk až do 12.2020, ve kterém bude ve výchozím nastavení zapnutý.
 
 Další informace najdete v článku [Získání přístupu k aplikaci Microsoft Bookings](https://support.microsoft.com/en-us/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce).

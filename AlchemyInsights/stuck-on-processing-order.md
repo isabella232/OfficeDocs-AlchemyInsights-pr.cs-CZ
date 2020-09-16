@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 60abad9281ab440cd19b7cd7c9caa51151170bfa
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
-ms.translationtype: HT
+ms.openlocfilehash: a231519cf480bc8bc7f4b178c170aa9b34d57e68
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286343"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719334"
 ---
 # <a name="stuck-on-processing-order"></a>Váznoucí zpracovávání objednávky
 

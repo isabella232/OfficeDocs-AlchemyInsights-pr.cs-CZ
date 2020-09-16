@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: f911e341ce1d370107c551dff719a06dbafb9c93
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 59b82920a0c96b71aa75c8eed57699687ecc681f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911394"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47716274"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Přiřazení bezplatného čísla konferenčnímu mostu pro audiokonference
 

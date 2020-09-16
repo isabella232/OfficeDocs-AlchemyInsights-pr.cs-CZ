@@ -1,32 +1,33 @@
 ---
-title: Globální a sharepointový správce
+title: Globální správa a správce SharePointu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5674"
-ms.openlocfilehash: 231f302bd3f3655b1fe72518d71b14d464914ce0
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 9d4c5da8b6dc78aa18fd29589495b77b7d835aba
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44716412"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706368"
 ---
-# <a name="global-and-sharepoint-admin"></a>Globální a sharepointový správce
+# <a name="global-and-sharepoint-admin"></a>Globální správa a správce SharePointu
 
-Globálním správcům a správcům SharePointu musí být přiřazena sharepointová licence. Nově vytvořené účty, které jsou přiřazeny pomocí role SharePoint License nebo Admin, mohou mít problémy s přístupem ke SharePointu, například "přístup odepřen" nebo "Nenalezl". Věnujte prosím alespoň 24 hodin na dokončení synchronizace v našich systémech. Chápeme, že 24 hodin se může zdát jako dlouhá doba. V mnoha případech již pracujeme na řešení.
+Globální a SharePointovým správcům musí být přiřazená licence na SharePoint. Nově vytvořené účty, které jsou právě přiřazené pomocí licence SharePointu nebo role správce, můžou mít problémy s přístupem k SharePointu, jako je "přístup odepřen" nebo "uživatel nebyl nalezen". K dokončení synchronizace v našem systému dejte alespoň 24 hodin. Chápeme, že 24 hodin se může jevit jako příliš dlouho. V mnoha případech jsme na řešení ještě pracujeme.
 
-Uživatelé, kterým byla přiřazena role globálního nebo sharepointového správce, mají přístup k Centru pro správu SharePointu a můžou vytvářet a spravovat weby (dříve nazývané "kolekce webů"), určovat správce webu, spravovat nastavení sdílení a další. Nemají automatický přístup ke všem webům a onedisku jednotlivých uživatelů, ale mohou si sami udělit přístup k libovolnému webu nebo OneDrivu. Můžou taky používat Microsoft PowerShell ke správě SharePointu a OneDrivu.
+Uživatelé přiřazení globální role správce SharePointu mají přístup k centru pro správu SharePointu a můžou vytvářet a spravovat weby (dříve se nazývají "kolekce webů"), určovat správce webu, spravovat nastavení sdílení a další. Nemají automatický přístup ke všem webům a k OneDrivu pro každého uživatele, ale můžou mít přístup k jakémukoli webu nebo OneDrivu. Můžou taky používat Microsoft PowerShell ke správě SharePointu a OneDrivu.
 
-Další informace najdete [v tématu O roli správce SharePointu v Microsoftu 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
+Další informace najdete v tématu [o roli správce SharePointu v Microsoft 365](https://docs.microsoft.com/sharepoint/sharepoint-admin-role).
 Existuje několik důvodů, proč může být Microsoft SharePoint nebo Microsoft OneDrive nedostupný. Pokud nemáte přístup k SharePointu Online, můžete tento problém vyřešit pomocí následujícího postupu.
 
 - [SharePoint Online není přístupný](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
 
-- [Přístup byl odepřen pro uživatelské účty spravované pim v Centru pro správu SharePointu nebo OneDrivu](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)
+- [Odepřený přístup pro uživatelské účty spravované správcem osobních informací v SharePointu nebo OneDrivu](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)

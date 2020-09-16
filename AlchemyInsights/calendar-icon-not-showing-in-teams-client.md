@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001219"
 - "4375"
-ms.openlocfilehash: 21692639fb746b2e5aab3dfc8894293d5dc890ac
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
-ms.translationtype: HT
+ms.openlocfilehash: f30cd5bda62756cf6b912ed150b4e59e7ca4d85d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42931977"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684691"
 ---
 # <a name="calendar-icon-not-showing-in-teams-client"></a>Nezobrazující se ikona kalendáře v klientovi Teams
 

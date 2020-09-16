@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002295"
 - "4445"
-ms.openlocfilehash: aa1883896027344a02e83ee9dd346b95c5272f17
-ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
-ms.translationtype: HT
+ms.openlocfilehash: e8cd887099f6bbbf130531d98f539e95ad13e120
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43100466"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721035"
 ---
 # <a name="refunds-and-cancellations"></a>Refundace a zrušení
 

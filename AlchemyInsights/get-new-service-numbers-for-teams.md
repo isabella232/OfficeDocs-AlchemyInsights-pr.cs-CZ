@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5140"
-ms.openlocfilehash: 8b2965f723b77740b2dc134612387ef045f0360a
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
-ms.translationtype: HT
+ms.openlocfilehash: c777669405ac9d4ba4b4b5afbd15345b65aedd72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022407"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707488"
 ---
 # <a name="get-new-service-numbers-for-teams"></a>Získání nových čísel služeb pro Teams
 

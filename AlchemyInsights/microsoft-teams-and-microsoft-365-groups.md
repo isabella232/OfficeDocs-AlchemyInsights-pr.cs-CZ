@@ -5,25 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002534"
 - "5126"
-ms.openlocfilehash: 7d014348bc84efa1dd952033c745a21571d74eb3
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
-ms.translationtype: HT
+ms.openlocfilehash: 43ded6946336d4bb1209fd7c1a45736de1403fd0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005537"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674895"
 ---
 # <a name="microsoft-teams-and-microsoft-365-groups"></a>Microsoft Teams a skupiny Microsoft 365
 
-- **Vytvoření týmu** [z existující skupiny](https://support.microsoft.com/cs-CZ/office/create-a-team-from-an-existing-group-24ec428e-40d7-4a1a-ab87-29be7d145865): klikněte na **Teams > Připojení se k týmu nebo jeho vytvoření**, pak **Vytvořit > Vytvořit z** a klikněte na **skupinu Office 365**. **Poznámka**: Tato možnost je k dispozici pro skupiny Microsoft 365, které mají méně než 5000 členů a nevyužívaly funkce pro vytvoření týmu.
-
-- **Obnovení odstraněného týmu**: Postupujte podle [těchto kroků](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) a obnovte odstraněný tým tak, že obnovíte skupinu Microsoft 365 přidruženou k danému týmu.
-
-- **Omezení práva na vytvoření skupin nebo týmů Microsoft 365**: Ve výchozím nastavení můžou vytvářet skupiny a týmy Microsoftu 365 všichni uživatelé ve společnosti.  Postupujte podle pokynů v tématu [Správa uživatelů, kteří smí vytvářet skupiny](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618) a přiřaďte tak práva k vytváření skupin skupinám uživatelů ve vaší společnosti. Uvědomte si, že to bude mít vliv na vytváření skupin ze služeb, jako je Outlook, Teams a Planner.
+- Určení, kdo může vytvářet skupiny nebo týmy systému Microsoft 365: všichni uživatelé v organizaci můžou vytvářet skupiny a týmy systému Microsoft 365. Podle pokynů v tématu [Správa uživatelů, kteří můžou vytvářet skupiny,](https://support.office.com/article/4c46c8cb-17d0-44b5-9776-005fced8e618) přiřaďte práva vytvářet skupiny pro skupinu lidí.
+- Vytvoření týmu  [z existující skupiny](https://support.microsoft.com/office/24ec428e-40d7-4a1a-ab87-29be7d145865): klikněte na Team > připojit se nebo vytvořit tým, pak vytvořte > vytvořit z a klikněte na skupina Office 365. Poznámka: Tato možnost je k dispozici pro skupiny Microsoft 365, které mají méně než 5000 členů a nevyužívaly funkce pro vytvoření týmu.
+- Obnovení odstraněného týmu: pomocí [tohoto postupu](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) obnovíte odstraněný tým obnovením skupiny Microsoft 365 přidružené k tomuto týmu.
 
 Další informace o Teams a skupinách najdete v tématu [Skupiny Microsoft 365 a Microsoft Teams](https://docs.microsoft.com/microsoftteams/office-365-groups).

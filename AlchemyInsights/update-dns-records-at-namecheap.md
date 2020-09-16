@@ -1,26 +1,27 @@
 ---
-title: Aktualizace záznamů DNS na adrese NameCheap
+title: Aktualizace záznamů DNS na webu NameCheap
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5810"
-ms.openlocfilehash: 4c6c640741a04a02fda3df8e64e90b98ad84eac4
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: f32b9f820fce03cd8cd5d8f8eb509efbc3cdeb2f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650328"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699548"
 ---
-# <a name="update-dns-records-at-namecheap"></a>Aktualizace záznamů DNS na adrese NameCheap
+# <a name="update-dns-records-at-namecheap"></a>Aktualizace záznamů DNS na webu NameCheap
 
-Aktualizace záznamů DNS slouží k následujícím odkazům.
+Pomocí odkazů níže můžete aktualizovat záznamy DNS.
 
-- [Vytvoření dns záznamů na adrese NameCheap](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap?view=o365-worldwide)
+- [Vytvoření záznamů DNS na webu NameCheap](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap?view=o365-worldwide)
 - [Přidání nebo úpravy vlastních záznamů DNS v Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)

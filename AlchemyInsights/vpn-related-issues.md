@@ -1,57 +1,58 @@
 ---
-title: Problémy související s VPN
+title: Problémy související se sítí VPN
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1545"
 - "9000076"
-ms.openlocfilehash: 134d78f30216dfd268c5999a5032b7d7ad1d7dd8
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 3c031725c92f5d7af7c0dd0c37ea34fecf4792c8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46554839"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47726084"
 ---
-# <a name="vpn-related-issues"></a>Problémy související s VPN
+# <a name="vpn-related-issues"></a>Problémy související se sítí VPN
 
-Úspěšná implementace připojení VPN pro klienty MDM závisí na nasazeném profilu, který správně odráží požadavky infrastruktury VPN. Příslušná nastavení pro klientské platformy, které zkoumáte, naleznete v následujících tématech: 
+Úspěšná implementace připojení VPN pro klienty MDM závisí na nasazeném profilu, který správně odráží požadavky infrastruktury VPN. Příslušné možnosti pro klientské platformy, které zkoumáte, najdete v tématu: 
 
-[Nastavení systému Windows 10 a holografického zařízení windows pro přidání připojení VPN pomocí Intune](https://docs.microsoft.com/intune/vpn-settings-windows-10)  
-[Přidání nastavení VPN na zařízeních s iOS a iPadOS v Microsoft Intune](https://docs.microsoft.com/intune/vpn-settings-ios)  
-[Nastavení zařízení Android pro konfiguraci sítě VPN v Intune](https://docs.microsoft.com/intune/vpn-settings-android)  
-[Přidání nastavení VPN na zařízeních s macOS v Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-macos)
+[Nastavení zařízení s Windows 10 a celoplošným Holografickím přidání připojení VPN pomocí Intune](https://docs.microsoft.com/intune/vpn-settings-windows-10)  
+[Přidání nastavení sítě VPN pro zařízení s iOS a iPadOS v Microsoft Intune](https://docs.microsoft.com/intune/vpn-settings-ios)  
+[Nastavení zařízení s Androidem pro konfiguraci VPN v Intune](https://docs.microsoft.com/intune/vpn-settings-android)  
+[Přidání nastavení sítě VPN na zařízení macOS v Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-macos)
 
-Pokud váš profil VPN používá ověřování založené na certifikátech, ujistěte se, že kořenový certifikát a profily certifikátů ověřování klienta propojené s profilem VPN jsou úspěšně nasazeny.
+Pokud váš profil sítě VPN používá ověřování založené na certifikátech, ujistěte se, že jsou profily certifikátů kořenového certifikátu a ověřování klientů propojené se svým profilem VPN úspěšně nasazené.
 
 **Běžné problémy**
 
-**Do zařízení jsem nasadil profil VPN. Intune ukazuje, že byl úspěšný, ale zařízení se nepřipojuje k VPN.**
+**Na zařízení je nasazený profil sítě VPN. Intune ukazuje, že byl úspěšný, ale zařízení se nepřipojuje k síti VPN.**
 
-Úspěšný stav znamená, že Intune úspěšně nasadil profil tak, jak byl nakonfigurovaný. Tyto konfigurace však nemusí odpovídat požadavkům na síť nebo ověřování. Další podrobnosti o pokusu o připojení naleznete v protokolech v infrastruktuře a ověřovací službě (na serveru VPN a serveru NPS/Radius). Možná budete muset spolupracovat s týmem síťové infrastruktury nebo s dodavatelem VPN jiného výrobce, abyste shromáždili a zkontrolovali protokoly.
+Úspěšný stav znamená, že v Intune se profil úspěšně nasadil jako nakonfigurovaný. Tato konfigurace ale nemusí odpovídat vašim požadavkům na síť nebo ověřování. Další podrobnosti o pokusu o připojení najdete v protokolech v tématu infrastruktura a ověřování (na serveru VPN a serveru NPS/RADIUS). Pro shromáždění a kontrolu protokolů může být potřeba pracovat se svým týmem infrastruktury sítě nebo s dodavatelem VPN jiného výrobce.
 
-**Když nakonfiguruji vlastní VPN pro iOS, funkce VPN pro aplikaci není k dispozici.**
+**Když nakonfigurujem vlastní připojení VPN pro iOS, funkce VPN pro jednotlivé aplikace není dostupná.**
 
-VPN pro iOS pro aplikace v Intune je momentálně dostupná konkrétnímu seznamu zprostředkovatelů a partnerů, kteří musí před konfigurací VPN pro jednotlivé aplikace také splňovat požadavky certifikátu. Další informace najdete v [tématu Nastavení virtuální privátní sítě (VPN) pro virtuální privátní síť pro aplikaci v aplikaci iOS/iPadOS v Intune](https://docs.microsoft.com/intune/vpn-setting-configure-per-app). 
+Připojení VPN pro zařízení s iOS v Intune je v současné době dostupné pro konkrétní seznam poskytovatelů a partnerů, kteří musí taky splňovat požadavky na certifikáty před konfigurací VPN pro aplikaci. Další informace najdete v článku [nastavení virtuální privátní sítě (VPN) pro zařízení s iOS/iPadOS v Intune na aplikaci](https://docs.microsoft.com/intune/vpn-setting-configure-per-app). 
 
-Další informace o všech typech připojení VPN v Intune najdete v [tématu Vytvoření profilů VPN pro připojení k serverům VPN v Intune](https://docs.microsoft.com/intune/vpn-settings-configure).  
+Další informace o všech typech připojení VPN v Intune najdete v článku [Vytvoření profilů VPN pro připojení k SERVERŮM VPN v Intune](https://docs.microsoft.com/intune/vpn-settings-configure).  
 
-**Síť VPN na vyžádání v systému iOS se neaktivuje, když je přístup k nakonfigurované doméně**
+**připojení k síti VPN s iOS na vyžádání se při přístupu k nakonfigurované doméně nespouští**
 
-Chcete-li otestovat automatické nastavení sítě VPN, nastavte následující hodnoty:
+Chcete-li otestovat nastavení automatického připojení VPN, nastavte následující hodnoty:
 
-Chci provést následující kroky: **Vyhodnotit každý pokus o připojení** 
+Chci udělat následující: **vyhodnoťte každý pokus o připojení** . 
 
-Volba, zda se má připojit: **Připojit se v případě potřeby**
+Zvolte, jestli se chcete připojit: v **případě potřeby**
 
-Když uživatelé přistupuje k těmto doménám: **název cílové** *domény*
+Když uživatelé přistupují k těmto doménám: název **cílové** *domény*
 
-Pokud výše uvedená konfigurace není úspěšná, přidejte následující prvek:
+Pokud tato konfigurace není úspěšná, přidejte následující prvek:
 
-Pokud je tato adresa URL nedostupná, vynutit připojení VPN: **BADURL**
+Pokud je tato adresa URL nedostupná, vynuťte připojení sítě VPN: **BADURL**

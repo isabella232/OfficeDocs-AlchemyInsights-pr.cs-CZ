@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002495"
 - "4834"
-ms.openlocfilehash: 44c0dd2010e5ec6f4a55e0ed764e5959d5b45a99
-ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
-ms.translationtype: HT
+ms.openlocfilehash: 4740806182c73f9f0530a240d074e5100131d721
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43947684"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712690"
 ---
 # <a name="create-and-run-live-events-in-yammer"></a>Vytvoření a spuštění živých událostí v Yammeru
 

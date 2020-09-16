@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4795"
-ms.openlocfilehash: eb837d6a09f57c60c05dc2fdb641c2d6b2ee6b91
-ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
-ms.translationtype: HT
+ms.openlocfilehash: 5d165264452e81ffc0ea5b891dcea45f49be9518
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43207427"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720342"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>Nastavení předplatného Microsoft 365 Business
 

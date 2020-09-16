@@ -1,26 +1,27 @@
 ---
-title: Potřebujete pomoc s karanténou e-mailu?
+title: Potřebujete pomoct s karanténou e-mailu?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "5679"
-ms.openlocfilehash: 24a836365b03da4f85e6b8f0a24304d4af9efa29
-ms.sourcegitcommit: 43acdecef129bfffc8bbe8ebb08fdd581b238a03
+ms.openlocfilehash: 32e587e07694af32551f23d9249ce9affc75b3db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44281132"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729900"
 ---
-# <a name="need-help-with-email-quarantine"></a>Potřebujete pomoc s karanténou e-mailu?
+# <a name="need-help-with-email-quarantine"></a>Potřebujete pomoct s karanténou e-mailu?
 
-- Pokud chcete **zobrazit a vydat e-mailové zprávy z karantény**, přejděte na [stránku Karanténa v Centru zabezpečení & dodržování předpisů Office 365](https://protection.office.com/quarantine). Podrobné pokyny jsou [zde](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
-- Pokud byla zpráva **chybně umístěna do karantény (falešně pozitivní),** klikněte po výběru zprávy na stránce Karanténa na "Nahlásit zprávy společnosti Microsoft k analýze". 
-- Zjistěte **důvod, proč byla zpráva umístěna do karantény** pod polem "důvod karantény".
-- **Chybí e-maily v karanténě?** Některé e-maily v karanténě nemohou koncoví uživatelé uvolnit. Jedná se pravděpodobně o zprávy, které byly klasifikovány jako phishingové e-maily s vysokou spolehlivostí, malware nebo přenosová akce. Správci mohou [tyto zprávy zobrazit, uvolnit nebo odstranit](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide). 
+- Pokud chcete **Zobrazit a vypustit e-mailové zprávy z karantény**, přejděte na [stránku karantény v centru zabezpečení Office 365 & centrum dodržování předpisů](https://protection.office.com/quarantine). Podrobné pokyny [najdete tady](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user?view=o365-worldwide#view-your-quarantined-messages).
+- Pokud zpráva byla **omylem v karanténě (falešně pozitivní)**, klikněte na stránce karanténa na možnost "oznamovat zprávy Microsoftu pro analýzu". 
+- Zjistěte **důvod, proč byla zpráva v karanténě** pro pole důvod karanténa.
+- **Chybějící e-maily v karanténě?** Některé e-maily v karanténě koncoví uživatelé nemohou uvolnit. Jedná se o zprávy, které byly klasifikovány jako vysoce spolehlivé podvodné e-maily, malware nebo dopravní akce. Správci můžou [tyto zprávy zobrazit, uvolnit nebo odstranit](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide). 

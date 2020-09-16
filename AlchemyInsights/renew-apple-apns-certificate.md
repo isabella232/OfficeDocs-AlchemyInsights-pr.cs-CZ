@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "3542"
-ms.openlocfilehash: dfdf8a50e1d1887361974f3db8122c129afd647b
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
-ms.translationtype: HT
+ms.openlocfilehash: 74d2e6ffa91be3caaa3e5b1104814870d05e404d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211239"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701168"
 ---
 # <a name="renew-apple-apns-certificate"></a>Obnovení certifikátu Apple APNS
 

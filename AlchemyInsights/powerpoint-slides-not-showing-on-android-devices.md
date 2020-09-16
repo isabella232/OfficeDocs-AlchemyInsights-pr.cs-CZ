@@ -1,26 +1,27 @@
 ---
-title: PowerPointové snímky, které se nezobrazují ve Skypu pro firmy na zařízeních s Androidem
+title: Snímky PowerPointu nezobrazující se ve Skypu pro firmy na zařízeních s Androidem
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6017"
 - "9003195"
-ms.openlocfilehash: d659c88fc3436a2020693cfc355e1c127f125825
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: 180161ebea6ee9cf80c2921c022583481617b015
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141373"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693908"
 ---
-# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>PowerPointové snímky, které se nezobrazují ve Skypu pro firmy na zařízeních s Androidem
+# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>Snímky PowerPointu nezobrazující se ve Skypu pro firmy na zařízeních s Androidem
 
-Pokud narazíte na problém s powerpointovými snímky, které se nezobrazují na zařízeních Se systémem Android, může to být způsobeno chybou v prohlížeči Chrome.
+Pokud dojde k problému se snímky PowerPointu, které se nezobrazovaly na zařízeních s Androidem, může to být způsobeno chybou v prohlížeči Chrome.
 
-Zkuste Chrome zakázat a pak odinstalovat. Po odinstalaci Chromu znovu povolte Chrome, aby získal tovární verzi (74.0.3729.136), kde je problém vyřešen.
+Zkuste zakázat a pak odinstalovat chrom. Po odinstalaci Chromu znovu povolte chrom, abyste získali verzi pro továrnu (74.0.3729.136), kde se problém vyřeší.

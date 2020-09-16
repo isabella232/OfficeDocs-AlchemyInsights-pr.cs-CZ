@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: cc48ba0409eedd4e00cdc18de710663c85efa0cd
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: c17485c40af22dd30339d819a08818d02e4ac737
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418101"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703076"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>Správa účtu a předplatných
 
@@ -33,13 +34,13 @@ ms.locfileid: "44418101"
 
 - [Vzdálená výuka v Office 365 Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**V Centru pro správu Microsoftu 365 můžete:** 
+**V centru pro správu Microsoft 365 můžete**: 
 
 - [Zobrazení faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
 - [Vysvětlení informací na faktuře](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [Správa platebních metod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+- [Správa způsobů platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **Správa předplatných a licencí** 
 

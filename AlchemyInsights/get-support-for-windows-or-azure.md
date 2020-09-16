@@ -1,29 +1,30 @@
 ---
-title: Získání podpory pro Windows nebo Azure
+title: Získejte podporu pro Windows nebo Azure
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: fdc2b1fc30e5f3b5a06c9a489789e81fe342a890
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 65263410c830df2d2aa7c432ad1396df66e830e8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44492984"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707164"
 ---
-# <a name="get-support-for-windows-or-azure"></a>Získání podpory pro Windows nebo Azure
+# <a name="get-support-for-windows-or-azure"></a>Získejte podporu pro Windows nebo Azure
 
-Pro Windows nebo Azure nabízí Microsoft řadu plánů, které vám pomohou získat asistovanou podnikovou podporu, kterou potřebujete, od prémiové podpory dostupné ve dne i v noci až po možnosti platby za incident. Pokud vaše organizace nemá plán placené podpory, zvolte možnost níže, abyste získali další informace.
+V případě Windows nebo Azure nabízí společnost Microsoft řadu plánů, které vám pomůžou získat technickou podporu, kterou potřebujete, od zákaznické podpory, která je k dispozici, a to až do noci. Pokud vaše organizace nemá placený plán podpory, vyberte některou možnost níže a získejte další informace.
 
-- **Microsoft Unified Support** – Sjednocená podpora společnosti Microsoft zásadně mění podnikové prostředí podpory a poskytuje celoorganizální pokrytí všech produktů a služeb společnosti Microsoft, rozsáhlé nové funkce pro odborníky v oblasti IT a vývojáře a přístup založený na výsledcích, který poskytuje větší hodnotu podpory v době, kdy vaše organizace roste. Další informace najdete na [webu Sjednocené podpory](https://aka.ms/unified-support).
-- **Microsoft Professional Support (pay-per-incident)** – Pokud potřebujete okamžitou technickou podporu pro vaši firmu, odborná podpora je k dispozici jako jeden pay-per-incident (PPI) nebo 5-pack incidentů. Odborníci společnosti Microsoft vám pomohou vyřešit konkrétní problém, chybovou zprávu nebo funkce, které nefungují podle očekávání. Chcete-li získat další informace a zakoupit platbu za podporu pro incidenty, [vytvořte novou žádost o podporu](https://support.microsoft.com/supportforbusiness/productselection).
-- **Podpora Azure** – podpora fakturace a předplatného je součástí vašeho předplatného Microsoft Azure, které můžete odeslat prostřednictvím [portálu pro správu Microsoft Azure](https://portal.azure.com/). Pro technickou podporu můžete zakoupit [plány podpory Microsoft Azure](https://azure.microsoft.com/support/plans/) prostřednictvím multilicenčních programů nebo přímo od Microsoftu.
+- **Podpora Microsoft Unified** Support – Microsoft Unified Support (jednotné podpory) se zásadně mění prostředí Enterprise support, které poskytuje celou organizaci pro všechny vaše produkty a služby společnosti Microsoft, expansive nové funkce, které umožňují profesionálům v IT a vývojářům, a přístup na základě výsledků, který vám připravuje větší podporu při růstu vaší organizace. Další informace najdete na [webu jednotného podpůrné stránky](https://aka.ms/unified-support).
+- **Podpora pro Microsoft Professional (Plaťte podle incidentu)** – Pokud potřebujete okamžitou technickou podporu pro váš podnik, je profesionální podpora k dispozici jako jednorázová mzda (ICP) nebo 5-Pack incidentů. Poradci Microsoftu pomáhají řešit konkrétní problém, chybovou zprávu nebo funkčnost, která nefunguje podle očekávání. Pokud se chcete dozvědět víc a koupit platbu na incident, [vytvořte novou žádost o podporu](https://support.microsoft.com/supportforbusiness/productselection).
+- **Podpora Azure** – Podpora fakturace a předplatného je součástí vašeho předplatného Microsoft Azure, které můžete odeslat na [portálu správce Microsoft Azure](https://portal.azure.com/). V případě technické podpory můžete zakoupit [plány podpory Microsoft Azure](https://azure.microsoft.com/support/plans/) prostřednictvím multilicenčních programů nebo přímo od Microsoftu.
 
-Pokud váš problém souvisí s Microsoft 365, přeformulujte dotaz pomocí konkrétních názvů produktů a funkcí.
+Pokud se problém týká Microsoft 365, dodejte dotaz znovu pomocí určitých názvů produktů a funkcí.

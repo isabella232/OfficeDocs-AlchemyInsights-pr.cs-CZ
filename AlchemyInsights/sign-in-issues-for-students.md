@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "9000744"
 - "3813"
 - "3818"
-ms.openlocfilehash: d071c44c3c23dbb3a167c30e486f39cb86fd1dca
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: de2f7df9856a133bacca1c9983e0ab1deebe290e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707528"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719802"
 ---
 # <a name="sign-in-issues-for-students"></a>Problémy s přihlášením pro studenty
 

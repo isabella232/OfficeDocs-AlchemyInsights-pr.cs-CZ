@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "6500001"
 - "4353"
 ms.assetid: ''
-ms.openlocfilehash: 9912219bc9adccc04919c25d278553ea76d2335b
-ms.sourcegitcommit: 018aadd53eac92248bc6d5ad63b739216103090a
-ms.translationtype: HT
+ms.openlocfilehash: 1acb7b2510f2134911b5429eee9637e95848d05c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42940163"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706048"
 ---
 # <a name="guest-access-to-teams-files"></a>Přístup hostů k souborům Teams
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002371"
 - "4607"
-ms.openlocfilehash: ff68085dc5c9c26d86981ed404f23cd1f2bf63e7
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
-ms.translationtype: HT
+ms.openlocfilehash: 1b6a2e4c9d35108eb6a909116b28e76d98602a8b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232693"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722232"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Kroky pro řešení potíží s chybou v Outlooku
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3c534ef21cdefd333d0d0305cd460a0542a63d4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505192"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699260"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Známé problémy a řešení ve Visiu
 
@@ -24,7 +25,7 @@ Tady jsou některá často hledaná témata týkající se služby Microsoft Vis
 
 **Možnosti Visia Online**
 
-- Visio se prodává jako [samostatná aplikace](https://products.office.com/visio/flowchart-software). Správci si můžou [zakoupit předplatné Aplikace Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) v Centru pro správu Microsoftu 365.
+- Visio se prodává jako [samostatná aplikace](https://products.office.com/visio/flowchart-software). Správci můžou zakoupit [předplatné Visia](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) z centra pro správu Microsoft 365.
 
 - Visio nabízí [různé plány předplatného](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Pokud vám ve Visiu chybí nějaká funkce, vyzkoušejte [Porovnání možností Visia](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options), kde najdete další informace o rozdílech mezi předplatnými Plán 1 a Plán 2.  Upozorňujeme, že Visio Online (plán 1) nezahrnuje desktopovou verzi Visia.
 

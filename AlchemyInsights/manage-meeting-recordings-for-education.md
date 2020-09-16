@@ -1,36 +1,41 @@
 ---
-title: Správa záznamů ze schůzek pro vzdělávání
+title: Správa záznamů schůzky pro vzdělávací organizace
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 1cc6173c1efcf46081781d5836b71ce19cfa7bc2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46554936"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695064"
 ---
-# <a name="manage-meeting-recordings-for-education"></a>Správa záznamů ze schůzek pro vzdělávání
+# <a name="manage-meeting-recordings-for-education"></a>Správa záznamů schůzky pro vzdělávací organizace
 
-Doporučujeme, aby správci vzdělávacích organizací zvážili použití balíčků zásad pro bezpečnost studentů a pedagogů. Další informace najdete v článcích:
+Začíná  **20. srpna 2020**, když uživatelé s licencí a1 (včetně a1 plus) začali nahrávat schůzky v aplikaci teams, nahrávání je k dispozici na 21 dní.
 
-- [Balíčky zásad v Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+Další informace, včetně informací o tom, jak uložit schůzku do jiného umístění, najdete v tématu [nahrání záznamu schůzky v Microsoft Teams na datový proud](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
+
+Doporučujeme správcům vzdělávacích organizací zvážit používání balíčků zásad pro bezpečnost studentů a vyučující. Další informace najdete v článcích:
+
+- [Balíčky zásad v Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)  
     
-- [Zásady, které by měly být přiřazeny pro bezpečnost studentů](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [Zásady, které by měly být přiřazeny pro bezpečnost studentů](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-- [Politiky, které by měly být přiřazeny pro pedagogy](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [Zásady, které by měly být přiřazeny pro pedagogy](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators)
 
-Pokud chcete spravovat jenom možnost nahrávat schůzky, přečtěte [si přečtěte si přečtěte si tématu Zapnutí nebo vypnutí nahrávání v cloudu](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
+Pokud chcete spravovat jenom možnost zaznamenávat schůzky, přečtěte si článek [Zapnutí nebo vypnutí cloudového nahrávání](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
 
-**Poznámka:** Možnosti teams meeting recording spoléhají na dostupnost streamu v místních a celostátních funkcích. Pokud nemůžete zaznamenat schůzku, přečtěte [si, ve kterých oblastech je Microsoft Stream hostitelem mých dat?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). 
+**Poznámka:** Možnosti záznamu schůzky v Teams využívají datový proud pro místní a zemi. Pokud se schůzky nemůžete nahrát, přečtěte si článek [které oblasti na hostiteli Microsoft Stream hostí data v?](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). 
 
-Další informace naleznete v [tématu Updated Feature: Microsoft Stream cloud recordings regional storage control](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
+Další informace najdete v článku [Aktualizovaná funkce: cloudové nahrávky Microsoft streamu](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).

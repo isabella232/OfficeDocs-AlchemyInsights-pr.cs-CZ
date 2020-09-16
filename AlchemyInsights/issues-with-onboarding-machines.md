@@ -1,29 +1,30 @@
 ---
-title: Problémy s palubními stroji
+title: Problémy s vestavěnými počítači
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141364"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676875"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problémy s palubními stroji
+# <a name="issues-with-onboarding-machines"></a>Problémy s vestavěnými počítači
 
-Můžete mít problémy s onboarding počítače služby MDATP. Pokud máte přístup k počítači koncového uživatele, postupujte takto:
+Je možné, že máte problémy s MDATP službami. Pokud máte přístup k počítači s koncovým uživatelem, postupujte takto:
 
-1. Stáhněte si diagnostický nástroj [Client Connectivity Analyzer.](https://aka.ms/mdatpanalyzer)
-2. Extrahujte a spusťte soubor MDATPAnalyzer.cmd.
-3. Vyhledejte diagnostický protokol ve složce s názvem MDATPClientAnalyzerResult, stejné složce, do které se stahuje nástroj Analyzer.
-4. Zkontrolujte soubor protokolu, MDATPClientAnalyzer.txt, abyste našli problémy s připojením nebo nastavením internetového proxy serveru.
+1. Stáhněte diagnostický nástroj [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer) .
+2. Extrahujte a spusťte MDATPAnalyzer. cmd.
+3. Vyhledejte diagnostický protokol ve složce s názvem MDATPClientAnalyzerResult, což je stejná složka, ve které je nástroj Analyzer stažen.
+4. Zkontrolujte soubor protokolu, MDATPClientAnalyzer.txt a najděte problémy s nastavením připojení nebo proxy serveru pro Internet.

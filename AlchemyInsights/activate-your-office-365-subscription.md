@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 10d57dea43a08dcdec334b7c8e37dce05e6460fc
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 226eaa73b3934e266c1f53f73752ec142fdecdf5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417993"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698054"
 ---
 # <a name="activate-your-subscription"></a>Aktivujte si předplatné
 
@@ -32,7 +33,7 @@ ms.locfileid: "44417993"
 
 Pokud vám vypršela platnost předplatného nebo ho zablokoval Microsoft nebo pokud jste předplatné zrušili v průběhu doby jeho platnosti, můžete si ho znovu aktivovat v Centru pro správu Microsoftu 365.
 
-- V Centru pro správu Microsoftu 365 přejděte na **Billing**  >  stránku**[Fakturace produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+- V centru pro správu Microsoft 365 přejděte na stránku **fakturace**  >  **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 - Zvolte předplatné, jehož platnost chcete znovu aktivovat, a potom klikněte na **Znovu aktivovat**. Pokud akce **Znovu aktivovat** není dostupná, [kontaktujte podporu](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) a požádejte o opětovnou aktivaci předplatného.
 

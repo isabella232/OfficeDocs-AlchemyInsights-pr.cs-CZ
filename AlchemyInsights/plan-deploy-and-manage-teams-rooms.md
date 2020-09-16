@@ -4,27 +4,24 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: a3e3a3d4a9de183826f51be1c10cf9d0ac687cbd
-ms.sourcegitcommit: 4f7ff981bbb3a98663cd164d0a10bb082cdf7ec9
-ms.translationtype: HT
+ms.openlocfilehash: 8b3c887540062fffc0badb2c1bcba24ad8ad2df6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42946657"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728640"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>Plánování, nasazení a správa Teams Rooms
 
-Pomocí těchto kroků můžete ve své organizaci vytvářet a používat Microsoft Teams Rooms: 
+- [Plán](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan)  pro aplikaci Microsoft Teams To zahrnuje[aktualizace licencí](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing), [hardwarové požadavky a podporované systémy Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements).
+- [Konfigurace účtů](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts)  pro aplikaci Microsoft Teams
+- [Správa zařízení](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  pomocí centra pro správu týmů (Pokud chcete zobrazit [seznam známých problémů](https://docs.microsoft.com/microsoftteams/rooms/known-issues), musíte mít roli správce služby Teamer nebo globální správce).
 
-- [Naplánujte si prostředí a zkontrolujte požadavky](https://docs.microsoft.com/microsoftteams/rooms/rooms-plan).
-
-- [Konfigurujte účty a nasaďte je do vašeho prostředí](https://docs.microsoft.com/microsoftteams/rooms/rooms-deploy).
-
-- [Spravujte, udržujte](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage#troubleshooting) a nezapomínejte přitom na [známé problémy](https://docs.microsoft.com/microsoftteams/rooms/known-issues). 
-
-Další informace najdete v tématu věnovaném [Microsoft Teams Rooms](https://docs.microsoft.com/microsoftteams/rooms/).
+Další informace o plánování, zavádění a správě místností pro Microsoft Teams najdete v tématu [Microsoft Teams místnosti](https://docs.microsoft.com/microsoftteams/rooms/).

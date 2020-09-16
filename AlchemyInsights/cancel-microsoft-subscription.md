@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002287"
 - "4420"
-ms.openlocfilehash: 45f7c4c14287125fd928f13c08d459dd204409cc
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 3f26128fa608360b63fbcb70cb76491deb54fdb0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784252"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683647"
 ---
 # <a name="cancel-microsoft-subscription"></a>Zrušení předplatného Microsoftu
 

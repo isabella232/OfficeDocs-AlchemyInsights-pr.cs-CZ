@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "4863"
-ms.openlocfilehash: 6341be6cfcc42b3a200868b69cf28de7ea80c3ad
-ms.sourcegitcommit: 75346a972c2174248de3bb55a19d714cee43c1cc
-ms.translationtype: HT
+ms.openlocfilehash: fadf1b646e53f645678ce9ac3f348a1002fc9fb4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43211223"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699035"
 ---
 # <a name="windows-enrolment-error-codes"></a>Chybové kódy registrace Windows
 

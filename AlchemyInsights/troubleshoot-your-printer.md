@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 42125b5103f429c1287400c3c1dc659cfa2067b7
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
-ms.translationtype: HT
+ms.openlocfilehash: 9fd1dc7cfd9d866950a9252f760c2808dd8b5f55
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034210"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47689875"
 ---
 # <a name="troubleshoot-your-printer"></a>Poradce při potížích s tiskárnou
 

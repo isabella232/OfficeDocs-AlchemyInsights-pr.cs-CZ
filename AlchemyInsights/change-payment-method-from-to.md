@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002612"
 - "5073"
-ms.openlocfilehash: c3c67f067d3946e3e29e7b09e443d3c3132dd765
-ms.sourcegitcommit: cd25f39a7924b13e797845f4275932ea2da64141
-ms.translationtype: HT
+ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43933123"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681744"
 ---
 # <a name="change-payment-method-fromto"></a>Změna způsobu platby (oba směry)
 

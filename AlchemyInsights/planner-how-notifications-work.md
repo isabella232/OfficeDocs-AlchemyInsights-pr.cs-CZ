@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3809"
 - "9001716"
-ms.openlocfilehash: 0f636c71fff8ec17d9fbe14617ae52bd7c8bbca7
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 6349d0a04934495b1f6992af68231a5a0402e014
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707644"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701852"
 ---
 # <a name="planner-how-notifications-work"></a>Planner: Jak fungují oznámení
 
