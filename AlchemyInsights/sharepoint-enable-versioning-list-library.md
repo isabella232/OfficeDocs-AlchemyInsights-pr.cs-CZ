@@ -14,11 +14,11 @@ ms.custom:
 - "5300025"
 - "1702"
 ms.openlocfilehash: 12207efc9822be6cf096fa4884a3cd244a286cbe
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653722"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800817"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Správa verzí v SharePointu a OneDrivu 
 

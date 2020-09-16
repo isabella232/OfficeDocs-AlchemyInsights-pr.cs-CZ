@@ -1,36 +1,37 @@
 ---
-title: Enrolling zařízení Android do Intune
+title: Registrace zařízení s Androidem do Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: fdab7958e0dfea34fd1e113be09fff4cd3019401
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654353"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47784300"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Enrolling zařízení Android do Intune
+# <a name="enrolling-android-devices-into-intune"></a>Registrace zařízení s Androidem do Intune
 
-Intune podporuje zápis následujících zařízení pro Android:
-- Samsung KNOX a Zebra
-- Pracovní profil společnosti Android
-- Android podnik vyhrazený
-- Android Enterprise plně řízená
+Intune podporuje zápis následujících zařízení s Androidem:
+- Standard Samsung KNOX a klipartu zebry
+- Firemní profil pro Android
+- Vyhrazený podnik s Androidem
+- Plně spravovaná verze pro Android
 
-Před nastavením zápisu pro zařízení typu Android [Zkontrolujte požadavky] (https://docs.microsoft.com/intune/enrollment/android-enroll.
+Před nastavením zápisu pro zařízení s Androidem [Přečtěte si předpoklady] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
 
-Informace o odstraňování problémů s zápisem zařízení obecně a o některých chybách při zápisu do systému Android naleznete [v tématu Poradce při potížích s zápisem zařízení v programu Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Informace o řešení potíží s registrací zařízení obecně a s některými chybami zápisu pro Android najdete v článku [řešení potíží s registrací zařízení v Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-Můžete také použít [obsah popisující Nástroj pro odstraňování potíží v Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , který vám pomůže určit, jaké problémy se v průběhu vašich uživatelů vyskytly.
+Pomocí [obsahu, který popisuje řešení problémů v Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , můžete zjistit, co enrolment problémy s vašimi uživateli.
 
 
 
