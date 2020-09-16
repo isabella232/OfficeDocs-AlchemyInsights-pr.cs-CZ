@@ -6,19 +6,20 @@ manager: scotv
 ms.date: 08/06/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6155"
 - "9003241"
-ms.openlocfilehash: 51171c4def3c15a5bd8751667906d4f161846918
-ms.sourcegitcommit: a96f029381c42d331b9ea64fa54061b7b96c4e52
+ms.openlocfilehash: 715fe04d3930f5d88c2da2974196982c105adf08
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46629420"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693800"
 ---
-# <a name="troubleshoot-group-licensing"></a><span data-ttu-id="a7180-102">Řešení potíží s licencováním skupiny</span><span class="sxs-lookup"><span data-stu-id="a7180-102">Troubleshoot group licensing</span></span>
+# <a name="troubleshoot-group-licensing"></a><span data-ttu-id="a6605-102">Řešení potíží s licencováním skupiny</span><span class="sxs-lookup"><span data-stu-id="a6605-102">Troubleshoot group licensing</span></span>
 
-<span data-ttu-id="a7180-103">Pokud chcete zjistit a vyřešit problémy s licencováním skupin ve službě Azure Active Directory (Azure AD), přečtěte si článek [identifikace a řešení problémů s přiřazováním licencí pro skupinu v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/licensing-groups-resolve-problems).</span><span class="sxs-lookup"><span data-stu-id="a7180-103">To identify and resolve group licensing issues with Azure Active Directory (Azure AD) group based licensing, see [Identify and resolve license assignment problems for a group in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/licensing-groups-resolve-problems).</span></span>
+<span data-ttu-id="a6605-103">Pokud chcete zjistit a vyřešit problémy s licencováním skupin ve službě Azure Active Directory (Azure AD), přečtěte si článek [identifikace a řešení problémů s přiřazováním licencí pro skupinu v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/licensing-groups-resolve-problems).</span><span class="sxs-lookup"><span data-stu-id="a6605-103">To identify and resolve group licensing issues with Azure Active Directory (Azure AD) group based licensing, see [Identify and resolve license assignment problems for a group in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/licensing-groups-resolve-problems).</span></span>
