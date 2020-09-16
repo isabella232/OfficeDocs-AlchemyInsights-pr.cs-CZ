@@ -1,11 +1,12 @@
 ---
-title: 761 Připojení k Exchange Online PowerShell, pokud je povoleno vícefaktu
+title: 761 připojení k PowerShellu Exchange Online, když je povolená MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205296"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748093"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Připojení k Exchange Online PowerShellu, pokud je povoleno vícefaktové ověřování
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Připojení k PowerShellu Exchange Online, když je povolené vícefaktorové ověřování
 
-Pokud je u vašeho účtu povoleno vícefaktorové ověřování (MFA), musíte podle těchto pokynů připojovat k Exchange Online PowerShell: [Použijte Exchange Online PowerShell s moderním ověřováním pomocí modulu V2](https://aka.ms/exops-docs). Vyhledejte na této stránce pokyny pro vícefaktorové ověřování / vícefaktorové ověřování.
+Pokud je u vašeho účtu povolené vícefaktorové ověřování (MFA), musíte se pomocí těchto pokynů připojit k PowerShellu Exchange Online: [použití PowerShellu Exchange Online s moderním ověřováním pomocí modulu v2](https://aka.ms/exops-docs). Na této stránce hledejte pokyny pro ověřování na MFA/Multi Factor Authentication.

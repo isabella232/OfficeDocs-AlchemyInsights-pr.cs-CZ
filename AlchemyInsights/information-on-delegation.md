@@ -5,6 +5,7 @@ author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661721"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755700"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Poradce při potížích s delegováním v aplikacích Outlook a Outlook na webu
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Řešení potíží delegování v Outlooku a Outlooku na webu
 
-**Poradce při potížích s nástrojem SaRA:**
+**Řešení potíží pomocí nástroje SaRA:**
 
-1. Stáhněte a [nainstalujte nástroj SaRA](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. Vyberte **aplikaci Outlook**a **potíže s kalendářem**.
-1. Vyslovte **Ano** pro ohrožený počítač.
-1. Přidejte e-mailovou adresu ovlivněných uživatelů.
-1. Vyberte **problémy s oprávněním delegáta**.
-1. Pokud jste osobou poskytující oprávnění, zadejte na další výzvu e-mailovou adresu delegáta. Pokud jste obdrželi oprávnění a jste delegátem, zadejte e-mailovou adresu osoby, která vám poskytla oprávnění.
+1. Stáhněte a nainstalujte [si nástroj SaRA](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Vyberte **Outlook**a v **kalendáři se vyskytnou problémy**.
+1. U ovlivněného počítače Vyslovte **Ano** .
+1. Přidejte e-mailovou adresu příslušného uživatele.
+1. Vyberte **mám problémy s oprávněním delegáta**.
+1. Pokud jste osoba, která oprávnění poskytuje, zadejte na další dotaz e-mailovou adresu svého delegáta. Pokud jste dostali oprávnění a jste delegátem, zadejte e-mailovou adresu osoby, která vám udělila oprávnění.
 1. V další nabídce vyberte možnost odpovídající vašemu scénáři.
 1. V další nabídce vyberte úroveň oprávnění.
-1. V této fázi nástroj SaRA provede automatizované kontroly a poskytne vám možné řešení nebo případně poskytne diagnostický protokol, který lze použít k dalšímu řešení potíží.
-1. Protokoly naleznete ve složce výsledků SaRA umístěné v umístění C:\Users\Username\AppData\Local\SaraResults.
+1. V této fázi provede nástroj s názvem s automatizovanými kontrolami a poskytne vám možné řešení, případně poskytne diagnostický protokol, který se dá použít k dalšímu řešení potíží.
+1. Protokoly najdete ve složce s výsledky na adrese C:\Users\Username\AppData\Local\SaraResults.
