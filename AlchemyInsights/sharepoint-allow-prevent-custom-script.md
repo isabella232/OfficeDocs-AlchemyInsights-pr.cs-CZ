@@ -1,25 +1,26 @@
 ---
-title: Povolit vlastnímu skriptu povolení funkcí
+title: Povolit funkce pro vlastní skript
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051778"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738954"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Povolit vlastnímu skriptu povolení funkcí
+# <a name="allow-custom-script-to-enable-features"></a>Povolit funkce pro vlastní skript
 
-Je možné, že správci budou muset povolit, aby **vlastní skript** povolil určité funkce. Uživatelé mohou například obdržet chybu 403 při připojování k serveru SharePoint pomocí aplikace SharePoint Designer. Podrobné pokyny, příklady a informace viz [Povolení nebo zákaz vlastního skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Správci můžou pro povolení určitých funkcí potřebovat **vlastní skript** . Při připojení k SharePointu pomocí SharePoint designeru můžou uživatelé získat chybu 403. Podrobné pokyny najdete v tématu [Povolení nebo zakázání vlastního skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Pokud se uživatelům **zobrazí chyba 403** služby SharePoint nebo OneDrive, můžete pomocí [řídicího panelu Stav služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) zjistit, zda se jedná o známý problém s probíhající překládáním dříve, než zavoláte podporu nebo strávíte potíže s odstraňováním potíží. Tento problém může být velmi dočasný a již byl společností Microsoft identifikován, ale může dojít ke zrušení doby mezi identifikací a odesláním na řídicí panel stavu služby. Další aktualizace naleznete v řídicím panelu Stav služby.
+Pokud se uživatelům v SharePointu nebo OneDrivu setkáváte s **chybou 403** , můžete zkontrolovat [řídicí panel stavu služeb](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a zjistit, jestli se jedná o známý problém s řešením, než budete volat, nebo strávit řešení potíží s časem. Problém může být velmi dočasný a již identifikovaný společností Microsoft, ale může dojít k časovému prodlevě mezi identifikací výdeje a publikováním na řídicím panelu stavu služby. Další aktualizace naleznete v řídicím panelu stavu služby.
 
