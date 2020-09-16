@@ -5,43 +5,44 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: c28ab39b88b4f088fb4c6e76450f79b16e1976ad
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265045"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794255"
 ---
 # <a name="fix-network-connection"></a>Oprava síťového připojení
 
-Chcete-li vyřešit problémy se síťovým připojením, zkuste nejprve spustit Poradce při potížích se sítí. 
+Pokud chcete vyřešit problémy se síťovým připojením, Nejdřív zkuste spustit Poradce při potížích se sítí. 
 
-1. [Otevřete nastavení poradce při potížích](ms-settings:troubleshoot).
+1. [Otevřete nastavení Poradce při potížích](ms-settings:troubleshoot).
 
-2. V části **Připojení k Internetu**vyberte Spustit poradce při **potížích**.
+2. V části **připojení k Internetu**vyberte **spustit Poradce při potížích**.
 
-Pokud používáte wi-fi připojení, zkontrolujte, jestli je wi-fi zapnutá pro vaše zařízení (včetně fyzického přepínače Wi-Fi) a že režim v letadle není zapnutý.
+Pokud používáte připojení Wi-Fi, ujistěte se, že je zapnutý Wi-Fi pro vaše zařízení (včetně jakéhokoli fyzického přepínače Wi-Fi) a že režim v letadle není zapnutý.
 
-Pokud používáte ethernetové připojení, zkontrolujte, zda je kabel bezpečně připojen k počítači a směrovači nebo modemu.
+Pokud používáte připojení Ethernet, zkontrolujte, jestli je kabel pevně připojený k počítači a směrovači nebo modemu.
 
 Pokud to nepomůže, zkuste restartovat počítač, modem a směrovač (pokud ho máte):
 
-1. Odpojte napájení z modemu a směrovače. Pokud má modem zálohu baterie, budete muset vyjmout baterii, abyste zcela vypnuli napájení.
+1. Odpojte napájení modemu a směrovače. Pokud má váš modem zálohu na baterii, musíte odebrat baterii a úplně vypnout napájení.
 
-2. Počkejte asi 30 sekund. Pokud jste vyjmuli baterii z modemu, vložte ji zpět.
+2. Počkejte asi 30 sekund. Pokud jste odstranili baterii z modemu, zase ji uložte.
 
 3. Připojte napájecí kabel pro modem a směrovač.
 
-4. Zatímco budete čekat na úplné zapnutí modemu a směrovače, restartujte počítač: **Spusťte** > **restartování****napájení** > .
+4. Když počkáte, že modem a směrovač plně vypíná, restartujte počítač: **Spusťte**  >  **Power**  >  **restart**.
 
-**Rozšířené řešení potíží**
+**Řešení potíží pro pokročilé**
 
-Pokročilejší kroky řešení potíží najdete v tématu [Oprava problémů s připojením Wi-Fi ve Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+Další postupy řešení potíží najdete v článku o řešení [problémů s připojením Wi-Fi ve Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
 
-Pokud vám není příjemné používat techničtější kroky řešení potíží, [kontaktujte nás](https://support.microsoft.com/contactus).
+Pokud nebudete spokojeni s používáním dalších technických kroků pro řešení potíží, [kontaktujte nás](https://support.microsoft.com/contactus).
