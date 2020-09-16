@@ -1,27 +1,28 @@
 ---
-title: Role uživatele moderního obchodu
+title: Role pro moderní Commerce
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 2830dcd063da833ff1f87a5693550dd692764f98
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
+ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44748760"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667007"
 ---
-# <a name="modern-commerce-user-role"></a>Role uživatele moderního obchodu
+# <a name="modern-commerce-user-role"></a>Role pro moderní Commerce
 
-Role Uživatel moderního obchodu poskytuje určitým uživatelům oprávnění k přístupu k Centru pro správu Microsoftu 365 a zobrazení levého navigačního seznamu pro **domácí**, **Fakturace**a **Podpora**. Obsah dostupný v těchto oblastech je řízen rolemi specifickými pro obchod přiřazenými uživatelům ke správě produktů, které si zakoupili pro sebe nebo pro vaši organizaci. To může zahrnovat úkoly, jako je placení účtů nebo přístup k fakturačním účtům a fakturačním profilům.
+Role s moderním obchodem uděluje určitým uživatelům oprávnění pro přístup k centru pro správu Microsoft 365 a zobrazuje levé navigační položky pro **domácnosti**, **fakturace**a **Podpora**. Obsah, který je k dispozici v těchto oblastech, se řídí rolemi pro Commerce – určenými uživateli ke správě produktů, které si koupili sami nebo ve vaší organizaci. To může zahrnovat úkoly, jako je placení faktur, nebo pro přístup k fakturačním účtům a profilům faktur.
 
-Uživatelé s rolí Uživatel moderního obchodu mají obvykle oprávnění správce v jiných nákupních systémech společnosti Microsoft, ale nemají oprávnění globálního správce nebo správce fakturace.
+Uživatelé s rolí moderního Commerce mají obvykle oprávnění správce v jiných nákupních systémech Microsoft, ale nemají oprávnění globálního správce nebo správce fakturace.
 
-Další informace o této a dalších rolích pro správu najdete [v tématu Oprávnění role Správce ve službě Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+Další informace o této a dalších administrativních rolích najdete v článku [oprávnění role správce v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).

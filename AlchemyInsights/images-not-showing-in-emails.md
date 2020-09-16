@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: 86770d22753a980cf8bf04b4e9c34bf599bff7ef
-ms.sourcegitcommit: 1d45333a0a448c15bf8430a4fea75c50f9b7464e
+ms.openlocfilehash: e1dcb3e7564f4da95bff3d5c5083672030af4abd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46793777"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667799"
 ---
 # <a name="images-not-showing-in-emails"></a>Obrázky se nezobrazovaly v e-mailech
 

@@ -1,29 +1,30 @@
 ---
-title: Identifikace ID klienta
+title: Identifikace ID tenanta
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: 8afc4797cb1e7340fbcaf476188ce474a8f861ea
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: 7b41f44e251fa1668c6fc5073a432681fc9265a7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44204513"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47668267"
 ---
-# <a name="identify-your-tenant-id"></a>Identifikace ID klienta
+# <a name="identify-your-tenant-id"></a>Identifikace ID tenanta
 
-Id organizace (id klienta) Microsoftu 365 najdete v Centru pro správu Azure.
+V centru pro správu Azure Najděte ID organizace Microsoft 365 (ID tenanta).
 
-1. Na [stránce Vlastnosti](https://aka.ms/AzurePropertiesPage)přejděte do pole **ID adresáře.**
+1. Na [stránce vlastnosti](https://aka.ms/AzurePropertiesPage)přejděte do pole **ID adresáře** .
 
-2. Podle potřeby zkopírujte ID.
+2. Zkopírujte ID podle potřeby.
 
-Další informace najdete v [tématu Vyhledání ID organizace Microsoftu 365](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).
+Další informace najdete v tématu [Vyhledání ID organizace Microsoft 365](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).

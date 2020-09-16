@@ -1,30 +1,31 @@
 ---
-title: Týmy povolí nebo zakážou IP video
+title: Týmy povolují nebo zakazují video IP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: 8c2f5007a94fb55122341b4bcfa38806951e4d4b
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
+ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44204723"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670177"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Týmy povolí nebo zakážou IP video
+# <a name="teams-allow-or-disable-ip-video"></a>Týmy povolují nebo zakazují video IP
 
-**Změna nebo vytvoření zásad schůzky**
+**Změna nebo vytvoření zásady schůzky**
 
-Pokud chcete změnit nebo vytvořit zásady schůzky, přejděte do **Centra pro správu Microsoft Teams > Meetings > Meeting policy**. Ze seznamu vyberte zásady nebo klikněte na **Přidat**. Jestliže vytváříte nové zásady, pojmenujte je a přidejte popis. Název nesmí obsahovat speciální znaky ani mít víc než 64 znaků. Zvolte požadovaná nastavení a potom klikněte na **Uložit**.
+Pokud chcete změnit nebo vytvořit zásadu schůzky, přejděte do **centra pro správu Microsoft teams > schůzky > zásady schůzky**. Ze seznamu vyberte zásady nebo klikněte na **Přidat**. Jestliže vytváříte nové zásady, pojmenujte je a přidejte popis. Název nesmí obsahovat speciální znaky ani mít víc než 64 znaků. Zvolte požadovaná nastavení a potom klikněte na **Uložit**.
 
-Řekněme například, že máte mnoho uživatelů a chcete omezit šířku pásma, kterou by jejich schůzka vyžadovala. Vytvoříte nové vlastní zásady nazvané Omezená šířka pásma a zakážete následující nastavení:
+Řekněme třeba, že máte hodně uživatelů a chcete omezit šířku pásma, která by měla schůzka vyžadovat. Vytvoříte nové vlastní zásady nazvané Omezená šířka pásma a zakážete následující nastavení:
 
 V části **Zvuk a video**:
 
@@ -37,6 +38,6 @@ Pak zásadu přiřadíte uživatelům.
 
 1. V levém navigačním panelu centra pro správu Microsoft Teams přejděte na **Uživatele** a potom klikněte na uživatele.
 2. Kliknutím vlevo od uživatelského jména vyberte uživatele a pak klikněte na **Upravit nastavení**.
-3. V části **Zásady schůzky**vyberte zásadu, kterou chcete přiřadit, a klepněte na tlačítko **Použít**.
+3. V části **zásady schůzky**vyberte zásadu, kterou chcete přiřadit, a pak klikněte na **použít**.
 
-Další informace naleznete [v tématu Správa zásad schůzek v Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Další informace najdete v tématu [Správa zásad schůzky v Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

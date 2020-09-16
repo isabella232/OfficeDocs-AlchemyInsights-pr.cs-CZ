@@ -1,34 +1,35 @@
 ---
-title: Nelze stáhnout soubory.
+title: Nelze stáhnout soubory
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 4a66a419535de7c91c166ece94d62cce507f39e2
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 02fb52dbfa8fa47d04a317601fc7a7b1402836bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45439105"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669168"
 ---
-# <a name="unable-to-download-files"></a>Nelze stáhnout soubory.
+# <a name="unable-to-download-files"></a>Nelze stáhnout soubory
 
-- Stahování podléhá těmto limitům: Limit velikosti jednotlivých souborů: 10 GB; celkový limit velikosti souboru zip: 20GB; celkový počet souborů limit: 10.000; limit velikosti složky: 200 souborů.
-- Soubory nebo složky obsahující hashtag (#) v názvu souboru nebo složky nelze přidat do souborů ZIP.  
+- Ke stahování se vztahují tyto limity: limit velikosti jednotlivých souborů: 10GB; Celkový limit velikosti souboru zip: GB; limit celkového počtu souborů: 10 000; limit velikosti složky: soubory 200.
+- Soubory nebo složky obsahující v názvu souboru nebo složky obsahují hashtag (#), do souborů. zip se nedají přidat.  
     
-- Poznámkové bloky OneNotu nelze stáhnout. Pokud stáhnete složku obsahující poznámkový blok OneNotu, soubor ZIP obsahuje chybovou zprávu ve formě souboru TXT.  
+- Nemůžete stahovat poznámkové bloky OneNotu. Pokud stáhnete složku, která obsahuje Poznámkový blok OneNotu, obsahuje soubor. zip chybovou zprávu ve formátu souboru txt.  
     
-- Soubory nelze stahovat přímo ze **sdíleného** zobrazení. Otevřete soubor a uložte kopii do vybraného umístění.  
+- Soubory nemůžete stáhnout přímo ze **sdíleného**  zobrazení. Otevřete soubor a uložte kopii do umístění dle svého výběru.  
     
-- Na OneDrivu pro firmy nemůžete používat Internet Explorer ke stahování složek nebo více souborů. Ke stažení složek nebo více souborů použijte Microsoft Edge nebo Google Chrome.  
+- Ve OneDrivu pro firmy nemůžete používat Internet Explorer ke stahování složek nebo více souborů. K stahování složek nebo více souborů použijte Microsoft Edge nebo Google Chrome.  
     
-- Tlačítko **Stáhnout** někdy zmizí, pokud aktualizujete webovou stránku při prohlížení složky. Chcete-li tento problém vyřešit, můžete přejít o jednu úroveň výš v adresáři složek a vrátit se, nebo tuto kartu v prohlížeči zavřít a znovu přejít do složky.  
+- Pokud webovou stránku aktualizujete při prohlížení složky, tlačítko **Stáhnout** někdy zmizí. Tento postup můžete obejít tak, že v adresáři složky přejdete o jednu úroveň výš a pak se vrátíte zpátky, nebo tuto kartu zavřete v prohlížeči a přejdete do složky znovu.  
     
-Další informace najdete v [tématu Stažení souborů a složek z OneDrivu nebo SharePointu](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).
+Další informace najdete v tématu [Stažení souborů a složek z OneDrivu nebo SharePointu](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).

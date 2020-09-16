@@ -1,27 +1,28 @@
 ---
-title: Úkoly týmů
+title: Přiřazení týmů
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6142"
 - "9003098"
-ms.openlocfilehash: 3674ecfca87525cf062a1e4d7397205ec6bd050a
-ms.sourcegitcommit: 9d1d2f0aa59256bec426f4fccea75df30261f6d0
+ms.openlocfilehash: 75e755bf35f4ee969159d3488d4daf04d524c464
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46554960"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669853"
 ---
-# <a name="teams-assignments"></a>Úkoly týmů
+# <a name="teams-assignments"></a>Přiřazení týmů
 
-Úkoly jsou úkoly nebo jednotky práce přiřazené studentovi nebo členovi týmu ve třídě jako součást studia. Úkoly můžete vytvořit v rámci třídy Teams.
+Přiřazení jsou úkoly nebo pracovní jednotky přiřazené studentovi nebo členovi týmu jako součást jejich studie. Ve vaší třídě týmů můžete vytvářet zadání.
 
-- Další informace o úkolech naleznete v [tématu Přiřazení microsoft teams .](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments)
-- Další informace o správě funkcí úkolů v Centru pro správu Microsoft Teams najdete v tématu [Úkoly v Teams for Education](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).
+- Další informace o přiřazeních najdete v tématu [přiřazení Microsoft Teams](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments).
+- Další informace o správě funkcí v centru pro správu Microsoft Teams naleznete v tématu [přiřazení v Teams pro školství](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).
