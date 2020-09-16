@@ -1,40 +1,40 @@
 ---
-title: Vytváření zásad popisků AIP
+title: Vytváření zásad AIP štítků
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: de7d76564cabb0a5dd1a836984df6b1a63b2b218
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44568959"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732168"
 ---
-# <a name="creating-aip-label-policies"></a>Vytváření zásad popisků AIP
+# <a name="creating-aip-label-policies"></a>Vytváření zásad AIP štítků
 
-Popisky Azure Information Protection(AIP) lze použít s celou řadou dat, která organizace obvykle vytváří a ukládá, od nejnižší klasifikace osobních údajů až po nejvyšší klasifikaci vysoce důvěrných dat. Zásady ochrany informací Azure platí pro klasického klienta Azure Information Protection(AIP) a ne na [klienta sjednoceného označování AIP](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). V zásadách AIP můžete nakonfigurovat více prvků, včetně možností, jako jsou:
+Popisky Azure Information Protection (AIP) se dají používat s celou oblastí dat, kterou organizace obvykle vytváří a ukládá z nižší klasifikace osobních údajů do nejvyšší klasifikace vysoce důvěrných dat. Zásady ochrany informací Azure se týkají klasického klienta Azure Information Protection (AIP) a nikoli  [AIP klienta jednotného značení](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). V zásadách AIP můžete nakonfigurovat více prvků, mezi které patří:
 
-- Možnost, pro kterou štítek umožní správcům nebo uživatelům klasifikovat a ochranu (volitelné) dokumenty a e-maily
-- Možnost vynucení klasifikace při ukládání dokumentů a odesílání e-mailů uživateli
-- Možnost automatického označení e-mailové zprávy na základě jejích příloh.
-- Možnost řídit, zda se má panel Ochrana informací zobrazit v aplikacích Office
+- Možnost, pro kterou bude popisek umožnit správcům nebo uživatelům klasifikovat a zamknout (volitelné) dokumenty a e-maily
+- Možnost pro vynucení klasifikace při ukládání dokumentů a odesílání e-mailů
+- Možnost, která automaticky označí e-mailovou zprávu podle příloh.
+- Možnost určení, jestli se v aplikacích Office zobrazuje panel ochrany informací
 
-Další možnosti a informace o zásadách Ochrany informací Azure najdete [v tématu Přehled zásad ochrany informací Azure](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Další možnosti a informace o zásadách ochrany informací Azure naleznete v tématu: [Přehled zásad ochrany informací Azure](https://docs.microsoft.com/azure/information-protection/overview-policy).  
 
-Další užitečné zdroje týkající se zásad AIP naleznete v tématu:
+Další užitečné materiály týkající se zásad AIP naleznete v tématech:
 
-- [Kurz: Konfigurace nastavení zásad Ochrany informací Azure a vytvoření nového popisku](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Kurz: Konfigurace nastavení zásad ochrany informací Azure a vytvoření nového štítku](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
 - [Konfigurace zásad ochrany informací Azure](https://docs.microsoft.com/azure/information-protection/configure-policy)  
-- [Vytváření a konfigurace popisků citlivosti a jejich zásad](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Návody pro běžné scénáře, které používají Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- [Kontrola dokumentace ochrany informací Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
-- [Požadavky na azure information protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [Úvodní kurz pro Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [Stažení klienta Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Vytvoření a konfigurace popisků utajení a jejich zásad](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
+- [Návody pro běžné scénáře používající službu Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Přečtěte si dokumentaci k Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Požadavky na ochranu informací Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [Rychlý kurz pro rychlé zahájení ochrany informací Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [Stáhnout klienta ochrany informací v Azure](https://www.microsoft.com/download/details.aspx?id=53018)
