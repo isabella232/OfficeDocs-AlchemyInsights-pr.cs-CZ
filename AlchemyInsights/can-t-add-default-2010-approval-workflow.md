@@ -5,25 +5,25 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 5c064467e195a9776907861aa946d7cbf91878e8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ddc49a027a8d98cf31e6a319383d73d2680e6508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711696"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734004"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Nelze přidat výchozí pracovní postup schválení 2010
 
-V kolekci webů služby Microsoft SharePoint nelze do seznamu nebo knihovny přidat globálně opakovaně použitelný pracovní postup (například Schválení – SharePoint 2010). Pracovní postup schválení pravděpodobně chybí. Chcete-li tento problém vyřešit, přečtěte si téma [Nelze přidat globálně opakovaně použitelný pracovní postup do seznamu nebo knihovny služby SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
+V kolekci webů Microsoft SharePointu nelze do seznamu nebo knihovny přidat globálně opakovaně použitelný pracovní postup (například schválení – SharePoint 2010 "). Pracovní postup schválení zřejmě chybí. Tento problém vyřešíte tak, [že nemůžete přidat globálně opakovaně použitelný pracovní postup do seznamu nebo knihovny SharePointu](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
 
-Další informace o schválení pracovních postupů najdete v tématu [Vše o pracovních postupech schválení](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Další informace o schváleních pracovních postupů najdete v tématu [všechny informace o pracovních postupech schválení](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
  
-Další informace o [moderních schváleních v toku](https://flow.microsoft.com/blog/introducing-modern-approvals). 
+Přečtěte si další informace o [moderních schváleních](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   

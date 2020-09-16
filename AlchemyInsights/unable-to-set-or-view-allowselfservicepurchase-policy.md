@@ -1,39 +1,40 @@
 ---
-title: Zásady AllowSelfServicePurchase nelze nastavit ani zobrazit.
+title: Nelze nastavit nebo zobrazit zásady AllowSelfServicePurchase.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158554"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735192"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Zásady AllowSelfServicePurchase nelze nastavit ani zobrazit.
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>Nelze nastavit nebo zobrazit zásady AllowSelfServicePurchase.
 
-Při pokusu o nastavení nebo zobrazení zásad AllowSelfServicePurchase se zobrazí následující chybová zpráva:
+Při pokusu o nastavení nebo zobrazení zásad AllowSelfServicePurchase se zobrazí tato chybová zpráva:
 
-*HandleError : Nepodařilo se načíst zásady produktu s PolicyId 'AllowSelfServicePurchase', ErrorMessage - Základní připojení bylo uzavřeno: Při odesílání došlo k neočekávané chybě.*
+*HandleError: nepovedlo se načíst zásadu produktu s PolicyId AllowSelfServicePurchase, ErrorMessage – nadřízené připojení se zavřelo: došlo k neočekávané chybě při odeslání.*
 
-To může být způsobeno starší verzí zabezpečení transportní vrstvy (TLS). Chcete-li připojit službu MSCommerce, musíte použít TLS 1.2 nebo vyšší.  
+Příčinou mohou být starší verze protokolu TLS (Transport Layer Security). Abyste mohli připojit službu MSCommerce, musíte používat TLS 1,2 nebo vyšší.  
 
-Pomocí následujících kroků povolte nebo nastavte protokol TLS na 1.2, ověřte a opakujte akci.
- 1. Na příkazovém řádku Prostředí\) PowerShell (PS C: zadejte následující příkaz pro nastavení protokolu TLS na verzi 1.2:
+Zkuste použít následující postup pro povolení/nastavení protokolu TLS na 1,2, ověřte a zkuste to znova.
+ 1. Na příkazovém řádku PowerShellu (PS C: \) Zadejte následující příkaz pro nastavení protokolu TLS na verzi 1,2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. Ověřte protokoly TLS, které se používají, pomocí následujícího příkazu:
+2. Ověřte používané protokoly TLS pomocí následujícího příkazu:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. Podle potřeby opakujte příkazy Získat nebo aktualizovat.
+3. Opakujte pokus o spuštění nebo aktualizaci podle potřeby.
 
