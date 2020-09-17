@@ -1,32 +1,33 @@
 ---
-title: Jak zakoupit licence pro předplatné Microsoft 365 Apps pro firmy
+title: Jak koupit licence pro předplatné Microsoft 365 Apps pro firmy
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: d50a6a0834fb26f2fd25e7defe2d4a125f7a62fa
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4339c735097ea1f4b277572b65baa112cc35a087
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44496088"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781096"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Jak zakoupit licence pro předplatné Microsoft 365 Apps pro firmy
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Jak koupit licence pro předplatné Microsoft 365 Apps pro firmy
 
-Při přiřazování licencí uživatelům může být nutné zakoupit další licence. Chcete-li to provést:
+Při přiřazování licencí uživatelům se může stát, že budete potřebovat koupit další licence. Postup:
   
-1. V Centru pro správu **Billing** přejděte na \> stránku **[Fakturace vašich produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. V centru pro správu přejděte na stránku **fakturace** \> **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Najděte předplatné, ke kterému chcete přidat licence, a pak vyberte **Přidat nebo odebrat licence**.
 
-3. Do pole **Celkový počet licencí** zadejte celkový počet licencí, které pro toto předplatné potřebujete, a pak vyberte **Odeslat změnu**. Pokud například máte 100 licencí a potřebujete jich 5 přidat, zadáte 105.
+3. Do pole **celkem licence** zadejte celkový počet licencí, které pro toto předplatné potřebujete, a pak vyberte **Odeslat změnu**. Pokud například máte 100 licencí a potřebujete jich 5 přidat, zadáte 105.
 
-Další informace najdete v tématu [Zakoupení licencí pro předplatné Microsoft 365 Apps pro firmy](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Další informace najdete v článku [Nákup licencí pro předplatné Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
