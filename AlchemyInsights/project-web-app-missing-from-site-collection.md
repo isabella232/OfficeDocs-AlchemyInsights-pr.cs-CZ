@@ -6,22 +6,23 @@ manager: pamg
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 38f8a5590f215494e805cde04326944ef15d0127
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767962"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801573"
 ---
 # <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>V kolekci webů SharePointu chybí Project Web App
 
-Project Web App u sharepointové kolekce webů může chybět z následujících důvodů:
+V kolekci webů SharePointu možná chybí Project Web Appu z těchto důvodů:
 
-1. Organizace mají jenom licenci projectu Online Essentials. Správci budou muset přidat licenci Projectu Online Professional nebo Premium. Místo bude pocházet z jen pro čtení v tomto bodě. Další informace naleznete [v tématu Porovnání řešení pro řízení projektů](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Klient zjistil problém s zřizováním, ve kterém došlo ke zpoždění zřizování webu Project Web Appu. Pokud uplynulo více než 24 hodin a problém stále dochází, přihlaste se k lístku podpory. Chápeme, že 24 hodin se může zdát jako dlouhá doba. V mnoha případech již pracujeme na řešení. Dejte nám prosím alespoň 24 hodin na dokončení řešení.
+1. Organizace mají jenom licenci Projectu Online Essentials. Správci budou muset přidat Project Online Professional nebo Premium. Web se v tomto bodě neobjeví jen pro čtení. Další informace najdete v článku [porovnání řešení řízení projektů](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
+2. Klient zjistil chybu při zřizování, při které se zřizování webu Project Web Appu zpozdí. Pokud uplynulo více než 24 hodin a stále dochází k problému, Zaprotokolujte lístek podpory. Chápeme, že 24 hodin se může jevit jako příliš dlouho. V mnoha případech jsme na řešení ještě pracujeme. Dokončete řešení alespoň 24 hodin.

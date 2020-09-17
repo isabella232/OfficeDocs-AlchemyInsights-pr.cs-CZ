@@ -5,33 +5,34 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062854"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799233"
 ---
 # <a name="your-products"></a>Vaše produkty
 
-Předplatná vlastněná vaší organizací najdete na stránce **Fakturace**  >  **[vašich produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Zde jsou některé z vrcholů této stránky spolu s odkazy na další informace o každé funkci:
+Předplatná, která vlastní vaše organizace, můžete najít na stránce **fakturace**  >  **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Tady je několik světel na stránce spolu s odkazy na Další informace o jednotlivých funkcích:
 
-1. Spravujte počet licencí, které byly zakoupeny pro každé předplatné, spolu s tím, kolik je používáno.  **Poznámka:** Licence, které se nepoužívají (nejsou přiřazeny uživateli), jsou stále účtovány.  Chcete-li, aby se nevyužité licence neúčtovaly, snižte počet zakoupených licencí. Informace o tom, jak přidat nebo odebrat licence z předplatného, naleznete v [tématu Jak přidat nebo snížit licence](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+1. Spravujte počet licencí, které byly zakoupené pro každé předplatné, spolu s počtem používaných produktů.  **Poznámka**: licence, které se nepoužívají (nejsou přiřazeny uživateli), jsou stále účtovány.  Pokud nechcete účtovat nevyužité licence, omezte počet zakoupených licencí. Informace o tom, jak přidat nebo odebrat licence k předplatnému, najdete v tématu [Přidání nebo omezení licencí](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. Zobrazení data obnovení nebo vypršení platnosti předplatného.  Obnovení můžete spravovat kliknutím na odkaz **pro úpravy** vedle data **obnovení nebo vypršení platnosti.**  Další informace o správě opakované fakturace najdete v článku [Obnovení Microsoftu 365 pro firmy.](https://go.microsoft.com/fwlink/?linkid=2119216)
+2. Podívejte se na datum vypršení platnosti předplatného.  Prodloužení platnosti můžete provést kliknutím na odkaz **Upravit** vedle tlačítka pro obnovení **a platnost** .  Další informace o správě opakované fakturace najdete v článku [obnovení Microsoft 365 pro firmy](https://go.microsoft.com/fwlink/?linkid=2119216) .
 
-3. [Opětovnou aktivací předplatného, jehož platnost vypršela nebo jehož platnost vypršela](https://go.microsoft.com/fwlink/?linkid=2117519).
+3. [Opětovná aktivace předplatného nebo zákazu](https://go.microsoft.com/fwlink/?linkid=2117519)
 
-4. [Upravte způsob platby použitý k platbě za předplatné](https://go.microsoft.com/fwlink/?linkid=2117167).
+4. [Úprava způsobu platby použitého k placení předplatného](https://go.microsoft.com/fwlink/?linkid=2117167).
 
-5. [Změňte, jak často se vám budou účtovat poplatky](https://go.microsoft.com/fwlink/?linkid=2119112).
+5. [Změna frekvence fakturace](https://go.microsoft.com/fwlink/?linkid=2119112)
 
 6. [Zrušte předplatné](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Další předplatná si můžete zakoupit na stránce **Služby fakturačního**  >  [**nákupu.**](https://go.microsoft.com/fwlink/p/?linkid=868433)
+Další předplatná můžete zakoupit na **Billing**  >  stránce[**služby pro nakupování**](https://go.microsoft.com/fwlink/p/?linkid=868433) fakturace.

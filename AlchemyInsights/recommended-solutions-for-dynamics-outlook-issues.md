@@ -1,9 +1,10 @@
 ---
-title: Doporučená řešení problémů úložiště Dynamics 365
+title: Doporučená řešení problémů s úložištěm Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,31 +14,31 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 7ab6d5b4ba468505b22ce5a4258cc962e9e3a268
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: c1abfd5a5f52e1a4ec77f319375dfe2cf53f76a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753176"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801465"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Doporučená řešení problémů úložiště Dynamics 365
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>Doporučená řešení problémů s úložištěm Dynamics 365
 
-* [Aplikace: Hledání nebyly vráceny žádné výsledky týkající se vyhledávání.](https://support.microsoft.com/help/4489111)
+* [Aplikace: v oblasti vyhledávání se nevrátily žádné výsledky hledání.](https://support.microsoft.com/help/4489111)
 
-* [App: Při otevření aplikace pro aplikaci Outlook zobrazí chyba](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [Aplikace: při otevírání aplikace pro Outlook se zobrazí chyba.](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [App: E-mailu nebo schůzky zobrazí jako "Čekající sledování"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [Aplikace: E-mail nebo událost se zobrazí jako "čekající na vyřízení".](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [App: Při otevření aplikace pro aplikaci Outlook zobrazí prázdná stránka](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [Aplikace: při otevírání aplikace pro Outlook se zobrazí stránka prázdná](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [Úplná verze klienta: Nelze se připojit D365 pro aplikaci Outlook verze 8.x na instanci verze 9.x D365](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [Úplný klient: D365 pro Outlook verze 8. x se nedá připojit k instanci 9. x D365.](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [Úplná verze klienta: "čekat na načtení ze serveru CRM... stránky" Zobrazí se zpráva](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [Úplný klient: "čeká se na načtení stránky ze serveru CRM..." zobrazí se zpráva](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [Úplná verze klienta: D365 diagnostikovat problémy v aplikaci Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [Úplný klient: Diagnostika D365 pro problémy s Outlookem](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [Aplikace: Odstraňování D365 App pro aplikaci Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [Aplikace: řešení potíží s aplikací D365 pro Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [Aplikace: Postup nasazení](https://go.microsoft.com/fwlink/p/?linkid=857071)
+* [Aplikace: jak nasadit](https://go.microsoft.com/fwlink/p/?linkid=857071)
 
-* [Aplikace: Uživatelská příručka](https://go.microsoft.com/fwlink/p/?linkid=857091)
+* [Aplikace: uživatelská příručka](https://go.microsoft.com/fwlink/p/?linkid=857091)

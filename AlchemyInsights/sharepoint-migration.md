@@ -1,23 +1,24 @@
 ---
-title: Migrujte možnosti do SharePointu Online
+title: Migrace možností do SharePointu Online
 ms.author: pebaum
 author: v-miegge
 manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: d161e46e1d707fc05adab20aa62c2403f149cfd4
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 6483d888205b9e9aec988210ad322fe5e0e46316
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45083888"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800637"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>Migrujte možnosti do SharePointu Online
+# <a name="migrate-options-to-sharepoint-online"></a>Migrace možností do SharePointu Online
 
 Pro migraci obsahu do SharePointu Online jsou k dispozici různé možnosti v závislosti na velikosti a množství souborů, které je potřeba přesunout. Na seznam možností se můžete podívat [zde](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 

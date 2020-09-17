@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: f463e6da68f728f02bedc5e9613857d9f53f0cbd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0a240bb0acea178a58fa5bc9a2d95808676ad272
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44064186"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800025"
 ---
 # <a name="unable-to-access-my-account"></a>Nejde mi přihlásit se k účtu
 
@@ -24,11 +25,11 @@ Pokud vám vypršela platnost předplatného nebo ho zakázal Microsoft nebo pok
 
 **Opětovná aktivace předplatného**
 
-1. V Centru pro správu **Billing**přejděte na  >  stránku**[Fakturace vašich produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. V centru pro správu přejděte na stránku **fakturace**  >  **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Najděte předplatné, které chcete znovu aktivovat.
 
-3. V části **Fakturace** klikněte na **Znovu aktivovat**. Pokud se účastníte zobrazení **Karty,** klepněte na tři tečky mezi **názvem** a **dostupným množstvím** a zvolte **Znovu aktivovat** z nabídky.
+3. V části **Fakturace** klikněte na **Znovu aktivovat**. Pokud jste v zobrazení **vizitky** , klikněte na tři tečky mezi **názvem** a **dostupným množstvím** a v nabídce zvolte **znovu aktivovat** .
 
 **Poznámka**: Pokud nevidíte předplatné, které hledáte, budete možná muset v horní části obrazovky upravit filtr **Stav předplatného** na možnost **Vše**.
 
