@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 7215e3a86f9be10f3d6e5471a621aa41583ad33a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0729efa4c4662047c1a5103788ecf129bff2a4ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "41969305"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772579"
 ---
-# <a name="there-isnt-enough-memory-to-complete-this-action"></a>K dokončení této akce není dostatek paměti.
+# <a name="there-isnt-enough-memory-to-complete-this-action"></a>K dokončení této akce není dost paměti.
 
-Při práci se souborem aplikace Microsoft Excel se zobrazí jedna z následujících zpráv:
+Když pracujete se souborem aplikace Microsoft Excel, zobrazí se jedna z následujících zpráv:
 
-- Aplikace Excel nemůže dokončit tento úkol s dostupnými zdroji. Zvolte méně dat nebo zavřete jiné aplikace.
+- Excel nemůže dokončit tento úkol s dostupnými zdroji. Zvolte méně dat nebo zavřete ostatní aplikace.
 - Nedostatek paměti
-- Nedostatek systémových prostředků k úplnému zobrazení
-- K dokončení této akce není dostatek paměti. Zkuste použít méně dat nebo zavřete jiné aplikace. Chcete-li zvýšit dostupnost paměti, zvažte: 
-    - Použití 64bitové verze aplikace Microsoft Excel.
-    - Přidání paměti do zařízení.
+- Nedostatek systémových prostředků pro úplné zobrazení
+- K dokončení této akce není dost paměti. Zkuste použít méně dat nebo zavřít jiné aplikace. Pokud chcete zvětšit dostupnou paměť, zvažte následující možnosti: 
+    - Pomocí 64 verze Microsoft Excelu.
+    - Přidání paměti do zařízení
 
-Řešení těchto chyb naleznete v [tématu Řešení potíží s chybami dostupných prostředků v aplikaci Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
+Informace o řešení těchto chyb najdete [v článku o řešení potíží s chybami "dostupných prostředků" v Excelu](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
