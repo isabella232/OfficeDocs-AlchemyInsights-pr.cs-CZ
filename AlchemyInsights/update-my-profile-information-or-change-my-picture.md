@@ -1,33 +1,34 @@
 ---
-title: Aktualizace informací o profilu nebo změna obrázku
+title: Aktualizace informací o mém profilu nebo změna mého obrázku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720094"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796929"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Aktualizace informací o profilu nebo změna obrázku
+# <a name="update-my-profile-information-or-change-my-picture"></a>Aktualizace informací o mém profilu nebo změna mého obrázku
 
-V současné době není možné upravovat a aktualizovat informace o profilu přímo z aplikace Outlook pro iOS, ale je možné tyto informace upravit jinde. 
+V současné době není možné upravovat a aktualizovat informace v profilu přímo z Outlooku pro iOS, ale můžete je upravovat jinde. 
 
-Aktualizace profilu můžete provádět v Outlooku pro Windows nebo v Outlooku na webu (OWA). 
+Ve svém profilu můžete dělat aktualizace v Outlooku pro Windows nebo Outlooku na webu (OWA). 
 
 **Outlook pro Windows**: 
 
-- **File** > **Office Účet** > **Informace o** > **mně** (vás přivádí k profilu Microsoft 365 online) > **Aktualizovat profil** nebo klikněte na ikonu fotoaparátu pro změnu fotografie  
+- **Soubor**  >  **Účet Office**  >  **Informace o uživateli**  >  **O mně** (přepne vás do profilu Microsoft 365 online) > **aktualizovat profil** nebo můžete změnit fotku kliknutím na ikonu kamery  
   
-**Aplikace Outlook na webu (OWA)**: 
+**Outlook na webu (OWA)**: 
 
-- **Profilový obrázek** > **Můj profil** > **Aktualizovat profil**
+- **Profilový obrázek**  >  **Můj profil**  >  **Aktualizovat profil**

@@ -1,36 +1,36 @@
 ---
-title: Týmy společnosti Microsoft-přístup hosta
+title: Microsoft Teams – přístup hostů
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: 6fe5b4e1d1ef844292ccb92ff9dd792f22e47c60
-ms.sourcegitcommit: 3f825fedaf220d6c3883cdac4c56279fbaa95eec
+ms.openlocfilehash: da9ecca062bd5f1dcc169657483ba53eb201def0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019091"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798369"
 ---
-# <a name="microsoft-teams---guest-access"></a>Týmy společnosti Microsoft-přístup hosta
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams – přístup hostů
 
-Potřebujete-li pomoc při komunikaci s uživateli mimo organizaci v týmech, musíte se rozhodnout, zda budete používat [přístup hosta nebo externí přístup (federace)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), nebo můžete použít obojí.
+Pokud potřebujete pomoct komunikovat s uživateli mimo vaši organizaci v aplikaci teams, musíte se rozhodnout, jestli chcete použít [přístup hostů nebo externí přístup (Federation)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), nebo můžete použít obojí.
 
-[Projděte si rozdíly](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , abyste porozuměli funkcím, které jsou k dispozici pro každý z nich.  Například externí přístup (federace) povoluje komunikaci 1:1, například chat a Presence.  Federovaní uživatelé se však nemohou zúčastnit spolupráce týmů.  Chcete-li, aby se externí uživatel připojil ke konverzacím kanálů nebo sdílet soubory, musíte zapnout přístup hosta.
+Podívejte se, jaké jsou [rozdíly mezi](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) funkcemi dostupnými pro jednotlivé.  Například externí přístup (Federation) umožňuje komunikaci 1:1, jako je chat a přítomnost.  Federované uživatele se ale nemohou zúčastnit spolupráce v týmu.  Pokud chcete, aby se externí uživatel mohl připojit ke konverzacím kanálu nebo sdílet soubory, musíte zapnout přístup hostů.
 
-**Možnost 1: zapnout přístup hosta**   
-V centru pro správu týmů přejděte na [nastavení pro celou organizační > přístup hosta](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) a zapněte "Povolit přístup hosta v týmech".  Pro nájemce se všemi dalšími výchozími nastaveními by mělo být vše, co potřebujete.  Chcete-li upravit konfiguraci aplikace Guest Access, dodržujte všechny kroky uvedené v [kontrolním seznamu Guest Access](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Jakmile budete úplně hotovi, budete muset [počkat až 24 hodin, než](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) se nastavení projeví.
+**Možnost 1: zapnutí přístupu hostů**   
+V centru pro správu týmů přejděte na [Nastavení organizace > přístup hostů](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) a zapněte možnost povolit přístup hostů do týmů.  U tenanta s ostatními výchozími nastaveními by to mělo být.  Chcete-li přizpůsobit konfiguraci přístupu pro hosty, postupujte podle pokynů v části [Kontrolní seznam pro přístup hostů](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Po dokončení musíte [počkat až 24 hodin, než](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) se nastavení projeví.
 
-Pokud jste si jisti, že jste dokončili všechny kroky v kontrolním seznamu a je to více než 24 hodin, pokračujte a zkuste [Přidat hosta do svého týmu](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Pokud jste si jistí, že jste dokončili všechny kroky v kontrolním seznamu, a je to víc než 24 hodin, zkuste [do týmu přidat hosta](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Další informace, včetně videí, naleznete [v tématu přístup hosta v Týmovích Microsoft](https://docs.microsoft.com/microsoftteams/guest-access).
+Další informace, včetně videí, najdete [v tématu přístup hostů v Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Možnost 2: zapnout externí přístup (federace)** Chcete-li také zapnout externí přístup (federace), v centru pro správu týmů přejděte na [nastavení pro celou organizaci > externí přístup](https://admin.teams.microsoft.com/company-wide-settings/external-communications) a zapněte možnost Uživatelé mohou komunikovat s aplikací Skype pro uživatele podniků a týmů a potom postupovat podle všech kroků, které [umožňují uživatelům konverzovat a komunikovat s uživateli v jiné organizaci](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**Možnost 2: zapnutí externího přístupu (federace)** Pokud chcete taky zapnout externí přístup (federace), přejděte v centru pro správu týmů na nastavení pro celou organizaci [> externí přístup](https://admin.teams.microsoft.com/company-wide-settings/external-communications) a zapněte možnost Uživatelé mohou komunikovat s uživateli Skypu pro firmy a týmy a pak postupujte podle všech kroků, které [uživatelům týmů umožní chatovat a komunikovat s uživateli v jiné organizaci](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
 
 

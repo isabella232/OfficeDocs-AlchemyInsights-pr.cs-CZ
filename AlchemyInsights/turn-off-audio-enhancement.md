@@ -1,29 +1,30 @@
 ---
-title: Vypnout rozšíření zvuku
+title: Vypnutí rozšíření zvuku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 3b515e18296f5a50ce64b7811c870b35e0e65d63
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738457"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47797181"
 ---
-# <a name="turn-off-audio-enhancement"></a>Vypnout rozšíření zvuku
+# <a name="turn-off-audio-enhancement"></a>Vypnutí rozšíření zvuku
 
 Postupujte takto:
 
-1. Přejděte na **začátek**, zadejte **zvuk**a vyberte **ovládací panel zvuk** nebo **změňte systémové zvuky** ze seznamu výsledků.
+1. Přejděte na **Start**, zadejte **zvuk**a v seznamu **výsledků vyberte** **zvuky** .
 
-2. Na kartě **přehrávání** klepněte pravým tlačítkem myši (nebo klepněte a podržte) na výchozí zařízení a vyberte příkaz **vlastnosti**.
+2. Na kartě **přehrávání** klikněte pravým tlačítkem (nebo klepněte a podržte) na výchozí zařízení a vyberte **vlastnosti**.
 
-3. Na kartě **rozšíření** zaškrtněte políčko **Zakázat všechny zvukové efekty** a pokuste se přehrát zvukové zařízení. Pokud to nepomůže, klepněte na **tlačítko Storno** a na kartě **přehrávání** vyberte jiné výchozí zařízení (máte-li nějaké), zaškrtněte políčko **Zakázat všechny zvukové efekty** a pokuste se přehrát zvuk znovu. Toto proveďte pro každé výchozí zařízení.
+3. Na kartě **rozšíření** zaškrtněte políčko **Zakázat všechny zvukové efekty** a zkuste přehrát zvukové zařízení. Pokud to nepomůže, vyberte **Zrušit** a na kartě **přehrávání** vyberte jiné výchozí zařízení (pokud ho máte), zaškrtněte políčko **Zakázat všechny zvukové efekty** a zkuste přehrát zvuk znovu. Toto proveďte pro každé výchozí zařízení.
