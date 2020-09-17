@@ -1,40 +1,41 @@
 ---
-title: Cortana se mnou nemluví nebo mě neslyší
+title: Cortana nemluví na mě nebo mě neslyší
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: f8dcd2899cad4dfd0ecc67eea6a915d2a6182982
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: 015c4089682e5313d51a05223d82c5f3c29586db
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357372"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807040"
 ---
-# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana se mnou nemluví nebo mě neslyší
+# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana nemluví na mě nebo mě neslyší
 
-Pokud se pokoušíte použít funkci "Hey Cortana", která vám umožní mluvit s Cortanou bez výběru tlačítka Cortana na hlavním panelu nebo na tlačítku mikrofonu v panelu Cortana, potvrďte, že je tato funkce povolena:
+Pokud se pokoušíte použít funkci "Hey Cortana", která vám umožňuje mluvit s Cortany bez výběru tlačítka Cortany na hlavním panelu nebo tlačítka mikrofon v panelu Cortana, zkontrolujte, že je funkce povolená:
 
-1. Přejděte na **Úvodní obrazovku**a vyberte Nastavení **[> Cortana](ms-settings:cortana?activationSource=GetHelp)**.
-2. V části **Hey Cortana**přepněte přepínač **Let Cortana respond to "Hey Cortana"** na **Zapnuto**.
+1. Přejděte na **Start**a vyberte **[Nastavení > Cortany](ms-settings:cortana?activationSource=GetHelp)**.
+2. V části **Hey Cortana**přepněte přepínač **dovolit Cortaně odpovědět na "Hey Cortana"** na **zapnuto**.
 
-![Ahoj Cortana](media/hey-cortana.png)
+![Hey Cortana](media/hey-cortana.png)
 
-**Brání vaše nastavení ochrany osobních údajů Cortaně, aby vás slyšela?**
+**Brání Cortana v poslechu?**
 
-Nastavení ochrany osobních údajů může Cortaně zabránit v tom, aby reagovala na váš hlas.
-- Zkontrolujte, zda je zapnuté rozpoznávání řeči online:
-    - Přejděte na **úvodní obrazovku**a klikněte na Nastavení > > řeči **[ochrany osobních údajů](ms-settings:privacy-speech?activationSource=GetHelp)**.
-    - V části **Online rozpoznávání řeči**přepněte nastavení na **Zapnuto**.
-- Zkontrolujte, jestli má Cortana oprávnění k přístupu k vašemu mikrofonu. 
-    - Přejděte na úvodní obrazovku a klikněte na **[Nastavení > ochrana > mikrofonu](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - V části **Zvolte, které aplikace mají přístup k vašemu mikrofonu**, **vyhledejte Cortanu** v seznamu aplikací a služeb a ujistěte se, že je přepínač přepnut na **Zapnuto**.
+Nastavení ochrany osobních údajů může zabránit Cortaně v reakci na váš hlas.
+- Zkontrolujte, že je zapnutá funkce rozpoznávání řeči online:
+    - Přejděte na **Start**a potom klikněte na **[Nastavení > ochrana osobních údajů > řeč](ms-settings:privacy-speech?activationSource=GetHelp)**.
+    - V části **rozpoznávání řeči v režimu online**přepněte nastavení na **zapnuto**.
+- Zkontrolujte, jestli má Cortana oprávnění k přístupu k mikrofonu. 
+    - Přejděte na Start a klikněte na **[nastavení > ochrana osobních údajů > mikrofon](ms-settings:privacy-microphone?activationSource=GetHelp)**.
+    - V části **Zvolte, které aplikace mají mít přístup k vašemu mikrofonu**, hledejte v seznamu aplikací a služeb **Cortanu** a ujistěte se, že přepínač je přepnut na **zapnuto**.
 
-Kromě toho se také ujistěte, že vaše reproduktory nebo mikrofony jsou nahoru a pracují, aby mohli mluvit s Cortanou.
+Kromě toho se ujistěte, že vaše reproduktory a mikrofony jsou v pořádku a fungují, abyste mohli mluvit s Cortany.
