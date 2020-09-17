@@ -1,40 +1,41 @@
 ---
-title: Správa licencí aplikací
+title: Správa licencí na aplikace
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063862"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778144"
 ---
-# <a name="manage-app-licenses"></a>Správa licencí aplikací
+# <a name="manage-app-licenses"></a>Správa licencí na aplikace
 
-## <a name="to-change-license-quantity"></a>Změna množství licence
+## <a name="to-change-license-quantity"></a>Změna počtu licencí
 
-1. Přejděte **Billing**na  >  stránku**[Fakturace produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a pak zvolte kartu **Aplikace.**
+1. Přejděte na stránku **fakturace**  >  **[svých produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a zvolte kartu **aplikace** .
 
 2. Najděte a vyberte aplikaci, kterou chcete spravovat.  
 
 3. Vyberte **Přidat nebo odebrat licence**.
 
-4. Zadejte nový počet potřebných licencí. Pokud například aktuálně máte 5 licencí a potřebujete jenom 4, zadejte do pole **Celkový počet licencí** 4. Pokud máte v současné době 5 licencí a potřebujete celkem 10 licencí, zadejte do pole **Celkový počet licencí** 10.
+4. Zadejte nový počet licencí. Pokud máte třeba 5 licencí a potřebujete jenom 4, zadejte 4 do pole **celkem licence** . Pokud momentálně máte 5 licencí a potřebujete 10 celkových licencí, zadejte do pole **celkem licence** 10.
 
 ## <a name="to-assign-app-licenses"></a>Přiřazení licencí aplikací
 
-1. Přejděte **Billing**na  >  stránku**[Fakturace produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a pak zvolte kartu **Aplikace.**
+1. Přejděte na stránku **fakturace**  >  **[svých produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a zvolte kartu **aplikace** .
 
 2. Najděte a vyberte aplikaci, kterou chcete spravovat.  
 
-3. V části **Nastavení & akce**vyberte odkaz na Spravovat na **portálu pro vydavatele**.
+3. V části **nastavení & akce**vyberte odkaz pro **správu na portálu Publisheru**.

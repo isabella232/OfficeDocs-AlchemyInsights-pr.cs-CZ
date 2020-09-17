@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,18 +13,18 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: d6b6f52a454744ecc8f77b180ae697cb7a830f5c
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0c85962d4c1f07a14cea0ef8896359c802fa499d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062962"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777856"
 ---
 # <a name="manage-subscription-renewal"></a>Správa prodlužování platnosti předplatného
 
 Pokud chcete spravovat měsíční nebo roční fakturaci, můžete zapnout nebo vypnout **opakovanou fakturaci**.
 
-1. V Centru pro správu **Billing**přejděte na  >  stránku**[Fakturace vašich produktů.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. V centru pro správu přejděte na stránku **fakturace**  >  **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Zvolte předplatné, pro které chcete spravovat opakovanou fakturaci.
 
