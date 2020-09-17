@@ -1,11 +1,12 @@
 ---
-title: Nelze vytvořit nový podpis.
+title: Nelze vytvořit nový podpis
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: b5b7f44b8a629f4781c4d953cc24ccb21c99c333
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711336"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812504"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>V Outlooku nelze přidat ani vytvořit nový podpis.
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>V Outlooku nejde přidat nebo vytvořit nový podpis.
 
-Jedná se o známý problém. Pracujeme na tom, abychom to opravili, a stav bude aktualizován v [aplikaci Outlook zamrzne kliknutím na tlačítko Podpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Jedná se o známý problém. Pracujeme na opravě a stav bude aktualizován v [Outlooku po kliknutí na tlačítko podpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
 
-Chcete-li tento problém vyřešit, [vyzkoušejte nejprve postup](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) odinstalace předinstalovaných aplikací Microsoft Office Desktop Apps. 
+Chcete-li tento problém vyřešit, [zkuste nejprve provést kroky](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) pro odinstalaci předinstalovaných desktopových aplikací Microsoft Office. 
 
-Pokud to nefunguje pro ohrožený počítač, zkuste [řešení založené na registru](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Pokud to pro tento počítač nefunguje, vyzkoušejte prosím [řešení](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).

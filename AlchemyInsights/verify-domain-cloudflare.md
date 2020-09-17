@@ -1,26 +1,27 @@
 ---
-title: Ověření domény pomocí Cloudflare
+title: Ověření domény pomocí CloudFlare
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 481afa2550afd25797133ef6f3fff04111118a8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7f6162fa03fd53e23d048ca7997e0d878279fcc6
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766306"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816426"
 ---
-# <a name="verify-your-domain-with-cloudflare"></a>Ověření domény pomocí Cloudflare
+# <a name="verify-your-domain-with-cloudflare"></a>Ověření domény pomocí CloudFlare
 
-Chcete-li ověřit svou doménu, budete muset přidat záznam TXT do doménového registrátora, abyste ověřili, že doménu vlastníte. 
+Abyste mohli ověřit doménu, musíte do svého doménového registrátora přidat záznam TXT, abyste ověřili, že jste vlastníkem domény. 
 
-Nejprve postupujte podle [průvodce přidáním domény](https://portal.office.com/adminportal/home#/Domains) výběrem **nastavení** \> **domén**a potom **podle možnosti Přidat doménu**.
+Nejdřív postupujte podle pokynů [Průvodce přidáním domény](https://admin.microsoft.com/Adminportal#/Domains) **Settings** \> **Domains**a pak **přidejte doménu**.
   
-Podrobné pokyny najdete v tématu [Vytváření dns záznamů na Cloudflare pro Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare)
+Podrobné pokyny najdete v tématu [Vytvoření záznamů DNS v CloudFlare pro Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) .
