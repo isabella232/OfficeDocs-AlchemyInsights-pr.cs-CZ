@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 67a2b591c8556af1d5292d6480ed1ca27e384a6a
-ms.sourcegitcommit: 85c41ce0e11956e1865f8baec231cffa79d87ef4
+ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42581414"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793679"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>Změna pozadí a barev plochy
 
-Chcete-li změnit nastavení barev, přejděte na**položku Barvy****přizpůsobení** > **nastavení** >  **spuštění** > a pak zvolte vlastní barvu nebo nechte systém Windows vytáhnout barvu zvýraznění z pozadí.
+Pokud chcete změnit nastavení barev, **přejděte na**  >  **Settings**  >  barvy pro**přizpůsobení**nastavení  >  **Colors**a pak zvolte vlastní barvu nebo nechte, aby systém Windows vynechal ze svého pozadí zvýrazňující barvu.
 
 ![Přizpůsobte si barvy ve Windows.](media/windows-personalization-colors.png)
 
-Chcete-li změnit pozadí plochy, přejděte na**pozadí****přizpůsobení** > **nastavení** >  **spuštění** > a pak zvolte obrázek, plnou barvu nebo vytvořte prezentaci obrázků. 
+Pokud chcete změnit pozadí plochy, přejděte na **Start**  >  **Nastavení**začít na  >  **Personalization**  >  **pozadí**přizpůsobení a pak zvolte obrázek, plnou barvu nebo vytvořte prezentaci obrázků. 
 
-![Změňte pozadí plochy systému Windows.](media/windows-desktop-background.png)
+![Změna pozadí plochy systému Windows](media/windows-desktop-background.png)
 
-Chcete více pozadí plochy a barvy? Navštivte [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) a vyberte si z desítek bezplatných motivů.
+Chcete další pozadí a barvy na ploše? Navštivte [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) a vyberte si z desítek volných motivů.

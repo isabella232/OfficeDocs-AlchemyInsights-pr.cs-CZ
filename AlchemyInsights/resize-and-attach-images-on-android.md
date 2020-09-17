@@ -1,30 +1,31 @@
 ---
-title: Změna velikosti a připojení obrázků v systému Android
+title: Změna velikosti a připojení obrázků v Androidu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 078d74dfd2828a99637c75b11ef7842ef2ed0443
-ms.sourcegitcommit: a7a7581ba754f7f5a46e5b2ec0e667e82c8964b5
+ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278840"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795669"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Změna velikosti a připojení obrázků v systému Android
+# <a name="resize-and-attach-images-on-android"></a>Změna velikosti a připojení obrázků v Androidu
 
-Když připojíte obrázek o velikosti více než 1 MB k e-mailu, máte možnost komprimovat nebo měnit velikost obrázků ve zprávě.
+Když k e-mailu připojíte obrázek o velikosti 1 MB, máte možnost Komprimovat nebo měnit velikost obrázků ve zprávě.
  
-- Pokud se rozhodnete zachovat originál, pak jsou všechny obrázky ve zprávě odesílány v plné velikosti.
+- Pokud se rozhodnete zachovat původní vzhled, budou všechny obrázky ve zprávě odeslány v plné velikosti.
  
-- Pokud se rozhodnete změnit velikost, pak všechny obrázky na zprávu jsou komprimovány.  To zahrnuje obrázky přidané později při úpravách této pracovní verze.
+- Pokud se rozhodnete změnit velikost, všechny obrázky ve zprávě se komprimují.  Sem patří obrázky přidané později při úpravách konceptu.
  
-- Pokud koncept uložíte a vrátíte se později a přidáte další velký obrázek, budete znovu dotázáni a vaše volba se bude vztahovat na všechny koncepty během této relace úprav.
+- Pokud svůj koncept uložíte a přejdete do něj později a přidáte do něj další velký obrázek, zobrazí se výzva a vaše volba se bude při úpravách vztahovat na všechny pracovní verze.
  

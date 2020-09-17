@@ -1,43 +1,44 @@
 ---
-title: Word-převod do formátu XPS nebo PDF
+title: Word – převod na formát XPS nebo PDF
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000586"
 - "2687"
-ms.openlocfilehash: 202d68f3bd1f9b9e5b145a8c4ad8346fa1254d68
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 252194c9c193f2e19b0727435b7ff8e294fa6545
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026889"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794832"
 ---
-# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Řešení problémů při převodu dokumentu aplikace Word do formátu XPS nebo PDF
+# <a name="resolve-issues-converting-a-word-document-to-xps-or-pdf"></a>Řešení problémů s převodem wordového dokumentu na formát XPS nebo PDF
 
-Zde naleznete řešení běžných problémů. 
+Tady je několik řešení pro běžné problémy. 
 
-**Postup exportu nebo uložení dokumentu aplikace Word ve formátu PDF nebo XPS:**
+**Export nebo uložení wordového dokumentu ve formátu PDF nebo XPS:**
 
-1. V dokumentu aplikace Word zvolte možnost **** > **Export** > souboru**vytvořit PDF/XPS dokument** > **vytvořit PDF/XPS**.
+1. Ve wordovém dokumentu zvolte export **souboru**  >  **Export**  >  **vytvořit dokument PDF/XPS**  >  **Vytvoření PDF/XPS**.
 
-2. V okně **Publikovat ve formátu PDF nebo XPS** vyhledejte umístění souboru, upravte název souboru, pokud chcete, a pak zvolte **publikovat**.
+2. V okně **Publikovat jako PDF nebo XPS** vyhledejte umístění souboru, podle potřeby upravte název souboru a pak zvolte **publikovat**.
 
-**Zlepšení kvality obrazu v souboru PDF vytvořeném aplikací Word:**
+**Pokud chcete zlepšit kvalitu obrázků v souboru PDF generovaném Wordem:**
 
-1. V dokumentu aplikace Word zvolte možnost **** > **Export** > souboru**vytvořit PDF/XPS dokument** > **vytvořit PDF/XPS**.
+1. Ve wordovém dokumentu zvolte export **souboru**  >  **Export**  >  **vytvořit dokument PDF/XPS**  >  **Vytvoření PDF/XPS**.
 
-2. V okně **Publikovat ve formátu PDF nebo XPS** zvolte **volby** > **optimalizující pro kvalitu obrazu**. Nastavte další požadované možnosti a klepněte na **tlačítko OK**. 
+2. V okně **Publikovat ve formátu PDF nebo XPS** zvolte **Možnosti**  >  **optimalizace kvality obrázku**. Nastavte další požadované možnosti a zvolte **OK**. 
 
-**Chcete-li přidat tagy usnadnění přístupu do souboru PDF vytvořeného aplikací Word:**
+**Přidání značek přístupnosti do souboru PDF generovaného Wordem:**
  
-1. V dokumentu aplikace Word zvolte možnost **** > **Export** > souboru**vytvořit PDF/XPS dokument** > **vytvořit PDF/XPS**.
+1. Ve wordovém dokumentu zvolte export **souboru**  >  **Export**  >  **vytvořit dokument PDF/XPS**  >  **Vytvoření PDF/XPS**.
 
-2. V okně **Publikovat ve formátu PDF nebo XPS** zvolte **volby** > **tagy struktury dokumentu pro usnadnění přístupu**. Nastavte další požadované možnosti a klepněte na **tlačítko OK**.
+2. V okně **Publikovat jako PDF nebo XPS** **Zvolte**  >  **značky struktury dokumentu pro přístupnost**. Nastavte další požadované možnosti a zvolte **OK**.
 
-Další informace o možnostech převedení souborů sady Office do formátu XPS nebo PDF naleznete v části [uložení nebo převod do formátu PDF nebo XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
+Další informace o možnostech převodu souborů Office na formát XPS nebo PDF najdete v článku [uložení nebo převedení na PDF nebo XPS](https://support.office.com/article/d85416c5-7d77-4fd6-a216-6f4bf7c7c110).
