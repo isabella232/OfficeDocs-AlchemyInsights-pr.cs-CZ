@@ -5,26 +5,27 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: f7ea3b4c0695a10e8df930b415660b8bdf061e85
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714359"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783832"
 ---
 # <a name="error-message-when-sharing-files-from-windows-explorer"></a>Chybová zpráva při sdílení souborů z Průzkumníka Windows
 
 Při pokusu o sdílení z Průzkumníka Windows se může zobrazit následující chybová zpráva:
   
-"Je nám líto, ale nyní se nám nedaří dostat na server. Zkuste to prosím později"
+"Je nám líto, ale nedaří se nám spojit se serverem. Zkuste to znovu později.
   
-Chcete-li vyřešit chybovou zprávu, přejděte v **aplikaci** \> Internet Explorer do nástroje **Nástroje: Možnosti** \> Internetu klepněte na kartu **Upřesnit** a zrušte zaškrtnutí políčka **Neukládat šifrované stránky na disk**.
+Pokud chcete vyřešit chybovou zprávu, přejděte v Internet Exploreru na **nástroje** \> **Možnosti Internetu** \> , klikněte na kartu **Upřesnit** a potom zrušte zaškrtnutí políčka **Neukládat šifrované stránky na disk**.
   
- **Poznámka:** Aby se nastavení projevilo, může být nutné restartovat prohlížeč. Další informace naleznete v [tématu "Nelze se dostat na server právě teď" chybová zpráva při sdílení souborů](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Poznámka**: nastavení se projeví až po restartování prohlížeče. Další informace najdete v článku [chybová zpráva "nelze se připojit k serveru", když se sdílí soubory](https://go.microsoft.com/fwlink/?linkid=2022914).
   

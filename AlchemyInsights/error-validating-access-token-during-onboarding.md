@@ -1,25 +1,26 @@
 ---
-title: Při ověřování chyby přístupového tokenu při kontrole služby Desktop Analytics došlo k chybě.
+title: Došlo k chybě při ověřování tokenu přístupu v průběhu analýzy na ploše.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 7472af5c4e19e5697b5fb4802ed1cbb2c74f1d19
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741142"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783544"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Při kontrole přístupového tokenu došlo k chybě při ověřování plochy
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Při prověřování desktopové analýzy došlo k chybě při ověřování tokenu přístupu
 
-Tato chyba je obvykle dodržena při vypršení ověřovacího tokenu. Aktualizace stránky obvykle aktualizuje token. Tento problém však může přetrvávat v případě, že u účtu, který je použit pro palubní službu Analytics, jsou použity zásady podmíněného přístupu. Chcete-li zjistit, zda u účtu používaného pro službu Desktop Analytics došlo k chybám, zkontrolujte protokoly Azure AD-in v Azure portálu.
+Tato chyba se obvykle zobrazuje, když vyprší platnost ověřovacího tokenu. Obvykle se aktualizace stránky aktualizuje. Tento problém ale může trvat i v případě, že jsou u účtu, který se používá k analýze desktopové analýzy, všechny zásady podmíněného přístupu. V protokolech Azure AD se můžete podívat do protokolů v Azure Portalu a zjistit, jestli nedochází k chybám přihlašování pro účet, který se používá pro službu Desktop Analytics.
 
-Další informace o podmíněném přístupu naleznete v [plánu nasazení podmíněného přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Další informace o podmíněném přístupu najdete v tématu [Plánování nasazení podmíněného přístupu](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
