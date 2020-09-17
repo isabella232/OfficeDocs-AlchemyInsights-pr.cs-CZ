@@ -1,24 +1,25 @@
 ---
-title: Zpráva o aplikacích Microsoft 365 – produkty, které jsme našli ve vašem účtu, nelze použít k aktivaci
+title: Zpráva aplikace Microsoft 365 Apps – produkty, které jsme našli ve vašem účtu, se nedají použít k aktivaci
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: 7eb169dd74d647f196ca2dd93652bf5d970d68d1
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6345f3acabb73f283c918cf7f3ca0c5c055f6186
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581608"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802734"
 ---
-# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Zpráva o aplikacích Microsoft 365 – produkty, které jsme našli ve vašem účtu, nelze použít k aktivaci
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Zpráva aplikace Microsoft 365 Apps – produkty, které jsme našli ve vašem účtu, se nedají použít k aktivaci
 
 - Zkontrolujte, jestli je [stav předplatného](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) platný a jestli má uživatel, kterého se problém týká, [přiřazenou platnou licenci](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) a je připojený k internetu. 
 

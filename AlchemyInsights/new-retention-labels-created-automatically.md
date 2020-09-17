@@ -1,36 +1,36 @@
 ---
-title: Automaticky vytvořené nové popisky uchování
+title: Automaticky vytvořené nové štítky pro uchovávání informací
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2f0e7c418a909d1adfb8e6ad5cd1755839cb22e2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511753"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803130"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Automaticky vytvořené nové popisky uchování
+# <a name="new-retention-labels-created-automatically"></a>Automaticky vytvořené nové štítky pro uchovávání informací
 
-V Centru pro správu zabezpečení nebo dodržování předpisů se v Centru **pro** správu zabezpečení nebo dodržování předpisů mohou v centru pro správu zabezpečení nebo dodržování předpisů automaticky zobrazit [tři nové štítky uchovávání informací](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) vytvořené automaticky ve vaší organizaci. Názvy popisků jsou:
+**V centru** pro správu zabezpečení nebo dodržování předpisů se můžou ve vaší organizaci automaticky vytvářet [tři nové štítky pro uchovávání informací](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) . Názvy štítků jsou:
 
-- Provozní postup
-- Obchodní obecné
-- Smlouva
+- Postup
+- Obecné podnikání
+- Smlouva smlouvy
 
-K tomu dojde při prvním **výběru plánu souborů,** pokud nejsou vytvořeny žádné jiné popisky uchovávání informací. Tyto popisky jsou vytvořeny automaticky a v případě potřeby mohou být odstraněny, pokud ještě nebyly použity na obsah. Odebrání popisků:
+Když se nevytvoří žádné další štítky pro uchovávání informací, objeví se při prvním zvolení **plánu souborů** . Tyto štítky jsou vytvářeny automaticky a v případě potřeby je můžete odebrat, pokud ještě nebyly použity u obsahu. Odebrání štítků:
 
-1. V Centru pro správu zabezpečení nebo dodržování předpisů zvolte Karta **Uchovávání**  >  **popisků**  >  **Retention** klasifikace.
+1. V centru pro správu zabezpečení nebo dodržování **předpisů zvolte**  >  kartu zádržné**popisky štítků**  >  **Retention** .
 
-1. Vyberte popisky uchování, které chcete odebrat > **Odstranit popisek**  >  **Ano,** chcete-li popisek odstranit.
+1. Vyberte štítky pro uchovávání informací, které chcete odebrat > **odstranění popisku**  >  **Ano** a odstranění popisku.
 
-Pomocí Správce plánu souborů můžete spravovat popisky uchovávání informací a zásady ve vaší organizaci – další informace naleznete [v tématu Přehled Správce plánu souborů](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).
+Pomocí Správce plánu souborů můžete spravovat značky a zásady uchovávání informací v organizaci – Další informace najdete v tématu [Přehled Správce plánu souborů](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).

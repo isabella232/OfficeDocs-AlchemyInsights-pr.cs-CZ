@@ -1,24 +1,25 @@
 ---
-title: Zpráva o aplikacích Microsoft 365 – Omlouváme se, jiný účet z vaší organizace je již přihlášen
+title: Zpráva aplikace Microsoft 365 Apps – je nám líto, ale jiný účet z vaší organizace už je přihlášený.
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 60a51c2a45e76391b132b92bb03059864bffb2ed
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576913"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802806"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Zpráva o aplikacích Microsoft 365 – Omlouváme se, jiný účet z vaší organizace je již přihlášen
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Zpráva aplikace Microsoft 365 Apps – je nám líto, ale jiný účet z vaší organizace už je přihlášený.
 
 Pokud chcete tuto chybu vyřešit, vyzkoušejte následující:
 

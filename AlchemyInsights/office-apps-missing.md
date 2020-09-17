@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2529"
 - "9000572"
-ms.openlocfilehash: 5f935408bac9ac8ad36d18740bd61aba12bca1ca
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 24ad5efafa7551e9d29c2b1f4a438bfb781a1417
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576769"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802878"
 ---
 # <a name="microsoft-365-apps-missing"></a>Chybí aplikace Microsoft 365
 
-Pokud po instalaci nebo aktualizaci nemůžete v počítači najít aplikace Office, přečtěte si přečtěte si informace o tom, [že v systému Windows 10, Windows 8 nebo Windows 7 nemůžete najít aplikace Office?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6) Pokud nemůžete najít zástupce Office v nabídce Start nebo v části **Všechny aplikace**, přečtěte si článek Ve [všech aplikacích ve Windows 10 chybí aplikace Microsoft 365](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc). 
+Pokud po instalaci nebo aktualizaci nemůžete najít aplikace Office na počítači, podívejte se na článek [nemůžete ve Windows 10, Windows 8 nebo Windows 7 najít aplikace Office?](https://support.office.com/article/Can-t-find-Office-applications-in-Windows-10-Windows-8-or-Windows-7-907ce545-6ae8-459b-8d9d-de6764a635d6). Pokud v nabídce Start nebo v části **všechny aplikace**nemůžete najít zástupce Office, najdete další informace v článku [Microsoft 365 chybí všechny aplikace ve Windows 10](https://support.office.com/article/office-apps-are-missing-from-all-apps-on-windows-10-5bc123f6-655d-4736-ad61-b0b9d1cde5bc). 
 
-Pokuste se [opravit aplikaci Office,](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) pokud zástupci Office po přihlášení nebo restartování počítače zmizeli. 
+Zkuste [opravit aplikaci Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b) , pokud se po přihlášení nebo restartování počítače nezobrazuje zástupci Office. 
 
-**Poznámka:** Pokud na portálu Office chybí aplikace Microsoft 365 pro instalaci, přejděte na [Článek Poradce při potížích s instalací Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) a přejděte na Běžné problémy Office pro **firmy**Možnost instalace Office se  >  **Common issues**  >  **nedočká.** 
+**Poznámka:** Pokud aplikace Microsoft 365 chybí pro instalaci na portálu Office, podívejte se na článek [Poradce při potížích s instalací Office](https://support.office.com/article/troubleshoot-installing-office-35ff2def-e0b2-4dac-9784-4cf212c1f6c2) a přejděte na běžné problémy s **Office pro firmy**,  >  **Common issues**  >  **kde se nezobrazuje možnost instalace Office**. 

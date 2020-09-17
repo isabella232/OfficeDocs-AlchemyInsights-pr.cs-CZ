@@ -6,23 +6,24 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721895"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802554"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Změna vzhledu poštovní schránky Outlook.com
 
-Vzhled seznamu zpráv a podokna čtení můžete změnit v Outlook.com.
+Vzhled seznamu zpráv a podokna čtení v Outlook.com můžete změnit.
 
-- Chcete-li změnit rozložení okna zprávy, otevřete možnosti [podokna čtení.](https://outlook.live.com/mail/options/mail/layout/readingPane)
-- Pokud chcete změnit způsob řazení e-mailů, v horní části seznamu zpráv vyberte **Řadit podle filtru** > **Sort by** a zvolte, jak chcete e-mail seřadit.
-- Chcete-li zprávy seskupit podle konverzace, otevřete možnosti [organizace se zprávou.](https://outlook.live.com/mail/options/mail/layout/conversations)
-- Pokud chcete zapnutou nebo vypnutou schránku pro prioritní, otevřete možnosti [rozložení.](https://outlook.live.com/mail/options/mail/layout/focused)
+- Pokud chcete změnit rozložení okna zprávy, otevřete možnosti [podokna čtení](https://outlook.live.com/mail/options/mail/layout/readingPane) .
+- Pokud chcete změnit způsob řazení e-mailů, vyberte v horní části seznamu zpráv možnost **filtrovat**  >  **řazení podle** a zvolte, jak chcete e-mail seřadit.
+- Pokud chcete zprávy seskupit podle konverzace, otevřete možnosti vaší [organizace](https://outlook.live.com/mail/options/mail/layout/conversations) .
+- Pokud chcete prioritní doručenou poštu zapnout nebo vypnout, otevřete možnosti [rozložení](https://outlook.live.com/mail/options/mail/layout/focused) .
