@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bcf65b93e5c5adbfa0ca275c69da882aa125c39
+ms.sourcegitcommit: aabc5178929892d532782036bfb338b4b480d4e5
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812288"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48213020"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Běžné problémy a řešení pro ADFS
 
 Konfigurace federované domény se dá aktualizovat, jak je popsáno v následujících článcích znalostní báze Microsoft Knowledge Base.
 
 - [Vyprší platnost federačního certifikátu služby AD FS](adfs-federation-certificate-expiring.md)
+
+- [Nastavení služby ADFS pro Office 365 pro jednotné přihlašování](https://docs.microsoft.com/office365/troubleshoot/active-directory/set-up-adfs-for-single-sign-on)
 
 - [2713898](https://support.microsoft.com/help/2713898)  "při přihlašování federovaného uživatele do Microsoft 365, Azure nebo Intune došlo k chybě při přístupu k webu.
 
