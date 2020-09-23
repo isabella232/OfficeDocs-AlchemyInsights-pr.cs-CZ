@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744619"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236082"
 ---
 # <a name="unable-to-activate-office"></a>Office nejde aktivovat
 
@@ -26,6 +26,8 @@ ms.locfileid: "47744619"
 - Zkontrolujte, jestli je uživatel přihlášený k Office pomocí stejného účtu, který má přiřazenou licenci.
 - Podívejte se na [stránku stavu služeb Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) a zjistěte, jestli se vyskytly nějaké problémy.
 - Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru a ověřte, že neblokují aplikace Microsoft 365 přístup k Internetu. Přečtěte si [Adresy URL a rozsahy IP adres pro Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Adresy URL a rozsahy IP adres pro Office 365").
+
+**Tip** V počítačích s Windows můžeme diagnostikovat a automaticky opravovat několik běžných problémů s přihlášením k Office. Stáhněte si a spusťte nástroj  **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** , abyste mohli používat náš automatizovaný nástroj.
 
 Při řešení problémů postupujte takto:
 

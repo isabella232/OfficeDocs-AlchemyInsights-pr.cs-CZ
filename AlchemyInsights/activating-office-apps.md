@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697982"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236046"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktivace aplikací Microsoft 365
 
@@ -35,6 +35,8 @@ Informace o postupu řešení problémů s aktivací Office získáte tady:
 - [Chyby typu Nelicencovaný produkt a chyby aktivace v Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [Co zkusit, když se vám nedaří instalace nebo aktivace Office pro Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**Tip** V počítačích s Windows můžeme diagnostikovat a automaticky opravovat několik běžných problémů s přihlášením k Office. Stáhněte si a spusťte nástroj  **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** , abyste mohli používat náš automatizovaný nástroj.
 
 Pokud se nemůžete přihlásit do aplikací Microsoft 365, postupujte podle následujících pokynů:
 
