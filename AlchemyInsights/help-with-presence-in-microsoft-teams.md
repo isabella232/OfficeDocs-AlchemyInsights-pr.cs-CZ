@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 4d4bee18d5ce8ff7ee56af00783c128566295a79
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50b1060b46d09276629d8a30fc3c750f9faab648
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47803532"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277917"
 ---
 # <a name="help-with-presence-in-microsoft-teams"></a>Nápověda ke stavu v Microsoft Teams
 
-Stav je součástí profilu uživatele v Microsoft teams a v aplikaci Microsoft 365 nebo Office 365, který označuje aktuální dostupnost a stav uživatele pro ostatní uživatele. Ve výchozím nastavení může kdokoli ve vaší organizaci používající aplikaci Teams zobrazit téměř v reálném čase, pokud jsou další uživatelé k dispozici online.
+Stav je součástí profilu uživatele v Microsoft Teams (a v aplikaci Microsoft 365 nebo Office 365). Aplikace Teams automaticky zjistí váš stav (k dispozici, pryč, zaneprázdněn, na schůzce, Nerušit a upravuje informace o stavu. Ve výchozím nastavení může kdokoli ve vaší organizaci používající aplikaci Teams zobrazit (téměř v reálném čase), pokud jsou další uživatelé online.
 
-Další informace o tom, jak funguje konfigurace aplikace, najdete v tématu stav [uživatele v aplikaci Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+Váš aktuální stav se změní na  **pryč**  , když uzamknete počítač nebo když přejde do režimu nečinnosti nebo spánku. Na mobilu se váš stav změní na **pryč**  , kdykoli je aplikace Team na pozadí.
 
-Podrobné informace o tom, jak funkce stavu týmů, když vaše organizace používá Skype pro firmy, najdete v tématu [koexistence ve Skypu pro firmy](https://docs.microsoft.com/microsoftteams/coexistence-chat-calls-presence#presence).
+Další informace o stavu států naleznete v tématu stav  [uživatele v Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+
+Microsoft pro Microsoft Teams zaznamená  [důležitou aktualizaci](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Teams&searchterms=presence) . Provedli jsme změnu stavu pro podporu aktualizací v reálném čase, což pomůže zlepšit spolehlivost indikátoru stavu.
