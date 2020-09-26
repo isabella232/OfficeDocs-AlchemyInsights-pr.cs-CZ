@@ -1,8 +1,8 @@
 ---
 title: Rozšířená Správa licencí na ochranu před internetovými útoky
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715374"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287095"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Rozšířená Správa licencí na ochranu před internetovými útoky
 
 Správa licencí pro ochranu před internetovými útoky (ATP) pro Office 365 se dá dokončit v  **centru pro správu Microsoft 365**.
 
-- Pokud chcete zakoupit Office 365 ochrana před internetovými útoky **Billing**, přejděte na  >  [služby pro nákupy](https://go.microsoft.com/fwlink/p/?linkid=868433)fakturace, vyberte možnost Stránka **doplňků** z **jiných kategorií, které vás zajímají**, vyberte Rozšířený plán ochrany před hrozbami, který chcete koupit, a vyberte počet uživatelů, kteří budou používat rozšířenou ochranu před hrozbami. Další informace najdete v tématu [Nákup](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)tarifu.
-- Pokud chcete přiřadit Office 365 předběžné licence na ochranu před hrozbami, přejděte na **fakturační**  >  **licence**. Další informace najdete v tématu  [přiřazení licencí](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- Pokud chcete přidat nebo odebrat licence 365 pro ochranu před internetovými útoky, přejděte na Přejít na stránku **fakturace**  >  **produktů**, najděte předplatné, ke kterému chcete přidat nebo odebrat licence, a vyberte **Přidat nebo odebrat licence**.  
-- Další informace najdete v článku [Přidání nebo odebrání licence](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)z předplatného pro firmy.
+- Pokud chcete zakoupit Office 365 ochrana před internetovými útoky:
+    1. Přejděte na **Billing**  >  [služby pro nákup](https://go.microsoft.com/fwlink/p/?linkid=868433)fakturace.
+    2. V dolní části stránky vyberte **Doplňky**.
+    3. Na stránce **koupit služby** vyberte Rozšířený plán ochrany před hrozbami, který chcete koupit, zadejte počet uživatelů, kteří potřebují licenci, a pak vyberte **rezervovat**. Další informace najdete v článku [o nákupu doplňku](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Pokud chcete přiřadit Office 365 předběžné licence na ochranu před hrozbami, přejděte na **fakturační**  >  **licence**. Další informace najdete v tématu [přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Pokud chcete přidat nebo odebrat licence z Office 365 ochrana před internetovými útoky, přejděte na **fakturace**  >  **vašich produktů**. Vyberte předplatné, které chcete aktualizovat, a pak vyberte **koupit licence** nebo ***odebrat licence**. Další informace najdete v článku o [nákupu nebo odebrání předplatných licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

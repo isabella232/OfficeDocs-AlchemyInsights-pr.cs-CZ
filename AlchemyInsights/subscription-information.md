@@ -2,7 +2,7 @@
 title: Informace o předplatném
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,29 +14,25 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: dcf016e451cf1d88484578b9bc250fdf2ee11624
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f328c870d2fcd8093c2fd10bb26ca0326ddf2ccd
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737586"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286987"
 ---
 # <a name="subscription-information"></a>Informace o předplatném
 
-Pokud chcete získat informace o předplatných, která vlastníte, přejděte na stránku **fakturace** \> **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+Pokud chcete získat informace o předplatných, která vlastníte, přejděte na stránku **fakturace** \> [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
-Klíčové informace o každém předplatném:
+Tabulka zobrazuje následující klíčové informace o každém předplatném:
   
-- Stav jednotlivých
-
-- Zakoupené licence
-
+- Název produktu
 - Přiřazené licence
-
-- Stav opakované fakturace
-
-- Zůstatek
-
+- Zakoupené licence
+- Stav
+- Datum prodloužení nebo vypršení platnosti
 - Způsob platby
-
-- Příští fakturace nebo datum vypršení platnosti
+- Fakturační účet (pokud existuje)
+ 
+Pokud chcete přidat nebo odebrat sloupce, vyberte **Vybrat sloupce**.
