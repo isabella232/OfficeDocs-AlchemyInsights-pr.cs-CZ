@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 4787e9e4be87785b7273ee74f175092c5a85f15e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
+ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795561"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48295599"
 ---
-# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="62459-102">Nastavení neplatnosti hesel</span><span class="sxs-lookup"><span data-stu-id="62459-102">Set passwords to never expire</span></span>
+# <a name="set-passwords-to-never-expire"></a><span data-ttu-id="1249f-102">Nastavení neplatnosti hesel</span><span class="sxs-lookup"><span data-stu-id="1249f-102">Set passwords to never expire</span></span>
 
-<span data-ttu-id="62459-103">Pokud chcete, aby všechna hesla nikdy nevyprší, v centru pro správu Microsoft 365 přejděte na stránku **Nastavení**  >  [ &amp; ochrany osobních údajů zabezpečení](https://portal.office.com/adminportal/home#/settings/security) .</span><span class="sxs-lookup"><span data-stu-id="62459-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > [Security &amp; privacy](https://portal.office.com/adminportal/home#/settings/security) page.</span></span> <span data-ttu-id="62459-104">Vyberte **Upravit** vedle **zásad hesla**a posuvník zapněte **.**</span><span class="sxs-lookup"><span data-stu-id="62459-104">Select **Edit** next to **Password policy**, and turn the slider to **On**.</span></span>
+<span data-ttu-id="1249f-103">Pokud chcete, aby všechna hesla nikdy nevyprší, v centru pro správu Microsoft 365 přejděte na nastavení **Settings**  >  **organizace nastavení >  >  [Zásady vypršení platnosti hesla](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) [zabezpečení a ochrany osobních údajů](https://portal.office.com/adminportal/home#/settings/security)** a zrušte zaškrtnutí políčka nastavit platnost uživatelských hesel po uplynutí počtu dnů.</span><span class="sxs-lookup"><span data-stu-id="1249f-103">To set ALL passwords to never expire, in the Microsoft 365 admin center, go to the **Settings** > **Org Settings > [Security and privacy](https://portal.office.com/adminportal/home#/settings/security) > [Password Expiration Policy](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** and un-check “Set user passwords to expire after a number of days”.</span></span>
   
-<span data-ttu-id="62459-105">Podrobnější informace najdete v těchto tématech:</span><span class="sxs-lookup"><span data-stu-id="62459-105">For more detailed information see:</span></span> 
+<span data-ttu-id="1249f-104">Podrobnější informace najdete v těchto tématech:</span><span class="sxs-lookup"><span data-stu-id="1249f-104">For more detailed information see:</span></span>
 
-- [<span data-ttu-id="62459-106">Nastavte zásady vypršení platnosti hesla pro vaši organizaci.</span><span class="sxs-lookup"><span data-stu-id="62459-106">Set the password expiration policy for your organization.</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [<span data-ttu-id="1249f-105">Nastavte zásady vypršení platnosti hesla pro vaši organizaci.</span><span class="sxs-lookup"><span data-stu-id="1249f-105">Set the password expiration policy for your organization.</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [<span data-ttu-id="62459-107">Nastavení neplatnosti hesla pro určité uživatele</span><span class="sxs-lookup"><span data-stu-id="62459-107">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [<span data-ttu-id="1249f-106">Nastavení neplatnosti hesla pro určité uživatele</span><span class="sxs-lookup"><span data-stu-id="1249f-106">Set password to never expire for specific users</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [<span data-ttu-id="62459-108">Heslo musí splňovat požadavky na složitost.</span><span class="sxs-lookup"><span data-stu-id="62459-108">Password must meet complexity requirements</span></span>](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [<span data-ttu-id="1249f-107">Heslo musí splňovat požadavky na složitost.</span><span class="sxs-lookup"><span data-stu-id="1249f-107">Password must meet complexity requirements</span></span>](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   
