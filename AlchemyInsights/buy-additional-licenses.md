@@ -2,7 +2,7 @@
 title: Koupit další licence
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,28 +13,23 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1039ce18dacbbe04aa7cb7a5a85eddab52b36d67
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725544"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307128"
 ---
-# <a name="buy-additional-licenses"></a><span data-ttu-id="d5f69-102">Koupit další licence</span><span class="sxs-lookup"><span data-stu-id="d5f69-102">Buy additional licenses</span></span>
+# <a name="buy-additional-licenses"></a><span data-ttu-id="11435-102">Koupit další licence</span><span class="sxs-lookup"><span data-stu-id="11435-102">Buy additional licenses</span></span>
 
-1. <span data-ttu-id="d5f69-103">V centru pro správu přejděte na stránku **fakturace** \> **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="d5f69-103">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="11435-103">V centru pro správu přejděte na stránku **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="11435-103">In the admin center, go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="11435-104">Na kartě **Products (produkty** ) vyhledejte předplatné, pro které chcete zakoupit nebo odebrat licence.</span><span class="sxs-lookup"><span data-stu-id="11435-104">On the **Products** tab, find the subscription for which you want to buy or remove licenses.</span></span> <span data-ttu-id="11435-105">Vyberte **Další akce** (tři tečky) a pak vyberte **koupit licence**.</span><span class="sxs-lookup"><span data-stu-id="11435-105">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="11435-106">Pokud chcete snížit počet licencí, vyberte v horní části podokna **koupit licence** možnost **odebrat licence**.</span><span class="sxs-lookup"><span data-stu-id="11435-106">If you want to decrease the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="11435-107">Chcete-li zakoupit nebo odebrat licence, zadejte do pole **celkem licence** v části **nové množství** licence požadovaný počet licencí pro toto předplatné.</span><span class="sxs-lookup"><span data-stu-id="11435-107">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="11435-108">Pokud máte třeba licence 100 a chcete přidat 25 dalších 25, zadejte 125.</span><span class="sxs-lookup"><span data-stu-id="11435-108">For example, if you have 100 licenses and you want to add 25 more, enter 125.</span></span> <span data-ttu-id="11435-109">Pokud chcete odebrat 25 licencí, zadejte 75.</span><span class="sxs-lookup"><span data-stu-id="11435-109">If you want to remove 25 licenses, enter 75.</span></span>
+5. <span data-ttu-id="11435-110">Vyberte **Uložit**.</span><span class="sxs-lookup"><span data-stu-id="11435-110">Select **Save**.</span></span>
 
-2. <span data-ttu-id="d5f69-104">Najděte předplatné, ke kterému chcete přidat licence, a pak vyberte **Přidat nebo odebrat licence**.</span><span class="sxs-lookup"><span data-stu-id="d5f69-104">Find the subscription that you want to add licenses to, and then select **Add/Remove licenses**.</span></span>
+<span data-ttu-id="11435-111">Další informace najdete v článku [Nákup licencí pro předplatné Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="11435-111">To learn more, see [Buy licenses for your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>
 
-    [<span data-ttu-id="d5f69-105">Co když odkaz pro přidání nebo odebrání nevidím?</span><span class="sxs-lookup"><span data-stu-id="d5f69-105">What if I don't see the Add/Remove link?</span></span>](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+<span data-ttu-id="11435-112">**Další zdroje informací**</span><span class="sxs-lookup"><span data-stu-id="11435-112">**Additional Resources**</span></span>
 
-3. <span data-ttu-id="d5f69-106">Do pole **celkem licence** zadejte celkový počet licencí, které pro toto předplatné potřebujete, a pak zvolte **Odeslat změnu**.</span><span class="sxs-lookup"><span data-stu-id="d5f69-106">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then choose **Submit change**.</span></span> <span data-ttu-id="d5f69-107">Pokud například máte 100 licencí a potřebujete jich 5 přidat, zadáte 105.</span><span class="sxs-lookup"><span data-stu-id="d5f69-107">For example, if you have 100 licenses and you need to add 5 more, enter 105.</span></span>
-
-    > [!NOTE]
-    > <span data-ttu-id="d5f69-108">Pokud předplatné platíte prostřednictvím platební karty nebo bankovního účtu, budete mít nově zakoupené licence k dispozici hned po potvrzení objednávky.</span><span class="sxs-lookup"><span data-stu-id="d5f69-108">If you pay for your subscription by credit card or bank account, any new licenses that you buy are available immediately after you receive an order confirmation.</span></span> <span data-ttu-id="d5f69-109">Pokud platíte fakturou, budete pravděpodobně muset počkat na ověření kredibility, než budete nové licence moct používat.</span><span class="sxs-lookup"><span data-stu-id="d5f69-109">If you pay by invoice, you might have to wait for a credit check before your new licenses are available to use.</span></span>
-
-<span data-ttu-id="d5f69-110">Další informace najdete v článku [Nákup licencí pro předplatné Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span><span class="sxs-lookup"><span data-stu-id="d5f69-110">To learn more, see [Buy licenses for your Microsoft 365 for business subscription](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).</span></span>  
-
-<span data-ttu-id="d5f69-111">**Další zdroje informací**</span><span class="sxs-lookup"><span data-stu-id="d5f69-111">**Additional Resources**</span></span>
-
-- [<span data-ttu-id="d5f69-112">Přiřazení licencí uživatelům v Microsoft 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="d5f69-112">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [<span data-ttu-id="11435-113">Přiřazení licencí uživatelům v Microsoft 365 pro firmy</span><span class="sxs-lookup"><span data-stu-id="11435-113">Assign licenses to users in Microsoft 365 for business</span></span>](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
