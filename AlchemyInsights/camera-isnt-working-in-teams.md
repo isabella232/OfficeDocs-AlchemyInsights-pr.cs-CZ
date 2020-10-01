@@ -13,16 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003299"
 - "6210"
-ms.openlocfilehash: 5aa03307d1ef8e1b46f90c3af2afc419a0796e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003562"
+- "6663"
+ms.openlocfilehash: f700f856ca6e914bd42cd2458c6dfc7d6999b643
+ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734427"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "48333643"
 ---
 # <a name="camera-isnt-working-in-teams"></a>Kamera nefunguje v Teams
 
 Vyzkoušejte návrhy řešení potíží v článku: [kamera nefunguje v Teams](https://support.microsoft.com/office/my-camera-isn-t-working-in-teams-9581983b-c6f9-40e3-b0d8-122857972ade).
 
 Pokud kroky pro řešení potíží nefungují, zkuste aktualizovat nebo přeinstalovat ovladač kamery a ujistěte se, že kameru neblokuje antivirový software jiného výrobce.
-
