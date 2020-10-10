@@ -1,8 +1,8 @@
 ---
 title: Zrušení předplatného Microsoftu
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 50cac2ae491e0bea1a18a56cc78cd8d3105b3a40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12a2daf3cc68b85a26d29088315d1046ddf3cfb6
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683251"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416440"
 ---
-# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="92627-102">Zrušení předplatného Microsoftu</span><span class="sxs-lookup"><span data-stu-id="92627-102">Cancel your Microsoft subscription</span></span>
+# <a name="cancel-your-microsoft-subscription"></a><span data-ttu-id="162f2-102">Zrušení předplatného Microsoftu</span><span class="sxs-lookup"><span data-stu-id="162f2-102">Cancel your Microsoft subscription</span></span>
 
-1. <span data-ttu-id="92627-103">Přejděte na [Služby a předplatná](https://account.microsoft.com/services/) a přihlaste se pomocí účtu Microsoft, který jste použili při nákupu předplatného.</span><span class="sxs-lookup"><span data-stu-id="92627-103">Go to [Services & subscriptions](https://account.microsoft.com/services/), and sign in with the Microsoft account you used when purchasing your subscription.</span></span>
+<span data-ttu-id="162f2-103">Správci můžou zrušit předplatné pro svou organizaci v centru pro správu Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="162f2-103">Admins can cancel the subscription for their organization in the Microsoft 365 admin center.</span></span>
 
-2. <span data-ttu-id="92627-104">Najděte svoje předplatné a klikněte na **Spravovat**.</span><span class="sxs-lookup"><span data-stu-id="92627-104">Find your subscription and click **Manage**.</span></span> <span data-ttu-id="92627-105">Pokud se místo **Správy** zobrazí **Zapnutí opakované fakturace**, přejděte k části Poradce při potížích.  Jinak přejděte ke kroku 3.</span><span class="sxs-lookup"><span data-stu-id="92627-105">If you see **Turn on recurring billing** instead of **Manage**, skip to the Troubleshooting section;  otherwise proceed to step 3.</span></span>
+1. <span data-ttu-id="162f2-104">Přejděte na stránku **fakturace** \> [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="162f2-104">Go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="162f2-105">Na kartě **Products (produkty** ) vyhledejte předplatné, které chcete zrušit.</span><span class="sxs-lookup"><span data-stu-id="162f2-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="162f2-106">Vyberte **Další akce** (tři tečky) a pak vyberte **zrušit předplatné**.</span><span class="sxs-lookup"><span data-stu-id="162f2-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="162f2-107">V podokně **zrušit předplatné** zvolte důvod, proč se rušíte.</span><span class="sxs-lookup"><span data-stu-id="162f2-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="162f2-108">Volitelně můžete sdělit svůj názor.</span><span class="sxs-lookup"><span data-stu-id="162f2-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="162f2-109">Vyberte **Uložit**.</span><span class="sxs-lookup"><span data-stu-id="162f2-109">Select **Save**.</span></span>
 
-3. <span data-ttu-id="92627-106">Na další stránce klikněte na **Zrušit** nebo **Upgradovat nebo zrušit** podle typu vašeho předplatného.</span><span class="sxs-lookup"><span data-stu-id="92627-106">On the next page, click **Cancel** or **Upgrade or Cancel**, depending on your subscription type.</span></span>
-
-4. <span data-ttu-id="92627-107">Postupujte podle pokynů na stránce, abyste mohli pokračovat ve zrušení.</span><span class="sxs-lookup"><span data-stu-id="92627-107">Follow the instructions on the page to proceed with cancellation.</span></span>
+<span data-ttu-id="162f2-110">**Refundace:** Jakýkoliv poměrný kredit vám bude vrácen v rámci dalšího fakturačního cyklu.</span><span class="sxs-lookup"><span data-stu-id="162f2-110">**Refund:** Any prorated credit will be returned to you within the next billing cycle.</span></span>
