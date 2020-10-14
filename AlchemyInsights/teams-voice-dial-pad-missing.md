@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 8ad3480c20ac29ef4d9394d3c84b310ef26a9535
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 185c261311acc527b0f0469ef1d72ed00e56d17b
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653470"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48452041"
 ---
 # <a name="dial-pad-is-missing-in-microsoft-teams"></a>V Microsoft Teams chybí číselník 
 
