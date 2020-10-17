@@ -1,8 +1,8 @@
 ---
 title: Předplatné už není aktivní
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: a056a9bf006b2400b94ee52444ab83e71b232348
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737550"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489306"
 ---
 # <a name="subscription-no-longer-active"></a>Předplatné už není aktivní
 
-Pokud se při otevření aplikace Microsoft zobrazí [oznámení o předplatném](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB), je pravděpodobné, že budete muset předplatné znovu aktivovat.
+Pokud [se oznámení o předplatném zobrazí](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) při otevření aplikace Microsoft, je pravděpodobné, že budete muset předplatné znovu aktivovat.
 
 **Opětovná aktivace předplatného**
 
-1. V centru pro správu přejděte na stránku **fakturace**  >  **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Najděte předplatné, které chcete znovu aktivovat.
-
-3. V části **Fakturace** klikněte na **Znovu aktivovat**.  Pokud jste v zobrazení **vizitky** , klikněte na tři tečky mezi **názvem** a **dostupným množstvím** a v nabídce zvolte **znovu aktivovat** .
-
-**Poznámka**: Pokud nevidíte předplatné, které hledáte, budete možná muset v horní části obrazovky upravit filtr **Stav předplatného** na možnost **Vše**.
-
-4. Zadejte platební údaje a aktualizujte tak svoje stávající platební údaje. Až dokončíte zadávání způsobu platby, klikněte na **Znovu aktivovat**.
+1. V centru pro správu přejděte na stránku **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Na kartě **Products (produkty** ) vyhledejte předplatné, které chcete znovu aktivovat. Vyberte **Další akce** (tři tečky) a pak vyberte **znovu aktivovat toto předplatné**.
+3. V podokně **znovu aktivovat toto předplatné** vyberte z rozevíracího seznamu způsob platby nebo vyberte **Přidat způsob platby**.
+4. Vyberte **Uložit**.
 
 Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
