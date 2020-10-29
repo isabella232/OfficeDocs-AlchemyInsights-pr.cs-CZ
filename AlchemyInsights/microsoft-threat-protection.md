@@ -1,5 +1,5 @@
 ---
-title: Microsoft Threat Protection
+title: Microsoft 365 Defender
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 1fa5464a4e7b065ef2b1321d23d331195cd0896a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d54a9c17f52b2e8a99f181822c0989fe1af72e7
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772724"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801472"
 ---
-# <a name="microsoft-threat-protection"></a>Microsoft Threat Protection
+# <a name="microsoft-365-defender"></a>Microsoft 365 Defender
 
 - [Přehled protokolu MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
 - [Požadavky](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Threat Protection
+title: Microsoft 365 Defender
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 903a7def1f97a9571881b227e13e33ba76bd5455
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c08a344e198c2b1c6c7ea47d598f1b92b681d027
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803592"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801580"
 ---
 # <a name="microsoft-to-do-cross-tenant-sharing"></a>Sdílení mezi klienty od Microsoftu
 
 Společnost Microsoft bude podporovat sdílení seznamu mezi osobními a pracovními účty od 25. září 2020. Tato akce umožňuje uživatelům ve vaší organizaci připojení, prohlížení, úpravy a přidávání dat do seznamů vlastněných osobními účty Microsoft.
 
 Pro správce je k dispozici nové nastavení správce, aby tuto funkci zakázal zrušením zaškrtnutí.
-Správce může toto nastavení najít na portálu pro správu v části **Nastavení**  >  **Org Settings**  >  **služeb**  >  **pro**nastavení org.
+Správce může toto nastavení najít na portálu pro správu v části **Nastavení**  >  **Org Settings**  >  **služeb**  >  **pro** nastavení org.

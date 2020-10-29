@@ -1,5 +1,5 @@
 ---
-title: Zakupte si Office 365 Rozšířená ochrana před internetovými útoky
+title: Nákup Microsoft Defenderu pro Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693548"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801140"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Zakupte si Office 365 Rozšířená ochrana před internetovými útoky
+# <a name="purchase-microsoft-defender-for-office-365"></a>Nákup Microsoft Defenderu pro Office 365
 
-Rozšířená ochrana před internetovými útoky v Office 365 je součástí některých předplatných, jako je Microsoft 365 E5, Office 365 E5, Office 365 a5 a 365 Microsoft Office Business Premium. Pokud vaše předplatné neobsahuje Office 365 ATP, můžete si koupit [plán ATP 1Or plán ATP 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) jako doplněk k určitému předplatnému. Nákup v centru pro správu Microsoft 365:
+Program Microsoft Defender pro Office 365 (ATP) je součástí určitých předplatných, jako je Microsoft 365 E5, Office 365 E5, Office 365 a5 a Microsoft 365 Business Premium. Pokud vaše předplatné neobsahuje Office 365 ATP, můžete si koupit [plán ATP 1Or plán ATP 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) jako doplněk k určitému předplatnému. Nákup v centru pro správu Microsoft 365:
 
 1. Přejděte na **Billing**   >   [služby pro nákup](https://go.microsoft.com/fwlink/p/?linkid=868433)fakturace.
 2. Vyberte možnost Stránka **Doplňky**  z **jiných kategorií, které vás mohou zajímat.**

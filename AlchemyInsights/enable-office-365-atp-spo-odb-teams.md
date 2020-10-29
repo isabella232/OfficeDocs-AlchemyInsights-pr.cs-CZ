@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: c84458622ae86bcf0f9f541a3a209b4f0ff2fc3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bef43656097c6f27677172899df1ada7900a9b64
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709900"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801040"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>365 povolení rozšířené ochrany před internetovými útoky pro SharePoint Online, OneDrive a Microsoft Teams
+# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Povolení programu Microsoft Defender pro Office 365 pro SharePoint Online, OneDrive a Microsoft Teams
 
 1. Přejděte na https://protection.office.com .
-2. Zvolte **Threat management**  >  **Policy**  >  **zabezpečené přílohy**zásad správy hrozeb.
-3. Vyberte **zapnout ATP pro SharePoint, OneDrive a Microsoft Teams**a pak klikněte na **Uložit**.
-4. Doporuč Jako globální správce nebo správce SharePointu Online spusťte rutinu [set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) s parametrem **DisallowInfectedFileDownload** nastaveným na *hodnotu true*.
+2. Zvolte **Threat management**  >  **Policy**  >  **zabezpečené přílohy** zásad správy hrozeb.
+3. Vyberte **zapnout ATP pro SharePoint, OneDrive a Microsoft Teams** a pak klikněte na **Uložit** .
+4. Doporuč Jako globální správce nebo správce SharePointu Online spusťte rutinu [set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) s parametrem **DisallowInfectedFileDownload** nastaveným na *hodnotu true* .
 5. Doporuč [Nastavení upozornění](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) pro zjištěné soubory
 
 > [!NOTE]

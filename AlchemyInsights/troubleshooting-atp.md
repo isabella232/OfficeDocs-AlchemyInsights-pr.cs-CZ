@@ -1,5 +1,5 @@
 ---
-title: Řešení potíží s rozšířeným zabezpečením Office 365
+title: Řešení potíží s programem Microsoft Defender pro Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658907"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801436"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Řešení potíží s rozšířeným zabezpečením Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Řešení potíží s programem Microsoft Defender pro Office 365
 
 - Zaznamenáte zpoždění doručení zpráv? Použijte možnost [dynamického doručování](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) v zásadě bezpečné přílohy atp. Tím se zabrání zpoždění zpráv při ochraně příjemců před škodlivými soubory.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658907"
 
   1. Přejděte na stránku [https://protection.office.com](https://protection.office.com) a přihlaste se pomocí globálního správce nebo účtu správce zabezpečení.
 
-  2. V levém navigačním podokně v části **Správa hrozeb**zvolte **Policy** \> **bezpečné odkazy**zásad.
+  2. V levém navigačním podokně v části **Správa hrozeb** zvolte **Policy** \> **bezpečné odkazy** zásad.
 
-  3. V **zásadách, které platí pro celou organizaci** , vyberte zásadu a klikněte na **Upravit**.
+  3. V **zásadách, které platí pro celou organizaci** , vyberte zásadu a klikněte na **Upravit** .
 
-  4. V části **Nastavení**povolte **použití bezpečných odkazů na zprávy poslané v rámci organizace**.
+  4. V části **Nastavení** povolte **použití bezpečných odkazů na zprávy poslané v rámci organizace** .

@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759212"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801544"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulátor útoků na útoky v Microsoft 365
 
-- Postrádáte útok na útoky? Simulátor útoku vyžaduje **office 365 Rozšířený plán ochrany před hrozbami 2 (ATP (plán 2)** nebo **Office 365 Enterprise E5**. Simulátor útoků na útoky **není** součástí Office 365 Rozšířený plán ochrany před hrozbami 1 (ATP – plán 1), Office 365 Enterprise E3 nebo Microsoft 365 pro firmy.
+- Postrádáte útok na útoky? Simulátor útoku vyžaduje **Microsoft Defender pro Office 365 plán 2 (ATP – plán 2)** nebo **Office 365 Enterprise E5** . Simulátor útoků na útoky **není** zahrnutý v Microsoft Defenderu pro Office 365 plán 1 (ATP – plán 1), Office 365 Enterprise E3 nebo jakékoli aplikace Microsoft 365 pro firmy.
 
 - Účet, který používáte ke spuštění simulaci útoků, vyžaduje oprávnění globálního správce nebo správce zabezpečení a vícefaktorové ověřování (MFA). Další informace o požadavcích na simulátory útoku najdete v [tomto tématu](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759212"
 
 - Důležité informace o Spear připojení **útoků phishing** :
 
-  - Nemůžete poskytnout vlastní hodnotu **adresy URL přihlašovacího serveru phishing**.
+  - Nemůžete poskytnout vlastní hodnotu **adresy URL přihlašovacího serveru phishing** .
 
   - Pokud příjemce používá k nahlášení zprávy jako podvodnou [zprávu,](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) může se stát, že pro zprávu nebudete dostávat upozornění (protože jde o simulovaný útok).
 

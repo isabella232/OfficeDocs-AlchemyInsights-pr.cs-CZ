@@ -1,5 +1,5 @@
 ---
-title: Rozšířená ochrana před internetovými útoky v Office 365
+title: Microsoft Defender pro Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696614"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801220"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Rozšířená ochrana před internetovými útoky v Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pro Office 365
 
-- Bezpečné přílohy, bezpečné odkazy a útoky phishing jsou součástí Office 365 Advanced Threat Protection (ATP). Analytické organizace zahrnují ATP – E5, vzdělávací a5 a Microsoft 365 Business Premium. Všechny ostatní plány vyžadují předplatné ATP.
+- Bezpečné přílohy, bezpečné odkazy a ochrana proti podvodným zprávám jsou součástí Microsoft Defenderu pro Office 365 (ATP). Analytické organizace zahrnují ATP – E5, vzdělávací a5 a Microsoft 365 Business Premium. Všechny ostatní plány vyžadují předplatné ATP.
 
 - Abyste chránili vaše uživatele pomocí Office 365 ATP, musíte přiřadit příslušné licence. V [tomto tématu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) najdete pokyny, jak hromadně použít licence pro uživatele.
 
-- Globální správci nebo správci zabezpečení mohou získat přístup k funkcím ATP Office 365 v centru zabezpečení & Security na zásadách **Managmeent hrozeb** \> **Policy**.
+- Globální správci nebo správci zabezpečení mohou získat přístup k funkcím ATP Office 365 v centru zabezpečení & Security na zásadách **Managmeent hrozeb** \> **Policy** .
 
 - Bezpečným přílohám a zásadám bezpečných odkazů můžete zaoborovat celou organizaci, určité domény nebo menší skupiny uživatelů.
 
