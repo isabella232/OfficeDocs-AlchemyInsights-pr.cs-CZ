@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: 551517b99f8f725f7034efdc73e866e296dec8b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2480a50c5cb017dfee4adda45704bf980080c6b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678749"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949666"
 ---
 # <a name="domain-transfers"></a>Přenosy domény
 
 [Jak převést doménu zakoupenou od společnosti Microsoft na jiného poskytovatele po 60 dnech](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-I když domény zakoupené od Microsoftu nepodporují změny záznamů NS, zvažte [aktualizaci záznamů DNS pro váš web](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) místo toho, abyste převedli registraci svojí domény na webového hostitele.
+- Upozorňujeme, že doménu zakoupenou společností Microsoft nelze přenést mezi klienty Microsoft 365.
+- Ačkoli zakoupené domény společnosti Microsoft nepodporují změny záznamů NS, zvažte [aktualizaci záznamů DNS pro váš web](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) namísto převodu registrace domény na webový hostitel.
 
-Doménu zakoupenou od společnosti Microsoft nelze mezi tenanty Microsoftu 365 přenášet.
+Vlastní domény se dají [ověřit a používat v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
 
-Domény třetích stran ale můžete přenést mezi tenanty Microsoftu 365 tak, že [odeberete doménu z jednoho tenanta](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) a pak ověříte doménu v jiném tenantovi.
+- Registraci nebo účtování vlastních domén třetí strany nelze přenést do Microsoftu.
 
-Registrace nebo fakturace domén třetích stran nelze do Microsoftu přenést.
-
-Vlastní domény se dají  [ověřit a používat v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide). Výchozí domény Onmicrosoft.com nelze převést ani přejmenovat.
+Výchozí domény Onmicrosoft.com nelze převést ani přejmenovat.
