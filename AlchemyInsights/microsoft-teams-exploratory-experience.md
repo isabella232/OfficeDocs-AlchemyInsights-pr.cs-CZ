@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674931"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019540"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams – průzkumné zkušenosti
 
-Průzkumné prostředí Microsoft Teams umožňuje uživatelům ve vaší organizaci, kteří mají Azure Active Directory (AAD) a nejsou licencovánými pro teams, iniciovat průzkumné prostředí týmů. Správci můžou tuto funkci zapnout nebo vypnout pro uživatele v organizaci. (Dřívější zkušební verze předplatného Microsoft Commercial cloudu se teď nazývaly průzkumné prostředí týmů.)
-
-Průzkumné prostředí Microsoft Teams je k dispozici zdarma bez dalších nákladů, dokud nedojde k výročí nebo 2021 prodloužení platnosti dalších podnikových smluv. V tuto chvíli bude koncoví uživatelé s licencí na služby Microsoft průzkumné práce přesunuti na placené licence, která zahrnuje týmy.
-
-Další informace najdete v článku [o správě průzkumné licence Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Co jsou [týmy průzkumné](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Průzkumné prostředí Microsoft Teams umožňuje uživatelům ve vaší organizaci, kteří nejsou licencováním týmu, iniciovat průzkumné prostředí týmů. Další informace najdete [v tématu Co je součástí průzkumného prostředí týmů](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Kdy vyprší platnost mojí licence](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Průzkumné prostředí Microsoft Teams je k dispozici zdarma bez dalších poplatků, dokud nezačnete s ukončením další smlouvy nebo 2021 po ní.
+- Jako správce můžete [upgradovat uživatele ze služby Teams průzkumné](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) licence zakoupením předplatného, které zahrnuje týmy, odebráním předplatného týmu teams a přiřazením nově zakoupené licence.
+- Další informace najdete v tématu [Správa průzkumné licence Teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
