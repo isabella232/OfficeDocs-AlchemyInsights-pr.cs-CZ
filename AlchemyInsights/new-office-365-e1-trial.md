@@ -12,25 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dfde60184374c3031a645f1193ea164f246bed92
+ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769500"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49086077"
 ---
 # <a name="new-office-365-e1-trial"></a>Nová zkušební verze Office 365 E1
 
-V březnu 2020 je nyní k dispozici zdarma [30Denní zkušební verze Office 365 E1](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), včetně Microsoft Teams. Pokud chcete zjistit, co je k dispozici pro licenci E1, přečtěte si [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
-
-**Kdo je oprávněn?**
-
-Tato nabídka je určená pro zákazníky, kteří spravují správce účtu Microsoft. Je to pro organizace, které v minulosti neaktivovaly žádné další zkušební verze Office 365. Po použití kódu pro získání zkušební verze E1 už ho nemůžete použít ani nemůžete aktivovat další zkušební kód E1. V těchto případech můžete svým zaměstnancům aktivovat [licenci Teams](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
-
-**Kdo není oprávněn?**
-
-- Tato nabídka není pro zákazníky RSZ, RSZ, DoD. a EDU k dispozici. Pracujeme na verzi aplikace E1 z RSZ – bude brzy k dispozici.
-
- - Zákazníci EDU by měli používat bezplatnou licenci na Office 365 a1.
-
-Neposílejte všechny naše pokyny pro [podporu vzdálených pracovníků pomocí týmů](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Od 1. července 2020 už není dostupná zkušební licence k Office 365 E1. Pokud potřebujete uživatele licence pro Microsoft teams, přečtěte si [Popis služby Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description) pro seznam placených předplatných, které obsahují týmy. Případně mohou způsobilé organizace používat [bezplatné verze týmů](https://support.office.com/article/Welcome-to-Microsoft-Teams-free-6d79a648-6913-4696-9237-ed13de64ae3c)nebo můžou aktivovat [průzkumné prostředí týmů](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory) .
