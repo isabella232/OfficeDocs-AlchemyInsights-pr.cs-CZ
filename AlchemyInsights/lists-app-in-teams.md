@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947405"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477442"
 ---
 # <a name="lists-app-in-teams"></a>Seznam aplikací v Teams
 
@@ -27,10 +27,6 @@ Aplikace seznamy v Microsoft Teams nabízí seznamy pro týmové weby SharePoint
 Seznamy jsou předinstalované pro všechny uživatele týmů a jsou dostupné přímo v galerii karet všech týmů a kanálů.
 
 Správci týmů můžou řídit dostupnost aplikace pomocí zásad oprávnění Microsoft Teams. Další informace najdete v tématu [Správa zásad oprávnění aplikací v Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
-
-**Načasování:** Brzy na září a dokončení od října 2020  
-
-**Souhrn:** Úroveň organizace  
 
 **Typ ovládacího prvku:**  Řízení správy Teams  
 
