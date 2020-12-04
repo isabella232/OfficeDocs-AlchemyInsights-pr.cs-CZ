@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754332"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569160"
 ---
 # <a name="onedrive-puid-mismatch"></a>Neshoda v PUID OneDrivu
-Zobrazí se vám [neshoda PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) na OneDrivu pro firmy. Postupujte podle následujících kroků, abychom vám mohli pomoct co nejdříve:
 
-1. Klikněte na **kontaktovat podporu**a potom na **Nová žádost o službu**.
-2. Název a popis **na webu OneDrive nesouhlasí**.
+Zdá se, že máte [neshodné ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) na OneDrivu pro firmy. Postupujte podle následujících kroků, abychom vám mohli pomoct co nejdříve:
+
+1. Klikněte na  **kontaktovat podporu** a potom na  **Nová žádost o službu**.
+2. Ponechte název a popis jako  **ID uživatele webu OneDrivu**.
 3. Po odeslání lístku ho aktualizujte s následujícími informacemi:
     - Adresa URL webu OneDrive, který to ovlivňuje.
     - Hlavní uživatelské jméno (UPN) příslušného uživatele
-
-
-
