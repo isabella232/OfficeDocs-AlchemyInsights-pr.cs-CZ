@@ -1,9 +1,9 @@
 ---
 title: Úprava fakturačního profilu pro aplikace
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 12/02/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: c2059808987efd668f8bd8d31095907b8e318f76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711016"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571730"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Úprava fakturačního profilu pro aplikace
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Změna fakturačního profilu na aplikacích
+**Úprava profilů faktur**
 
-1. Přejděte na stránku **fakturace**  >  **[svých produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a zvolte kartu **aplikace** .
+1. Přejděte na stránku **fakturace fakturačních**  >  **[& plateb](https://go.microsoft.com/fwlink/p/?linkid=848039)** a klikněte na **profily fakturace**.
+
+2. V seznamu profilů faktur vyberte profil fakturace, který chcete upravit.
+
+**Změna fakturačního profilu na aplikacích**
+
+1. Přejděte na stránku **fakturace**  >  **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a klikněte na kartu **aplikace** .
 
 2. Najděte a vyberte aplikaci, kterou chcete spravovat.  
 
-3. Vedle **fakturačního profilu**vyberte **Upravit** a zvolte profil fakturace, který chcete přidružit k aplikaci.
-
-## <a name="edit-billing-profiles"></a>Úprava profilů faktur
-
-1. Přejděte na stránku **fakturace fakturačních**  >  **[& plateb](https://go.microsoft.com/fwlink/p/?linkid=848039)** a pak zvolte **profily faktur**.
-
-2. Zvolte profil fakturace ze seznamu, který chcete upravit.
+3. Vedle **fakturačního profilu** klikněte na **Upravit** a vyberte profil fakturace, který chcete přidružit k aplikaci.
