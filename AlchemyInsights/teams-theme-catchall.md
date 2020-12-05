@@ -1,5 +1,5 @@
 ---
-title: Začínáme s Microsoft Teams
+title: Nastavení Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750408"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576226"
 ---
-# <a name="new-to-microsoft-teams"></a>Začínáme s Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>Nastavení Microsoft Teams
 
-Přečtěte si téma  [Začínáme s aplikací Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Také se nezapomeňte podívat na školicí videa, balíčky a spoustu dalších informací pro správce IT Microsoft Teams.
+[Příručka pro nastavení aplikace Microsoft Teams](https://aka.ms/teamsguidance) poskytuje organizaci pokyny k nastavení pracovních prostorů týmu, které hostují konverzace v reálném čase prostřednictvím zpráv, hovorů a zvukových nebo obrazových schůzek pro týmovou i soukromou komunikaci. Pokyny k určení požadavků na síť organizace získáte pomocí nástroje Network Planner a Poradce pro týmy v centru pro správu týmů. Po dokončení vašeho nasazení obsahuje příručka užitečné zdroje informací pro práci s Teams.
 
-Pokud potřebujete pomoct s nasazením Teams pro podporu vzdálených zaměstnanců (WFH) kvůli pandemii COVID-19, přečtěte si prosím téma[podpora vzdálených pracovníků pomocí Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Taky můžete mít nárok na pomoc s nasazením z aplikace Microsoft 365 FastTrack Program – přejděte prosím na [Centrum FastTrack](https://www.microsoft.com/fasttrack) a podejte žádost.
-
-**Důležité:** Vzhledem k nedávnému zvýšení využití Teams může po přiřazení licence Teams uživatelům trvat až 24 hodin, než se plně zprovozní. Do té doby jim nebude možné přiřadit zásady Teams a pravděpodobně nebudou mít přístup k některým funkcím Teams, jako jsou volání a audiokonference.
+Další informace najdete v článku Začínáme [s Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
