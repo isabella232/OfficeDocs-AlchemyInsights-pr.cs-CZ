@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
-ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
+ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
+ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49569160"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49605702"
 ---
 # <a name="onedrive-puid-mismatch"></a>Neshoda v PUID OneDrivu
 
-Zdá se, že máte [neshodné ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) na OneDrivu pro firmy. Postupujte podle následujících kroků, abychom vám mohli pomoct co nejdříve:
+Zobrazí se vám [neshoda s ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) na OneDrivu pro firmy. Chcete-li nám umožnit, aby vám pomohl co nejdříve, postupujte takto:
 
 1. Klikněte na  **kontaktovat podporu** a potom na  **Nová žádost o službu**.
 2. Ponechte název a popis jako  **ID uživatele webu OneDrivu**.
