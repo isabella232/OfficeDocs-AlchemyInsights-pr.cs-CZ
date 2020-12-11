@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605702"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653253"
 ---
 # <a name="onedrive-puid-mismatch"></a>Neshoda v PUID OneDrivu
 
@@ -26,6 +26,6 @@ Zobrazí se vám [neshoda s ID](https://docs.microsoft.com/sharepoint/troublesho
 
 1. Klikněte na  **kontaktovat podporu** a potom na  **Nová žádost o službu**.
 2. Ponechte název a popis jako  **ID uživatele webu OneDrivu**.
-3. Po odeslání lístku ho aktualizujte s následujícími informacemi:
+3. Po odeslání lístku aktualizujte tyto informace:
     - Adresa URL webu OneDrive, který to ovlivňuje.
     - Hlavní uživatelské jméno (UPN) příslušného uživatele
