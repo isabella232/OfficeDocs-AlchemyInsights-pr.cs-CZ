@@ -1,5 +1,5 @@
 ---
-title: Změna uživatelského jména a e-mailové adresy
+title: Změna jména a e-mailové adresy
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756924"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683895"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Změna uživatelského jména a e-mailové adresy
+# <a name="change-a-name-and-email-address"></a>Změna jména a e-mailové adresy
 
 Změna uživatelského jména a e-mailové adresy v Microsoft 365 je snadná. Přejděte na stránku **Uživatelé** \> [aktivní](https://go.microsoft.com/fwlink/p/?linkid=834822) uživatelé a vyberte uživatele, který chcete upravit. Podrobné pokyny najdete také v tomto článku:
   

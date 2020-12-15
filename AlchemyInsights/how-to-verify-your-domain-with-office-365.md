@@ -13,12 +13,12 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
+ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815526"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683859"
 ---
 # <a name="how-to-verify-your-domain"></a>Jak ověřit doménu
 
