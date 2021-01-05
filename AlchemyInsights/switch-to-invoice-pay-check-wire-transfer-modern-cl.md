@@ -1,5 +1,5 @@
 ---
-title: Přepnout na platbu faktur (Kontrola/vedení transferu) – moderní CL
+title: Přepnout na platbu fakturou (Kontrola/vedení převodu)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706546"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755448"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Přepnout na platbu faktur (Kontrola/vedení transferu) – moderní CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Přepnout na platbu fakturou (Kontrola/vedení převodu)
+
+Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
 
 Pokud přepnete na platbu fakturou, znamená to, že budete účtovat do 30 dnů od data faktury. Chcete-li získat nárok zaplatit za vaše předplatné Azure pomocí faktury, odešlete žádost o podporu Azure. Po schválení žádosti můžete na portálu Azure změnit předplatné na fakturovatelné platby.
 

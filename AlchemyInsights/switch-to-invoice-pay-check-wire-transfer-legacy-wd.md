@@ -1,5 +1,5 @@
 ---
-title: Přepnout na platbu faktur (šek nebo převod) – Neuhrazená 8proudá
+title: Přechod na platbu fakturou (šek/převod)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726100"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755396"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Přepnout na platbu faktur (šek nebo převod) – Neuhrazená 8proudá
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Přechod na platbu fakturou (šek/převod)
+
+Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
 
 Pokud přepnete na platbu fakturou, znamená to, že budete účtovat do 30 dnů od data faktury. Chcete-li získat nárok zaplatit za vaše předplatné Azure pomocí faktury, odešlete žádost o podporu Azure. Po schválení žádosti můžete na [portálu Azure](https://portal.azure.com/)změnit předplatné na fakturovatelné platby.
 

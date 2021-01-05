@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: 84c9d89161111a5a1cf9aea92f49c754ad6b7f73
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598635"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755576"
 ---
 # <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Správa předplatného – požadavky na zabezpečení a dodržování předpisů – akreditace dodržování předpisů Azure
+
+Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
 
 - **Zásada**: u všech dotazů týkajících se dokumentů Microsoft dodržování předpisů se podívejte na článek [dodržování předpisů v centru zabezpečení Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 

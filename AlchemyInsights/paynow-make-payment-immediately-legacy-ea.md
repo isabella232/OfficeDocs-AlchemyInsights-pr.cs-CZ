@@ -1,5 +1,5 @@
 ---
-title: PayNow/uskutečnit platbu okamžitě – starší verze EA
+title: PayNow/uskutečnit platbu okamžitě
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49692035"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755684"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>PayNow/uskutečnit platbu okamžitě – starší verze EA
+# <a name="paynowmake-payment-immediately"></a>PayNow/uskutečnit platbu okamžitě
+
+Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
 
 U předplatného Azure Enterprise Agreement se nepodporuje metoda Add/Update/Change pro platby. Pokud chcete změnit adresu na existující faktuře, obraťte se na zástupce Microsoftu.
 

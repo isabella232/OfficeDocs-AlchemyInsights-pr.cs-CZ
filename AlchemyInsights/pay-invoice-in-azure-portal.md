@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714702"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755612"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Platební faktura v Azure Portal – doporučené kroky
+
+Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
 
 K placení faktur na Azure Portal musíte být správcem fakturačního účtu. Správce fakturačního účtu je uživatel, který původně zaregistroval účet pro smlouvy o zákaznících Microsoftu. 
 
 Platbu vaší faktury na portálu Azure: 
 
 1. Přihlaste se k [portálu Azure](https://portal.azure.com/).
-1. Vyhledávání ve **správě nákladů + fakturace**
+1. Hledat na **Správa ceny + fakturace**.
 1. V levém podokně v části **fakturace** klikněte na **faktury**.
 1. Pokud jsou některé faktury splatné nebo splatné, zobrazí se pro **ni odkaz modrý** . Klikněte na **zaplatit**.
 1. V novém okně klikněte na **Vybrat způsob platby** a zvolte si existující platební kartu nebo přidejte novou.
