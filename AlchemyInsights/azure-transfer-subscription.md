@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736871"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755540"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Převod vlastnictví fakturace Azure
 
 Přihlaste se na [portál Microsoft Azure](https://portal.azure.com/) jako správce fakturačního účtu s předplatným, které chcete převést. Pokud si nejste jisti, jestli jste správce, nebo potřebujete zjistit, kdo jím je, přečtěte si článek [Určování správce fakturace účtu](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Hledat na _Správa ceny + fakturace_.
+1. Hledat _Řízení nákladů + fakturace_.
 1. Vyberte **Předplatné** v levém podoknu. V závislosti na přístupu možná budete muset vybrat rozsah fakturace a poté **Předplatné** nebo **Předplatné Azure**.
 1. Vyberte **Přenos vlastnictví fakturace** pro předplatné, které chcete převést.
 1. Zadejte e-mailovou adresu uživatele, který je správcem fakturace účtu. Ten bude novým vlastníkem předplatného. Poté vyberte možnost **odeslat požadavek na převod**.
