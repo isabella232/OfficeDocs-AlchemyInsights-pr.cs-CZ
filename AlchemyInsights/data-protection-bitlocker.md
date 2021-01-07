@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768810"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778186"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Povolení šifrování nástrojem BitLocker s Intune
 
- K nastavení šifrování nástroje BitLocker pro zařízení s Windows můžete použít zásady Endpoint Protection v Intune. Další informace najdete v článku [nastavení Windows 10 (a novější), které chrání zařízení pomocí Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+K nastavení šifrování nástroje BitLocker pro zařízení s Windows můžete použít zásady Endpoint Protection v Intune. Další informace najdete v článku [nastavení Windows 10 (a novější), které chrání zařízení pomocí Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Kromě zásad ochrany koncových bodů existuje také zpráva o šifrování, která poskytuje podrobnější zobrazení stavu šifrování pro zařízení. Tato sestava je přístupná z portálu MEM v části **zařízení > monitor** a pak v části **Konfigurace** výběr [šifrování](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Pokud zjistíte, že se nástroj BitLocker neaktivuje podle očekávání, nebo že je profil použitý k povolení nástroje BitLocker v chybovém stavu, podívejte se na sestavu šifrování a získejte lepší informace o tom, proč se chování objevuje.
+
+Informace o tom, jak sestavu interpretovat, včetně různých hodnot stavu šifrování, najdete v tématu [sledování šifrování zařízení s Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Uvědomte si, že mnoho novějších zařízení s Windows 10 podporuje automatické šifrování nástrojem BitLocker, které se spouští bez zásad MDM. To může ovlivnit použití zásad v případě, že nejsou nastavené výchozí nastavení. Další podrobnosti najdete v následujících nejčastějších dotazech.
- 
+
 Informace o řešení problémů s nástrojem BitLocker najdete v článku [odstraňování potíží se zásadami nástrojem BitLocker v Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
