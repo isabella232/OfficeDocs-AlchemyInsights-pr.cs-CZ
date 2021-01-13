@@ -13,16 +13,18 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801069"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847593"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrola nastavení předávání e-mailů pro poštovní schránku
 
-Můžete snadno ověřit nastavení předávání e-mailů v poštovní schránce Microsoft 365. Stačí postupovat podle těchto kroků.
+Za prvé je nutné povolit přeposílání e-mailů na úrovni tenanta. Pokud jste v poštovní schránce nastavili předávání e-mailem, ale nefunguje to, přečtěte si téma [řízení automatického přeposílání externích e-mailů v Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+Můžete snadno ověřit nastavení předávání e-mailů v poštovní schránce! Stačí postupovat podle těchto kroků.
   
 > Pokud se jedná o poštovní schránku uživatelů, **přejděte na** \> **aktivní** uživatele a vyberte uživatele, jehož poštovní schránku přenášíte. Na kartě **Pošta** vyberte **Spravovat přeposlání e-mailu**.
 
