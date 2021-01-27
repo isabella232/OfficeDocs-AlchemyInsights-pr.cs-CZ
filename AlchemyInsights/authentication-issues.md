@@ -13,89 +13,89 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 53bd0d8f8edaead519d0282239d3a6d338b297b9
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974233"
+ms.locfileid: "49976842"
 ---
 # <a name="authentication-issues"></a>Problémy s ověřováním
 
-**Hledáte informace o kódech chyb AADSTS, které jsou vraceny ze služby tokenů zabezpečení Azure Active Directory (STS)?** Pokud chcete najít AADSTS Popis chyb, opravy a některá navrhovaná řešení, podívejte se na [kódy chyb ověřování a autorizace Azure AD](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) .
+**Hledáte informace o kódech chyb AADSTS vrácených ze služby tokenů zabezpečení Azure Active Directory (Azure AD)?** V tématu [Kódy chyb ověřování Azure AD a autorizace](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) najdete popisy chyb AADSTS, opravy a některá navrhovaná řešení.
 
-Chyby autorizace můžou být výsledkem několika různých problémů, z nichž většinu generuje chybu 401 nebo 403. Všechny následující problémy mohou vést k chybám autorizace:
+Chyby autorizace mohou být výsledkem několika různých problémů, z nichž většina vygeneruje chybu 401 nebo 403. K chybám autorizace mohou vést například následující problémy:
 
-- Nesprávné [toky získání přístupových tokenů](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
-- Špatně nakonfigurované [obory oprávnění](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
-- Nedostatek [souhlasu](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
+- Nesprávné [toky akvizice přístupového tokenu](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
+- Špatně nakonfigurované [rozsahy oprávnění](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- Chybějící [souhlas](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
 
-Pokud chcete vyřešit běžné chyby autorizace, vyzkoušejte následující kroky, které se nejvíce shodují s chybou, kterou jste dostali. Pro chybu, kterou přijímáte, se může vztahovat více kroků.
+Pokud chcete vyřešit běžné chyby autorizace, vyzkoušejte níže uvedené kroky, které co nejvíce odpovídají zobrazené chybě. Chybě, která s vám zobrazuje, může odpovídat více než jeden krok.
 
-- **401 neoprávněná Chyba: je váš token platný?**
+**401 Unauthorized error: Is your token valid?** (401 Chyba autorizace: Máte platný token?)
 
-Ujistěte se, že aplikace prezentuje jako součást žádosti platný přístupový token do Microsoft graphu. Tato chyba často znamená, že přístupový token možná v záhlaví žádosti HTTP Authenticate chybí nebo že je neplatný nebo vypršela jeho platnost. Důrazně doporučujeme, abyste pro získání accessového tokenu použili knihovnu Microsoft Authentication Library (MSAL). K této chybě může navíc dojít, pokud se pokusíte použít delegovaný přístupový token udělený osobnímu účtu Microsoft pro přístup k rozhraní API, které podporuje jenom pracovní nebo školní účty (organizační účty).
+Ujistěte se, že aplikace v rámci žádosti předkládá Microsoft Graphu platný přístupový token. Tato chyba často znamená, že v záhlaví žádosti o ověření protokolu HTTP chybí přístupový token, že je token neplatný nebo že vypršela jeho platnost. Důrazně doporučujeme používat pro získání přístupových tokenů knihovnu Microsoft Authentication Library (MSAL). K této chybě může navíc dojít, když se pokusíte použít delegovaný přístupový token udělený osobnímu účtu Microsoft pro přístup k rozhraní API, které podporuje jenom pracovní nebo školní účty (účty organizace).
 
-**403, chyba: zvolili jste správnou sadu oprávnění?**
+**403 Forbidden error: Have you chosen the right set of permissions?** (chyba 403 Zakázáno: Vybrali jste správnou sadu oprávnění?)
 
-Ujistěte se, že jste požadovali správnou sadu oprávnění založenou na rozhraních API Microsoft graphu pro hovory. Doporučená oprávnění s nejnižším oprávněním jsou k dispozici ve všech tématech referenční metody rozhraní Microsoft Graph API. Kromě toho musí být tato oprávnění přidělena uživateli nebo správcem. K udělení oprávnění obvykle dochází prostřednictvím stránky souhlasu nebo pomocí registračního panelu aplikace Azure Portal. V okně **Nastavení** aplikace klikněte na **požadovaná oprávnění** a potom na **udělit oprávnění**. Další informace najdete tady:
+Ujistěte se, že jste poslali požadavek na správnou sadu oprávnění podle rozhraní API Microsoft Graph, které vaše aplikace volá. Doporučená nejméně privilegovaná oprávnění jsou k dispozici ve všech tématech o referenčních metodách rozhraní API Microsoft Graphu. Tato oprávnění musí navíc aplikaci udělit uživatel nebo správce. Oprávnění se obvykle uděluje na stránce souhlasu nebo použitím okna registrace aplikace na portálu Azure Portal. V okně **Nastavení** aplikace klikněte na **Povinná oprávnění** a potom na **Udělit oprávnění**. Další informace najdete tady:
 
-- [Oprávnění pro Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 
-- [Principy oprávnění a souhlasu služby Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
+- [Oprávnění Microsoft Graphu](https://docs.microsoft.com/graph/permissions-reference) 
+- [Principy oprávnění a souhlasu v Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
 
-**403 zakázaná Chyba: aplikace získala token pro přiřazení zvolených oprávnění?**
+**403 Forbidden error: Did your app acquire a token to match chosen permissions?** (chyba 403 Zakázáno: Získala vaše aplikace token odpovídající vybraným oprávněním?)
 
-Zajistěte, aby typy požadovaných oprávnění odpovídaly typu přístupového tokenu, který aplikace získává. Je možné, že budete požádáni o oprávnění aplikací a místo tokenů toku přihlašovacích údajů klienta, ale s použitím tokenů toku přihlašovacích údajů klienta namísto delegovaných tokenů toku kódu.
+Ujistěte se, že se požadované nebo udělené typy oprávnění shodují s typem přístupového tokenu, který aplikace získá. Možná při podávání žádostí a udělování oprávnění aplikacím používáte tokeny pro delegované interaktivní toky kódu místo tokenů pro tok přihlašovacích údajů klienta, nebo při podávání žádostí a udělování delegovaných oprávnění používáte tokeny pro tok přihlašovacích údajů klienta místo tokenů pro delegované interaktivní toky kódu.
 
-Další informace o získání tokenů najdete v tématech:
+Další informace o získávání tokenů najdete v těchto tématech:
 
-- [Získání přístupu pro uživatele a delegovaná oprávnění](https://docs.microsoft.com/graph/auth-v2-user) 
-- [Azure AD v 2.0 – tok autorizačního kódu OAuth 2,0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Získání přístupu bez uživatele (služby démon) a oprávnění aplikace](https://docs.microsoft.com/graph/auth-v2-service) 
-- [Azure AD v 2.0 – tok přihlašovacích údajů klienta OAuth 2,0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
+- [Získání přístupu jménem uživatelů a delegovaná oprávnění](https://docs.microsoft.com/graph/auth-v2-user) 
+- [Azure AD v2.0 – tok autorizačního kódu OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Získání přístupu bez oprávnění pro uživatele (služba proces démona) a aplikace](https://docs.microsoft.com/graph/auth-v2-service) 
+- [Azure AD v2.0 – tok přihlašovacích údajů klienta OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
 
-**403, chyba: resetování hesla**
+**403 Forbidden error: Resetting password** (chyba 403 Zakázáno: Resetování hesla)
 
-Aktuálně nejsou k dispozici žádná oprávnění služby typu démon oprávnění aplikace, která povolují Resetování uživatelských hesel. Tato rozhraní API jsou podporovaná jenom pomocí interaktivního toku kódu delegovaného pomocí přihlášeného správce. Další informace najdete v tématu [oprávnění aplikace Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference).
+V současné době neexistují žádná oprávnění typu služba-služba pro oprávnění aplikací procesu démona, která by umožnila resetování uživatelských hesel. Tato rozhraní API jsou podporovaná jenom přes delegované interaktivní toky kódu s přihlášeným správcem. Další informace najdete v tématu [Oprávnění Microsoft Graphu](https://docs.microsoft.com/graph/permissions-reference).
 
-**403 zakázáno: uživatel má přístup a mají licenci?**
+**403 Forbidden: Does the user have access and are they licensed?** (403 Zakázáno: Má uživatel přístup a licenci?)
 
-V případě toků delegovaných kódů Microsoft Graph vyhodnocuje, jestli je žádost povolená na základě oprávnění udělených aplikaci a oprávnění, která má přihlášený uživatel. Tato chyba obecně znamená, že uživatel nemá dostatečná oprávnění k provádění žádosti **nebo** jestli uživatel nemá licenci na data, ke kterým přistupuje. Žádost se můžou úspěšně uskutečnit jenom uživatelé s požadovanými oprávněními nebo licencemi.
+U delegovaných toků kódu vyhodnotí Microsoft Graph informaci, jestli je žádost povolená, na základě oprávnění udělených aplikaci a oprávnění, která má přihlášený uživatel. Tato chyba obecně znamená, že uživatel nemá dostatečná oprávnění k provedení žádosti **nebo** nemá licenci pro přístup k požadovaným datům. Žádost můžou úspěšně provést jenom uživatelé s požadovanými oprávněními nebo licencemi.
 
-**403 zakázáno: vybrali jste správné rozhraní API prostředku?**
+**403 Forbidden: Did you select the correct resource API?** (403 Zakázáno: Vybrali jste správné rozhraní API prostředku?)
 
-Služby API, jako je Microsoft Graph: Zkontrolujte, že *AUD* deklarace (cílová skupina) v přijatém přístupovém tokenu odpovídá hodnotě, kterou očekává, a pokud ne, dojde k chybě v 403. Běžná chyba, která je výsledkem této chyby, se pokouší použít token získaný pro rozhraní API Azure AD, rozhraní API aplikace Outlook nebo rozhraní API SharePointu nebo OneDrivu pro volání do Microsoft graphu (nebo naopak). Ujistěte se, že prostředek (nebo obor) aplikace získává token pro odpovídající rozhraní API, na které aplikace volá.
+Služby API, jako je Microsoft Graph, kontrolují, jestli nárok *aud* (cílová skupina) v přijatém přístupového tokenu odpovídá hodnotě, kterou pro sebe očekává, a pokud ne, dojde k chybě 403 Zakázáno. Běžný omyl, který vede k této chybě, je použití tokenu získaného pro rozhraní API Azure AD Graphu, rozhraní API Outlooku nebo rozhraní API SharePointu/OneDrivu k volání Microsoft Graphu (nebo naopak). Ujistěte se, že prostředek (nebo obor), pro který vaše aplikace získává token, odpovídá rozhraní API, které aplikace volá.
 
-**400 nesprávný požadavek nebo 403 zakázáno: uživatel dodržuje zásady pro podmíněné přístup k organizaci (CÚ)?**
+**400 Bad Request / 403 Forbidden: Does the user comply with their organization's conditional access (CA) policies?** (400 Nesprávná žádost / 403 Zakázáno: Splňuje uživatel zásady podmíněného přístupu organizace (CA)?)
 
-Na základě zásad podmíněného přístupu pro organizace (CÚ) se může stát, že uživatel, který přistupuje k prostředkům Microsoft graphu prostřednictvím aplikace, bude požádán o další informace, které se nenacházejí v přístupovém tokenu, který jste původně získali. V tomto případě vám aplikace obdrží **400 s chybou *interaction_required*** během získávání accessového tokenu nebo **403 s chybou *insufficient_claims*** při volání do Microsoft graphu. V obou případech odpověď na chybu obsahuje další informace, které mohou být prezentovány koncovému bodu k tomu, aby mohl uživatele dát k dispozici další informace (například vícefaktorové ověřování nebo zápis zařízení).
+Na základě zásad podmíněného přístupu organizace (CA) můžou být od uživatele přistupujícího k prostředkům Microsoft Graphu prostřednictvím vaší aplikace vyžadovány další informace, které nejsou v přístupovém tokenu původně získaném vaší aplikací. V takovém případě se při akvizici přístupového tokenu zobrazí chyba **400 se zprávou *interaction_required*** nebo se při volání Microsoft Graphu zobrazí chyba **403 se zprávou *insufficient_claims***. V obou případech obsahuje odpověď na chybu další informace, které je možné předložit autorizovanému koncovému bodu a vyzvat tak uživatele k zadání dalších informací (například pomocí vícefaktorového ověřování nebo registrace zařízení).
 
 Další informace o podmíněném přístupu najdete v těchto tématech:
 
-- [Zpracování výzev k podmíněnému přístupu pomocí MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
-- [Návod pro vývojáře pro podmíněný přístup k Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
+- [Řešení problémů s podmíněným přístupem pomocí MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
+- [Pokyny pro vývojáře k podmíněnému přístupu k Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Konec podpory knihovny služby Azure Active Directory (ADAL) a rozhraní API služby Azure AD Graph (graf AAD)_* _
+**_Konec podpory pro knihovnu Azure Active Directory Authentication Library (ADAL) a rozhraní API Azure AD Graph (AAD Graph)_* _
 
-- Po zahájení června 2020 nepřidáme do knihovny Azure Active Directory Authentication Library (ADAL) a rozhraní API Azure AD graphu žádné nové funkce. Budeme dál poskytovat technické podpory a aktualizace zabezpečení, ale nebudete už poskytovat aktualizace funkcí.
-- Od června 2022, my vám ukončí podporu pro graf ADAL a AAD a nebude už poskytovat technickou podporu ani aktualizace zabezpečení.
-    - Aplikace používající ADAL v existujících verzích OS budou po této době dál fungovat, ale nezískají žádné technické podpory ani aktualizace zabezpečení.
-    - Aplikace používající v grafu AAD po této době nemusí dostávat odpovědi z koncového bodu grafu AAD.
+- Od 30. června 2020 už nebudeme do knihovny Azure Active Directory Authentication Library (ADAL) a rozhraní API Azure AD Graph (AAD Graph) přidávat žádné nové funkce. Budeme dál poskytovat technickou podporu a aktualizace zabezpečení, ale už nebudeme poskytovat aktualizace funkcí.
+- Od 30. června 2022 ukončíme podporu pro ADAL a AAD Graph a nebudeme už poskytovat technickou podporu ani aktualizace zabezpečení.
+    - Aplikace, které používají ADAL ve stávajících verzích operačního systému, budou i po tomto datu fungovat, ale nebudou mít technickou podporu ani aktualizace zabezpečení.
+    - Aplikace používající AAD Graph už po tomto datu nebudou přijímat odpovědi z koncového bodu AAD Graphu.
 
-_ *Migrace**
+_ *Migrace ADAL**
 
-Doporučujeme aktualizovat [knihovnu Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), která obsahuje nejnovější funkce a aktualizace zabezpečení. Toto doporučení je v kontextu Microsoft, který migruje své aplikace tak, aby MSAL od konečného termínu podpory. Cílem migrace aplikací Microsoftu na MSAL je zajistit, aby aplikace využily výhod vylepšeného zabezpečení a funkcí MSAL.
+Doporučujeme aktualizovat na knihovnu [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), která obsahuje nejnovější funkce a aktualizace zabezpečení. Toto doporučení je platné v kontextu migrace aplikací Microsoftu do knihovny MSAL v rámci konečného termínu ukončení podpory. Cílem migrace aplikací Microsoftu do knihovny MSAL je zajištění výhod průběžných vylepšení zabezpečení a funkcí v knihovně MSAL.
 
-- [Přečtěte si část časté otázky](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- [Informace o migraci aplikací na základě jednotlivých platforem](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- Pokud potřebujete pomoct s porozuměním, které z vašich aplikací používá ADAL, doporučujeme, abyste si provedli kontrolu všech nezávislých dodavatelů softwaru (ISV) nebo poskytovatelů aplikací, a pokud se to týká. Podpora Microsoftu vám taky poskytne seznam všech aplikací ADAL, které nejsou od Microsoftu, ve vašem tenantovi.
+- [Přečtěte si časté otázky k ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- [Informace o tom, jak migrovat aplikace na základě platformy](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- Pokud potřebujete pomoct zjistit, které z vašich aplikací používají ADAL, doporučujeme zkontrolovat zdrojový kód všech vašich aplikací, a pokud to bude možné, kontaktovat nezávislé dodavatele softwaru (ISV) nebo poskytovatele aplikací. Seznam všech aplikací na vašem tenantovi, které nejsou od Microsoftu a používají ADAL, vám může poskytnout podpora Microsoftu.
 
-**Migrace grafu AAD**
+**Migrace AAD Graphu**
 
-U aplikací, které používají graf AAD, postupujte podle pokynů pro [migraci aplikací Graph AD služby graf v Azure do Microsoft graphu](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
+U aplikací, které používají AAD Graph, postupujte podle pokynů k [migraci aplikací Azure AD Graph do Microsoft Graphu](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
 
-- [Naše kontrolní seznam migrace představuje bod Začínáme](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-- Portál registrace aplikací pro Azure zobrazuje, které aplikace používají graf AAD. Doporučujeme, abyste zkontrolovali všechny zdrojové kódy aplikací a pokud jsou k dispozici, a pokud je to možné, kontaktujte všechny poskytovatele ISV nebo aplikace. Podpora Microsoftu vám taky poskytne informace o všech použitích grafu AAD ve vašem tenantovi.
+- [Základní informace najdete v našem kontrolním seznamu migrace](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+- Aplikace používající AAD Graph najdete na registračním portálu aplikace Azure. Doporučujeme, abyste zkontrolovali zdrojový kód všech svých aplikací, a pokud to bude možné, kontaktovali všechny nezávislé dodavatele softwaru nebo poskytovatele aplikací. Informace o veškerém využití AAD Graphu na vašem tenantovi vám může poskytnout taky podpora Microsoftu.
 
  
 
