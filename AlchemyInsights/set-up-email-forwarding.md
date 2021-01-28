@@ -1,5 +1,5 @@
 ---
-title: Nastavení přeposlání e-mailu
+title: Nastavení přeposílání e-mailů
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,25 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
+ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49847593"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50037178"
 ---
-# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrola nastavení předávání e-mailů pro poštovní schránku
+# <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Kontrola nastavení přeposílání e-mailů u poštovní schránky
 
-Za prvé je nutné povolit přeposílání e-mailů na úrovni tenanta. Pokud jste v poštovní schránce nastavili předávání e-mailem, ale nefunguje to, přečtěte si téma [řízení automatického přeposílání externích e-mailů v Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+Nejdřív je třeba povolit přeposílání e-mailů na úrovni tenanta. Pokud jste u poštovní schránky nastavili přeposílání e-mailů, ale nefunguje (zobrazí se chyba **"550 5.7.520 Access odepřen,** organizace neumožňuje externí přeposílání" ) přečtěte si prosím článek o řízení automatického přeposílání externích e-mailů v [Microsoftu 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
 
-Můžete snadno ověřit nastavení předávání e-mailů v poštovní schránce! Stačí postupovat podle těchto kroků.
+U poštovní schránky můžete snadno ověřit nastavení přeposílání e-mailů. Stačí provést tento postup.
   
-> Pokud se jedná o poštovní schránku uživatelů, **přejděte na** \> **aktivní** uživatele a vyberte uživatele, jehož poštovní schránku přenášíte. Na kartě **Pošta** vyberte **Spravovat přeposlání e-mailu**.
+> Pokud se jedná o poštovní schránku uživatele, přejděte na **uživatelé,** kteří jsou aktivní, a vyberte uživatele, jehož poštovní schránku \>  přeposíláte. Na kartě **Pošta** vyberte Spravovat **přeposílání e-mailů.**
 
-> Pokud se jedná o sdílenou poštovní schránku, přejděte do **skupiny** \> **sdílené poštovní schránky** a vyberte sdílenou poštovní schránku, kterou předáváte dál. Vyberte **Upravit** pro předávání e-mailů.
+> Pokud se jedná o sdílenou poštovní schránku, přejděte **do** sdílené poštovní schránky skupin a vyberte sdílenou poštovní schránku, kterou přeposíláte. \>  Vyberte **Upravit pro** přeposílání e-mailů.
 
-Další informace najdete v článku [konfigurace předávání e-mailů v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Další informace najdete v tématu [Konfigurace přeposílání e-mailů v Microsoftu 365.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
   
-Pokud chcete uživatelům poslat pokyny, aby mohli nastavit přeposlání e-mailů na vlastní poštovní schránky, nasměrujte je na [přesměrování e-mailu z Microsoft 365 na jiný e-mailový účet](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Upozorňujeme, že se dá přeposlat jenom na jednu e-mailovou adresu. Pokud potřebujete nastavit přesměrování pro skupinu lidí, vytvořte distribuční seznam (v části **skupiny**), přidejte do něj uživatele a pak nakonfigurujte přesměrování na tuto skupinu.
+Pokud chcete uživatelům poslat pokyny, aby si mohli nastavit přeposílání e-mailů ve svých poštovních schránkách, najezte je na Přeposílání e-mailů z [Microsoftu 365 na jiný e-mailový účet.](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e) Upozorňujeme, že zprávu můžete přeposílání přeposílání jenom na jednu e-mailovou adresu. Pokud potřebujete nastavit přeposílání na skupinu lidí, vytvořte distribuční seznam (v části **Skupiny),** přidejte do něj uživatele a nakonfigurujte přeposílání na skupinu.
   
-Opouštíte zaměstnance? Doporučené kroky najdete v článku [Odebrání bývalého zaměstnance z Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) .
+Odchází od vás zaměstnanec? Doporučené kroky najdete v tématu Odebrání bývalého zaměstnance z [Microsoftu 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)
