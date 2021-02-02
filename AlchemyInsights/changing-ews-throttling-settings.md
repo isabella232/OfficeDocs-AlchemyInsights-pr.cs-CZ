@@ -13,15 +13,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 9accb3cb9d5d6e2eeed6e76452f3f1cff4f563f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f0bea884153dc1ed8699ce12e0d017d18f5e57c
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714132"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075890"
 ---
 # <a name="changing-ews-throttling-settings"></a>Změna nastavení omezení EWS
 
-Spusťte automatizovaný test, který vám umožní změnit zásadu omezení služby EWS na dobu trvání migrace.
+Spusťte prosím náš automatizovaný test, který vám umožní upravit zásady omezení EWS po dobu trvání migrace. Upozorňujeme, že i po tomto spuštění budou importy EWS stále omezeny na 150 MB za 5 minut na poštovní schránku. Pokud chcete dosáhnout vyšší propustnosti migrace, migrujte prosím více uživatelů současně.
 
-Změny zásad omezení aktualizací EWS nemají vliv na následující typy migrace (pomocí nástrojů Microsoftu): hybridní, přímé/Stage (RPC/HTTP), IMAP, G Suite, veřejná složka nebo import PST.
+Nezapomeňte prosím, že změny zásad omezení EWS nemají žádný vliv na následující typy migrace (pomocí nástrojů Microsoftu): hybridní, přímou nebo fází (RPC/HTTP), IMAP, sadu G Suite, veřejnou složku nebo službu importu PST.
