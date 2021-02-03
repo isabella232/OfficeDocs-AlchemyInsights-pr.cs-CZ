@@ -1,5 +1,5 @@
 ---
-title: Aktivace Office pomocí licencování na základě zařízení
+title: Aktivace Office pomocí licencování založeného na zařízení
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
+ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697874"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50094030"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Aktivace Office pomocí licencování na základě zařízení
+# <a name="activating-office-using-device-based-licensing"></a>Aktivace Office pomocí licencování založeného na zařízení
+
+Licencování založené na zařízení pro Microsoft 365 Apps pro podniky je k dispozici jako licence jen některým komerčním zákazníkům a některým zákazníkům z oblasti vzdělávání. Podrobné informace najdete v článku: Licencování založené na zařízení [pro Microsoft 365 Apps pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing)
+
+Pokud chcete aktivovat Microsoft 365 Apps pro podniky pomocí licencování založeného na zařízení, podívejte se na článek:
+
+- [Požadavky pro používání licencování založeného na zařízení pro Microsoft 365 Apps pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Postup konfigurace licencování založeného na zařízení pro Microsoft 365 Apps pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+
+Pokyny k řešení potíží najdete v článku Řešení potíží s licencování pro [Microsoft 365 Apps pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> [Aktivace zařízení](https://aka.ms/officedba) Office pro zákazníky v USA je nyní zastaralá. Doporučujeme, aby organizace napravily na nové aplikace Microsoft 365 pro vzdělávací organizace (zařízení) pro vzdělávací zákazníky.
-
-Pokud chcete aktivovat Office pomocí správy licencí založených na zařízení, musíte mít licenci doplňku Microsoft 365 pro vzdělávací organizace (zařízení), která je dostupná jenom pro vzdělávací zákazníky, a je dostupná jenom prostřednictvím zápisu pro vzdělávací řešení (EES). Podívejte se [na článek požadavky na používání licencování na základě zařízení pro aplikace Microsoft 365 pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
-
-
-Podrobné informace o nastavení najdete v těchto tématech:
-
-- [Postup konfigurace licencování na základě zařízení pro aplikace Microsoft 365 pro podnik](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Správa licencí pro zařízení](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
-
-Pokyny k řešení potíží najdete v článku [Poradce při potížích s licencováním na zařízení pro aplikace Microsoft 365 pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+> Pokud už jsou aplikace Microsoft 365 Apps nainstalované a aktivované pomocí licencování předplatného uživatelského předplatného nebo aktivace sdíleného počítače, budete muset obnovit stav licence na zařízení, než přechází na licencování založené na zařízení. Pokud chcete obnovit stav aktivace, podívejte se na článek Obnovení stavu aktivace [Microsoft 365 Apps pro podniky](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
