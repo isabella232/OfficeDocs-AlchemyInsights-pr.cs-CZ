@@ -1,31 +1,29 @@
 ---
 title: Změna způsobu platby
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681744"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152587"
 ---
 # <a name="change-payment-method-fromto"></a>Změna způsobu platby (oba směry)
 
 1. **Změna z platby fakturou na platbu platební kartou nebo převodem z účtu**
 
-    - Pokud změníte způsob platby z platby fakturou na platbu platební kartou nebo převodem z účtu, automaticky vám vytvoříme nové předplatné, přesuneme na něj vaše uživatele a staré předplatné zrušíme. Nedělejte si starosti, vaši uživatelé nepocítí žádné přerušení služby a všechny jejich informace budou dostupné v novém předplatném. 
-
-    - Postupujte podle kroků uvedených v článku [Změna z platby fakturou na platbu platební kartou nebo převodem z účtu](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - Není možné automaticky změnit způsob platby z platby fakturou na platbu jiným způsobem platby. Místo toho musíte koupit jiné předplatné zaplacené platební nebo debetní kartou nebo bankovním [účtem,](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)přesunout na nové předplatné všechny uživatele [a](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) pak zrušit staré [předplatné.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
 2. **Změna z platby platební kartou nebo převodem z účtu na platbu fakturou**
 
@@ -33,6 +31,6 @@ ms.locfileid: "47681744"
 
     - Když je objednávka příliš vysoká, může se požadovat ověření kredibility. Pokud ano, zobrazí se zpráva „Nemáte nárok změnit platbu na fakturu, šek ani bezhotovostní převod. Vaše objednávka vyžaduje platební kartu.“ V takovém případě můžete zaplatit fakturou ručně.
 
-    - Postupujte podle kroků uvedených v článku [Změna z platby platební kartou nebo převodem z účtu na platbu fakturou](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) a dokončete ruční změnu.
+    - Podle pokynů v [části Jak můžu změnit](how-do-i-change-from-credit-card-payments-to-invoice.md) způsob platby platební kartou na platbu fakturou? Dokončete ruční změnu.
 
-Další informace najdete v článku [Změna způsobu platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+Další informace najdete v článku [o platbě předplatného.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
