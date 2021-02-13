@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4969"
-ms.openlocfilehash: 0bfb1a174f0ebe03bab53f13d26ac7af240fe7ce
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 8e6efea39e32720a22ddb4337e7a23381cff4bb9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307090"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231928"
 ---
 # <a name="power-bi-license-management"></a>Správa licencí Power BI
 
-Správu licencí Power BI je možné dokončit v centru pro správu Microsoft 365.
+Správu licencí Power BI můžete dokončit v Centru pro správu Microsoftu 365.
 
-- Pokud **Chcete koupit Power BI**, přejděte na služby pro **Billing** \> [Nákup](https://go.microsoft.com/fwlink/p/?linkid=868433)fakturace. Pomocí vyhledávacího pole vyhledejte výraz Power BI, vyberte plán a počet uživatelů, které chcete koupit. Další informace najdete v článku [zakoupení jiného předplatného](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365\#buy-a-different-subscription).
-- Pokud **chcete přiřadit licence Power BI**, přejděte na **fakturační**  >  [licence](https://go.microsoft.com/fwlink/p/?linkid=842264). Další informace najdete v článku [přiřazení licencí](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- **Přidání nebo odebrání licencí pro Power BI**: přejděte na **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054), najděte předplatné, které chcete změnit, vyberte **Další možnosti** (tři tečky) a pak **koupit licence**. Chcete-li odebrat licence, vyberte v horní části podokna **koupit licence** možnost **odebrat licence**. Další informace najdete v článku [Přidání nebo odebrání licencí z předplatného pro firmy](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
+- **Zakoupení Power BI:** Přejděte na **Služby** nákupu \> **[fakturace.](https://go.microsoft.com/fwlink/p/?linkid=868433)** Pomocí vyhledávacího pole vyhledejte "Power BI" a pak vyberte plán a počet uživatelů, které chcete koupit. Další informace najdete v tématu [Zakoupení jiného předplatného.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)
+- **Přiřazení licencí Power BI:** Přejděte na  >  **[Licence fakturace.](https://go.microsoft.com/fwlink/p/?linkid=842264)** Další informace najdete v tématu [Přiřazení licencí uživatelům.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- **Pokud chcete přidat nebo odebrat** licence pro Power BI: Přejděte na Fakturace vašich produktů, najděte předplatné, které chcete změnit, vyberte Další možnosti   >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)**(tři tečky) a pak vyberte Koupit **licence.**  Pokud chcete licence odebrat, vyberte  v horní části podokna Koupit licence **možnost Odebrat licence.** Další informace najdete v článku Zakoupení [nebo odebrání licencí.\](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+**PODÍVEJTE se na video,** které ukazuje, jak to udělat: [Nákup nových licencí](https://go.microsoft.com/fwlink/p/?linkid=2154857)

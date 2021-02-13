@@ -1,5 +1,5 @@
 ---
-title: Otázka týkající se licencí
+title: Otázka k licencím
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,19 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "491"
 - "1500032"
-ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: c5dcc770bb8ce91c732171030431740ed387044c
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: ddbad5acf5ecc17ce8ee2193ba304ddd50aa610f
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287059"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231856"
 ---
-# <a name="questions-about-your-microsoft-365-license"></a>Dotazy týkající se vaší licence na Microsoft 365
+# <a name="questions-about-your-microsoft-365-license"></a>Dotazy k vaší licenci Microsoftu 365
 
-Pomocí těchto kroků můžete zjistit počet zakoupených licencí nebo počet licencí přiřazených z předplatného.
+Pomocí těchto kroků zjistíte, kolik licencí jste koupili nebo kolik licencí máte přiřazených z předplatného.
   
-1. V centru pro správu přejděte na stránku **fakturace** \> [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na kartě **produkty** vyhledejte předplatné, o kterém chcete vědět víc. Můžete zobrazit počet licencí, které platíte a kolik je aktuálně přiřazeno.
+1. V centru pro správu přejděte na **stránku** Fakturace \> **[vašich](https://go.microsoft.com/fwlink/p/?linkid=842054)** produktů.
+2. Na kartě **Produkty** najděte předplatné, o kterého se chcete dozvědět více. Uvidíte počet licencí, za které platíte, a počet aktuálně přiřazených licencí.
 
-Pokud chcete přidat další licence nebo máte moc, vyberte předplatné. Na stránce data předplatného vyberte **koupit licence** nebo **odebrat licence** a upravte celkový počet licencí pro předplatné.
+Pokud chcete přidat další licence nebo pokud jich máte moc, vyberte předplatné. Na stránce s daty předplatného  **vyberte** Koupit licence nebo Odebrat licence, abyste upravili celkový počet licencí pro předplatné.
+
+**PODÍVEJTE se na video,** které ukazuje, jak to udělat: Nákup [nových licencí](https://go.microsoft.com/fwlink/p/?linkid=2154857) nebo [odebrání stávajících licencí](https://go.microsoft.com/fwlink/p/?linkid=2154938)
