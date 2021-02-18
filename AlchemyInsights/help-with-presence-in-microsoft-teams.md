@@ -1,5 +1,5 @@
 ---
-title: Nápověda ke stavu v Microsoft Teams
+title: Nápověda k stavu v Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6253"
 - "9003349"
-ms.openlocfilehash: 50b1060b46d09276629d8a30fc3c750f9faab648
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 1385d015052ccc9c056cdb9e6a45e86177031c9b
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277917"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291713"
 ---
-# <a name="help-with-presence-in-microsoft-teams"></a>Nápověda ke stavu v Microsoft Teams
+# <a name="help-with-presence-in-microsoft-teams"></a>Nápověda k stavu v Microsoft Teams
 
-Stav je součástí profilu uživatele v Microsoft Teams (a v aplikaci Microsoft 365 nebo Office 365). Aplikace Teams automaticky zjistí váš stav (k dispozici, pryč, zaneprázdněn, na schůzce, Nerušit a upravuje informace o stavu. Ve výchozím nastavení může kdokoli ve vaší organizaci používající aplikaci Teams zobrazit (téměř v reálném čase), pokud jsou další uživatelé online.
+Stav je součástí profilu uživatele v Microsoft Teams (a v rámci Microsoftu 365 nebo Office 365). 
 
-Váš aktuální stav se změní na  **pryč**  , když uzamknete počítač nebo když přejde do režimu nečinnosti nebo spánku. Na mobilu se váš stav změní na **pryč**  , kdykoli je aplikace Team na pozadí.
+Když počítač zamknete nebo když se režim nečinnosti nebo režim spánku změní na Pryč, váš aktuální stav se změní na Pryč.  Na mobilním zařízení se váš stav změní na **Pryč,**  kdykoli bude aplikace Teams na pozadí. Pokud se stav v Teams po obnovení z nečinného stavu neprojeví, ujistěte se, že máte nejnovější verzi Teams a počkejte 3 minuty, než se stav aktualizuje. Další informace najdete v části o vašem skutečném stavu [v Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
 
-Další informace o stavu států naleznete v tématu stav  [uživatele v Teams](https://docs.microsoft.com/microsoftteams/presence-admins).
+Pokud se stav kontaktu zobrazuje jako neznámý, vyřešte tento problém podle https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/contact-presence-status-unknown pokynů.
+Další informace o stavu najdete v [článku o stavu uživatelů v Teams.](https://docs.microsoft.com/microsoftteams/presence-admins)
 
-Microsoft pro Microsoft Teams zaznamená  [důležitou aktualizaci](https://www.microsoft.com/microsoft-365/roadmap?filters=Microsoft%20Teams&searchterms=presence) . Provedli jsme změnu stavu pro podporu aktualizací v reálném čase, což pomůže zlepšit spolehlivost indikátoru stavu.
