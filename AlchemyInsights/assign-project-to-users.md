@@ -1,8 +1,8 @@
 ---
 title: Přiřazení Projectu uživatelům
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5103"
-ms.openlocfilehash: 3d5526bfb3da1237cf4ffcdde791a56b30bed5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 6c6baa48ffa0d429cd63fd21915da6cf3229aeca
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715878"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469511"
 ---
 # <a name="assign-project-to-users"></a>Přiřazení Projectu uživatelům
 
@@ -30,4 +31,4 @@ Project můžete uživatelům přiřadit v **centru pro správu Microsoftu 365**
 5. Pro přiřazení nebo odebrání přístupu klikněte na **Zapnout nebo vypnout aplikace a služby**.
 6. Klikněte na **Přidělit** a pak na **Zavřít**.
 
-Pokud chcete koupit další licence nebo nějaké odebrat, přečtěte si článek o [přidání nebo odebrání licencí k předplatným](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Pokud chcete dokoupit další licence nebo je odebrat, podívejte se na stránku Nákup [nebo odebrání licencí.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)

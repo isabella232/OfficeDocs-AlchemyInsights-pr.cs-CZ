@@ -1,8 +1,8 @@
 ---
 title: Převod licencí mezi tenanty
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: 6c9bf1cbde75e0c87ce2e004ef1b1eee3b2b2fa3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: d2372ac81c1da25d8f024a91bb7d0e0cefb480b6
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669277"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468935"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Převod licencí mezi tenanty
 
-Licence **nelze** přenášet mezi 2 organizacemi (tenanty). Pokud jste zákazníkem s multilicencí, obraťte se na [Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center). V opačném případě postupujte podle těchto pokynů: 
+Licence **nelze** přenášet mezi 2 organizacemi (tenanty). Pokud jste zákazníkem s multilicencí, obraťte se na [Volume Licensing Service Center](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center). V opačném případě postupujte takto:
 
-- Pokud už neplánujete používat tenanta, ze kterého chcete provést převod, můžete toto [předplatné zrušit](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) a [zakoupit nového](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (cílového) tenanta.
-
-- Pokud tenanta, ze kterého chcete provést převod, plánujete dál využívat, můžete [odebrat licence](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide), které jste si zakoupili, abyste snížili náklady a tyto licence si potom koupit v druhém tenantovi.
-
-- V obou případech budete pravděpodobně chtít migrovat poštovní schránky a další data.
+- Pokud už plánování tenanta, ze který chcete převést, plánovat [](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) nebudete, můžete předplatné zrušit [a](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?rtc=2&activetab=tab:primaryr2) koupit nového (cílového) tenanta.
+- Pokud se chystáte dál používat tenanta, ze který chcete převést, můžete odebrat licence, které jste zakoupili, a snížit tak náklady a koupit tyto licence u druhého tenanta. [](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
+- V obou případech budete možná chtít migrovat poštovní schránky a další data:
 
     - [Migrace poštovních schránek](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+    - [Migrace sharepointových dat](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
 
-    - [Migrace dat SharePointu](https://aka.ms/modernSpoAdminCenter/CloudContentMigrations)
-
-Další informace najdete v tématu věnovaném [správě licencí předplatných](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+Další informace najdete v tématu [Zakoupení nebo odebrání licencí.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

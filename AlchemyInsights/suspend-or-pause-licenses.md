@@ -12,21 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5605"
-ms.openlocfilehash: 355d83a5d99c079e5487a663f43b1155fa6f40b8
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+- commerce
+ms.openlocfilehash: b1cd19b7a3db161fcdb0d64972e6fd06b259b61b
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488910"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469999"
 ---
 # <a name="suspend-or-pause-licenses"></a>Pozastavení nebo pozastavení licencí
 
-Pokud chcete dočasně pozastavit nebo pozastavit používání licence, můžete licence odebrat z centra pro správu Microsoft 365 a pak je znovu přidat zpátky.
+**PODÍVEJTE se na video,** které ukazuje, jak to udělat: [Odebrání stávajících licencí](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Před odebráním licencí z předplatného musíte nejprve [Zrušit přiřazení licencí od uživatelů](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
-2. Pak přejděte na stránku **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-3. Na kartě **Products (produkty** ) vyberte předplatné, které chcete aktualizovat.
-4. Na stránce Podrobnosti předplatného vyberte **odebrat licence**.
-5. V podokně **odebrat licence** zadejte do pole **celkem licence** celkový počet licencí, které chcete pro toto předplatné použít, a pak vyberte **Uložit**. Pokud máte třeba licence 100 a chcete pozastavit nebo pozastavit 25, zadejte 75 jako celkovou licenci pro vaše předplatné.
+Pokud chcete dočasně pozastavit nebo pozastavit využití licence, můžete odebrat licence z Centra pro správu Microsoftu 365 a později je znovu přidat.
 
-Další informace najdete v tématu věnovaném [správě licencí předplatných](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+1. Před odebráním licencí z předplatného musíte nejdřív zrušit přiřazení licencí [uživatelům.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)
+2. Pak přejděte na stránku **Fakturace**  >  [vašich](https://go.microsoft.com/fwlink/p/?linkid=842054) produktů.
+3. Na kartě **Produkty** vyberte předplatné, které chcete aktualizovat.
+4. Na stránce podrobností předplatného vyberte **Odebrat licence.**
+5. V podokně **Odebrat** licence zadejte  do pole Celkový počet licencí celkový počet licencí, které chcete pro toto předplatné použít, a pak vyberte **Uložit.** Pokud máte například 100 licencí a chcete pozastavit nebo pozastavit počet 25, zadejte jako celkový počet licencí pro vaše předplatné hodnotu 75.
+
+Další informace najdete v článku Zakoupení [nebo odebrání licencí.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

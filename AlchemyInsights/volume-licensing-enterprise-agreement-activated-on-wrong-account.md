@@ -1,9 +1,8 @@
 ---
-title: Multilicenční podnikový podnik aktivovaný na nesprávný účet
+title: Multilicenční smlouva Enterprise aktivovaná na špatném účtu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: 4b432de983f1a4b0130c6f4daa4fb16a2e7307b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 4a53be17f77b0aac20140848d8fce0a510bda246
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726119"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468899"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Multilicenční podnik, který je aktivovaný na nesprávném účtu nebo převod licencí z jednoho účtu do jiného
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Multilicenční smlouva Enterprise aktivovaná na špatném účtu nebo převod licencí z jednoho účtu na jiný
 
-Pokud zjistíte, že vaše tarify zakoupené prostřednictvím **multilicenční smlouvy pro podniky** jsou aktivované **v nesprávném tenantovi**nebo chcete **licence převádět** z jednoho tenanta do jiného, obraťte se na [centrum služby multilicenčního programu společnosti Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).
+Pokud zjistíte, že vaše předplatná zakoupená prostřednictvím multilicenční smlouvy **Enterprise**  jsou aktivovaná na nesprávném **tenantovi** nebo pokud chcete převést licence z jednoho tenanta na jiný, kontaktujte [prosím podporu.](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products)

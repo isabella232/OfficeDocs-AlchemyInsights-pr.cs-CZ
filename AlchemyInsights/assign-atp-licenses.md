@@ -1,8 +1,8 @@
 ---
-title: Přiřazení rozšířených licencí ochrany před hrozbami
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Přiřazení licencí Office 365 pomocí programu Microsoft Defender
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5778"
-ms.openlocfilehash: a877495be34c9403f63ebf96b0b83052f4c31491
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 6eb6529b4b2b73b0f8a599eb396d088e77e9516d
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801176"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469583"
 ---
-# <a name="assign-advanced-threat-protection-licenses"></a>Přiřazení rozšířených licencí ochrany před hrozbami
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Přiřazení licencí Office 365 pomocí programu Microsoft Defender
 
-Microsoft Defender pro Office 365 se dá přiřadit uživatelům v centru pro správu Microsoft 365.
+Program Microsoft Defender pro Office 365 se může uživatelům přiřadit v Centru pro správu Microsoftu 365.
 
-1. Přejděte na **fakturační**  >  [licence](https://go.microsoft.com/fwlink/p/?linkid=842264).
+1. Přejděte na **Licence**  >  [pro fakturaci.](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Vyberte produkt, ke kterému chcete přiřadit licence.
-3. Klikněte na **Přiřadit licence** .
-4. V podokně **přiřadit licence k uživatelům**  začněte psát jméno uživatele a pak ho vyberte z výsledků. Můžete přidat až 20 uživatelů najednou.
-5. Pokud chcete přiřadit nebo odebrat **aplikace a služby, klikněte na zapnout nebo vypnout**  .
-6. Klikněte na **přiřadit** a  **Zavřít** .
+3. Klikněte na **Přiřadit licence**.
+4. V podokně **Přiřadit licence uživatelům**  začněte psát jméno uživatele a pak ho vyberte ve výsledcích. Můžete přidat až 20 uživatelů najednou.
+5. Kliknutím **na Zapnout nebo vypnout aplikace a**  služby přiřaďte nebo odeberte.
+6. Klikněte **na Přiřadit** a **Zavřít.**
 
-Pokud chcete koupit další licence nebo nějaké odebrat, přečtěte si článek o [přidání nebo odebrání licencí k předplatným](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Pokud chcete dokoupit další licence nebo je odebrat, podívejte se na stránku Nákup [nebo odebrání licencí.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)

@@ -1,8 +1,8 @@
 ---
-title: Nákup Microsoft Defenderu pro Office 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: Nákup programu Microsoft Defender pro Office 365
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801140"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469799"
 ---
-# <a name="purchase-microsoft-defender-for-office-365"></a>Nákup Microsoft Defenderu pro Office 365
+# <a name="purchase-microsoft-defender-for-office-365"></a>Nákup programu Microsoft Defender pro Office 365
 
-Program Microsoft Defender pro Office 365 (ATP) je součástí určitých předplatných, jako je Microsoft 365 E5, Office 365 E5, Office 365 a5 a Microsoft 365 Business Premium. Pokud vaše předplatné neobsahuje Office 365 ATP, můžete si koupit [plán ATP 1Or plán ATP 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) jako doplněk k určitému předplatnému. Nákup v centru pro správu Microsoft 365:
+Program Microsoft Defender pro Office 365 je součástí některých předplatných, jako je Microsoft 365 E5, Office 365 E5, Office 365 A5 a Microsoft 365 Business Premium. Pokud vaše předplatné neobsahuje Microsoft Defender pro Office 365, můžete si program Microsoft Defender pro [Office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) koupit jako doplněk k určitému předplatnému. Nákup v Centru pro správu Microsoftu 365:
 
-1. Přejděte na **Billing**   >   [služby pro nákup](https://go.microsoft.com/fwlink/p/?linkid=868433)fakturace.
-2. Vyberte možnost Stránka **Doplňky**  z **jiných kategorií, které vás mohou zajímat.**
-3. Vyberte plán rozšířeného ochrany před internetovými útoky, který chcete koupit. Můžete vybrat také zkušební plán.
-4. Vyberte počet uživatelů, kteří budou používat rozšířenou ochranu před internetovými útoky.
+1. V centru pro správu přejděte na **stránku** Fakturační  >  [](https://go.microsoft.com/fwlink/p/?linkid=868433) nákupy.
+2. V dolní části **stránky** Koupit služby  v části Doplňky najděte doplněk Microsoft Defender pro Office 365 a vyberte **Podrobnosti.**
+3. Na stránce s podrobnostmi o produktu vyberte **Koupit.**
+4. V případě potřeby vyplňte případné další informace o objednávce. Tyto informace můžou zahrnovat výběr předplatného, na které se doplněk nachází, a počtu uživatelů, kteří ho budou používat. Až to budete mít, vyberte **Rezervovat.**
+5. V případě potřeby zkontrolujte informace o objednávce a cenách a pak vyberte **Další.**
+6. Zvolte způsob platby nebo přidejte nový a pak **vyberte** Někam přejít na domovskou stránku  >  **správce.**
 
-Informace o přiřazení licencí uživatelům najdete v tématu [přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+Pokud chcete přiřadit licence uživatelům, podívejte se na [postup přiřazení licencí uživatelům.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
 
-Pokud chcete koupit další licence nebo nějaké odebrat, přečtěte si článek o [přidání nebo odebrání licencí k předplatným](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Pokud chcete dokoupit další licence nebo je odebrat, podívejte se na stránku Nákup [nebo odebrání licencí.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
