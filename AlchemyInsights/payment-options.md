@@ -9,15 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
-- commerce
 - "1639"
 - "9000134"
-ms.openlocfilehash: 1ddff99967b62a151711a4c978f5fe35b2a99008
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 7384200b7dadfb85e851f316b695ed65f242be59
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152479"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601411"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>Možnosti platby u předplatných Office 365 pro firmy
   
