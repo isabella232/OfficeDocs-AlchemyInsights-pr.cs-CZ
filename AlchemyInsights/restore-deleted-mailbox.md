@@ -15,22 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 899eb7e171d125c509871c219f99dfd1106b858a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728064"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641511"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Obnovení odstraněné poštovní schránky
 
-Když uživatel ztratí licenci Exchange Online, zachová se jeho poštovní schránka po dobu 30 dnů a dá se obnovit tak, že znovu přiřadí licenci uživateli.
+Když uživatel přijde o licenci na Exchange Online, zůstane mu poštovní schránka 30 dní a můžete ji obnovit pouhým opětovném přiřazením licence uživateli.
   
- *To bude fungovat jenom do 30 dnů.*  
-  
-1. V centru pro správu Microsoft 365 přejděte na stránku **Uživatelé** \> **aktivního uživatele** . Vyberte příslušného uživatele.
+1. V Centru pro správu Microsoftu 365 přejděte na **stránku Aktivní** \> **uživatelé.** Vyberte uživatele, o který se chcete zeptat.
 
-2. Na kartě **licence a aplikace** přiřaďte licenci Exchange Online a vyberte **Uložit změny**.
+2. Na kartě **Licence a aplikace** přiřaďte licenci Exchange Online a vyberte Uložit **změny.**
 
-Pokud se pokoušíte obnovit sdílenou poštovní schránku, bude se taky obnovovat po dobu 30 dnů. Můžete je najít v části **Uživatelé** \> **Odstranění uživatelé**, sdílené poštovní schránky nevyžadují licenci. Pokud zjistíte, že je potřeba obnovit odstraněného uživatele, přečtěte si článek [obnovení uživatele](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+Pokud se pokoušíte obnovit sdílenou poštovní schránku nebo odstraněné uživatele, je možné ji obnovit také do 30 dnů. Najdete je v části **Uživatelé** odstranění uživatelé – sdílené poštovní schránky \> nevyžadují licenci. Přečtěte si [prosím stránku Obnovení uživatele.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
+
+Obnovení e-mailu z poštovní schránky uživatele mohou provést správci v novém Centru pro správu [Exchange.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)
+
+Pokud se pokoušíte obnovit neaktivní poštovní schránku, postupujte podle [pokynů tady.](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox)
   
