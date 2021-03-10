@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-- commerce
-ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: dca5f0adec60af8583f286630613a4c5a94cddb4
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469799"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602105"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Nákup programu Microsoft Defender pro Office 365
 
@@ -27,7 +26,7 @@ Program Microsoft Defender pro Office 365 je součástí některých předplatn�
 1. V centru pro správu přejděte na **stránku** Fakturační  >  [](https://go.microsoft.com/fwlink/p/?linkid=868433) nákupy.
 2. V dolní části **stránky** Koupit služby  v části Doplňky najděte doplněk Microsoft Defender pro Office 365 a vyberte **Podrobnosti.**
 3. Na stránce s podrobnostmi o produktu vyberte **Koupit.**
-4. V případě potřeby vyplňte případné další informace o objednávce. Tyto informace můžou zahrnovat výběr předplatného, na které se doplněk nachází, a počtu uživatelů, kteří ho budou používat. Až to budete mít, vyberte **Rezervovat.**
+4. V případě potřeby vyplňte případné další informace o objednávce. Tyto informace můžou zahrnovat výběr předplatného, pro které je doplněk k dispozici, a počtu uživatelů, kteří ho budou používat. Až to budete mít, vyberte **Rezervovat.**
 5. V případě potřeby zkontrolujte informace o objednávce a cenách a pak vyberte **Další.**
 6. Zvolte způsob platby nebo přidejte nový a pak **vyberte** Někam přejít na domovskou stránku  >  **správce.**
 

@@ -9,26 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "433"
 - "1500001"
-ms.openlocfilehash: 47c8a629f770f21bd508968e4db3e40d3d573506
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 4358c7ea329b86b49fae7c412d8387a2da7ffe88
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152299"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602357"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Jak můžu změnit způsob platby platební kartou na platbu fakturou?
 
 > [!NOTE]
-> Pokud cena za vaše předplatné převyšuje určitou částku, můžete změnit způsob platby fakturou. Před změnou na platbu fakturou je nutné nejdřív zaplatit jakýkoli nevyrovnaný zůstatek z kreditní nebo debetní karty nebo bankovního účtu.
+> Pokud cena za vaše předplatné převyšuje určitou částku, můžete změnit způsob platby fakturou. Před změnou na platbu fakturou musíte nejdříve zaplatit všechy nevyrovnané zůstatky platební karty nebo bankovního účtu.
 
 1. V centru pro správu přejděte na stránku **Fakturace**  >  [vašich](https://go.microsoft.com/fwlink/p/?linkid=842054) produktů.
 2. Na kartě **Produkty** najděte předplatné, za které chcete zaplatit alternativním způsobem platby.
 3. Vyberte **Další akce** (tři tečky) a pak vyberte Nahradit způsob **platby.**
 4. V podokně **Nahradit způsob platby** vyberte Přidat způsob **platby.**
-5. V podokně **Přidat způsob platby** vyberte Faktura nebo bankovní **převod.**
+5. V podokně **Přidat způsob platby** vyberte **Faktura nebo bankovní převod.**
 6. Zadejte své jméno, adresu a telefonní číslo. Můžete taky přidat číslo nákupní objednávky, které se má zobrazit na faktuře.
 7. Až to budete mít, vyberte **Uložit.**
 
