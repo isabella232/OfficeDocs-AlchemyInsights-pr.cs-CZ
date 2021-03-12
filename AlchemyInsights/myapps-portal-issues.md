@@ -1,5 +1,5 @@
 ---
-title: Problémy s portálem
+title: Problémy s portálem MyApps
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916739"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708559"
 ---
-# <a name="myapps-portal-issues"></a>Problémy s portálem
+# <a name="myapps-portal-issues"></a>Problémy s portálem MyApps
 
-Pokud chcete řešit problémy, ke kterým dochází při přihlašování k portálu moje aplikace nebo při něm, přečtěte si článek [Poradce při potížích s portálem moje aplikace](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
+Pokud chcete vyřešit problémy, ke kterých dochází při přihlašování nebo používání portálu Moje aplikace, podívejte se na řešení potíží s [portálem Moje aplikace.](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
-**Na panelu přístup k aplikacím se nezobrazuje očekávané aplikace**
+**Na panelu pro přístup aplikací nevidím aplikace, které očekávám**
 
-Informace o tom, proč se očekávané aplikace neobjevují na panelu přístup k aplikacím, najdete v tématu:
+Pokyny k tomu, jak zjistit, proč se na panelu pro přístup aplikací nezobrazují aplikace, které očekáváte, najdete tady:
 
-- [Nevím, proč se na panelu Access nezobrazuje přiřazená aplikace](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Nevím, proč se mi přiřazená aplikace nezobrazuje na přístupových panelech](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Nevím, proč se aplikace na panelu přístup zobrazuje](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Nevím, proč se aplikace na přístupových panelech objevuje](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Mám problémy s přihlášením k panelu přístup k aplikaci**
+**Mám problémy s přihlášením k panelu pro přístup k aplikaci**
 
-Pokud chcete řešit problémy s přihlášením k panelu přístup k aplikacím, přečtěte si téma:
+Pokud chcete vyřešit problémy s přihlášením k přístupovému panelu aplikace, najdete další informace v těchto článku:
 
-[Nemůžu se přihlásit na web panelu přístup](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Nemůžu se přihlásit na web přístupového panelu](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Mám problémy s používáním rozšíření prohlížeče aplikace pro Access**
+**Mám problémy s rozšířením prohlížeče na panelu pro přístup k aplikaci**
 
-Informace o řešení problémů týkajících se používání rozšíření prohlížeče aplikace Access panel naleznete v těchto tématech:
+Pokud chcete vyřešit problémy týkající se použití rozšíření pro přístup k aplikaci na panelu pro přístup k prohlížeči, podívejte se na tyto části:
 
-[Při instalaci rozšíření prohlížeče aplikace pro Access se zobrazila chyba](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Při instalaci rozšíření pro přístup k aplikaci v prohlížeči došlo k chybě.](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Mám problémy s funkcí na panelu přístup k aplikacím**
+**Mám problémy s funkcí na panelu pro přístup k aplikaci**
 
-Informace o řešení problémů týkajících se konkrétní funkce na panelu přístup k aplikacím najdete v těchto tématech:
+Pokud chcete vyřešit problémy týkající se určité funkce na přístupových panelech aplikace, podívejte se na článek:
 
-- [Nevím, jak používat Samoobslužný přístup k aplikacím](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Nevím, jak používat samoobslužný přístup k aplikacím](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Při používání samoobslužného přístupu k aplikacím jsme narazili na problém](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Narazil(a) jsem na problém při použití samoobslužných přístupu k aplikacím](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Pokud máte problémy s nasazením nebo používáním portálu moje aplikace**
+**Pokud máte problémy s nasazením nebo používáním portálu Moje aplikace**
 
-Informace o řešení problémů, ke kterým dochází při nasazení nebo používání portálu MyApp, najdete v těchto tématech:
+Pokud chcete vyřešit problémy, ke které dochází při nasazení nebo používání portálu MyApps, podívejte se na článek:
 
-- [Vytváření kolekcí na portálu moje aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Vytváření kolekcí na portálu Moje aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
-- [Konfigurace přiřazení samoobslužné aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
+- [Konfigurace samoobslužných přiřazení aplikací](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Řešení problémů s koncovým uživatelem na portálu moje aplikace](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Řešení potíží s koncovými uživateli na portálu Moje aplikace](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

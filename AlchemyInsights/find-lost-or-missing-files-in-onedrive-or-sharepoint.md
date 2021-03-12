@@ -1,5 +1,5 @@
 ---
-title: Nalezení ztracených nebo chybějících souborů na OneDrivu nebo SharePointu
+title: Jak najít ztracené nebo chybějící soubory na OneDrivu nebo SharePointu
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 1d615bf8dc16528d9cbf283672225364aaae9949
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa0cd1e4d5e89b9fb601c37030440bdfd2b66260
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708532"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708415"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Nalezení ztracených nebo chybějících souborů na OneDrivu nebo SharePointu
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Jak najít ztracené nebo chybějící soubory na OneDrivu nebo SharePointu
 
-- Zkontrolujte Koš tak, že přejdete na OneDrive nebo na web služby SharePoint na webu a v levém podokně kliknete na koš. (Pokud v levém podokně nevidíte koš, klikněte na ikonu nastavení a pak vyberte **obsah webu**. **Odpadkový koš** je úplně vpravo na panelu příkazů nahoře.) 
+- Zkontrolujte koš tak, že se v levém podokně nacházíte na OneDrivu nebo na sharepointovém webu a kliknete na Koš. (Pokud odpadkové koše v levém podokně nevidíte, klikněte na ikonu Nastavení a pak **vyberte Obsah webu.** **Koš je** na pravé straně panelu příkazů nahoře.) 
     
-- Pokud synchronizujete soubory na počítači, podívejte se do koše na počítači. 
+- Pokud synchronizujete soubory na počítači, zkontrolujte koš v počítači. 
     
-- Pokud nevidíte hledanou položku a nedávno byla odstraněna, správce kolekce webů ji může obnovit z koše kolekce webů. Pokud jste správce kolekce webů, přečtěte si článek [obnovení odstraněných položek z koše kolekce webů](https://go.microsoft.com/fwlink/?linkid=866439).
+- Pokud nevidíte položku, kterou hledáte, a nedávno jste ji odstranili, možná ji správce kolekce webů dokáže obnovit z koše kolekce webů. Pokud jste správce kolekce webů, podívejte se na stránku Obnovení odstraněných položek [z koše kolekce webů.](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
     
-[Další pomoc s obnovením odstraněných souborů a složek na OneDrivu](https://go.microsoft.com/fwlink/?linkid=872872)
+[Další nápověda k obnovení odstraněných souborů a složek na OneDrivu](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

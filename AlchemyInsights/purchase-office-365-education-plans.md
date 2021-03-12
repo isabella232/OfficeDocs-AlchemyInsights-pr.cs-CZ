@@ -13,28 +13,28 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 422823c3cf26570facecd408af3a9b43f578e029
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693404"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708775"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 for Education – schváleno
 
 Byli jste schváleni pro Office 365 Education.  Zakoupení:
 
-1. Přejděte na **Billing**  >  [služby pro nákup](https://portal.office.com/AdminPortal/Home#/catalog)fakturace.
+1. Přejděte na **služby**  >  [fakturačního nákupu.](https://portal.office.com/AdminPortal/Home#/catalog)
 
 2. Vyberte si plán ze seznamu **Plány pro vzdělávací organizace**.
 
 3. Najeďte myší na předplatné, které si chcete koupit, a klikněte na **Koupit**.
 
-4. [Nastavte tenanta Microsoft 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
+4. [Nastavte tenanta Microsoft 365 Education](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant).
 
 **Aktivace Teams**
 
-- Pokud chcete zapnout Microsoft Teams pro všechny uživatele, přejděte **na**  >  **Nastavení**  >  [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) a zaškrtněte políčko **zapnout Microsoft Teams pro všechny uživatele** . Klikněte na **Uložit změny**.
+- Pokud chcete Microsoft Teams zapnout pro všechny uživatele, přejděte do Nastavení aplikace Microsoft Teams a zaškrtněte políčko Zapnout  >    >  [](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) Microsoft Teams **pro všechny** uživatele. Klikněte na **Uložit změny**.
 
 **Dálková výuka a studium**
 

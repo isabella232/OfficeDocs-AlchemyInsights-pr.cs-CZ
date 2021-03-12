@@ -1,5 +1,5 @@
 ---
-title: Poradce při potížích s registrací zařízení iOS v Microsoft Intune
+title: Poradce při potížích s registraci zařízení s iOSem v Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,31 +10,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 7d3e0049258a77016250c8a657c8fbcaf8d65212
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4aef78e5921b789b532fecc99380da3274173bdb
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669241"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708955"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Poradce při potížích s registrací zařízení iOS v Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Poradce při potížích s registraci zařízení s iOSem v Microsoft Intune
 
-Prohlédněte si níže uvedené zdroje a problém vyřešte. 
+Pokud chcete problém vyřešit hned, zkontrolujte níže uvedené zdroje informací. 
   
-Některé běžné chybové zprávy a postupy řešení:
+Některé běžné chybové zprávy a kroky řešení:
   
-- **Zakončení zařízení** Uživatel má více popsaných zařízení, než je limit zařízení. Pokud chcete [Odebrat zařízení](https://docs.microsoft.com/intune/devices-wipe) nebo [změnit limit zařízení](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions), Projděte si tyto dokumenty.
+- **Dosáhli jste limitu zařízení** Uživatel má zaregistrované víc zařízení, než je limit počtu zařízení. V těchto dokumentech můžete [odebrat zařízení nebo](https://docs.microsoft.com/intune/devices-wipe) změnit limit [zařízení.](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions)
     
-- **Tato služba není podporovaná. Žádné zásady zápisu:** službu APNs (Apple Push Notification Service) je třeba nakonfigurovat nebo obnovit. V [tomto dokumentu](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) najdete pokyny, jak to udělat. 
+- **Tato služba není podporovaná. Žádné zásady registrace: Služba** nabízených oznámení Apple (APNS) se musí nakonfigurovat nebo prodloužit. Pokyny [k tomu najdete](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) v tomto dokumentu. 
     
-- **Typ uživatelské licence není platný nebo nejde rozpoznat uživatelské jméno:** Uživateli musí být přiřazena licence Intune nebo EMS. V těchto dokumentech si můžete přiřadit licenci pomocí [centra pro správu Office](https://docs.microsoft.com/intune/licenses-assign) nebo [Azure Portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Neplatný typ uživatelské licence nebo uživatelské jméno není rozpoznáno:** Uživatel musí mít přiřazenou licenci k Intune nebo EMS. Tyto dokumenty si projdete a přiřadíte licenci prostřednictvím: [Centra pro správu Office](https://docs.microsoft.com/intune/licenses-assign) nebo portálu Azure [Portal.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
-Další zdroje informací pro řešení vašeho problému:
+Další zdroje informací, které vám pomůžou problém vyřešit:
   
-1. Na [portálu Poradce při potížích s Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) můžete diagnostikovat a vyřešit běžné chyby zápisu. Další podrobnosti najdete v [tomto dokumentu](https://docs.microsoft.com/intune/help-desk-operators) . 
+1. Pomocí [portálu Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) můžete diagnostikovat a vyřešit běžné chyby registrace. Další [podrobnosti najdete v](https://docs.microsoft.com/intune/help-desk-operators) tomto dokumentu. 
     
-2. V těchto dokumentech se podívejte na seznam běžných chyb, které zabraňují zápisu a řešení každého z nich: [Poradce při potížích](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) a [odstraňování potíží s dokumentem](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. V těchto dokumentech najdete seznam běžných chyb, které zabraňují jejich zápisu a [řešení:](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) Průvodce odstraňováním potíží a [Řešení potíží s dokumentem.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
     
-3. [Naučte se zapisovat zařízení s iOS v Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Zjistěte, jak zaregistrovat zařízení s iOSem v Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
     
 

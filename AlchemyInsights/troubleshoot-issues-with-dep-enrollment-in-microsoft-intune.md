@@ -1,5 +1,5 @@
 ---
-title: Poradce při potížích s zápisem DEP v Microsoft Intune
+title: Poradce při potížích s registrací zabránění spuštění dat v Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: 50aab6e1e3c0d74d2e305e0bdd47c92b3a27c79f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f76e47c2a3007175ae1bfbd9d20cb59513eb713b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797289"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708703"
 ---
-# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Poradce při potížích s zápisem DEP v Microsoft Intune
+# <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Poradce při potížích s registrací zabránění spuštění dat v Microsoft Intune
 
-Prohlédněte si níže uvedené zdroje a problém vyřešte.
+Pokud chcete problém vyřešit hned, zkontrolujte níže uvedené zdroje informací.
   
-1. Pokud se zařízení DEP nedaří registrovat a je povolené MFA (Multi-Factor Authentication), vypněte VÍCEFAKTOROVÉ ověřování. Pro registraci DEP není podporovaná podpora vícefaktorového ověřování.
+1. Pokud se zařízení zabránění spuštění dat nemůže zaregistrovat a je povolené vícefaktorové ověřování (MFA), zakažte prosím MFA. Registrace zabránění spuštění dat v současné době nepodporuje MFA.
 
-2. Na [portálu Poradce při potížích s Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) můžete diagnostikovat a vyřešit běžné chyby zápisu. Další podrobnosti najdete v [tomto dokumentu](https://docs.microsoft.com/intune/help-desk-operators) .
+2. Pomocí [portálu Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) můžete diagnostikovat a vyřešit běžné chyby registrace. Další [podrobnosti najdete v](https://docs.microsoft.com/intune/help-desk-operators) tomto dokumentu.
 
-3. V těchto dokumentech se podívejte na seznam běžných chyb, které zabraňují zápisu a řešení každého z nich: [Poradce při potížích](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) a [řešení potíží s dokumentem](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+3. Seznam běžných chyb, které brání zápisu a řešení problémů s jednotlivými, najdete v těchto [dokumentech:](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) Průvodce odstraňováním potíží a Řešení potíží s [dokumentem](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
 
-4. [Informace o programu registrace zařízení](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios)
+4. [Přečtěte si informace o programu pro registraci zařízení.](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios)

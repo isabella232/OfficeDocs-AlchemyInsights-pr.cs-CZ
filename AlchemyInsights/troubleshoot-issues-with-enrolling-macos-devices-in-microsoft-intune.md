@@ -1,5 +1,5 @@
 ---
-title: Poradce při potížích s registrací zařízení macOS v Microsoft Intune
+title: Poradce při potížích s registraci zařízení s macOS v Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
 ms.custom:
 - "781"
 - "6200002"
-ms.openlocfilehash: 485615a706d574076f103973e09539d71498e457
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dc43348237784e9e34273cd467aaba00269aed4
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699800"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708919"
 ---
-# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Poradce při potížích s registrací zařízení macOS v Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Poradce při potížích s registraci zařízení s macOS v Microsoft Intune
 
-Prohlédněte si níže uvedené zdroje a problém vyřešte.
+Pokud chcete problém vyřešit hned, zkontrolujte níže uvedené zdroje informací.
   
-1. Na [portálu Poradce při potížích s Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) můžete diagnostikovat a vyřešit běžné chyby zápisu. Další podrobnosti najdete v [tomto dokumentu](https://docs.microsoft.com/intune/help-desk-operators) .
+1. Pomocí [portálu Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) můžete diagnostikovat a vyřešit běžné chyby registrace. Další [podrobnosti najdete v](https://docs.microsoft.com/intune/help-desk-operators) tomto dokumentu.
 
-2. V [tomto dokumentu](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) se zobrazí seznam běžných chyb, které se zabrání zápisu a řešení každého z nich.
+2. V [tomto dokumentu se](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) můžete se seznamem běžných chyb, které brání zápisu a řešení každého z nich.
 
-3. [Zjistěte, jak v Microsoft Intune zaregistrovat MacOS zařízení](https://docs.microsoft.com/intune/macos-enroll).
+3. [Zjistěte, jak zaregistrovat zařízení s macOS v Microsoft Intune.](https://docs.microsoft.com/intune/macos-enroll)
 
-[Podívejte se na Průvodce koncovým uživatelem k registraci zařízení macOS v Microsoft Intune.](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
+[Podívejte se na příručku pro koncové uživatele, která vám pomůže zaregistrovat zařízení s macOS v Microsoft Intune.](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   

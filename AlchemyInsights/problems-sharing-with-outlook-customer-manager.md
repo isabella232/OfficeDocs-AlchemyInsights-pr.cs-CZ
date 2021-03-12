@@ -1,5 +1,5 @@
 ---
-title: problémy – sdílení s aplikací Outlook – manažer
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728244"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709243"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Problémy se sdílením s Outlook Customer Managerem
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Problémy se sdílením v Outlook Customer Manageru
 
-Pokud máte problémy se sdílením Outlook Customer Manageru, doporučujeme nejdřív zkusit vymazat mezipaměť prohlížeče. Například v Internet Exploreru byste měli:
+Pokud máte problémy se sdílením v Outlook Customer Manageru, doporučujeme nejdřív zkusit vymazat mezipaměť prohlížeče. V Internet Exploreru můžete například:
 
-1. Přejděte na **Nastavení**  >  **Obecné** > nastavení v části **Browsing history**  >  **mezipaměti a databáze**historie procházení.
-2. Odstraňte soubory mezipaměti pro web "outlookapps.com".
+1. Přejděte na **Obecné** nastavení > v části Mezipaměť historie procházení a  >     >  **databáze.**
+2. Odstraňte soubory mezipaměti webu "outlookapps.com".
 3. Restartujte aplikaci Outlook.
 
-Další informace o sdílení najdete v tématu [sdílení informací v Outlook Customer Manageru](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Další informace o sdílení najdete v tématu [Sdílení informací v Outlook Customer Manageru.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
