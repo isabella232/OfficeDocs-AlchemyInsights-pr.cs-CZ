@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679686"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707803"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP nefunguje podle očekávání
 
@@ -26,28 +26,28 @@ ms.locfileid: "47679686"
 
  **Nastavení DLP**
 
-Máte potíže s **zabráněním ochrany dat (DLP)** v Office 365 nefunguje podle očekávání? Pokud ano, ujistěte se, že máte správně nastavené **Zásady ochrany před únikem informací** a že vaše data obsahují informace o tom, co při vyhodnocování **Zásada ochrany před úniky** hledá.
+Máte problémy s prevencí ztráty dat **(DLP)** v Office 365, která nefunguje podle očekávání? Pokud ano, ujistěte  se, že máte správně nastavenou zásadu  ochrany před únikem informací a jestli data obsahují to, co zásada ochrany před únikem informací hledá při vyhodnocení.
   
-Zásady ochrany před únikem umožňuje identifikovat a chránit citlivé informace ve vaší organizaci. K nastavení zásad ochrany před únikem informací použijte [tyto informace.](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp)
+Zásady ochrany před únikem informací umožňují identifikovat a chránit citlivé informace ve vaší organizaci. Pokud chcete nastavit zásady ochrany před únikem informací, použijte [informace uvedené v této článku.](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template)
   
- **Co vyhledává zásady ochrany před únikem**
+ **Jaké zásady ochrany před únikem informací hledat**
   
-Při používání **vestavěných citlivých informací** v centru zabezpečení a dodržování předpisů vyhledává zásady pro DLP při zjišťování těchto citlivých typů určité vzorky a prvky.
+Při používání **integrovaných** citlivých typů informací v centrech zabezpečení a dodržování předpisů zásady ochrany před únikem informací při zjišťování těchto citlivých typů zjišťují konkrétní vzory a prvky.
   
-- **Předdefinované citlivé typy informací**
+- **Integrované citlivé typy informací**
 
-    Informace o vestavěných citlivých typech a o tom, co zásada ochrany před úniky hledá při zjišťování citlivého typu, najdete v tématu: [Jaké typy citlivých informací vypadají](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+    Informace o předdefinových typech s citlivými typy a o tom, co zásady ochrany před únikem informací hledá při zjišťování typu citlivé informace, najdete v tématu: Co citlivé typy [informací vyhledáte.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- **Vlastní typy citlivých informací**
+- **Vlastní citlivé typy informací**
 
-    Pokud chcete vytvořit vlastní typy citlivých informací, použijte následující článek, kde najdete informace o tom, jak vytvořit vlastní typ citlivých informací: [Vytvořte si vlastní typ citlivých informací](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
+    Pokud se pokoušíte vytvořit vlastní citlivé typy informací, použijte v následujícím článku informace o vytvoření vlastního citlivého typu: Vytvoření vlastního typu citlivé [informace.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 
 **Testování zásad ochrany před únikem informací**
 
-Chcete-li testovat data pomocí předdefinovaných nebo vlastních typů citlivých informací, použijte možnost **Typ testu** **v části**  >  **typy utajovaných informací**. Další informace najdete v článku [testování vlastních typů citlivých informací](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Pokud chcete data testovat pomocí předdefinového nebo vlastního citlivého typu informací, použijte možnost **Typ** testu v části Typy informací citlivé  >  **na klasifikace.** Další informace najdete v tématu [Testování vlastních citlivých typů informací.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
 
  **Sestavy**
   
-- Získejte citlivé datové přehledy s informacemi o [DLP.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
+- Díky sestavám ochrany před únikem informací získáte citlivé [poznatky o datech.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Podívejte se na určité podrobnosti o události se [sestavou incidentu](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).
+- Podívejte se na konkrétní podrobnosti o události se [zprávou o incidentu.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)

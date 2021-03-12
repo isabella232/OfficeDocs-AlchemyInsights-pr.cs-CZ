@@ -3,7 +3,7 @@ title: Problémy s odkazy a adresami URL
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974228"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707875"
 ---
 # <a name="issues-with-links-and-urls"></a>Problémy s odkazy a adresami URL
 
-Adresy URL pro přesměrování adres URI a odpovědí (jsou oba výrazy zaměnitelné) jsou adresy URL používané platformou Microsoft identity k vrácení tokenů požadovaných aplikací. Informace o těchto adresách URL najdete v následujících článcích:
+Přesměrování URI/reply a adres URL (oba výrazy jsou vzájemně zaměňovatelné) jsou adresy URL používané platformou Microsoft identity k vrácení tokenů požadovaných aplikací. Další informace o těchto URL adresách najdete v následujících článcích:
 
-- [Postupy ověřování a scénáře aplikací](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – informace o identifikátorech URI přesměrování v **registrační stránce aplikací** pro jednotlivé scénáře.
-- [Omezení a omezení adresy URL pro přesměrování podle identifikátoru URI/odpovědi](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
+- [Toky ověřování a scénáře aplikací](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) – informace o přesměrováních URI na **stránce registrace aplikace** pro každý scénář.
+- [Omezení a limity pro přesměrování adresy URL nebo identifikátor URI](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
 
-**Nevím, jak registrovat přihlašovací adresu URL pro moje aplikace.**
+**Nevím, jak zaregistrovat správné přesměrování URI nebo URL pro mou aplikaci.**
 
-Když se přihlásíte pomocí aplikace, kterou vyvíjíte, pokud se v dialogovém okně pro přihlášení zobrazí **AADSTS50011: adresa URL odpovědi zadaná v žádosti neodpovídá adresám URL pro odpověď konfigurovaným pro <your app ID> aplikaci**, budete muset přidat do registrace aplikace, identifikátor URI přesměrování, který váš kód použil v žádosti o token na platformě Microsoft identity.
+Pokud se při přihlášení pomocí Vámi vyvíjené aplikace zobrazí dialog pro přihlášení **AADSTS50011: Adresa URL zadaná v žádosti neodpovídá adresám URL odpovědí nakonfigurovaných pro aplikace<your app ID>**, budete muset přidat do registrace vaší aplikace, URI přesměrování, který použil váš kód v žádosti o tokeny na platformě Microsoft Identity.
 
-Pokud chcete přidat adresu URL odpovědi, přejděte na kartě **ověřování** na **registrační stránce aplikace** na portálu Azure a přidejte položku do oddílu **redirect URI** . Přesměrované identifikátory URI jsou zadané (web nebo mobilní síť). Zadaná hodnota závisí na typu aplikace, kterou vytváříte, jak je popsáno níže:
+Pokud chcete přidat adresu URL, jděte na kartu **Autentifikace** na vaší **stránce registrace aplikace** na stránce Azure portal a přidejte položku do sekce **Přesměrovat URI** Hodnota, kterou potřebujete zadat, závisí na typu aplikace, kterou budete budovat, jak je popsáno níže:
 
-- U aplikací s jedním stránkou a webových aplikací je adresa URL odpovědi v aplikaci. Viz [registrace jedné stránky](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) nebo registrace [aplikace webové aplikace pomocí portálu Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
-- U desktopových aplikací je třeba, aby byla hodnota, kterou chcete vybrat, závislá:
-    - Platforma (MacOS se liší od systému Windows nebo Linux)
-    - způsob, jakým získáváte token (interaktivně pomocí integrovaného ověřování systému Windows [IWA] nebo pomocí uživatelského jména a hesla).
-    Podrobnosti najdete v tématu [desktopové aplikace – registrace aplikace – URi přesměrování](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris) .
-- U mobilních aplikací závisí identifikátor URI přesměrování na:
-    - Platform (iOS/Android/UWP)
-    - informace použité k sestavování aplikací, jako je ID sady v iOS, a název balíčku a hodnota hash podpisu na Androidu vám to pomůže. Podrobnosti najdete v tématu [konfigurace platformy a identifikátory URI přesměrování](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
-
-> [!NOTE]
-> Webová rozhraní API a některé z bezobslužných způsobů získání tokenů (IWA a username/Password) nevyžadují identifikátor URI přesměrování.
-
-**Po nasazení webové aplikace a při testování nasazené aplikace se zobrazuje zpráva o neshodě adresy URL odpovědi**
-
-Přidejte identifikátory URI pro přesměrování pro všechna umístění, kde nasazujete webovou aplikaci. Další informace najdete v článku [Registrace aplikace webové aplikace pomocí portálu Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
+- U jedno stránkových aplikací a webových aplikací se jako adresa URL odpovědi používá adresa URL vaší aplikace. Podívejte se [na jednostránkovou registraci](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) nebo [zaregistrujte webovou aplikaci pomocí Azure Portal.](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
+- Hodnota, kterou si budete muset zvolit v desktopových aplikacích, závisí na:
+    - platformě (MacOS se liší od Windows a Linuxu)
+    - způsobu získání tokenu (interaktivně s tokem kódu zařízení, s Integrovaným Ověřováním Windows [IWA] nebo s uživatelským jménem a heslem).
+    Podrobnosti najdete v [Desktopové aplikace – Registrace aplikace – Přesměrovat URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
+- Identifikátor URI přesměrování v mobilních aplikacích závisí na:
+    - platformě (iOS/Android/UWP)
+    - Informaci používané k vytvoření aplikace, jako je ID svazku v iOS, název balíčku a hash podpis na Androidu, registrace aplikace na Azure portal vám pomůže. Podrobnosti najdete na [Platformě konfigurace a přesměrování identifikátorech URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
 > [!NOTE]
-> Přidejte URI pro přesměrování pro umístění hned po nasazení aplikace v daném umístění.
+> Webová rozhraní API a některé tiché způsoby získání tokenů (IWA a uživatelské jméno a heslo) nevyžadují identifikátor URI přesměrování.
 
-**Nemůžu zaregistrovat dostatečný počet adres URL pro odpovědi**
+**Nasadil(a) jsem webovou aplikaci a když jsem otestoval(a) nasazenou aplikaci, zobrazí se zpráva o neshodě adresy URL**
 
-Jste prodejcem ISV a máte jeden nebo několik identifikátorů URI přesměrování pro každého zákazníka svého. Chcete migrovat z ADAL/Azure AD v 1.0 na MSAL/The Microsoft Identity Platform a zasáhnete [maximální počet identifikátorů URI přesměrování](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). Tento problém vyřešíte [přidáním identifikátorů URI pro přesměrování k instančním objektům](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) , které odpovídají jednotlivým zákazníkům.
+Přidejte URI přesměrování pro všechna umístění, ve kterých webovou aplikaci nasazujete. Další informace najdete v [Registrace webové aplikace pomocí Azure portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
+
+> [!NOTE]
+> Přidejte URI přesměrování do umístění hned po nasazení aplikace v tomto umístění.
+
+**Nemůžu zaregistrovat dost adres URL pro odpovědi**
+
+Jste ISV a máte jednu nebo několik přesměrování URI pro každého zákazníka. Chcete migrovat z ADAL/Azure AD v1.0 na MSAL/platformu Microsoftu Identity a dosáhnete [maximálního počtu přesměrování URI ](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). Vyřešíte to [přidáním přesměrování URI do Service Principal](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) které odpovídají jednotlivým zákazníkům.
