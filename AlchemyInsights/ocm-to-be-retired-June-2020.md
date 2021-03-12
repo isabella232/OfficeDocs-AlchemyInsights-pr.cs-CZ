@@ -1,5 +1,5 @@
 ---
-title: OCM pro vyřazení z června 2020
+title: OCM bude vyřazen z provozu v červnu 2020
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001492"
 - "3544"
-ms.openlocfilehash: 0b4094eadf77180c2f7d78d102a64dcafd262199
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 966a076c7b22a25a58e3513bc053c47b0eedaf4d
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662750"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704815"
 ---
-# <a name="ocm-to-be-retired-june-2020"></a>OCM pro vyřazení z června 2020
+# <a name="ocm-to-be-retired-june-2020"></a>OCM bude vyřazen z provozu v červnu 2020
 
 
-Platnost: **30. června 2020**, doplněk Outlook Customer Manager a mobilní aplikace budou vyřazeny. Data z ní můžete  **exportovat**  **před tímto datem**.  
+Od **30. června 2020** bude doplněk a mobilní aplikace Outlook Customer Manager vyřazeny. Data z **něj můžete** exportovat před **tímto datem.**  
 
-Kliknutím [sem](https://admin.microsoft.com/AdminPortal/Home?ref=/users)můžete zjistit, kdo ve vaší organizaci má Microsoft 365 Business Standard (dříve známý jako Office 365 Business Premium) nebo Microsoft 365 Business Premium (dříve známý jako Microsoft 365 Business).
+Kliknutím sem můžete zkontrolovat, kdo má ve vaší organizaci plán předplatného Microsoft 365 Business Standard (dříve označované jako Office 365 Business Premium) nebo Microsoft 365 Business Premium (dříve označované jako Plán předplatného Microsoft 365 Business) s právy k Outlook Customer [Manageru.](https://admin.microsoft.com/AdminPortal/Home?ref=/users)
 
 Další informace najdete tady:
 
-- [Export nebo odstranění dat aplikace Outlook Customer Manager](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
+- [Export nebo odstranění dat Outlook Customer Manageru](https://support.office.com/article/1a421cb4-e8de-4b44-bfb8-710b92820439)
 
-- [Outlook Customer Manager – Nejčastější dotazy](https://support.office.com/article/88e127ca-43a1-4c9d-8d52-6ad3a80f9c32)
+- [Časté otázky k Outlook Customer Manageru](https://techcommunity.microsoft.com/t5/outlook-customer-manager/faq-frequently-asked-questions-about-outlook-customer-manager/m-p/29680)

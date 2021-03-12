@@ -1,5 +1,5 @@
 ---
-title: Office nejde aktivovat
+title: Office se nedaří aktivovat
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: e052c18eae035ff05c70a223f6d8a2eab875b2c9
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 3a42c221047e7be6a173694cd45136baa6bff39a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236082"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704923"
 ---
-# <a name="unable-to-activate-office"></a>Office nejde aktivovat
+# <a name="unable-to-activate-office"></a>Office se nedaří aktivovat
 
 - Zkontrolujte, jestli platnost vašeho předplatného vypršela.
-- Zkontrolujte, jestli máte předplatné, které umožňuje klientské licence, třeba Office 365 Business nebo Business Premium, a [Zkontrolujte, jestli má uživatel přiřazenou licenci](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- Ujistěte se, že máte předplatné, které umožňuje klientské licence, jako je Office 365 Business nebo Business Premium, a ověřte, že má [uživatel přiřazenou licenci.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
 - Zkontrolujte, jestli je uživatel přihlášený k Office pomocí stejného účtu, který má přiřazenou licenci.
 - Podívejte se na [stránku stavu služeb Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) a zjistěte, jestli se vyskytly nějaké problémy.
-- Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru a ověřte, že neblokují aplikace Microsoft 365 přístup k Internetu. Přečtěte si [Adresy URL a rozsahy IP adres pro Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Adresy URL a rozsahy IP adres pro Office 365").
+- Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru, jestli neblokují aplikace Microsoft 365 a přístup k internetu. Přečtěte si [Adresy URL a rozsahy IP adres pro Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "Adresy URL a rozsahy IP adres pro Office 365").
 
-**Tip** V počítačích s Windows můžeme diagnostikovat a automaticky opravovat několik běžných problémů s přihlášením k Office. Stáhněte si a spusťte nástroj  **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** , abyste mohli používat náš automatizovaný nástroj.
+**Tip** Na počítačích s Windows za vás můžeme diagnostikovat a automaticky vyřešit několik běžných problémů s přihlášením k Office. Pokud chcete používat náš automatizovaný nástroj, stáhněte si a spusťte nástroj **[Microsoft Support and Recovery Assistant.](https://aka.ms/SaRA-OfficeSignInScenario)**
 
 Při řešení problémů postupujte takto:
 

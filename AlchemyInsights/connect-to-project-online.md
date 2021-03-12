@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2661"
 - "9000697"
-ms.openlocfilehash: 6970369c37b3772f28c5a98405836643d233464d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 019fedf90f44b629a41c8e6268566ddef774122a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681036"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704671"
 ---
 # <a name="connect-to-project-online"></a>Připojení k Projectu Online
 
 K Projectu Online se můžete připojit pomocí:
 
-- Desktopový klient Projectu Online pro připojení k Projectu Online v prostředí Office 365. Další informace najdete v článku [připojení k Projectu Online pomocí desktopového klienta Projectu Online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client).  
-- Služba Power BI, která usnadňuje správu projektů, portfolií a zdrojů v Project Web Appu Další informace najdete v článku [připojení k Project Web Appu s Power BI](https://docs.microsoft.com/power-bi/service-connect-to-project-online).  
+- Project Online Desktop client to connect to Project Online in your Office 365 environment. Další informace najdete v článku [Připojení k Projectu Online pomocí desktopového klienta Projectu Online.](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)  
+- Služba Power BI vám pomůže získat přehled z Project Web Appu, který vám pomůže spravovat projekty, portfolia a zdroje. Další informace najdete v tématu [Připojení k Project Web Appu pomocí Power BI.](https://docs.microsoft.com/power-bi/connect-data/service-connect-to-project-online)  
