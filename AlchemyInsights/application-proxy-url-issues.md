@@ -26,14 +26,14 @@ ms.locfileid: "50641475"
 
 Pro řešení problémů s URL proxy aplikace se podívejte na:
 
-- [Odkazy na stránce nefungují pro proxy služby aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem) – Informace pro řešení potíží, proč odkazy ve vaší proxy aplikaci Azure Active Directory (AD) nefungují správně.
+- [Odkazy na stránce nefungují pro proxy aplikaci](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem) – Informace pro řešení potíží, kdy odkazy ve vaší proxy aplikaci Azure Active Directory (AD) nefungují správně.
 
-- [Nakonfigurujte vlastní domény s proxy aplikací Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain) – Informace o vytváření externí URL pro vaše uživatele.
+- [Konfigurace vlastních domén s využitím proxy aplikací Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain) – Informace o vytváření externí URL pro vaše uživatele.
 
-- [Přesměrujte statické odkazy na aplikace publikované pomocí proxy aplikace Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation) – informace o převedení vložených URL.
+- [Přesměrování statických odkazů na aplikace publikované pomocí proxy aplikace Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation) – Informace o převedení vložených URL.
 
-- [Nastavte si vlastní úvodní stránku pro aplikace publikované pomocí proxy aplikace Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) – Když publikujete aplikaci pomocí proxy aplikace, nastavujete interní URL. To ale v některých případech není stránka, kterou by uživatelé měli vidět jako první. Nastavte si vlastní úvodní stránku, aby se uživatelům při přístupu k aplikaci načetla správná webová stránka. Uživatelé uvidí úvodní stránku, kterou jste si sami nastavili, bez ohledu na to, jestli k aplikaci přistupují z „Moje aplikace“ v Azure Active Directory nebo pomocí spouštěče aplikací Microsoft 365.
+- [Nastavení vlastní domovské stránky publikovaných aplikací s využitím proxy aplikací služby Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) – Když publikujete aplikaci pomocí proxy aplikace, nastavujete interní URL. To ale v některých případech není stránka, kterou by uživatelé měli vidět jako první. Nastavte si vlastní úvodní stránku, aby se uživatelům při přístupu k aplikaci načetla správná webová stránka. Uživatelé uvidí úvodní stránku, kterou jste si sami nastavili, bez ohledu na to, jestli k aplikaci přistupují z „Moje aplikace“ v Azure Active Directory nebo pomocí spouštěče aplikací Microsoft 365.
 
-- Máte otázky ohledně konfigurace URL proxy aplikace? Podívejte se na [Přidejte místní aplikaci do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+- Máte otázky ohledně konfigurace URL proxy aplikace? Podívejte se na [Přidání místní aplikace do Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
  
 
