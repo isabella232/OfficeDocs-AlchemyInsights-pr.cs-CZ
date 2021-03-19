@@ -1,9 +1,9 @@
 ---
-title: Spoluspráva
+title: Spolusoudná správa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681253"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896788"
 ---
-# <a name="co-management"></a>Spoluspráva
+# <a name="co-management"></a>Spolusoudná správa
 
-**Předpoklady pro migraci ze hybridního Správce konfigurace na Intune**
+**Předpoklady pro migraci z hybridního správce konfigurace do Intune**
 
-- Přečtěte si [Tento článek](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [Přidejte licenci Intune pro uživatele](https://docs.microsoft.com/intune/licenses-assign).
-- Při konfiguraci spoluspráva používejte [prohlížeč Edge](https://www.microsoft.com/windows/microsoft-edge) .
+- V tomto článku se [můžete sesutovat.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Přidejte uživatelům licenci Intune](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
+- Při [konfiguraci spolus](https://www.microsoft.com/edge) správy použijte prohlížeč Edge.
 
-**Jak nainstalovat klienta nástroje Configuration Manager na zařízení se spravovaným Intune**
+Podrobné možnosti nastavení spoluse správy s průvodcem najdete [tady.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-Přečtěte si o [zařízeních s Windows spravovaných MDM](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**Instalace klienta Config Manageru na zařízeních spravovaných Intune**
 
-**Co když můžu jenom změnit autoritu MDM?**
+Další [informace najdete v článku Zařízení s Windows spravovaná přes Intune MDM](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-Autorita MDM se dá změnit bez otevření případu podpory. Podívejte se na následující dokumentaci a požádejte o změnu vašeho úřadu MDM:
+**Co když chci změnit autoritu MDM?**
 
-- [Změna samostatné autority MDM z nástroje Configuration Manager na Intune Standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [Změna autority MDM z Intune Standalone do Správce konfigurace](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+Autoritu MDM můžete změnit bez otevření případu podpory. Pokud chcete pomoct se změnou autority MDM, přečtěte si prosím následující dokumentaci:
+
+- [Změna autority MDM z Správce konfigurace na samostatnou Intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Změna autority MDM ze samostatné Intune na Správce konfigurace](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

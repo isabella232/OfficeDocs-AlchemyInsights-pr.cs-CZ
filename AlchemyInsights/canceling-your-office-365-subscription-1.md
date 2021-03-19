@@ -13,13 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-- commerce
-ms.openlocfilehash: e0f8fc119d5476c9a392a61b2592a5a7cd844892
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837411"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896896"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Zrušení předplatného Microsoft 365?
 
