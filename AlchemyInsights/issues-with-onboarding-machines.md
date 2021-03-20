@@ -1,5 +1,5 @@
 ---
-title: Problémy s vestavěnými počítači
+title: Problémy s počítači s připojením k programu Microsoft Defender pro koncové body
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: c3203ed68eb19d5f6d75eb2269094bb0422b14cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676875"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901560"
 ---
-# <a name="issues-with-onboarding-machines"></a>Problémy s vestavěnými počítači
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Problémy s počítači s připojením k programu Microsoft Defender pro koncové body
 
-Je možné, že máte problémy s MDATP službami. Pokud máte přístup k počítači s koncovým uživatelem, postupujte takto:
+Můžete mít problémy s připojením počítačů ke službě MDE. Pokud máte přístup k počítači koncového uživatele, postupujte takto:
 
-1. Stáhněte diagnostický nástroj [Client Connectivity Analyzer](https://aka.ms/mdatpanalyzer) .
-2. Extrahujte a spusťte MDATPAnalyzer. cmd.
-3. Vyhledejte diagnostický protokol ve složce s názvem MDATPClientAnalyzerResult, což je stejná složka, ve které je nástroj Analyzer stažen.
-4. Zkontrolujte soubor protokolu, MDATPClientAnalyzer.txt a najděte problémy s nastavením připojení nebo proxy serveru pro Internet.
+1. Stáhněte si nejnovější verzi Preview diagnostického [nástroje MDE Client Analyzer.](https://aka.ms/betamdeanalyzer)
+2. Klikněte pravým **tlačítkem myši na MDEClientAnalyzer.cmd** a vyberte Spustit jako správce.
+3. Postupujte podle pokynů navrhovaných v **MDEClientAnalyzer.htm**.
+4. Podrobnější protokoly najdete v vytvořené podsadě s názvem **MDEClientAnalyzerResult**.
+5. Pokud potřebujete další pokyny, kontaktujte [podporu Microsoft Defenderu pro](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) koncový bod a poskytnte výsledný MDEClientAnalyzerResult.zip soubor pro analýzu.
