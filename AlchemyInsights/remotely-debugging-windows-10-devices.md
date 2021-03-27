@@ -1,5 +1,5 @@
 ---
-title: Začínáme se vzdáleným laděním zařízení s Windows 10
+title: Začínáme s vzdáleným laděním zařízení s Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583354"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398549"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Začínáme se vzdáleným laděním zařízení s Windows 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Začínáme s vzdáleným laděním zařízení s Windows 10
 
-Postup pro vzdálené ladění dynamického obsahu na zařízení s Windows 10 ze systému Windows nebo macOS:
+Vzdálené ladění živého obsahu na zařízení s Windows 10 z počítače s Windows nebo macOS:
 
-1. Nastavte zařízení s Windows 10 pro vzdálené ladění a připojte se k němu z vývojového počítače.
-2. Na vašem zařízení s Windows 10 na vašem vývojovém počítači zkontrolujte a prolaďte živý obsah.
-3. Obsah záznamového rámečku ze zařízení s Windows 10 na instanci DevTools na vašem vývojovém počítači
+1. Nastavte si zařízení s Windows 10 pro vzdálené ladění a pak se k ní připojte z vývojového počítače.
+2. Zkontrolujte a ladění živého obsahu na zařízení s Windows 10 z vývojového počítače.
+3. Obsah vysílání obrazovky ze zařízení s Windows 10 na instanci DevTools na vývojovém počítači.
 
-Další informace najdete v tématu Začínáme [se vzdáleným laděním zařízení s Windows 10 pomocí Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+Další informace najdete v tématu [Začínáme se vzdáleným laděním zařízení s Windows 10 pomocí Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)

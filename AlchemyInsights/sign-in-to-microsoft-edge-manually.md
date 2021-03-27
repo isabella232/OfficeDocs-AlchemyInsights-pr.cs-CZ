@@ -1,5 +1,5 @@
 ---
-title: Přihlášení k Microsoft Edge ručně
+title: Ruční přihlášení k Microsoft Edgi
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676971"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398650"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Přihlášení k Microsoft Edge ručně
+# <a name="sign-in-to-microsoft-edge-manually"></a>Ruční přihlášení k Microsoft Edgi
 
-Pokud se uživatel během prvního spuštění automaticky přihlásil, může se přihlásit pomocí nastavení prohlížeče nebo prostřednictvím informačního panelu identity. Pokud chcete spravovat přihlašování, použijte tyto zásady:
+Pokud uživatel není automaticky přihlášený během prvního spuštění, může se uživatel ručně přihlásit v nastavení prohlížeče nebo v plovoucím seznamu identity. Pokud chcete spravovat přihlášení, použijte následující zásady:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – zajistěte, aby uživatel měl vždy pracovní profil v Microsoft Edge.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – omezení přihlášení na sadu důvěryhodných účtů.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – zakažte přihlášení nebo vynuťte přihlášení uživatelů.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – Pokud chcete zajistit, aby měl uživatel vždy pracovní profil v Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – Pokud chcete omezit přihlášení na sadu důvěryhodných účtů.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – Pokud chcete zakázat přihlášení nebo přinutit uživatele k přihlášení.
 
