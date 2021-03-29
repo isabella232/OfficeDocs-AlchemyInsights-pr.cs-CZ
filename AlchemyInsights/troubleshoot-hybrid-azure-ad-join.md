@@ -1,5 +1,5 @@
 ---
-title: Řešení potíží s hybridním připojením Azure AD
+title: Řešení potíží s hybridním připojením k Azure AD
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6162"
+- "6158"
 - "9003244"
-ms.openlocfilehash: cb50ece43e36c81560aa07b6b892470d6ccd1981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003246"
+ms.openlocfilehash: 18d0ce6bdf3df96e07cc6607b9ae6142d548dabe
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690272"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401900"
 ---
-# <a name="troubleshoot-hybrid-azure-ad-join"></a>Řešení potíží s hybridním připojením Azure AD
+# <a name="troubleshoot-hybrid-azure-ad-join"></a>Řešení potíží s hybridním připojením k Azure AD
 
-Pokud chcete vyřešit běžné problémy s hybridním připojením služby Azure Active Directory, podívejte se na téma [Nejčastější dotazy k Azure AD JOIN](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).
+Důrazně doporučujeme Zajistit, aby zařízení měla přístup ke koncovým bodům registrace zařízení pod systémovým účtem pomocí skriptu Připojení k registraci [testovacího zařízení](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/).
+
+1. Pokud registrace zařízení nastavujete poprvé, přečtěte si článek Úvod ke správě zařízení ve[službě Azure Active Directory](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/) a zjistěte, jak získat zařízení pod kontrolou Azure AD.
+1. Pokud přímo zaregistrujete zařízení do Azure AD a zaregistrujete je do Intune, [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) ujistěte se, že jste nakonfigurovali [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) a měli jste na prvním místě licencování.
+1. Ujistěte se, že máte oprávnění provádět operace v Azure AD a místní službě AD. Nastavení pro registrace zařízení může spravovat jenom globální správce v Azure AD. Pokud navíc nastavujete automatické registrace v místní službě Active Directory, musíte být správcem služby Active Directory a služby AD FS (pokud je to možné).
+
+Další podrobnosti o řešení potenciálních problémů [](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current) s hybridním připojením najdete v tématu Řešení potíží s hybridním připojením k hybridnímu připojení pro nastavení hybridních zařízení připojených k Azure AD a správa zařízení pomocí portálu Azure Ad, najdete v článku Nastavení hybridních zařízení připojených k [Azure AD (místních doménových)](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan?WT.mc_id=Portal-Microsoft_Azure_Support) a Správa zařízení pomocí [portálu Azure Portal](https://docs.microsoft.com/azure/active-directory/devices/device-management-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+Pokud chcete vyřešit běžné problémy s hybridním připojením ke službě Azure Active Directory (AD), podívejte se na [časté otázky k připojení k hybridní službě Azure AD.](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq)

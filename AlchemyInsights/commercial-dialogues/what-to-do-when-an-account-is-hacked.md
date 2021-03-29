@@ -1,9 +1,9 @@
 ---
-title: Co dělat, když se účet nabourá hackerem
+title: Co dělat, když je účet hackerem
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 50451a32b4e798f3e2fd8ddebe573ef3435a4c71
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9c6bab9545136cf6bf26ae41c3776d6f7892a81f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481158"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402413"
 ---
-# <a name="what-to-do-when-an-account-is-hacked"></a>Co dělat, když se účet nabourá hackerem
+# <a name="what-to-do-when-an-account-is-hacked"></a>Co dělat, když je účet hackerem
 
-Pokud se myslíte, že uživatelský účet napadnul hacker, uděláte to takto:
+Pokud si myslíte, že se uživatelský účet hacknul, proveďte toto:
 
-1. [Ihned resetujte heslo](https://go.microsoft.com/fwlink/?linkid=2103704) *uživatele.* Neposílejte nové heslo uživateli e-mailem.
+1. [Resetujte heslo uživatele](https://go.microsoft.com/fwlink/?linkid=2103704) *okamžitě*. Nové heslo neposílejte uživateli e-mailem.
 1. [Odeberte všechny podezřelé adresy pro přeposílání](https://go.microsoft.com/fwlink/?linkid=2103705) nastavené v poštovní schránce.
-1. [Odeberte pravidla přeposílání](https://go.microsoft.com/fwlink/?linkid=2103706) nastavená u poštovní schránky.
-1. Pokud má uživatel zablokované odesílání e-mailů, ověřte, že jeho účet nebyl ohrožen, a potom ho odeberte ze stránky [Zakázaní uživatelé.](https://go.microsoft.com/fwlink/?linkid=2103706)
-1. Odeberte uživatelský účet ze skupin [rolí pro správu.](https://go.microsoft.com/fwlink/?linkid=2092294)
+1. [Odeberte pravidla přeposílání](https://go.microsoft.com/fwlink/?linkid=2103706) nastavená v poštovní schránce.
+1. Pokud je uživateli zablokováno odesílání e-mailů, potvrďte, že jeho účet nebyl ohrožen, a pak ho odeberte ze stránky Uživatelé s omezeným [přístupem](https://go.microsoft.com/fwlink/?linkid=2103706).
+1. Odeberte uživatelský účet ze všech [skupin rolí správy](https://go.microsoft.com/fwlink/?linkid=2092294).

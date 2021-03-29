@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583300"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403340"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>Zásady skupiny v Microsoft Edge
 
-Pomocí [zásad skupiny](https://go.microsoft.com/fwlink/?linkid=2134623) dostupných v Microsoft Edge (verze 77 nebo novější) můžete určit, jak má prohlížeč běžet ve vaší organizaci.
+Pomocí zásad [skupiny dostupných](https://go.microsoft.com/fwlink/?linkid=2134623) v Microsoft Edge (verze 77 nebo novější) můžete určit, jak bude prohlížeč ve vaší organizaci spuštěný.

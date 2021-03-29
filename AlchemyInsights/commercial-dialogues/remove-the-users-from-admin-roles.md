@@ -1,9 +1,9 @@
 ---
-title: Odebrání uživatelů z rolí správců
+title: Odebrání uživatelů z rolí správce
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: fc4bd22861fbc1d254d0fdd4d6c5fa46e63d550e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 23a6533f0ae759a7b8bc4a668f1f6d11e297da26
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481171"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403124"
 ---
-# <a name="remove-the-users-from-the-admin-roles"></a>Odebrání uživatelů z rolí správců
+# <a name="remove-the-users-from-the-admin-roles"></a>Odebrání uživatelů z rolí správce
 
 Tady je postup:
 
-1. V Centru pro správu vyberte **Aktivní**  >  [**uživatelé.**](https://go.microsoft.com/fwlink/p/?linkid=834822)
-1. Vyberte uživatele, u kterého byl účet ohrožen.
-1. V plovoucím seznamu, který se zobrazí, **vyberte Upravit** pro **role.** Odeberte uživatele ze všech rolí správců, dokud budete mít jistotu, že už nebude ohrožený jeho účet.
+1. V Centru pro správu vyberte **Uživatelé**  >  [**aktivní uživatelé**](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. Vyberte uživatele, jehož účet byl ohrožen.
+1. V plovoucím seznamu, který se zobrazí, **vyberte Upravit** pro **role**. Odeberte uživatele z rolí správců, dokud si nebudete jistí, že jeho účet už nebude ohrožený.
 

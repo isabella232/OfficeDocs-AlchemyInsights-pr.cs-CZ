@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583295"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402368"
 ---
 # <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Konfigurace nastavení zásad Microsoft Edge ve Windows
 
-Pokud chcete nakonfigurovat nastavení zásad a spravované aktualizace pro Microsoft Edge, použijte objekty zásad skupiny (GPO). Můžete také zřídit zásady prostřednictvím registru. To by bylo vhodné pro (1) zařízení s Windows připojená k doméně Microsoft Active Directory a pro (2) Windows 10 pro a podnikové instance zaregistrované pro správu zařízení v Microsoft Intune.
+Pokud chcete nakonfigurovat nastavení zásad a spravované aktualizace pro Microsoft Edge, použijte Zásady skupiny objekty zásad skupiny. Zásady můžete také zřídit prostřednictvím registru. to by bylo vhodné pro (1) zařízení s Windows připojená k doméně služba Microsoft Active Directory a pro (2) instance Windows 10 Pro a Enterprise zaregistrovaná pro správu zařízení v Microsoft Intune.
 
-Pokud chcete Microsoft Edge nakonfigurovat pomocí objektů zásad skupiny, postupujte takto:
+Pokud chcete nakonfigurovat Microsoft Edge pomocí objektů zásad skupiny, proveďte toto:
 
-1. Do centrálního úložiště zásad skupiny v doméně služby Active Directory nebo do složky šablony definice zásad na jednotlivých počítačích, nainstalujte všechny šablony pro správu, které přidáte pravidla a nastavení pro Microsoft Edge.
-2. Nakonfigurujte zásady, které chcete nastavit.
+1. Přejděte do centrálního úložiště Zásady skupiny ve vaší doméně služby Active Directory nebo do složky šablon Definice zásad na jednotlivých počítačích a nainstalujte všechny šablony pro správu, které přidávají pravidla a nastavení pro Microsoft Edge.
+2. Nakonfigurujte konkrétní zásady, které chcete nastavit.
 
-Další informace najdete v článku [Konfigurace nastavení zásad Microsoft Edge ve Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+Další informace najdete v tématu [Konfigurace nastavení zásad Microsoft Edge ve Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
