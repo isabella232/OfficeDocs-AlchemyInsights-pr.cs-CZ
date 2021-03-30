@@ -1,5 +1,5 @@
 ---
-title: Stažení a instalace Microsoft to do
+title: Jak si stáhnout a nainstalovat Microsoft To Do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003043"
 - "6109"
-ms.openlocfilehash: 83fdaa7a1e181f8429f57fbb9e6ad20642c74d79
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
-ms.translationtype: MT
+ms.openlocfilehash: c17c2db421d3210de01e402da502a9951fdefeb7
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823028"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401936"
 ---
-# <a name="how-to-download-and-install-microsoft-to-do"></a>Stažení a instalace Microsoft to do
+# <a name="how-to-download-and-install-microsoft-to-do"></a>Jak si stáhnout a nainstalovat Microsoft To Do
 
-Aplikace Microsoft to dělá aplikaci pro Win32, iOS, Android a Mac stáhnout z příslušného úložiště.
+Aplikaci Microsoft To Do pro Win32, iOS, Android a Mac si můžete stáhnout z příslušného Storu.
 
-Pokud máte k vašemu tenantovi přístup s omezeným úložištěm, přečtěte si téma [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/en-us/microsoft-store/distribute-offline-apps) pro offline instalační program.
+Pokud jste pro vašeho tenanta omezili přístup ke Storu, přečtěte si [https://docs.microsoft.com/microsoft-store/distribute-offline-apps](https://docs.microsoft.com/microsoft-store/distribute-offline-apps) a zjistíte více o offline instalačním programu.
 
-Pokud chcete stáhnout aplikaci ze Storu pomocí svého **pracovního** účtu, musí být aplikace publikovaná do **soukromého úložiště** vaší společnosti. Další informace najdete v tématu [https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)
+Pokud si chcete ze Storu stáhnout aplikaci pomocí svého **pracovního** účtu, musí být publikovaná v **soukromém obchodě** vaší společnosti. Další informace najdete tady:[https://docs.microsoft.com/en-us/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability](https://docs.microsoft.com/microsoft-store/app-inventory-management-microsoft-store-for-business#private-store-availability)
