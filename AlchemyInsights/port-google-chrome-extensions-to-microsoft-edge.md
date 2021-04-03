@@ -1,5 +1,5 @@
 ---
-title: Port Google Chrome Extensions na Microsoft Edge (chrom)
+title: Port rozšíření Google Chrome do Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004032"
 - "7102"
-ms.openlocfilehash: 2a20f258cbcbca7c8db4e38c52464fefb1b6f39d
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+- "8297"
+- "9004617"
+ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676995"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505277"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Port Google Chrome Extensions na Microsoft Edge (chrom)
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Port rozšíření Google Chrome do Microsoft Edge (Chromium)
 
-[Můžete snadno přeportovat rozšíření Google Chrome na Microsoft Edge (chrom)](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension). Ve většině případů jsou pro spuštění těchto přípon v Microsoft Edge pouze minimální změny.
+Rozšíření Google Chrome můžete [snadno portovat do Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) Ve většině případů jsou potřeba jenom minimální změny, aby se tato rozšíření spouštěna v Microsoft Edge.
 
-Rozhraní API rozšíření a klíče manifestu podporované v Google Chrome jsou kódem kompatibilním s Microsoft Edgem. Microsoft Edge ale nepodporuje rozšíření API Chrome. GCM, Chrome. identity. getaccounts, Chrome. identity. getAuthToken a Chrome. instanceID.
+Rozhraní API rozšíření a klíče manifestu podporované Prohlížečem Google Chrome jsou kompatibilní s microsoft edgem. Microsoft Edge ale nepodporuje rozhraní API pro rozšíření chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken a chrome.instanceID.

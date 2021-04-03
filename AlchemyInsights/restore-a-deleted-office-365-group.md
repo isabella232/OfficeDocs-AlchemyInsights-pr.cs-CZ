@@ -14,20 +14,27 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: 963af6d056d1df07905970b8a45f7916cdb35469
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f640093cd099f20d3a95eede5c141ad74838b0b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774695"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505679"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Obnovení odstraněné skupiny Microsoft 365
 
-Odstraněné skupiny se zachovají po dobu 30 dnů. Obnovení odstraněné skupiny:
-  
-1. V [centru pro správu Exchange](https://outlook.office365.com/ecp/)vyberte **příjemce** v levém podokně a pak vyberte **skupiny**. Pokud byla skupina odstraněna před méně než 30 dny, zobrazí se v seznamu a sloupec Stav zobrazí datum odstranění.
+Odstraněnou skupinu Microsoft 365 nebo Microsoft Teams můžete obnovit do 30 dnů od odstranění.
 
-2. Vyberte skupinu a na panelu příkazů klikněte na tlačítko **obnovit** nebo v podokně podrobností klikněte na odkaz Kliknutím sem ho obnovíte.
+1. Pokud se chcete přihlásit do Centra pro správu Microsoftu 365 a zobrazit seznam odstraněných skupin a týmů, přejděte do Centra pro správu [Microsoftu 365.](https://aka.ms/RestoreDeletedGroup)
 
-Další informace o tom, jak obnovit skupiny pomocí PowerShellu, najdete v článku [Obnovení odstraněné skupiny Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802).
-  
+    **Poznámka:** Přihlaste se pomocí účtu, který je přiřazený správci tenanta nebo roli správce skupin.
+
+1. Vyberte odstraněnou skupinu Microsoft 365/Teams, která se má obnovit, a klikněte **na obnovit skupinu.**
+
+    Pokud skupinu nemůžete obnovit kvůli konfliktní adrese SMTP, použijte následující příkaz k vyhledání objektu, který způsobuje konflikt, a odeberte adresu SMTP:
+
+    `Get-Recipient -Filter "EmailAddresses -eq '<conflictingsmtpaddress>'"`
+
+    **Poznámka:** V některých případech může trvat až 24 hodin, než se skupina a všechna její data obnoví.
+
+    Další informace nebo informace o obnovení skupin pomocí PowerShellu najdete v tématu Obnovení odstraněné skupiny [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=867802)

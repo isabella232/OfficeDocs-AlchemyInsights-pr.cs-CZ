@@ -1,5 +1,5 @@
 ---
-title: Přidání rozšíření k Microsoft Edge z úložiště doplňků Microsoft Edge
+title: Přidání rozšíření do Microsoft Edge z Microsoft Edge Add-ons Store
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003858"
 - "6919"
-ms.openlocfilehash: 18c7a6a8e397744a114c4bb91df6c45416d9af87
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8310"
+- "9004621"
+ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677549"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504989"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Přidání rozšíření k Microsoft Edge z úložiště doplňků Microsoft Edge
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Přidání rozšíření do Microsoft Edge z Microsoft Edge Add-ons Store
 
-Přidání rozšíření k Microsoft Edge z úložiště doplňků Microsoft Edge:
+Přidání rozšíření do Microsoft Edge z úložiště doplňků Microsoft Edge:
 
 - Otevřete Microsoft Edge.
-- Vyberte **... > rozšíření > [Získejte rozšíření pro Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
-- Vyberte rozšíření, které chcete přidat, a pak vyberte **získat**.
-- V potvrzovacím dialogovém okně pečlivě zkontrolujte změny, které tato přípona může udělat, a vyberte **Přidat rozšíření**.
+- Vyberte **... > Rozšíření > Získat rozšíření pro Microsoft [Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
+- Vyberte rozšíření, které chcete přidat, a pak vyberte **Získat**.
+- V potvrzovacím dialogovém okně pečlivě zkontrolujte změny, které může rozšíření provést, a vyberte **Přidat rozšíření**.
 
-Potom se zobrazí potvrzení o přidání rozšíření.
+Pak se zobrazí potvrzení, že rozšíření bylo přidáno.
