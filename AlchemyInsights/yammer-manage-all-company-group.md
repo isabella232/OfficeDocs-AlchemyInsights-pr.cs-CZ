@@ -1,5 +1,5 @@
 ---
-title: Správa skupiny všech společností v Yammeru
+title: Yammer spravovat všechny skupiny společností
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688831"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505421"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="6ad6d-102">Skupina všech společností</span><span class="sxs-lookup"><span data-stu-id="6ad6d-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="96acd-102">All Company Group</span><span class="sxs-lookup"><span data-stu-id="96acd-102">All Company Group</span></span>
 
-<span data-ttu-id="6ad6d-103">Při vytvoření sítě Yammer se automaticky vytvoří skupina **všechny společnosti** .</span><span class="sxs-lookup"><span data-stu-id="6ad6d-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="6ad6d-104">Je to výchozí systémová skupina, kterou nelze přejmenovat ani odstranit.</span><span class="sxs-lookup"><span data-stu-id="6ad6d-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="6ad6d-105">Všichni můžou publikovat do skupiny **All Company** , ale jenom správci sítě Yammer můžou do skupiny posílat oznámení.</span><span class="sxs-lookup"><span data-stu-id="6ad6d-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="6ad6d-106">Pomocí **skupinového**seznamu můžete zobrazit informace o rezervacích ve skupině **všechny společnosti** .</span><span class="sxs-lookup"><span data-stu-id="6ad6d-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="96acd-103">Komunita Všechny společnosti teď podporuje podobné funkce jako jiné komunity v Yammer.</span><span class="sxs-lookup"><span data-stu-id="96acd-103">The All Company community now supports similar capabilities to other communities in Yammer.</span></span> <span data-ttu-id="96acd-104">To zahrnuje možnosti, jako jsou titulní fotky a pojmenování.</span><span class="sxs-lookup"><span data-stu-id="96acd-104">This includes options such as cover photos and naming.</span></span> <span data-ttu-id="96acd-105">Můžete taky omezit všechny příspěvky společnosti v Yammer.</span><span class="sxs-lookup"><span data-stu-id="96acd-105">It's also possible to restrict All Company posts in Yammer.</span></span> <span data-ttu-id="96acd-106">Další informace najdete v článku [Všechny společnosti teď funguje stejně jako Yammer komunitách](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span><span class="sxs-lookup"><span data-stu-id="96acd-106">For more information, see [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span></span>
 
-<span data-ttu-id="6ad6d-107">Další informace najdete v tématu [Správa skupiny v Yammeru](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="6ad6d-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+## <a name="common-issues-and-solutions"></a><span data-ttu-id="96acd-107">Běžné problémy a řešení</span><span class="sxs-lookup"><span data-stu-id="96acd-107">Common issues and solutions</span></span>
+
+- <span data-ttu-id="96acd-108">Správci sítě nemají k dispozici všechna omezení vlastního nastavení nebo publikování společnosti.</span><span class="sxs-lookup"><span data-stu-id="96acd-108">All Company customization or posting restriction is not available to network admins.</span></span> <span data-ttu-id="96acd-109">Otevřete žádost o službu, abyste umožnili moderní skupinu Všechny společnosti.</span><span class="sxs-lookup"><span data-stu-id="96acd-109">Open a service request to enable the modern All Company group.</span></span>
+
+- <span data-ttu-id="96acd-110">Přehledy komunity nezohlední stará data.</span><span class="sxs-lookup"><span data-stu-id="96acd-110">Community Insights doesn't show old data.</span></span> <span data-ttu-id="96acd-111">Teď, když je all company skutečná komunita, předchozí data pro síť se nezobrazí.</span><span class="sxs-lookup"><span data-stu-id="96acd-111">Now that All Company is a real community, the previous data for the network is not shown.</span></span>
+
+- <span data-ttu-id="96acd-112">Zdá se, že se odstranila všechna společnost.</span><span class="sxs-lookup"><span data-stu-id="96acd-112">All Company seems to be deleted.</span></span> <span data-ttu-id="96acd-113">Pokud je komunita připojená ke skupině Microsoft 365, můžete ji odstranit.</span><span class="sxs-lookup"><span data-stu-id="96acd-113">When the community is connected to an Microsoft 365 group, that group can be deleted.</span></span> <span data-ttu-id="96acd-114">Skupina Microsoft 365 musí být v tenantovi obnovena.</span><span class="sxs-lookup"><span data-stu-id="96acd-114">The Microsoft 365 group must be restored in the tenant.</span></span>
+
