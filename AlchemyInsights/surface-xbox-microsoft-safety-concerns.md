@@ -1,5 +1,5 @@
 ---
-title: Obavy o bezpečnost zařízení Surface, Xbox a Microsoft
+title: Bezpečnostní problémy u zařízení Surface, Xbox a Microsoft
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9754"
 - "9005644"
-ms.openlocfilehash: c0436154860a81ab1628407eaa808c225a790b11
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 5bdfc0d0a4d49ce8de50f1fa69472c834cf213b7
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035143"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505745"
 ---
-# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Obavy o bezpečnost zařízení Surface, Xbox a Microsoft
+# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Bezpečnostní problémy u zařízení Surface, Xbox a Microsoft
 
-Pokud chcete prodiskutovat problém týkající se bezpečnosti výrobků (zranění,  poškození majetku, viditelný dým), vyberte Kontaktujte nás v levém dolním rohu, abyste se připojili přímo k asistované podpoře.
+Pokud máte otázku ohledně bezpečnosti produktu (újma na zdraví, poškození majetku, viditelný kouř), vyberte **Kontaktujte nás** nebo **Získat další pomoc** dole, abychom vás přímo spojili s poradcem z asistované podpory.
