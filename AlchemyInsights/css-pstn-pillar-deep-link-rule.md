@@ -1,5 +1,5 @@
 ---
-title: 'CSS: pravidlo dávná vazba sloupkem veřejné telefonní sítě'
+title: 'CSS: Pravidlo hloubkového propojení sloupu veřejné telefonní sítě'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: 60f35221fdc915a2a6c349de398d765ee69ebfa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e796094e8ca47b13a238a2523675530f92bbf7d1
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746212"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692423"
 ---
 # <a name="pstn-calling-with-microsoft-teams"></a>Volání do veřejné telefonní sítě pomocí Microsoft Teams
 
-Další informace o telefonním systému a volání do veřejné telefonní sítě v Microsoft Teams najdete v článku [co je telefonní systém v microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)
+Další informace o telefonech Microsoft Teams a volání do veřejné telefonní sítě v Microsoft Teams najdete v tématu Co [je Microsoft Teams Phone v Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)

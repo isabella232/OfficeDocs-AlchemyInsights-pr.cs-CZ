@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662498"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692459"
 ---
 # <a name="pstn-calling-plans"></a>Tarify pro volání do veřejné telefonní sítě
 
@@ -28,4 +28,4 @@ Pokud chcete, aby vaši uživatelé mohli volat na normální telefony, a ješt�
 
 - Nastavte si [komunikační kredity](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), aby uživatelům **nedošly volné minuty**. Sazby najdete [tady](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Další informace najdete v tématu věnovaném [telefonnímu systému a volacím plánům](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) nebo v tématu vysvětlujícím, [co jsou komunikační kredity](https://docs.microsoft.com/microsoftteams/what-are-communications-credits).
+- Další informace najdete v tématu [Microsoft Teams Phone a Plány volání do Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) nebo Co jsou [kredity pro komunikaci?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

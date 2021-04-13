@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: 4cabc559d0f201fc2ad5004e459a871d0caaf545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739602"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692675"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>Nastavení audiokonferencí pro Teams
 
@@ -33,7 +33,7 @@ Abyste ověřili, jestli má uživatel licenci pro audiokonference a má výchoz
 
 2. V závislosti na verzi centra pro správu vyberte buď **Licence a aplikace**, nebo klikněte na možnost **Upravit** v záložce **Licence na produkty**.
 
-3. Potvrďte, že má uživatel vybrané licence **Audiokonference Microsoft Teams**a **Online Skype pro firmy (plán 2)**.
+3. Potvrďte, že má uživatel vybrané licence **Audiokonference Microsoft Teams** a **Online Skype pro firmy (plán 2)**.
 
 4. V **centru pro správu** uživatele klikněte na **Zobrazit vše** a pak na **Teams**.
 
@@ -43,4 +43,4 @@ Abyste ověřili, jestli má uživatel licenci pro audiokonference a má výchoz
 
 7. Vyberte požadovaného uživatele a zkontrolujte, jestli má **výchozí číslo placené linky**.
 
-Další informace najdete v tématu [Plány volání pro Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365). Pokud máte otázky spojené s licencováním, zavolejte týmu pro obchodní fakturaci společnosti Microsoft (Microsoft Commerce Billing).
+Další informace najdete v tématu Plány volání do Microsoft Teams pro [Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) nebo zavolejte fakturačnímu týmu Microsoft Commerce, který vám pomůže s otázkami souvisejícími s licencování.
