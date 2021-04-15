@@ -1,8 +1,8 @@
 ---
-title: Soubor ve formátu XLS se při poklepání neotevřel
+title: Poklikejte na soubor XLS se neotevřel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796317"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770588"
 ---
-# <a name="excel-file-doesnt-open"></a><span data-ttu-id="c072f-102">Excelový soubor se neotevře</span><span class="sxs-lookup"><span data-stu-id="c072f-102">Excel file doesn't open</span></span>
+# <a name="excel-file-doesnt-open"></a><span data-ttu-id="a25ad-102">Excelový soubor se neotevře</span><span class="sxs-lookup"><span data-stu-id="a25ad-102">Excel file doesn't open</span></span>
 
-<span data-ttu-id="c072f-103">Zkuste jeden z těchto návrhů:</span><span class="sxs-lookup"><span data-stu-id="c072f-103">Try one of these suggestions:</span></span>
+<span data-ttu-id="a25ad-103">Vyzkoušejte jeden z těchto návrhů:</span><span class="sxs-lookup"><span data-stu-id="a25ad-103">Try one of these suggestions:</span></span>
 
-<span data-ttu-id="c072f-104">**Výběr Excelu jako výchozího**</span><span class="sxs-lookup"><span data-stu-id="c072f-104">**Choose Excel as the default**</span></span>
+<span data-ttu-id="a25ad-104">**Jako výchozí zvolte Excel.**</span><span class="sxs-lookup"><span data-stu-id="a25ad-104">**Choose Excel as the default**</span></span>
 
-* <span data-ttu-id="c072f-105">Klikněte na list pravým tlačítkem myši, vyberte **otevřít v**a pak zvolte **Excel** .</span><span class="sxs-lookup"><span data-stu-id="c072f-105">Right-click on the worksheet, choose **Open with**, and then choose **Excel**</span></span>
+* <span data-ttu-id="a25ad-105">Klikněte pravým tlačítkem myši na list, zvolte **Otevřít v programu a** pak zvolte **Excel.**</span><span class="sxs-lookup"><span data-stu-id="a25ad-105">Right-click on the worksheet, choose **Open with**, and then choose **Excel**</span></span>
 
-<span data-ttu-id="c072f-106">**Spuštění rychlé opravy**</span><span class="sxs-lookup"><span data-stu-id="c072f-106">**Run a Quick Repair**</span></span>
+<span data-ttu-id="a25ad-106">**Spuštění rychlé opravy**</span><span class="sxs-lookup"><span data-stu-id="a25ad-106">**Run a Quick Repair**</span></span>
 
-1. <span data-ttu-id="c072f-107">V **Ovládacích panelech > > programy a funkce**.</span><span class="sxs-lookup"><span data-stu-id="c072f-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
+1. <span data-ttu-id="a25ad-107">Přejděte na **Ovládací panely > Programy > Programy a funkce**.</span><span class="sxs-lookup"><span data-stu-id="a25ad-107">Go to **Control Panel > Programs > Programs and Features**.</span></span>
 
-2. <span data-ttu-id="c072f-108">Vyberte produkt Office, který chcete opravit, a pak zvolte **změnit**.</span><span class="sxs-lookup"><span data-stu-id="c072f-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
+2. <span data-ttu-id="a25ad-108">Vyberte produkt Office, který chcete opravit, a pak zvolte **Změnit**.</span><span class="sxs-lookup"><span data-stu-id="a25ad-108">Select the Office product you want to repair, and then choose **Change**.</span></span>
 
-3. <span data-ttu-id="c072f-109">Zvolte možnost **Rychlá oprava** a pak zvolte **opravit**.</span><span class="sxs-lookup"><span data-stu-id="c072f-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
+3. <span data-ttu-id="a25ad-109">Zvolte možnost **Rychlá oprava** a pak zvolte **Opravit**.</span><span class="sxs-lookup"><span data-stu-id="a25ad-109">Choose the **Quick Repair** option, and then choose **Repair**.</span></span>
 
-<span data-ttu-id="c072f-110">**Odinstalace nepoužívaných verzí Office**</span><span class="sxs-lookup"><span data-stu-id="c072f-110">**Uninstall versions of Office you don't use**</span></span>
+<span data-ttu-id="a25ad-110">**Odinstalace verzí Office, které nepou íte**</span><span class="sxs-lookup"><span data-stu-id="a25ad-110">**Uninstall versions of Office you don't use**</span></span>
 
-1. <span data-ttu-id="c072f-111">Přejděte do **ovládacího panelu > odinstalujte program**a vyberte verzi Office, kterou chcete odebrat.</span><span class="sxs-lookup"><span data-stu-id="c072f-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
+1. <span data-ttu-id="a25ad-111">Přejděte na **Ovládací panely > Odinstalovat program a** vyberte verzi Office, kterou chcete odebrat.</span><span class="sxs-lookup"><span data-stu-id="a25ad-111">Go to **Control Panel > Uninstall a Program**, and then select the version of Office you want to remove.</span></span>
 
-2. <span data-ttu-id="c072f-112">Klikněte na **odinstalovat**.</span><span class="sxs-lookup"><span data-stu-id="c072f-112">Click **Uninstall**.</span></span>
+2. <span data-ttu-id="a25ad-112">Klikněte **na Odinstalovat.**</span><span class="sxs-lookup"><span data-stu-id="a25ad-112">Click **Uninstall**.</span></span>
 
-3. <span data-ttu-id="c072f-113">Restartujte počítač.</span><span class="sxs-lookup"><span data-stu-id="c072f-113">Restart your computer.</span></span>
+3. <span data-ttu-id="a25ad-113">Restartujte počítač.</span><span class="sxs-lookup"><span data-stu-id="a25ad-113">Restart your computer.</span></span>
 
-<span data-ttu-id="c072f-114">**Spuštění tohoto poradce při potížích s nastavením otevřených přípon souborů Office v Office**</span><span class="sxs-lookup"><span data-stu-id="c072f-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
+<span data-ttu-id="a25ad-114">**Spuštěním tohoto poradce při potížích nastavte přípony souborů Office tak, aby se v Office otevíra**</span><span class="sxs-lookup"><span data-stu-id="a25ad-114">**Run this troubleshooter to set Office file extensions to open in Office**</span></span>
 
-1. <span data-ttu-id="c072f-115">Spusťte tento Poradce při potížích: https://aka.ms/diag_officefile .</span><span class="sxs-lookup"><span data-stu-id="c072f-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
+1. <span data-ttu-id="a25ad-115">Spusťte tohoto poradce při potížích: https://aka.ms/diag_officefile .</span><span class="sxs-lookup"><span data-stu-id="a25ad-115">Run this troubleshooter: https://aka.ms/diag_officefile.</span></span>
 
-2. <span data-ttu-id="c072f-116">V závislosti na prohlížeči **otevřete** nebo **uložte** Poradce při potížích na plochu a **Spusťte** ho.</span><span class="sxs-lookup"><span data-stu-id="c072f-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>
+2. <span data-ttu-id="a25ad-116">V závislosti na prohlížeči **otevřete nebo** **uložte** poradce při potížích na plochu a pak **ho spusťte.**</span><span class="sxs-lookup"><span data-stu-id="a25ad-116">Depending on your browser, **Open** or **Save** the troubleshooter to your desktop, and then **Run** it.</span></span>

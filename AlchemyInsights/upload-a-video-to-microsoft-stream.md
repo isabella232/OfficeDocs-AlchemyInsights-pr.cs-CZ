@@ -1,8 +1,8 @@
 ---
-title: Nahrání videa do Microsoftu
+title: Nahrání videa do Microsoft Streamu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 95db3ee93cdd615d94facfad9b18ce1fb122e725
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 77a172462eef60c88c45e5ef0b6eb48f3b0af60a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811850"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782468"
 ---
-# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="91d2f-102">Nahrání videa do Microsoftu</span><span class="sxs-lookup"><span data-stu-id="91d2f-102">Upload a video to Microsoft Stream</span></span>
+# <a name="upload-a-video-to-microsoft-stream"></a><span data-ttu-id="8812f-102">Nahrání videa do Microsoft Streamu</span><span class="sxs-lookup"><span data-stu-id="8812f-102">Upload a video to Microsoft Stream</span></span>
 
-<span data-ttu-id="91d2f-103">Nahrávání videí s Microsoft streamem je snadné a kdokoli to může.</span><span class="sxs-lookup"><span data-stu-id="91d2f-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
+<span data-ttu-id="8812f-103">Nahrávání videí pomocí Microsoft Streamu je snadné a každý to může udělat.</span><span class="sxs-lookup"><span data-stu-id="8812f-103">Uploading videos with Microsoft Stream is easy and anyone can do it.</span></span>
 
-- [<span data-ttu-id="91d2f-104">Nahrání videa</span><span class="sxs-lookup"><span data-stu-id="91d2f-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)
+- [<span data-ttu-id="8812f-104">Nahrání videa</span><span class="sxs-lookup"><span data-stu-id="8812f-104">Upload a video</span></span>](https://docs.microsoft.com/stream/portal-upload-video)
