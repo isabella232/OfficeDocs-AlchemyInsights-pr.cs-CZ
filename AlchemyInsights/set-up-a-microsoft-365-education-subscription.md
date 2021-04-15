@@ -2,7 +2,7 @@
 title: Nastavení předplatného Microsoft 365 Education
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: ac31864495ebd398f094c27b59787033069c1433
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 778a44b5da04db56304e866e502801e382e84363
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701064"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787454"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Nastavení předplatného Microsoft 365 Education
 
@@ -25,5 +25,5 @@ Pokud vás zajímá postup s průvodcem, podívejte se na [popisné audio a vide
 
 **Další skvělé zdroje**
 
-- Další informace najdete v tématu [Vytvoření účtu tenanta Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) .
-- Přečtěte si článek [Začínáme s Microsoft 365 vzdělávacími](https://docs.microsoft.com/education/) správci IT, vývojáři a partnery.
+- Přehled najdete v tématu Vytvoření účtu [tenanta Office 365.](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)
+- Podívejte [se, jak začít pracovat s Microsoft 365 Education](https://docs.microsoft.com/education/) pro správce IT, vývojáře a partnery.

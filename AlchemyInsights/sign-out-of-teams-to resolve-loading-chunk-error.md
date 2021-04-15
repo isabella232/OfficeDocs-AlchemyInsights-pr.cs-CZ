@@ -1,8 +1,8 @@
 ---
-title: Odhlášení z aplikace Teams za účelem vyřešení chyby při načítání bloku dat
+title: Odhlásit se z Teams a vyřešit tak chybu načítání bloku
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: c78ab298471b490ec3a0fa1ac3411545de8602eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51ba8ef206340c8edb63a905d87ce6ac6355d503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661877"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786914"
 ---
-# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Odhlášení z aplikace Teams za účelem vyřešení chyby při načítání bloku dat
+# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Odhlásit se z Teams a vyřešit tak chybu načítání bloku
 
-Pokud se zobrazí chyba "**načítání bloku dat XXX selhalo**" při přístupu k kartě soubory v teams, zkuste se odhlásit z teams a pak chybu vyřešit.
+Pokud se vám při přístupu k kartě soubory v Teams zobrazí chybová zpráva Načítání bloku **xxx** se nezdařila, zkuste se odhánět od teams a pak se znovu přihlásit a chybu vyřešit.
 
-- Informace o tom, jak se odhlásit z týmů, najdete v tématu [odhlášení od týmů](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).
+- Informace o tom, jak se odhlásit z Teams, najdete v tématu Odhlášení [z Teams](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).

@@ -2,21 +2,22 @@
 title: Použití diktování ve Wordu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002888"
 - "5513"
-ms.openlocfilehash: 8bfffc23ce3efe81e0b2c5d4f000ed9dfc0ba1a5
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: 665437de66b0875492201074146c8ed4ef454f91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44017039"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51781703"
 ---
 # <a name="use-dictation-in-word"></a>Použití diktování ve Wordu
 

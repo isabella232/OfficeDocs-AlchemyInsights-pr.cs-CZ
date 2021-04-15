@@ -2,21 +2,22 @@
 title: Zvednutí ruky v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002646"
 - "5086"
-ms.openlocfilehash: 3d89a088d7f8d1881eafae7121f670c93dda7d84
-ms.sourcegitcommit: bcd6df19adeb5e3a04e518a05621dd6c68da93f2
+ms.openlocfilehash: 879bb55280dd58a95539e90d27a9c2f23cd6cacd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2020
-ms.locfileid: "43955703"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789857"
 ---
 # <a name="raise-your-hand-in-teams"></a>Zvednutí ruky v Teams!
 

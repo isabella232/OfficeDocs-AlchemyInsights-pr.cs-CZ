@@ -1,8 +1,8 @@
 ---
-title: Soubor ve formátu XLS se při poklepání neotevřel
+title: Poklikejte na soubor XLS se neotevřel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796317"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770588"
 ---
 # <a name="excel-file-doesnt-open"></a>Excelový soubor se neotevře
 
-Zkuste jeden z těchto návrhů:
+Vyzkoušejte jeden z těchto návrhů:
 
-**Výběr Excelu jako výchozího**
+**Jako výchozí zvolte Excel.**
 
-* Klikněte na list pravým tlačítkem myši, vyberte **otevřít v**a pak zvolte **Excel** .
+* Klikněte pravým tlačítkem myši na list, zvolte **Otevřít v programu a** pak zvolte **Excel.**
 
 **Spuštění rychlé opravy**
 
-1. V **Ovládacích panelech > > programy a funkce**.
+1. Přejděte na **Ovládací panely > Programy > Programy a funkce**.
 
-2. Vyberte produkt Office, který chcete opravit, a pak zvolte **změnit**.
+2. Vyberte produkt Office, který chcete opravit, a pak zvolte **Změnit**.
 
-3. Zvolte možnost **Rychlá oprava** a pak zvolte **opravit**.
+3. Zvolte možnost **Rychlá oprava** a pak zvolte **Opravit**.
 
-**Odinstalace nepoužívaných verzí Office**
+**Odinstalace verzí Office, které nepou íte**
 
-1. Přejděte do **ovládacího panelu > odinstalujte program**a vyberte verzi Office, kterou chcete odebrat.
+1. Přejděte na **Ovládací panely > Odinstalovat program a** vyberte verzi Office, kterou chcete odebrat.
 
-2. Klikněte na **odinstalovat**.
+2. Klikněte **na Odinstalovat.**
 
 3. Restartujte počítač.
 
-**Spuštění tohoto poradce při potížích s nastavením otevřených přípon souborů Office v Office**
+**Spuštěním tohoto poradce při potížích nastavte přípony souborů Office tak, aby se v Office otevíra**
 
-1. Spusťte tento Poradce při potížích: https://aka.ms/diag_officefile .
+1. Spusťte tohoto poradce při potížích: https://aka.ms/diag_officefile .
 
-2. V závislosti na prohlížeči **otevřete** nebo **uložte** Poradce při potížích na plochu a **Spusťte** ho.
+2. V závislosti na prohlížeči **otevřete nebo** **uložte** poradce při potížích na plochu a pak **ho spusťte.**
