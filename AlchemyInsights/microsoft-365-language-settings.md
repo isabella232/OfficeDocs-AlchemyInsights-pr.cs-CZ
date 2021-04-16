@@ -2,7 +2,7 @@
 title: Jazykové nastavení Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000298"
 - "5899"
-ms.openlocfilehash: a85acfa7d54592872b3618a01152b2f56e1fa7a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9898e76954fde8fb6988acdf11c656bbdaa8ce3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742772"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794501"
 ---
 # <a name="microsoft-365-language-settings"></a>Jazykové nastavení Microsoft 365
 
-Určete, jestli chcete změnit jazyk zobrazení a další nastavení pro uživatele nebo pro celého tenanta.
+Zjistěte, jestli chcete změnit jazyk zobrazení a další nastavení pro uživatele nebo pro celého tenanta.
 
-- Uživatelům najdete v článku [Změna jazyka zobrazení a časového pásma v Microsoft 365 pro firmy pro všechny aplikace](https://support.microsoft.com/office/6f238bff-5252-441e-b32b-655d5d85d15b).
-- Pro tenanta se podívejte na článek  [nastavení jazyka a místního nastavení pro Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/access-management/set-language-and-region).
+- Informace pro uživatele najdete v tématu Změna jazyka zobrazení a časového [pásma v Microsoftu 365 pro firmy pro všechny aplikace](https://support.microsoft.com/office/6f238bff-5252-441e-b32b-655d5d85d15b).
+- Informace o tenantovi najdete v tématu Nastavení jazyka a  [místní nastavení pro Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/access-management/set-language-and-region).

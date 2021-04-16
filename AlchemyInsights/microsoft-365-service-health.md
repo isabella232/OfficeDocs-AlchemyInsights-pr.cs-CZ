@@ -2,7 +2,7 @@
 title: Stav služby Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742736"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794465"
 ---
 # <a name="microsoft-365-service-health"></a>Stav služby Microsoft 365
 
 
-V [řídicím panelu Stav služby](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth)zkontrolujte stav služby jakékoli služby. Když v pravém horním rohu vyberete **nové centrum pro správu** , uvidíte nové možnosti stavu služby.
+Zkontrolujte stav služby jakékoli služby z řídicího [panelu Stavu služby](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Když v **pravém horním rohu vyberete** Nové centrum pro správu, zobrazí se nové možnosti Stavu služby.
 
-- Vyberte **Předvolby** pro přijímání **e-mailových oznámení o**stavu služby.
+- Pokud **chcete dostávat** oznámení o stavu služby, vyberte **Předvolby.**
 
-- V případě potíží se službou vyberte možnost **ohlásit problém** .
+- Pokud **máte problém** se službou, vyberte Nahlásit problém.
 
-- Vyberte **Historie** a Zkontrolujte historii stavu služeb vaší organizace. 
+- Vyberte **Historie** a zkontrolujte historii stavu služby vaší organizace. 
 
-Další informace najdete v tématu [Jak zkontrolovat stav služby Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Další informace najdete v článku Jak zkontrolovat stav služby [Microsoft 365.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
