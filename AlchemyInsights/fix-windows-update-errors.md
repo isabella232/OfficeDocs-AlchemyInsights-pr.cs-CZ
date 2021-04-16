@@ -1,8 +1,8 @@
 ---
-title: Oprava chyb Windows Update
+title: Oprava chyb ve Službě Windows Update
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: febef6e2def6d7b928ec8b21d07aa2e8d94d7d4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744655"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812637"
 ---
-# <a name="fix-windows-update-errors"></a>Oprava chyb Windows Update
+# <a name="fix-windows-update-errors"></a>Oprava chyb ve Službě Windows Update
 
-Pokud se při stahování a instalaci Windows Update zobrazí kód chyby, **Poradce při potížích s aktualizací** může problém vyřešit.
+Pokud se při stahování a instalaci aktualizace Windows  zobrazí kód chyby, může vám poradce při potížích s aktualizací pomoct problém vyřešit.
 
-- [Stažení Poradce při potížích s aktualizací pro Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Spusťte Poradce při potížích. Po dokončení doporučujeme zařízení restartovat. Pak se podívejte na informace o nových aktualizacích, a to tak, že přejdete na [> nastavení > aktualizace & zabezpečení > Windows Update](ms-settings:windowsupdate).
+- [Stáhnout Poradce při potížích s aktualizací pro Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Spusťte poradce při potížích. Až to bude hotové, je nejlepší restartovat zařízení. Potom vyhledejte nové aktualizace tak, že v části [Start > Settings > Update & Security > Windows Update](ms-settings:windowsupdate).
 
-Pokud to pořád nefunguje, podívejte se na informace v [části Windows Update: nejčastější dotazy](https://support.microsoft.com/help/12373/windows-update-faq) .
+Pokud tyto funkce pořád nefungují, podívejte se prosím na [Windows Update: Nejčastější dotazy,](https://support.microsoft.com/help/12373/windows-update-faq) ve které najdete další informace.

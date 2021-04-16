@@ -2,7 +2,7 @@
 title: Začínáme s Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 101459172ba6c1ae1229280e99060512b7a79fc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50897076"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811917"
 ---
 # <a name="getting-started-with-intune"></a>Začínáme s Intune
 

@@ -2,7 +2,7 @@
 title: Oprava tiskárny Bluetooth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3483"
 - "9001214"
-ms.openlocfilehash: bd419ca63d659167d7deccf34ce303ce29775099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26df4eca68b4e14bde56fc5015239ec0810beb0a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744907"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812889"
 ---
-# <a name="fix-bluetooth-printer-connection-issues"></a>Řešení problémů s připojením tiskáren Bluetooth
+# <a name="fix-bluetooth-printer-connection-issues"></a>Řešení problémů s připojením tiskárny Bluetooth
 
-Vyzkoušejte tyto postupy pro řešení potíží, aby vaše tiskárna Bluetooth správně fungovala:
+Zkuste znovu pracovat s tiskárnou Bluetooth pomocí těchto kroků:
 
 
-1. Zkontrolujte, že je Bluetooth zapnutý:
-    1. Vyberte **Spustit**  >  **Nastavení**  >  **zařízení**  >  **Bluetooth & jiných zařízeních**.
-    2. **Zapnutí přepínače Bluetooth**
-2. Spusťte Poradce při potížích s technologií Bluetooth. <br>
-    Vyberte **Start**, zadejte **Poradce při potížích s nastavením**a pak vyberte možnost **Poradce při potížích** . V nabídce vyberte **Bluetooth** a **Spusťte Poradce při potížích**.
+1. Zkontrolujte, jestli je bluetooth zapnuté:
+    1. Vyberte **Start**  >  **Settings**  >  **Devices**  >  **Bluetooth & jiných zařízeních**.
+    2. Zapněte přepínač **Bluetooth.**
+2. Spusťte Poradce při potížích s Bluetooth. <br>
+    Vyberte **Start,** zadejte **nastavení poradce při** potížích a pak vyberte možnost Poradce při potížích s **nastavením.** V nabídce vyberte **Bluetooth** a Spusťte poradce **při potížích.**
 
-Pokud to nepomůže, zkuste tiskárnu Bluetooth odebrat a přeinstalovat:
+Pokud to nefunguje, zkuste odebrat a přeinstalovat tiskárnu Bluetooth:
 
-1. Odeberte tiskárnu v nastaveních:
-    1. Vyberte **Spustit**  >  **Nastavení**  >  **zařízení**  >  **tiskárny & skenery**.
-    2. V části **tiskárny & skenery**vyberte tiskárnu, kterou odstraňujete. Vyberte **Odebrat zařízení**. Postupujte podle pokynů pro úplné odebrání tiskárny.
-2. Odebrání softwaru výrobce tiskáren od jiných výrobců:
-    1. Vyberte **Spustit**  >  **Nastavení**  >  **aplikací**.
-    2. V části **aplikace & funkce**přejděte na najít veškerý software nainstalovaný od výrobce tiskárny (například HP, Canon nebo Epson).
+1. Odeberte tiskárnu v Nastavení:
+    1. Vyberte **Start**  >  **Settings**  >  **Devices**  >  **Printers & skenery**.
+    2. V **& tiskárny** vyberte tiskárnu, kterou chcete vyřešit. Vyberte **Odebrat zařízení**. Postupujte podle pokynů pro úplné odebrání tiskárny.
+2. Odeberte software jiného výrobce tiskárny:
+    1. Vyberte **Start** Settings Apps  >    >  (Aplikace **pro nastavení startu).**
+    2. V **& aplikací** vyhledejte software nainstalovaný od výrobce tiskárny (například HP, Canon nebo Epson).
 3. Vypněte tiskárnu a restartujte ji.
    1. Vypněte tiskárnu a odpojte napájecí kabel. Počkejte 30 sekund. 
    2. Tiskárnu opět připojte a zapněte.
-4. Přeinstalujte tiskárnu v nastaveních:
-    1. Vyberte **Spustit**  >  **Nastavení**  >  **zařízení**  >  **tiskárny & skenery**.
-    2. V horní části obrazovky vyberte odkaz **Přidat tiskárnu nebo skener** a postupujte podle pokynů k přeinstalaci tiskárny.
+4. Přeinstalujte tiskárnu v Nastavení:
+    1. Vyberte **Start**  >  **Settings**  >  **Devices**  >  **Printers & skenery**.
+    2. V horní **části obrazovky** vyberte odkaz Přidat tiskárnu nebo skener a podle pokynů tiskárnu znovu nainstalujte.

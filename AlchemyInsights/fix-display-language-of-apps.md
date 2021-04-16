@@ -1,8 +1,8 @@
 ---
-title: Oprava jazyku zobrazení aplikací
+title: Oprava jazyka zobrazení aplikací
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55b2ef2b47ce2451133341f7a58d7d3f3e114bfe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730080"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812853"
 ---
-# <a name="fix-the-display-language-of-apps"></a>Oprava jazyku zobrazení aplikací
+# <a name="fix-the-display-language-of-apps"></a>Oprava jazyka zobrazení aplikací
 
-Po změně jazyka zobrazení ve Windows 10 mohou některé aplikace použít předchozí jazyk, když je otevřete. K tomu dochází, protože nové verze aplikací pro tento jazyk musí být staženy ze Storu. Tento problém můžete vyřešit tak, že buď počkáte na automatickou aktualizaci, nebo aktualizujete aktualizované verze aplikací.
+Po změně jazyka zobrazení ve Windows 10 mohou některé aplikace při jejich otevření používat předchozí jazyk. Stává se to proto, že nové verze aplikací pro tento jazyk je nutné stáhnout ze Storu. Pokud chcete tento problém vyřešit, můžete buď počkat na automatickou aktualizaci, nebo můžete ručně nainstalovat aktualizovanou verzi aplikací.
 
-Pokud chcete aktualizaci nainstalovat ručně, otevřete **Microsoft Store** a v pravém horním rohu klikněte na **stahování a aktualizace** . Pak klikněte na **načíst aktualizace**. Pokud se jazyk po dokončení aktualizace nezměnil, zkuste restartovat počítač.
+Pokud chcete aktualizaci nainstalovat ručně, otevřete **Microsoft Store** a v pravém horním rohu klikněte na Položky **ke** stažení a aktualizace. Potom klikněte **na Získat aktualizace.** Pokud se jazyk po dokončení aktualizace nezmění, zkuste restartovat počítač.
 
 ![Získejte aktualizace.](media/get-updates.png)
 
-Další informace o nastaveních jazyka pro vstup a zobrazení najdete [v článku Správa nastavení jazyka pro vstup a zobrazení ve Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).
+Další informace o nastavení jazyka zadávání a zobrazení najdete v tématu Správa nastavení jazyka zadávání a zobrazení [ve Windows 10.](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences)

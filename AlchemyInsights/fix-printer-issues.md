@@ -2,7 +2,7 @@
 title: Řešení problémů s tiskárnou
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: c8bdc9ff2ce61af24e886559bd78ecb99ce56921
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4700ba896d5101562bd78cf76ec61e47da29894
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677669"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812673"
 ---
 # <a name="troubleshoot-your-printer"></a>Poradce při potížích s tiskárnou
 
-Pokud máte problémy s tiskárnou, zkuste nejdřív udělat **cyklus napájení tiskárny**. Postupujte takto:
+Pokud máte problémy s tiskárnou, zkuste nejdřív provést cyklus **napájení tiskárny.** Postupujte takto:
 
 1. Vypněte tiskárnu a odpojte napájecí kabel.
 2. Počkejte 30 sekund.
 3. Tiskárnu opět připojte a zapněte.
 
-Pokud se tím problém nevyřeší, spusťte Poradce při potížích s tiskárnou **Start**– spusťte  >  **Settings**  >  aktualizaci nastavení & řešení potíží se**zabezpečením**  >  **Troubleshoot**. Vyberte **tiskárna**a pak vyberte **spustit Poradce při potížích**.
+Pokud se tím problém nevyřešil, spusťte poradce při potížích s tiskárnou tak, že na obrazovce Spustit aktualizaci nastavení &  >    >  **poradce při potížích se**  >  **zabezpečením.** Vyberte **Tiskárna** a pak vyberte **Spustit poradce při potížích**.

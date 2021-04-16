@@ -1,8 +1,8 @@
 ---
-title: Vyhledání e-mailové adresy kanálu aplikace Teams
+title: Vyhledání e-mailové adresy kanálu Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5580"
-ms.openlocfilehash: 285c49b51c5bcddd71ccd199e16bb109f0809487
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0a146728b6bd2d57bd299c7f17993a82d7ccef9e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730296"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812961"
 ---
-# <a name="find-the-email-address-for-a-teams-channel"></a>Vyhledání e-mailové adresy kanálu aplikace Teams
+# <a name="find-the-email-address-for-a-teams-channel"></a>Vyhledání e-mailové adresy kanálu Teams
 
-Pokud chcete poslat e-mail na kanál v aplikaci teams, použijte e-mailovou adresu. Jakmile je e-mail součástí kanálu, může na něj kdokoli odpovědět a zahájit konverzaci.
+Pokud chcete poslat e-mail do kanálu v Teams, použijte e-mailovou adresu kanálu. Jakmile je e-mail součástí kanálu, může na něj každý odpovědět a zahájit konverzaci.
 
-Poznámka: Pokud možnost **získat e-mailovou adresu** nevidíte, zkontrolujte, jestli je integrace e-mailů aplikace Teams zapnutá, a to tak, že přejdete na web **Centrum pro správu** > **Org wide Settings** > **Nastavení týmů** > **Teams email integration** .
+Poznámka: Pokud možnost Získat  e-mailovou adresu nevidíte, zkontrolujte prosím, jestli je integrace e-mailu Teams povolená, a to tak, že se dostanete na: Centrum pro správu **Teams** Pro celou organizace Nastavení Teams Nastavení Integrace >  >  > **e-mailu Teams**
 
-Pokud chcete najít e-mailovou adresu, přejděte na název kanálu a klikněte na **Další možnosti > získat e-mailovou adresu**.
+Pokud chcete najít e-mailovou adresu, přejděte na název kanálu a klikněte na Další **možnosti > Získat e-mailovou adresu**.
 
-Další informace najdete v tématu [odeslání e-mailu na kanál v aplikaci Teams](https://support.office.com/article/send-an-email-to-a-channel-in-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e).
+Další informace najdete v tématu [Odeslání e-mailu do kanálu v Teams](https://support.office.com/article/send-an-email-to-a-channel-in-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e).
 
-Správci můžou v centru pro správu týmů spravovat, jestli můžou uživatelé posílat e-maily na kanál v Teams. Další informace o správě [Integrace e-mailů](https://docs.microsoft.com/microsoftteams/enable-features-office-365#email-integration)
+Správci mohou v Centru pro správu Teams spravovat, jestli mohou uživatelé posílat e-maily do kanálu v Teams. Další informace o správě integrace [e-mailu](https://docs.microsoft.com/microsoftteams/enable-features-office-365#email-integration)

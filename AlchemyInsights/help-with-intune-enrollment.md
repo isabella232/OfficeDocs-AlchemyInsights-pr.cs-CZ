@@ -1,8 +1,8 @@
 ---
-title: Nápověda ke službě Intune
+title: Nápověda k registraci Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 516ec77ac29b17509f39bc03cbea8fb7a5a8adbb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705184"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811557"
 ---
-# <a name="help-with-intune-enrollment"></a>Nápověda ke službě Intune
+# <a name="help-with-intune-enrollment"></a>Nápověda k registraci Intune
 
 
-- [Informace o zápisu zařízení pomocí Intune](https://docs.microsoft.com/intune/device-enrollment)
+- [Další informace o registraci zařízení v Intune](https://docs.microsoft.com/intune/device-enrollment)
 
-- [Nastavení přihlášení zařízení iOS s Intune](https://docs.microsoft.com/intune/ios-enroll)
+- [Nastavení registrace zařízení s iOSem v Intune](https://docs.microsoft.com/intune/ios-enroll)
 
-- [Nastavení zápisu zařízení s Androidem s Intune](https://docs.microsoft.com/intune/android-enroll)
+- [Nastavení registrace zařízení s Androidem v Intune](https://docs.microsoft.com/intune/android-enroll)
 
-- [Nastavení zápisu zařízení s Windows pomocí Intune](https://docs.microsoft.com/intune/windows-enroll)
+- [Nastavení registrace zařízení s Windows v Intune](https://docs.microsoft.com/intune/windows-enroll)
 
 **Řešení potíží s registrací zařízení**
 
-1. Na portálu Poradce při potížích s Intune můžete diagnostikovat a vyřešit běžné chyby zápisu. Další podrobnosti najdete v [tomto](https://docs.microsoft.com/intune/help-desk-operators) dokumentu.
+1. K diagnostice a řešení běžných chyb registrace použijte Portál řešení potíží s Intune. Další [podrobnosti](https://docs.microsoft.com/intune/help-desk-operators) najdete v tomto dokumentu.
 
-2. V těchto dokumentech se podívejte na seznam běžných chyb, které zabraňují zápisu a řešení každého z nich: [Poradce při potížích](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) a [odstraňování potíží s dokumentem](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. V těchto dokumentech najdete seznam běžných chyb, které brání zápisu a řešení jednotlivých dokumentů: [Průvodce](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) odstraňováním potíží a [Poradce při potížích s dokumentem](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

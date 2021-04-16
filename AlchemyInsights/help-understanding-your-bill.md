@@ -1,8 +1,8 @@
 ---
-title: Vysvětlení vašeho účtu
+title: Pomozte porozumět fakturě
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705436"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811593"
 ---
-# <a name="help-understanding-your-bill"></a>Vysvětlení vašeho účtu
+# <a name="help-understanding-your-bill"></a>Pomozte porozumět fakturě
 
-Fakturovaná částka za předplatné odpovídá licenční ceně vynásobené počtem zakoupených licencí a všech požadovaných daní/poplatků.
+Částka fakturovaná za vaše předplatné odpovídá ceně licence vynásobené počtem zakoupených licencí a požadovanými daněmi/poplatky.
   
-Pokud je fakturovaná částka odlišná od částky, může to mít několik důvodů:
+Pokud se fakturovaná částka liší, může k tomu dojít z několika důvodů:
   
-- Licence byly přidány nebo odebrány z předplatného. Po změně licencí v polovině období se to projeví na následující faktuře. Můžete tedy vidět přeplatek nebo nově fakturovanou částku za předchozí období poskytování služby související s příslušnou změnou.
+- Licence byly přidány nebo odebrány z vašeho předplatného. Když se licence změní v polovině období, projeví se to na následující faktuře. Můžete tedy vidět přeplatek nebo nově fakturovanou částku za předchozí období poskytování služby související s příslušnou změnou.
 
 - Předplatné bylo zrušeno. Po zrušení dostanete fakturu s nevyrovnaným zůstatkem, od kterého budou odečtené všechny případné přeplatky.
 
 - Vaše předplatné bylo obnoveno na nové období a změnila se cena licence.
 
-Další informace o vaší faktuře najdete v tématu: [vysvětlení vaší faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+Další informace o faktuře najdete v tématu: [Principy faktury](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

@@ -1,8 +1,8 @@
 ---
-title: Řešení problémů se synchronizací OneDrivu se SharePointem
+title: Řešení problémů synchronizační aplikace OneDrivu se SharePointem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5800003"
 - "5724"
-ms.openlocfilehash: d24494f5fd778d16dea583b91b99148c606d8adc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 7b9b496534fbff77776c935d401d49208b0355b8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713380"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812745"
 ---
-# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Řešení problémů se synchronizací OneDrivu se SharePointem
+# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Řešení problémů synchronizační aplikace OneDrivu se SharePointem
 
-Pokud se OneDrive nesynchronuje se SharePointem tak, jak očekáváte vy nebo vaši uživatelé, podívejte se na řešení problémů se synchronizací [SharePointu Online.](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US)
+Pokud se OneDrive nesynchronizuje se SharePointem způsobem, který vy nebo vaši uživatelé očekáváte, přečtěte si článek [Řešení problémů se synchronizací SharePointu Online,](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US).

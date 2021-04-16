@@ -2,7 +2,7 @@
 title: Začínáme s živými událostmi v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 979555a6fba46437adaf7e8c201cb9d6c4a8e965
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677272"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811953"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Začínáme s živými událostmi v Teams
 
@@ -25,7 +25,7 @@ ms.locfileid: "47677272"
 
 K vytvoření živé události budete potřebovat následující:
 
-- Nejdřív ověřte, že jsou živé události aplikace Teams [ve vaší zemi a oblasti](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability). Živé události se zatím v některých zemích nepodporují.  Pokud jste přiřadili licence a nastavili zásady, ale stále nemůžete vytvořit živou událost v teams, je pravděpodobné, že jste v zemi nebo oblasti, kde jsou živé události zatím nedostupné.
+- Nejdřív potvrďte, že živé události Teams jsou [dostupné ve vaší zemi](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability)a oblasti . Živé události nejsou v některých zemích zatím podporované.  Pokud jste přiřadili licence a nastavili zásady, ale pořád nemůžete vytvořit živou událost Teams, je pravděpodobné, že jste v zemi nebo oblasti, kde živé události ještě nejsou dostupné.
 
 - [Licence Office 365 Enterprise E1, E3 nebo E5 nebo licence Office 365 A3 nebo A5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Poznámka:** Vzhledem k nedávnému zvýšení využití Teams může po přiřazení licence Teams uživatelům trvat až 24 hodin, než se plně zprovozní. Do té doby jim nebude možné přiřadit zásady Teams a pravděpodobně nebudou mít přístup k některým funkcím Teams, jako jsou volání a audiokonference.
 

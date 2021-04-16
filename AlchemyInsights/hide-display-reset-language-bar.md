@@ -2,38 +2,39 @@
 title: Skrytí, zobrazení nebo obnovení panelu jazyků
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002950"
 - "5647"
-ms.openlocfilehash: 59a98fb7d04e1eab030e5f9c50d4b29346e9a2b6
-ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
-ms.translationtype: MT
+ms.openlocfilehash: 73b567797447635df5b6be960cf3152e2d8741d0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44264376"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811485"
 ---
 # <a name="hide-display-or-reset-the-language-bar"></a>Skrytí, zobrazení nebo obnovení panelu jazyků
 
-**Chcete-li minimalizovat panel jazyků:**
+**Panel jazyků minimalizujete následovně:**
 
-Můžete kliknout na tlačítko minimalizovat v pravém horním rohu panelu jazyků. Nebo stačí přetáhnout panel jazyků na hlavní panel, který jej automaticky minimalizuje.
+Můžete kliknout na minimalizační tlačítko v pravém horním rohu panelu jazyků. Panel jazyků můžete taky jednoduše přetáhnout na hlavní panel, tím ho automaticky minimalizujete.
 
 ![Minimalizace panelu jazyků](media/minimize-language-bar.png)
 
-**Vysunout panel jazyků:**
+**Panel jazyků zobrazíte následovně:**
 
-Pokud nechcete ukotvit panel jazyků na hlavním panelu, klepněte pravým tlačítkem myši na libovolné prázdné místo na hlavním panelu a zškrtněte zaškrtnutí **políčka Panel jazyků** v nabídce Panely nástrojů. Tím se panel jazyků zobrazí mimo hlavní panel, stejně jako předchozí snímek obrazovky.
+Pokud panel jazyků nechcete ukotvit na hlavním panelu, klikněte pravým tlačítkem myši na prázdné místo na hlavním panelu a zrušte zaškrtnutí políčka **Panel jazyků** v nabídce panelů nástrojů. Panel jazyků se tak zobrazí mimo hlavní panel, jak je vidět na předchozím snímku obrazovky.
 
-![Vysát panel jazyků](media/pop-out-language-bar.png)
+![Zobrazení panelu jazyků](media/pop-out-language-bar.png)
 
-**Obnovení výchozího nastavení panelu jazyků:**
+**Obnovení výchozího panelu jazyků:**
 
-Klepněte pravým tlačítkem myši na tlačítko jazyka na panelu nástrojů a v nabídce klepněte na **tlačítko Obnovit panel jazyků.** Tím se obnoví výchozí nastavení.
+Pravým tlačítkem myši klikněte na tlačítko jazyka na panelu nástrojů a klikněte na možnost **Obnovit panel jazyků**. Tím ho obnovíte do výchozího stavu.
 
 ![Obnovení panelu jazyků](media/restore-language-bar.png)
