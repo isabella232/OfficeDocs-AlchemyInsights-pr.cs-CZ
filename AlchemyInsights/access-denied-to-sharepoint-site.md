@@ -2,7 +2,7 @@
 title: " Přístup na sharepointový web zamítnut"
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9000150"
 - "1666"
 - "1806"
-ms.openlocfilehash: 40ce9d572e87d19ebe62948169fd05e3d11f55c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bff558a4269fdaddbcc59d87f50acaa261a572ff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663543"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803753"
 ---
 # <a name="access-denied-to-sharepoint-site"></a>Přístup na sharepointový web zamítnut
 

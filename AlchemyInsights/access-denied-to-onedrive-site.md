@@ -2,7 +2,7 @@
 title: Přístup na web OneDrivu zamítnut
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000150"
 - "1663"
-ms.openlocfilehash: d2fb80ab82cff4a24fd46966d38f2ffb89505038
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ab85f09c91337b8653d433c70c24700306fdaef7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663614"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803897"
 ---
 # <a name="access-denied-to-onedrive-site"></a>Přístup na web OneDrivu zamítnut
 
