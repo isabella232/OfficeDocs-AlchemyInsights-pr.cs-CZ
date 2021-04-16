@@ -1,41 +1,42 @@
 ---
-title: Ikona napájení nebo baterie ve Windows 10 chybí
+title: Ikona napájení nebo baterie chybí ve Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002953"
 - "5655"
-ms.openlocfilehash: d82994c86126ea9c789e846a74e03794c32c5c3c
-ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
-ms.translationtype: MT
+ms.openlocfilehash: 95b68cee58f88d04f02e29477b139f7f583dc0b1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/16/2020
-ms.locfileid: "44269007"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790541"
 ---
-# <a name="power-or-battery-icon-missing-in-windows-10"></a>Ikona napájení nebo baterie ve Windows 10 chybí
+# <a name="power-or-battery-icon-missing-in-windows-10"></a>Ikona napájení nebo baterie chybí ve Windows 10
 
-Pokud má vaše zařízení s Windows 10 baterii (např. notebook nebo tablet nebo počítač připojený přes USB k ups), obvykle se na hlavním panelu u hodin zobrazí ikona napájení/baterie, například:
+Pokud má zařízení s Windows 10 ikonu baterie (např. přenosný počítač, tablet nebo počítač připojený přes USB k UPS), obvykle se na hlavním panelu poblíž hodin zobrazí ikona napájení/baterie, například:
 
 ![Ikona baterie](media/battery-icon.png)
 
 Pokud tuto ikonu nevidíte, může být skrytá:
 
-1. Přejděte na > hlavní panel nastavení **[> přizpůsobení](ms-settings:taskbar?activationSource=GetHelp)**.
+1. Přejděte na **[Nastavení > Přizpůsobení > Hlavní panel](ms-settings:taskbar?activationSource=GetHelp)**.
 
-2. V oznamovací oblasti klikněte na **Vybrat ikony, které se zobrazí na hlavním panelu**.
+2. V oznamovací oblasti klikněte na **Vyberte, které ikony se zobrazí na hlavním panelu**.
 
-3. Potom vyhledejte položku **Napájení** v seznamu a přepněte její nastavení na **Zapnuto**.
+3. Potom najděte položku **Napájení (Power)** v seznamu a přepněte nastavení na **Zapnuté**.
 
-    ![Zobrazit ikonu napájení na panelu úloh](media/power-icon-on.png)
+    ![Zobrazení ikony napájení na hlavním panelu](media/power-icon-on.png)
 
 **Řešení potíží**
 
-Pokud jste postupovali podle výše uvedených pokynů a přepínač **Napájení** je šedý nebo není viditelný, do vyhledávacího pole na hlavním panelu zadejte **Správce zařízení**a v seznamu výsledků vyberte **Správce zařízení.** V části **Baterie**klepněte pravým tlačítkem myši na baterii zařízení na **příkaz Zakázat**a klepněte na tlačítko **Ano**. Počkejte několik sekund a potom klikněte pravým tlačítkem myši na baterii a klepněte na příkaz **Povolit**. Poté zařízení restartujte.
+Pokud jste postupovali podle výše uvedených pokynů a přepínač **Napájení (Power)** je zobrazený šedě nebo není viditelný, zadejte do vyhledávacího pole na hlavním panelu **správce zařízení** a potom v seznamu výsledků vyberte **Správce zařízení**. V části **Baterie** klikněte pravým tlačítkem myši na ikonu baterie vašeho zařízení, klikněte na možnost **Vypnout** a potom na **Ano**. Počkejte několik sekund a potom klikněte pravým tlačítkem myši na ikonu baterie a na **Zapnout**. Pak restartujte zařízení.
 
-Pokud jste postupovali podle výše uvedených pokynů, ale ikona baterie se na hlavním panelu nezobrazí, zadejte do vyhledávacího pole na hlavním panelu **správce úloh**a v seznamu výsledků klepněte na příkaz **Správce úloh.** Na kartě **Procesy** klepněte v části **Název**pravým **tlačítkem**myši na explorer a potom klepněte na příkaz **Restartovat**.
+Pokud jste postupovali podle výše uvedených pokynů, ale ikona baterie se nezobrazuje na hlavním panelu, zadejte do vyhledávacího pole na hlavním panelu **správce úloh** a potom v seznamu výsledků klikněte na **Správce úloh**. Na kartě **Procesy** klikněte v části **Název** pravým tlačítkem na **Explorer** a potom klikněte na **Restartovat**.

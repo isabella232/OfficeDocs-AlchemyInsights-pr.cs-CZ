@@ -2,21 +2,22 @@
 title: Použití Whiteboardu s Microsoftem 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002354"
 - "4581"
-ms.openlocfilehash: 0b8ec1bb19643d590c6009afd626b5ae4a60d109
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
-ms.translationtype: MT
+ms.openlocfilehash: faf454882ecc0ddff7832c10525f0c324e7c003f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563696"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808271"
 ---
 # <a name="use-whiteboard-with-microsoft-365"></a>Použití Whiteboardu s Microsoftem 365
 

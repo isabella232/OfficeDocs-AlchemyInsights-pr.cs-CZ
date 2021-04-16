@@ -1,8 +1,8 @@
 ---
-title: Vypnutí rozšíření zvuku
+title: Vypnutí vylepšení zvuku
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ef63ec3a2358fc1c1aedfe1e280c46b3d0eb029
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797181"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808748"
 ---
-# <a name="turn-off-audio-enhancement"></a>Vypnutí rozšíření zvuku
+# <a name="turn-off-audio-enhancement"></a>Vypnutí vylepšení zvuku
 
 Postupujte takto:
 
-1. Přejděte na **Start**, zadejte **zvuk**a v seznamu **výsledků vyberte** **zvuky** .
+1. Přejděte na **Start,** zadejte **Zvuk** a  v seznamu výsledků vyberte **Ovládací** panely zvuku nebo Změnit systémové zvuky.
 
-2. Na kartě **přehrávání** klikněte pravým tlačítkem (nebo klepněte a podržte) na výchozí zařízení a vyberte **vlastnosti**.
+2. Na kartě **Přehrávání** klikněte pravým tlačítkem myši (nebo klepněte a podržte) výchozí zařízení a vyberte **Vlastnosti**.
 
-3. Na kartě **rozšíření** zaškrtněte políčko **Zakázat všechny zvukové efekty** a zkuste přehrát zvukové zařízení. Pokud to nepomůže, vyberte **Zrušit** a na kartě **přehrávání** vyberte jiné výchozí zařízení (pokud ho máte), zaškrtněte políčko **Zakázat všechny zvukové efekty** a zkuste přehrát zvuk znovu. Toto proveďte pro každé výchozí zařízení.
+3. Na kartě **Vylepšení** zaškrtněte políčko Zakázat všechny zvukové **efekty** a zkuste přehrát zvukové zařízení. Pokud to nefunguje, vyberte  Zrušit a  na kartě Přehrávání vyberte jiné výchozí zařízení (pokud ho máte), zaškrtněte políčko Zakázat všechny zvukové efekty a zkuste přehrát zvuk znovu.  To můžete udělat pro každé výchozí zařízení.
