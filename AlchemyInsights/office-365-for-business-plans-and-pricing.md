@@ -1,8 +1,8 @@
 ---
-title: Plány a ceny v Microsoft 365 pro firmy
+title: Plány a ceny Microsoftu 365 pro firmy
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 9db0179b8f755cec931b6b630b038b2b05cc553b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dc8bb60741e4f426173e14b05800eeacad3412d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729720"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790793"
 ---
-# <a name="compare-microsoft-365-for-business"></a>Srovnání Microsoft 365 pro firmy
+# <a name="compare-microsoft-365-for-business"></a>Porovnání Microsoftu 365 pro firmy
 
-V Microsoft 365 pro firmy jsou dostupné tři různé plány. [Porovnejte plány a ceny v Microsoft 365 pro firmy](https://products.office.com/compare-all-microsoft-office-products?tab=2).  
+Microsoft 365 pro firmy má k dispozici tři různé plány. [Porovnejte plány a ceny Microsoftu 365 pro firmy.](https://products.office.com/compare-all-microsoft-office-products?tab=2)  
