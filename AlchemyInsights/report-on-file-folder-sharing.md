@@ -1,8 +1,8 @@
 ---
-title: Sestava sdílení souborů a složek na webech služby SharePoint
+title: Sestava sdílení souborů a složek na sharepointových webech
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: f6c0e7d183ee7d656d0dd63ed7af621c03f3ce94
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccf53ac09e6f5ad5bc48dcd8b31fb27b3a7c7b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692360"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799010"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Sestava sdílení souborů a složek na webech služby SharePoint
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Sestava sdílení souborů a složek na sharepointových webech
 
-Můžete vytvořit soubor CSV s podrobnostmi všech jedinečných souborů, uživatelů, oprávnění a odkazů na daném SharePointovém webu nebo knihovně OneDrive. To vám může pomoct pochopit, jak se sdílení používá a jestli jsou všechny soubory nebo složky sdíleny s hosty.
+Na daném sharepointovém webu nebo knihovně OneDrivu můžete vytvořit soubor CSV s podrobnostmi o všech jedinečných souborech, uživatelech, oprávněních a odkazech. Pomůže vám to pochopit, jak se sdílení používá a jestli se s hosty sdílejí nějaké soubory nebo složky.
 
-Další informace najdete [v sestavě sdílení souborů a složek na sharepointovém webu](https://docs.microsoft.com/sharepoint/sharing-reports).
+Další informace najdete v [části Sestava sdílení souborů a složek na sharepointovém webu.](https://docs.microsoft.com/sharepoint/sharing-reports)
 
 > [!NOTE]
-> Tato funkce je aktuálně nasazená pro první verzi tenanta a bude postupně prováděna do všech výrobních klientů.
+> Tato funkce je aktuálně nasazená pro tenanty s prvním vydáním a postupně se bude zavádět všem tenantům produkčních verzí.
