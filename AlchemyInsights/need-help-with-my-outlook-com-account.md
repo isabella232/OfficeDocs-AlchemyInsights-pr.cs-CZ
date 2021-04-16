@@ -1,8 +1,8 @@
 ---
-title: Potřebujete pomoct s účtem můj Outlook.com
+title: Potřebujete pomoct s mým Outlook.com účtem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803274"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792377"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Potřebujete pomoct s účtem můj Outlook.com
+# <a name="need-help-with-my-outlookcom-account"></a>Potřebujete pomoct s mým Outlook.com účtem
 
-Pokud potřebujete pomoct se službou Outlook.com, máme vyhrazenou pomoc, která vám pomůže. Pokud chcete získat podporu přímo ve webové aplikaci: 
+Pokud potřebujete pomoct se službou Outlook.com, pomůžeme vám s tím. Pokud chcete získat podporu přímo ve webové aplikaci: 
 
-1. Klikněte na tlačítko? v pravém horním rohu obrazovky. 
+1. Klikněte na ? v pravém horním rohu obrazovky. 
 
-2. Napište, s čím potřebujete pomoct, v poli nápovědy zobrazeném na panelu místní nabídky a klikněte na **Odeslat**. 
+2. Napište, s čím potřebujete pomoct, do pole nápovědy zobrazeného na překryvné obrazovce a klikněte na **Odeslat.** 
 
-3. Pokud se řešení nezobrazuje, posuňte se dolů v bočním panelu a klikněte na **poslat e-mailem**.
+3. Pokud řešení není prezentováno, posuňte se dolů na boční panel a klikněte na **poslat e-mail.**
