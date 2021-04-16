@@ -1,8 +1,8 @@
 ---
-title: 'Microsoft 365 pro neziskové organizace '
+title: 'Microsoft 365 pro neziskové organizace – schváleno '
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 98417cca5ac73ccdb1d3d0e726d0b9c9c62dd442
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 597e57c85080bdd3f9422af981e27ba960006b49
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779801"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810657"
 ---
-# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 pro neziskové organizace
+# <a name="microsoft-365-for-nonprofits---approved"></a>Microsoft 365 pro neziskové organizace – schváleno
 
-Váš stav jako organizace pro neziskové organizace byl schválen. Nákup můžete dokončit v centru pro správu Microsoft 365.
+Váš stav kvalifikované neziskové organizace Microsoftu byl schválen. Nákup můžete provést v Centru pro správu Microsoftu 365.
 
-1. V centru pro správu přejděte na **Billing** \> stránku [služby pro nákupy](https://go.microsoft.com/fwlink/p/?linkid=868433) fakturace.
+1. V Centru pro správu přejděte na **stránku Fakturační** \> [nákupní služby.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Zvolte ze seznamu v části **plány Nezisků**.
+2. Vyberte si ze seznamu v části **Plány neziskových organizací**.
 
-3. Najeďte myší na předplatné, které chcete koupit, a zvolte **koupit nyní**.
+3. Najeďte myší na předplatné, které chcete koupit, a zvolte **Koupit hned.**
 
-Další informace najdete v článku [Microsoft 365 zdroje informací o neziskech](https://www.microsoft.com/nonprofits/microsoft-365) nebo [kontaktech na prodej](https://www.microsoft.com/nonprofits/contact-us).
+Další informace najdete v tématu [Materiály k Microsoftu 365](https://www.microsoft.com/nonprofits/microsoft-365) pro neziskové organizace nebo prodej [kontaktů](https://www.microsoft.com/nonprofits/contact-us).

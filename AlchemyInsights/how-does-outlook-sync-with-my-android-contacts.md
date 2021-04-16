@@ -1,8 +1,8 @@
 ---
-title: Jak Outlook synchronizuje s kontakty z Androidu?
+title: Jak se Outlook synchronizuje s mými kontakty z Androidu?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 917bea163c3a85f6e1ab193db44a1e1aefd80e19
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781348"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810909"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Jak Outlook synchronizuje s kontakty z Androidu?
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Jak se Outlook synchronizuje s mými kontakty z Androidu?
 
-Při psaní e-mailu v Outlooku hledáme příjemce z adresáře Android a z adresáře Outlooku. Kromě toho vám nabídneme možnost synchronizovat kontakty z vašich e-mailových účtů do adresáře Android pro použití v jiných aplikacích. 
+Když v Outlooku napíšete e-mail, vyhledáme příjemce z adresáře pro Android i z adresáře Outlooku. Kromě toho vám nabízíme možnost synchronizovat kontakty z e-mailových účtů do adresáře Androidu pro použití v jiných aplikacích. 
  
-**Povolení této funkce**:
+**Povolení této funkce:**
  
-1. Na svém zařízení přejděte na **Nastavení**.
+1. Na zařízení přejděte na **Nastavení**.
 
-2. V části **účty**klepněte na účet, se kterým chcete kontakty synchronizovat.
+2. V **části Účty** klepněte na účet, se který chcete synchronizovat s kontakty.
 
-3. Zapněte posuvník **synchronizační kontakty** .
+3. Zapněte **posuvník Synchronizovat** kontakty.
  
-**Poznámka**: když se v Microsoft Outlooku pro Android pokusíte zapnout synchronizaci kontaktů, může se v případě, že je zakázaná možnost pro **synchronizaci kontaktů** , zobrazit zpráva s textem, *synchronizace kontaktů není v nastavení systému zapnutá*. Příčinou můžou být zakázaná možnost **Automatická synchronizace dat** v nastavení systému. Tento problém můžete vyřešit tak, že v **Nastavení**systému Android povolíte **automatickou synchronizaci dat** v nabídce **účty** . Tato možnost se obvykle nachází ve vertikálních výpustka (⋮) nebo trojitém řádku (⫼). Nabídka  **účty** může být v závislosti na tom, kde se jedná o zařízení a verzi Android, v různých umístěních. Ve většině novějších modelů lze vyhledávat **účty** v **nastaveních**.
+**Poznámka:** Pokud se pokusíte povolit synchronizaci kontaktů v Microsoft Outlooku pro Android, pokud je přepínač pro synchronizované kontakty zakázaný, může se zobrazit zpráva zobrazená s textem, synchronizace kontaktů není zapnutá v nastavení *systému*.  Může to být způsobeno **tím,** že je v nastavení systému zakázána možnost Automatická synchronizace dat. Pokud chcete tento problém vyřešit, povolte  **automatickou** synchronizaci dat v nabídce  **Účty** v nastavení  **systému** Android. Tato možnost se obvykle nachází ve svislé tři tečky (⋮) nebo trojitém pruhu (⫼). Nabídka  **Účty** může být v různých umístěních v závislosti na typu zařízení a verzi Androidu. Ve většině **novějších** modelů je možné účty hledat v **Nastavení**.

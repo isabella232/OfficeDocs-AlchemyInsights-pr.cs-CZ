@@ -2,9 +2,10 @@
 title: Přenos e-mailů přes Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 074a9106553bf3a2a5e563f9ebaca9dfc38111cb
-ms.sourcegitcommit: 9872280f71429d2344b0b441e218fba5b3bd3cf7
-ms.translationtype: MT
+ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45023452"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809648"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Nastavení multifunkčního zařízení nebo aplikace na posílání e-mailů
 

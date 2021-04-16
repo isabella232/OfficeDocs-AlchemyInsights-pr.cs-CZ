@@ -1,8 +1,8 @@
 ---
-title: Obnovení nebo změna hesla
+title: Resetování nebo změna hesel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692144"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810189"
 ---
-# <a name="reset-or-change-passwords"></a>Obnovení nebo změna hesla
+# <a name="reset-or-change-passwords"></a>Resetování nebo změna hesel
 
-Uživatel může změnit vlastní heslo ze **svého účtu**  >  [& soukromí](https://portal.office.com/account/#security).
+Uživatel si může změnit svoje vlastní heslo z nabídky Můj **účet**  >  [zabezpečení & soukromí](https://portal.office.com/account/#security).
   
-Pokud uživatel zapomněl svoje heslo, může správce resetovat heslo tak, že **přejde na**  >  [aktivní](https://portal.office.com/adminportal/home#/users)uživatele, vyberte uživatele a klikněte na **resetovat heslo**.
+Pokud uživatel zapomněl svoje heslo, může správce heslo resetovat tak, že klikne na Uživatelé aktivní , vybere uživatele a klikne na  >  [](https://portal.office.com/adminportal/home#/users) **Resetovat heslo.**
   
-[Klikněte sem, pokud chcete zjistit další informace](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), nebo pokud chcete uživatelům umožnit resetování vlastních zapomenutých hesel.
+[Pokud chcete získat další informace,](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)klikněte sem nebo uživatelům nechte resetovat vlastní zapomenuté hesla.

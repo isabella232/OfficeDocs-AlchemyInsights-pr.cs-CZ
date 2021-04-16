@@ -1,8 +1,8 @@
 ---
-title: Změna velikosti a připojení obrázků v Androidu
+title: Změna velikosti a připojení obrázků na Androidu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001113"
 - "3074"
-ms.openlocfilehash: 18ff3a111c07e28d7e62feb404623c1a974864f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa497883706055a3124f76d731399e39ca3f72f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795669"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809504"
 ---
-# <a name="resize-and-attach-images-on-android"></a>Změna velikosti a připojení obrázků v Androidu
+# <a name="resize-and-attach-images-on-android"></a>Změna velikosti a připojení obrázků na Androidu
 
-Když k e-mailu připojíte obrázek o velikosti 1 MB, máte možnost Komprimovat nebo měnit velikost obrázků ve zprávě.
+Když k e-mailu připojíte obrázek o velikosti větší než 1 MB, máte možnost obrázky ve zprávě komprimovat nebo měnit jejich velikost.
  
-- Pokud se rozhodnete zachovat původní vzhled, budou všechny obrázky ve zprávě odeslány v plné velikosti.
+- Pokud se rozhodnete zachovat původní, budou všechny obrázky ve zprávě odeslány v plné velikosti.
  
-- Pokud se rozhodnete změnit velikost, všechny obrázky ve zprávě se komprimují.  Sem patří obrázky přidané později při úpravách konceptu.
+- Pokud se rozhodnete změnit velikost zprávy, zkomprimuje se všechny obrázky ve zprávě.  Patří sem i obrázky přidané později při úpravách konceptu.
  
-- Pokud svůj koncept uložíte a přejdete do něj později a přidáte do něj další velký obrázek, zobrazí se výzva a vaše volba se bude při úpravách vztahovat na všechny pracovní verze.
+- Pokud koncept uložíte a později se vrátíte a přidáte další velký obrázek, zobrazí se dotaz znovu a vaše volba se bude vztahovat na všechny koncepty během této relace úprav.
  

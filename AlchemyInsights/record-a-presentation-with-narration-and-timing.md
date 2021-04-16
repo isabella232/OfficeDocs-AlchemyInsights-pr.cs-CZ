@@ -2,7 +2,7 @@
 title: Nahrání prezentace s mluveným komentářem a časováním
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5473"
-ms.openlocfilehash: dbdea316b6f6cd9e38d8a250b18d7f11443e97ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f962afa92388ac27c786c4750b9e8e29ce219640
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801429"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809828"
 ---
 # <a name="record-a-presentation-with-narration-and-timing"></a>Nahrání prezentace s mluveným komentářem a časováním
 

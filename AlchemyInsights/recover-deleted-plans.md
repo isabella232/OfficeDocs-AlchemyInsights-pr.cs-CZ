@@ -2,7 +2,7 @@
 title: Obnovení odstraněných plánů
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001718"
 - "3811"
-ms.openlocfilehash: 81eae9c5bb9dcea51db7bfcb1cf6eb160613af12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e97c564d01abeb4dbe7ff7c1d88752ead8f24128
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741331"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809684"
 ---
 # <a name="recover-deleted-plans"></a>Obnovení odstraněných plánů
 

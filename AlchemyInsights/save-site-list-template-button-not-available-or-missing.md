@@ -1,31 +1,32 @@
 ---
-title: Tlačítko Uložit šablonu webu nebo seznamu není k dispozici nebo chybí
+title: Tlačítko pro uložení šablony webu/seznamu není k dispozici nebo chybí
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357454"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789281"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Tlačítko Uložit šablonu webu nebo seznamu není k dispozici nebo chybí
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Tlačítko pro uložení šablony webu/seznamu není k dispozici nebo chybí
 
-Možnost uložit web jako šablonu není podporována moderními komunikačními nebo týmovými weby. Další informace o používání šablon najdete v [tématu Uložení, stažení a nahrání sharepointového webu jako šablony](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+Moderní komunikační ani týmové weby nepodporují možnost uložení webu jako šablony. Další informace o používání šablon si přečtěte v článku [Ukládání, stahování a nahrávání sharepointových webů jako šablon](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Správci budou muset povolit vlastní skript, aby povolili funkce šablony. Podrobné kroky, příklady a důležité informace naleznete v následujících tématech:
+Správci budou muset Povolit vlastní skript, aby mohli zapnout funkce šablon. Podrobný postup, příklady a aspekty najdete v článku:
 
-- [Povolení nebo zabránění vlastnímu skriptu](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Povolit nebo zakázat vlastní skript](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Příkaz Uložit web jako šablonu není podporován a může způsobit problémy na webech, které používají infrastrukturu publikování serveru SharePoint Server.
+- Příkaz Uložit web jako šablonu není podporovaný a může způsobit potíže s weby, které používají infrastrukturu publikování SharePoint Serveru.
 
 

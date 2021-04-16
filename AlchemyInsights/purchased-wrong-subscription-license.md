@@ -2,21 +2,22 @@
 title: Zakoupení nesprávné licence předplatného
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002455"
 - "4793"
-ms.openlocfilehash: b9020af8c02fcc66a02990b033a3e813fb1e03f6
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: b423b3ea8ce8616cb8018112ea12191bbe3ed7c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005528"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809864"
 ---
 # <a name="purchased-wrong-subscription-license"></a>Zakoupení nesprávné licence předplatného
 

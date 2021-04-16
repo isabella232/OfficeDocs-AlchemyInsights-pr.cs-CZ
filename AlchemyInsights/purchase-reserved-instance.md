@@ -1,8 +1,8 @@
 ---
-title: Vyhrazená nákupní instance
+title: Nákup rezervované instance
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741355"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809900"
 ---
-# <a name="questions-before-purchase"></a>Dotazy před nákupem
+# <a name="questions-before-purchase"></a>Otázky před nákupem
 
-**Jak se použije sleva rezervace na existující zdroje?**  
-Výhoda rezervací se automaticky vztahuje na existující zdroje, které odpovídají rezervaci SKU, oblasti a rozsahu. K prostředku nejsou žádné značky. [Víc se uč](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Jak se uplatňuje sleva z rezervace u stávajících prostředků?**  
+Výhoda rezervace se automaticky vztahuje na existující zdroje, které odpovídají SKU, oblasti a rozsahu rezervace. Zdroj nemá žádné označení rezervace. [Další informace](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
-**Jakou velikost virtuálního počítače mám koupit?**  
-Přečtěte si tento článek: [určení správné velikosti virtuálního počítače před nákupem](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+**Jakou velikost virtuálního počítače si mám koupit?**  
+Přečtěte si tento článek: [Určení správné velikosti virtuálního počítače před nákupem](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Dotazy týkající se nákupu rezervované kapacity SQL?**  
+**Máte otázky k nákupu rezervované kapacity SQL?**  
 Přečtěte si tento článek: [Nákup rezervované kapacity databáze SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Jsem v nepřímém zákazníkovi, Potřebuju ho koupit?**  
-Ne, pokud jste vlastníkem předplatného, můžete zakoupit RI.
+**Jsem v nepřímých zákazníkem EA, potřebuji při nákupu svého partnera?**  
+Ne, pokud jste vlastník předplatného EA, můžete si zakoupit rezervovanou instanci.
 
-**Odečte se nákup RI od měnového závazku?**  
-Ano. Pokud nemáte dost peněžního závazku, poskytne se vám faktura za částku, která překračuje dostupný měnový závazek.
+**Bude zakoupení rezervačních instancí odečteno z peněžního závazku?**  
+Ano. Pokud nemáte dostatečný peněžní závazek, obdržíte fakturu částky za nadlimitní využití, které překračuje dostupný peněžní závazek.
 
-**Jak se rezervuje vyhrazená instance pro virtuální počítače s Windows nebo na moje náklady na IP adresy SQL?**  
-Rezervovaná instance slevy platí jenom pro výpočet využití. Náklady na systém Windows IP nebo SQL IP adresy budou účtovány odděleně a nezískají se vám žádné slevy. [Softwarové náklady, které nejsou součástí rezervovaných instancí virtuálních počítačů Azure](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Jak se vyhrazená instance vztahuje na virtuální počítače s Windows nebo na moje náklady na IP adresy SQL?**  
+Sleva na rezervovanou instanci se vztahuje jenom na vypočtené využití. Náklady na IP adresy Windows a SQL se budou účtovat samostatně a nevztahuje se na ně sleva rezervovaných instancí. [Softwarové náklady nezahrnuté ve službě Azure Reserved VM Instances](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Fakturace pro nákup rezervované instance**  
+**Fakturace zakoupení služby Reserved Instance**  
       
-Rezervovaná instance je účtována způsobu platby, který je spojený s předplatným, které jste vybrali při nákupu. Typem předplatného musí být smlouva Enterprise (číslo nabídnutí: MS-AZR-0017P), plaťte podle sebe-Go (číslo nabídnutí: MS-AZR-0003P), smlouva zákazníka nebo CSP společnosti Microsoft.
+Nákup rezervované instance se bude účtovat podle způsobu platby spojeného s předplatným, který si vyberete při platbě. Typ předplatného musí být smlouva Enterprise (číslo nabídky: MS-AZR-0017P), průběžné platby (číslo nabídky: MS-AZR-0003P), Smlouva se zákazníkem Microsoftu nebo CSP.
 
--   U předplatného podniku se poplatky odečtou od měnového zůstatku kreditu pro přihlášení nebo jako poplatky za převzetí.
--   U předplatného s platbou po vás budou poplatky účtovány na platební kartu nebo na platební způsob platby.
+-   V případě předplatného pro podniky se poplatky odečtou ze zůstatku peněžního závazku nebo se účtují jako nadlimitní využití.
+-   U předplatného typu průběžných plateb se vám účtují poplatky za platbu platební kartou nebo fakturou.
 
-**Kupte si plán služeb:**
+**Nákup plánu služeb:**
 
--   [Zaplatit za rezervované kapacity Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Zaplatit za databázi SQL za účelem výpočtu zdrojů pomocí rezervované kapacity databáze SQL Azure](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Zaplatit za virtuální počítače s nerezervovanými instancemi virtuálních počítačů Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Předplacení rezervované kapacity ve službě Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Předplacení prostředků databáze SQL pomocí rezervované kapacity databáze Azure SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Předplacení pro virtuální počítače pomocí Azure Reserved VM Instances](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Kupte si softwarový plán:**
+**Nákup softwarového plánu:**
 
--   [Zaplatit za plán Red Hat software z Azure – rezervace](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Zaplatit za SUSE softwarové plány z rezervací Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Předplacení softwarového plánu Red Hat skrze rezervace Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Předplacení softwarového plánu SUSE skrze rezervace Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

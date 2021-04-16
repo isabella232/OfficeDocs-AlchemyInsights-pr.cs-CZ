@@ -2,7 +2,7 @@
 title: Obnovení odstraněné veřejné složky
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774524"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809432"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Obnovení odstraněné veřejné složky
 
 **Obnovení odstraněných položek z veřejné složky**:
 
-- [V outlooku 2016 se nedají obnovit odstraněné položky v nepoštovní veřejné složce](https://aka.ms/pfrec).
+- Další informace najdete v článku Odstraněné položky v [Outlooku 2016](https://aka.ms/pfrec)se neschová z veřejné složky, která není poštovní.
  
-**Obnovení odstraněné veřejné složky (jakéhokoliv typu)**: 
+**Obnovení odstraněné veřejné složky (libovolného typu):** 
 
-- Použijte následující EXO PowerShellový příkaz:
+- Použijte prosím následující příkaz EXO PowerShellu:
 
-    Syntaktická
+    Syntaxe:
 
      `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
-    Příklad: následující příkaz obnoví Subfolder1 a umístí ho do \Parent1:
+    Příklad: Následující příkaz obnoví podsložku1 a umístěte ji do složky \Parent1:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
-Další informace najdete v článku [Obnovení odstraněné veřejné složky](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) .
+Další podrobnosti najdete v článku Obnovení [odstraněné veřejné](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) složky.
