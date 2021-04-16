@@ -1,8 +1,8 @@
 ---
-title: Synchronizace mých kontaktů Outlooku s adresářem
+title: Synchronizace kontaktů Outlooku s mým adresářem
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001114"
 - "3075"
-ms.openlocfilehash: 3dbdfd0e6686042bd30330b4e00bc082a9655160
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a2f381eefcaf4b09713749035f390f65c53727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737370"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797534"
 ---
-# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Synchronizace mých kontaktů Outlooku s adresářem
+# <a name="sync-my-outlook-contacts-to-my-address-book"></a>Synchronizace kontaktů Outlooku s mým adresářem
 
-Outlook umožňuje exportovat kontakty do výchozí aplikace pro kontakty na Androidu. To vám umožní zobrazit jméno kontaktu, když přijmete hovor nebo textovou zprávu, a zobrazit všechny kontaktní informace přímo ve výchozí aplikaci pro kontakty.
+Outlook umožňuje exportovat kontakty do výchozí aplikace Kontakty na Androidu. To vám umožní zobrazit jméno kontaktu, když dostanete hovor nebo textovou zprávu, a zobrazit všechny jeho kontaktní informace přímo ve výchozí aplikaci Kontakty.
  
-**Povolení této funkce**:
+**Povolení této funkce:**
  
-1. Na svém zařízení přejděte na **Nastavení**.
+1. Na zařízení přejděte na **Nastavení**.
 
-2. V části **účty**klepněte na účet, se kterým chcete kontakty synchronizovat.
+2. V **části Účty** klepněte na účet, se který chcete synchronizovat s kontakty.
 
-3. Zapněte posuvník **synchronizační kontakty** .
+3. Zapněte **posuvník Synchronizovat** kontakty.
  
-Pro Microsoft 365, Outlook.com a hybridní moderní ověřování pro místní poštovní schránky je podporovaný obousměrný export kontaktu. Obousměrná podpora zajistí, že všechny nové kontakty, které přidáváte, nebo existující kontakty, se budou synchronizovat mezi vaším zařízením a vaším účtem Outlooku.
+Pro Microsoft 365, Outlook.com a hybridní moderní ověřování místních poštovních schránek je podporován dvousměnné export kontaktů. Dvousměnná podpora zajišťuje, že všechny nové kontakty, které přidáte, nebo existující kontakty, které upravíte, se budou synchronizovat mezi vaším zařízením a vašimi účty Outlooku.
  
-U starších účtů Exchange můžete kontakty exportovat, aby se uložily na zařízení. Pokud je povolená **synchronizace kontaktů** , uloží se nově přidané kontakty a úpravy provedené v kontaktech v Outlooku do aplikace kontakty na vašem zařízení. Úpravy provedené přímo v aplikaci kontaktů vašeho zařízení se ale neuloží do Outlooku. V Outlooku pro Android nepodporujeme přidávání a úpravy kontaktů pro místní účty Exchange, takže budete muset spravovat svoje kontakty z jiného klienta Outlooku.
+U starších účtů Exchange můžete kontakty exportovat, aby se uložily do zařízení. Když **je povolená** možnost Synchronizovat kontakty, nově přidané kontakty a úpravy provedené vašim kontaktům v Outlooku se uloží do aplikace Kontakty na vašem zařízení. Úpravy provedené přímo v aplikaci Kontakty na vašem zařízení se ale do Outlooku neuloží. Upozorňujeme, že nepodporujeme přidávání a úpravy kontaktů z Outlooku pro Android pro místní účty exchange, takže budete muset spravovat kontakty z jiného klienta Outlooku.
  
-V současné době není podporována synchronizace pro GMAIL a iCloud.
+Synchronizace kontaktů pro GMAIL a iCloud teď není podporovaná.
  
-Pokud chcete tyto synchronizované kontakty odebrat, můžete **je kdykoli přepínat a** z adresáře odebrat.
+Pokud chcete tyto synchronizované kontakty odebrat, můžete  synchronizované kontakty kdykoli přepnout a z adresáře se odeberou.

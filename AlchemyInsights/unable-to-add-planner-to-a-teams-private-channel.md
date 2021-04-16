@@ -2,7 +2,7 @@
 title: Nejde přidat Planner do soukromého kanálu Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000727"
 - "4976"
-ms.openlocfilehash: 63786ebf9ad8c595acfab86e08bb52b0605bae39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e9cbe9652cd930a05b7240ca1beecffd576711e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735408"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797282"
 ---
 # <a name="unable-to-add-planner-to-a-teams-private-channel"></a>Nejde přidat Planner do soukromého kanálu Teams
 

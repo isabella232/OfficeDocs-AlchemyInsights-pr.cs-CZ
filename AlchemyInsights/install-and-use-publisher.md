@@ -2,21 +2,22 @@
 title: Instalace a použití Publisheru
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002627"
 - "5045"
-ms.openlocfilehash: c9975683b5ad3917945da7ffd89af5de62e9d0db
-ms.sourcegitcommit: 37b142dfe0f09401577144d7f8727bd2c04af0f8
+ms.openlocfilehash: 65102ef1dddb2032020e3f3391449c81e9d34b89
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43930546"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795725"
 ---
 # <a name="install-and-use-publisher"></a>Instalace a použití Publisheru
 
