@@ -1,8 +1,8 @@
 ---
-title: Odložit upgrade na Teams
+title: Odložit upgrade Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2737"
 - "4000006"
-ms.openlocfilehash: ae0611df247790200d0192e018ff5f0128f23cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: abbf696b1554743bda188704272bfd85fe6f94e2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741764"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801224"
 ---
-# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Odložení upgradu týmu řízeného společností Microsoft
+# <a name="how-to-postpone-the-microsoft-driven-teams-upgrade"></a>Jak odložit upgrade Microsoft-driven Teams
 
-**Důležité**: Tento problém můžeme pomoct vyřešit pomocí diagnostické podpory, ale vypadá to, že nepoužíváte nové centrum pro správu. Pokud chcete nové centrum pro správu použít, posuňte přepínač v pravém horním rohu, který říká **nové centrum pro správu** vpravo. V novém centru pro správu klikněte na widget " **Potřebuji nápovědu?** ", zadejte "odložit upgrade týmů" a spusťte diagnostický nástroj podle pokynů.
+**Důležité:** Pomůžeme vám to opravit pomocí diagnostiky podpory, ale vypadá to, že centrum pro správu nové používáte. Pokud chcete použít Nové Centrum pro správu, posuňte přepínač vpravo nahoře s novým **Centrem** pro správu doprava. V Centru pro správu klikněte na widget Potřebujete **pomoc?** napište "Odložit upgrade Teams" a potom podle pokynů spusťte diagnostiku.
 
-Pokud jste obdrželi sdělení o automatizovaném upgradu založeném na Microsoftu ze Skypu pro firmy do Microsoft teams a chcete automatické upgrade odložit na pozdější datum, může se Váš globální správce přihlásit na portál pro [správu portálu](https://admin.teams.microsoft.com/dashboard) a po výběru tlačítka pro **stav aktualizace** v části Microsoft Teams upgrade vyberte tlačítko **odložit** . Pokud chcete zobrazit nové datum automatizovaného upgradu vašeho klienta na Microsoft teams, aktualizujte stránku portálu pro správu Teams.
+Pokud jste dostali sdělení o automatickém upgradu řízeném microsoftem ze Skypu pro firmy na Microsoft Teams a chcete automatický upgrade odložit na pozdější  datum, může se globální  správce přihlásit na portál pro správu [Teams](https://admin.teams.microsoft.com/dashboard) a po výběru tlačítka Aktualizovat stav v části Upgrade Microsoft Teams vybrat tlačítko Odložit. Pokud chcete zobrazit nové datum automatického upgradu vašeho tenanta na Microsoft Teams, aktualizujte stránku portálu pro správu Teams.
 
-**Poznámka:** Tlačítko **odložení** bude k dispozici pouze v případě, že jste dostali oznámení centra zpráv s cílem automatického upgradu. 
+**Poznámka:** Tlačítko **Odložit** bude dostupné jenom v případě, že jste dostali oznámení centra zpráv o automatizovaném upgradu. 
 
-Globální správci můžou pomocí [Get-CsTeamsUpgradeStatus](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) získat další informace o aktuálním stavu upgradu.
+Globální správci mohou také spustit [Get-CsTeamsUpgradeStatus,](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps) aby se dozvěděli další informace o aktuálním stavu upgradu.

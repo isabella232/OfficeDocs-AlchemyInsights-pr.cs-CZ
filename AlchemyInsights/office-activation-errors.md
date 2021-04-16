@@ -2,7 +2,7 @@
 title: Chyby při aktivaci Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: e3c3f53b5e053cec00010e8d321f3f48bbfd5bab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f791c15a57a4da209b7802db853c0d3ab6c1b681
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702140"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802232"
 ---
 # <a name="office-activation-errors"></a>Chyby při aktivaci Office
 
