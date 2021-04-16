@@ -2,21 +2,22 @@
 title: FAILED_TO_AUTO_DISCOVER_DOMAIN
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "3816"
-ms.openlocfilehash: 5ebd3b02c4b8911b2a925ac827cca5436e1f156e
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: 248a1baac87b09b4c6f29c160beadb52ed0d3983
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42931835"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813249"
 ---
 # <a name="failed_to_auto_discover_domain"></a>FAILED_TO_AUTO_DISCOVER_DOMAIN
 

@@ -2,21 +2,22 @@
 title: Zkušební licence F3
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002873"
 - "5565"
-ms.openlocfilehash: 63df724bd6e63be237140ac3272f85a625b8e5f3
-ms.sourcegitcommit: 8b50994a2979778ce8474ce83bd86b60e7d2cb2f
+ms.openlocfilehash: 98a656fc75c82783b6ce525124743c289c34d088
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44022417"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813321"
 ---
 # <a name="f3-trail-license"></a>Zkušební licence F3
 

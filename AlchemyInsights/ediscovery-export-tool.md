@@ -2,7 +2,7 @@
 title: Nástroj pro export eDiscovery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,20 +15,20 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277926"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814581"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nejde nainstalovat nebo spustit nástroj pro export eDiscovery?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Nemůžete nainstalovat nebo spustit nástroj pro export eDiscovery?
 
-Pokud se vám nedaří nainstalovat nebo spustit nástroj pro export eDiscovery ke stažení výsledků hledání, podívejte se na tyto věci:
+Pokud nemůžete nainstalovat nebo spustit nástroj pro export eDiscovery a stáhnout výsledky hledání, podívejte se na následující věci:
   
 - Počítač, který používáte, splňuje tyto předpoklady:
 
-  - 32 nebo 64 verze Windows 7 a novější verze
+  - 32bitová nebo 64bitová verze Windows 7 a novějších verzí
 
   - Microsoft .NET Framework 4.7
 
@@ -40,12 +40,12 @@ Pokud se vám nedaří nainstalovat nebo spustit nástroj pro export eDiscovery 
 
   - Internet Explorer 10 a novější verze
 
-    Jiné prohlížeče, například Google Chrome a Mozilla Firefox, nejsou podporované.
+    Jiné prohlížeče, jako je Google Chrome nebo Mozilla Firefox, nejsou podporované.
 
-- Vaše organizace se může připojit ke koncovému bodu v Azure, což je ** \* . blob.Core.Windows.NET** (zástupný znak představuje jedinečný identifikátor úlohy exportu).
+- Vaše organizace se může připojit k koncovému bodu v Azure, což je **\* .blob.core.windows.net** (zástupný znak představuje jedinečný identifikátor exportu).
 
-- Přiřadili jste roli exportu v centru zabezpečení Microsoft 365 &amp; . Ve výchozím nastavení je tato role přiřazena jenom skupině role správce eDiscovery. Viz [přiřazení oprávnění eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- V Centru dodržování předpisů zabezpečení Microsoftu 365 máte přiřazenou roli &amp; Exportovat. Ve výchozím nastavení je tato role přiřazená jenom skupině rolí Správce eDiscovery. Viz [Přiřazení oprávnění k eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 Další informace najdete v článku [Export výsledků hledání obsahu](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
-Pokud exportujete víc než 100K poštovních schránek, budete muset ke stažení výsledků exportu použít následující PowerShell:  [Export výsledků z víc než 100K poštovní schránky](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Pokud exportujete víc než 100 tisíc poštovních schránek, budete muset stáhnout výsledky exportu pomocí následujícího PowerShellu: Export výsledků z více než  [100 tisíc poštovních schránek](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).

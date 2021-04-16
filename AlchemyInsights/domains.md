@@ -2,7 +2,7 @@
 title: Domény
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5589"
-ms.openlocfilehash: adafa3672653c1922cdf3198f877953289a6fdf5
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 2bcda244f8fcb465c8864fdd00dbc7505273c80f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815562"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814834"
 ---
 # <a name="domains"></a>Domény
 
-- **Ověřte doménu** v centru pro správu pomocí [Průvodce přidáním domény](https://admin.microsoft.com/Adminportal#/Domains/Wizard). Další nápovědu najdete v článku [Přidání domény do Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-- **Doména se používá** – budete se muset přihlásit do jiné organizace a [odebrat doménu](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide). pak ho přidejte do této organizace.
-- **Doména v používání nespravovaných/samoobslužných služeb**  -  [Staňte se správcem nespravované domény](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).
+- **Ověřte doménu v** Centru pro správu pomocí [Průvodce přidáním domény](https://admin.microsoft.com/Adminportal#/Domains/Wizard). Další nápovědu najdete v [nápovědě k přidání domény do Office 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
+- **Doména se používá** – budete se muset přihlásit k jiné organizaci a [doménu odebrat](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide). a pak ho přidejte do této organizace.
+- **Doména, která se používá, nespravovaná nebo samoobslužná**  -  [Staňte se správcem nespravované domény](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).
 
-V opačném případě zkuste přeformulovat svůj problém. Podívejte se na článek [Časté otázky](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) a [řešení problémů s doménami](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) .
+V opačném případě zkuste problém znovu vyřešit. najdete v [článcích Časté otázky k](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) doménám [nebo Řešení problémů s doménami.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)

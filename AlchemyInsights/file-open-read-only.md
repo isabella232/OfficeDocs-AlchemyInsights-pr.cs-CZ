@@ -1,8 +1,8 @@
 ---
-title: Otevření souboru jen pro čtení
+title: Soubor otevřený jen pro čtení
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,40 +13,40 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: 2fdb4f048c2bee022a49c2cca2ce9770f42a87a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745569"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813177"
 ---
-# <a name="file-open-read-only"></a>Otevření souboru jen pro čtení
+# <a name="file-open-read-only"></a>Soubor otevřený jen pro čtení
 
-Můžete zjistit, že když soubory otvíráte, otevřou se jen pro čtení. V některých případech jde o přidanou bezpečnost, třeba když otvíráte soubory z Internetu, a jindy to může být způsobeno nastavením, které se dá změnit. Tady je několik situací, kdy se soubor otevře jen pro čtení, a některé kroky, které můžete změnit.
+Možná zjistíte, že při otevírání souborů se otevřou jen pro čtení. V některých případech je to kvůli přidanému zabezpečení, například když otevíráte soubory z internetu, a někdy to může být kvůli nastavení, které se může změnit. Tady jsou některé scénáře, kdy se soubor otevře jen pro čtení, a některé kroky, které můžete udělat, abyste ho změnili.
   
- **Můj antivirový program způsobuje, že je otevře jen pro čtení**
+ **Antivirová ochrana způsobuje, že se otevřou jen pro čtení.**
   
-Některé antivirové programy můžou chránit před potenciálně nebezpečnými soubory jejich otevřením jen pro čtení. Pokud chcete zjistit, jak se tato nastavení upraví, obraťte se na svého poskytovatele antivirového softwaru. BitDefender například obsahuje obsah týkající se přidávání vyloučení aplikací tady: [jak přidat vyloučení aplikací nebo procesů v ovládacím centru BitDefender](https://aka.ms/AA6098i).
+Některé antivirové programy vás mohou chránit před potenciálně nebezpečnými soubory tak, že je otevřete jen pro čtení. Možná budete muset zkontrolovat poskytovatele antivirového softwaru, abyste se dozvěděli, jak tato nastavení upravit. BitDefender má například obsah při přidávání vyloučení aplikací tady: Jak přidat vyloučení aplikací nebo procesů v Centru řízení [bitdefenderu](https://aka.ms/AA6098i).
   
- **Jsou vlastnosti souboru nastavené na jen pro čtení?**
+ **Jsou vlastnosti souboru nastavené jen pro čtení?**
   
-Vlastnosti souboru můžete zkontrolovat tak, že kliknete pravým tlačítkem na soubor a vyberete vlastnosti. Pokud je zaškrtnuté políčko atribut jen pro čtení, zrušte jeho zaškrtnutí a klikněte na OK.
+Vlastnosti souboru můžete zkontrolovat tak, že na něj kliknete pravým tlačítkem a zvolíte Vlastnosti. Pokud je atribut jen pro čtení zaškrtnut, můžete ho zrušit a kliknout na OK.
   
- **Obsah je v chráněném zobrazení**
+ **Obsah je v chráněném zobrazení.**
   
-Soubory z Internetu a z jiných potenciálně nebezpečných umístění můžou obsahovat viry, červy nebo jiné druhy malwaru, které můžou poškodit váš počítač. Obvykle se to týká i příloh e-mailů nebo stažených souborů. Z důvodu ochrany počítače se soubory z těchto potenciálně nebezpečných umístění otevřou v chráněném zobrazení. V chráněném zobrazení si můžete přečíst soubor a zobrazit jeho obsah a současně snížit riziko. Další informace o chráněném zobrazení a změnách nastavení najdete v tomto článku: [co je chráněné zobrazení?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
+Soubory z internetu a z jiných potenciálně nebezpečných míst mohou obsahovat viry, červy nebo jiné druhy malwaru, které mohou poškodit váš počítač. To se často také používá u e-mailových příloh nebo souborů, které jste stáhli. K ochraně počítače se soubory z těchto potenciálně nebezpečných umístění otevře v chráněném zobrazení. Pomocí chráněného zobrazení si můžete přečíst soubor a zobrazit jeho obsah a zároveň snížit rizika. Další informace o chráněném zobrazení a o tom, jak změnit nastavení, najdete v tomto článku: [Co je chráněné zobrazení?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **Je OneDrive zaplněný?**
+ **Je OneDrive plný?**
   
-Pokud je soubor uložený na OneDrivu a prostor úložiště OneDrivu je zaplněný, nebudete moct dokument uložit, dokud nebudete pod vyhrazeným prostorem. Pokud chcete zjistit, jestli máte volné místo na OneDrivu, klikněte na ikonu OneDrivu v centru oznámení a vyberte Spravovat úložiště, nebo můžete přejít na [https://onedrive.live.com](https://onedrive.live.com) , přihlásit se a zaznamenat množství využitého místa v levém dolním rohu obrazovky.
+Pokud je soubor uložený na OneDrivu a máte zaplněný úložný prostor OneDrivu, nebude možné dokument uložit, dokud se nedosáhnou volného místa. Volné místo na OneDrivu můžete zkontrolovat tak, že v centru oznámení kliknete na ikonu OneDrive a vyberete Spravovat úložiště, nebo můžete přejít na , přihlásit se a poznamenat si množství využitých místa v levém dolním rohu [https://onedrive.live.com](https://onedrive.live.com) obrazovky.
   
  **Je Office aktivovaný?**
   
-Pokud Office není aktivovaný, nebo pokud platnost vašeho předplatného vypršela, můžete být v režimu jen pro čtení. Informace o tom, jak aktivovat Office, najdete v tématu: [chyby typu nelicencovaný produkt a chyby aktivace v Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Pokud Office není aktivovaný nebo vypršela platnost vašeho předplatného, můžete být v režimu omezené funkčnosti jen pro čtení. Informace o aktivaci Office najdete v tématu: Chyby [nelicencovaných](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)produktů a aktivace v Office .
   
- **Pokud všechny další selžou...**
+ **Pokud všechno ostatní selže...**
   
-- Zkuste restartovat počítač
+- Zkuste restartovat počítač.
     
 - Instalace aktualizací Office
     

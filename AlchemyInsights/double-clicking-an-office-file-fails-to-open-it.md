@@ -1,8 +1,8 @@
 ---
-title: Poklikáním na soubor Office se nepovede jeho otevření
+title: Poklikáním na soubor Office se soubor neotevře.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2200002"
 - "161"
-ms.openlocfilehash: 9dc4196cd36c8682e4d047e8abad493be97ced3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b9c563f7dd099bf3bad9018f69e2096816dd7290
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812072"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814798"
 ---
-# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Poklikáním na soubor Office se nepovede jeho otevření
+# <a name="double-clicking-an-office-file-fails-to-open-it"></a>Poklikáním na soubor Office se soubor neotevře.
 
-Po poklikání na soubor Office se může aplikace otevřít, ale samotný soubor se neotevře. Může se vám zobrazit chyba: "při posílání příkazu programu došlo k potížím." Existuje mnoho příčin, ale existují dvě nejčastější řešení:
+Po poklikání na soubor Office se může zobrazit otevřený program, ale samotný soubor se neotevře. Nebo se může zobrazit chybová zpráva: "Došlo k potížím s odesláním příkazu do programu". Existuje mnoho příčin, ale dvě nejběžnější řešení jsou:
 
-- V Excelu se ujistěte, že možnost DDE není zaškrtnutá. Možnost se dá najít vytvořením nového sešitu a následným výběrem **možnosti > souborů > Upřesnit**. V části **Obecné** zrušte zaškrtnutí políčka **Ignorovat další aplikace, které používají dynamickou výměnu dat (DDE)**.
+- V Excelu se ujistěte, že možnost DDE není zaškrtnutá. Tuto možnost najdete tak, že vytvoříte nový sešit a pak vyberete **Soubor a > Možnosti > Upřesnit.** V části **Obecné** zrušte zaškrtnutí políčka **Ignorovat další aplikace, které používají dynamickou výměnu dat (DDE).**
 
-- Spusťte online opravu a obnovíte výchozí nastavení. Klikněte na tlačítko Start systému Windows a vyhledejte položku Ovládací panely. Otevřete **Ovládací panely**a přejděte na **programy > programy a funkce**. Potom klikněte pravým tlačítkem na **Microsoft Office [verze]** a zvolte **změnit > online oprava**.
+- Pokud chcete obnovit výchozí nastavení, spusťte online opravu. Klikněte na tlačítko Start ve Windows a vyhledejte "Ovládací panely". Otevřete Ovládací **panely a** přejděte na Programy > programy **a funkce**. Potom klikněte pravým tlačítkem **na Microsoft Office [Verze]** a zvolte **Změnit > Online oprava**.
 
-Pokud žádná z těchto řešení nefunguje, najdete další kompletní seznam řešení v článku podpory tak, že ho Poklikáním na [soubor Office otevřete](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6).
+Pokud ani jedno z těchto řešení nefunguje, najdete kompletní seznam řešení v článku podpory, poklikáním na soubor Office ho [neotevřete.](https://support.office.com/article/Double-clicking-an-Office-file-fails-to-open-it-1e9c0ad9-34c8-4440-a42e-d30186b29ed6)

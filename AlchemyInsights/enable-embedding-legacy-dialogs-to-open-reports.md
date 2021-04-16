@@ -1,35 +1,36 @@
 ---
-title: Povolení vkládání starších dialogových oken k otevření sestav
+title: Povolení vkládání zastaralých dialogů pro otevření sestav
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002931"
 - "5612"
-ms.openlocfilehash: ca0894849e95fd69acd2065c3f065547231a07f9
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
-ms.translationtype: MT
+ms.openlocfilehash: c8a5634d5d79cbd584284b675e5db4e448a0d157
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44204653"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814257"
 ---
-# <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>Povolení vkládání starších dialogových oken k otevření sestav
+# <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>Povolení vkládání zastaralých dialogů pro otevření sestav
 
-**Příznakem**
+**Příznak**
 
-Uživatelé nemohou otevřít sestavy. "Něco se pokazilo. Další podrobnosti naleznete v technických podrobnostech."
+Uživatelům se nedaří otevřít sestavy. „Došlo k nějakému problému. Další informace najdete v technických podrobnostech.“
 
-Tato část obsahuje přehledné informace o problému a osobě, která ho má odstranit. Na obrázku vidíte tři základní strany v transakci e-mailu Office 365 - odesílatele, Office 365 a příjemce. Červeně označená oblast je oblast, ve které je obvykle potřeba problém odstranit.
+**Příčina**
 
-Sestavy se nedaří načíst v UCI s chybou "Popisovač formuláře je null nebo není definován." Sestavy v UCI stále vyžadují starší dialogová okna, takže systém zákazníka musí mít *povoleno povolené delegacydialogsemdding.*
+Sestavy se nedaří načíst do nástroje UCI a zobrazuje se chybová zpráva: „Popisovač formuláře je null nebo není definovaný.“ Sestavy v nástroji UCI vyžadují starší verze dialogů, takže systém zákazníka musí mít povolenou funkci *allowlegacydialogsembedding*.
 
 **Řešení**
 
-1. Přejděte na **kartu Nastavení >správa > nastavení systému > obecné**.
+1. Přejděte na **Nastavení > Správa > Nastavení systému > karta Obecné**.
 
-2. Možnost Povolit vkládání určitých starších dialogových oken v klientovi prohlížeče sjednoceného rozhraní na **možnost Ano**.
+2. Nastavte možnost „Povolí vkládání určitých zastaralých dialogů do klienta prohlížeče Sjednoceného rozhraní“ na **Ano**.

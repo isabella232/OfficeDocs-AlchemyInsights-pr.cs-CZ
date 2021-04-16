@@ -1,8 +1,8 @@
 ---
-title: Stáhnout sestavy docházky v Teams
+title: Stažení sestav docházky v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: cf2f1852112fa28d209e2929bda23318e9b545af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5f52c57e7ec09a0c52dfbc1e3c63fab80c97e9ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712105"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814690"
 ---
-# <a name="download-attendance-reports-in-teams"></a>Stáhnout sestavy docházky v Teams
+# <a name="download-attendance-reports-in-teams"></a>Stažení sestav docházky v Teams
 
-Organizátor schůzky může během schůzek stáhnout sestavy docházky. Jako správce můžete určit, jestli organizátor schůzky můžou stahovat sestavy docházky pro schůzky nastavením zásad schůzky Teams. Ve výchozím nastavení je možnost stahování sestavy vypnutá. Postup zapnutí této funkce najdete v tématu  [nastavení zásad schůzky – sestava docházky pro schůzky](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report).
+Organizátoři schůzek si mohou během schůzek stahovat zprávy o účasti. Jako správce můžete určit, jestli si organizátoři schůzek mohou stahovat sestavy účasti na schůzce nastavením zásad schůzky Teams. Ve výchozím nastavení je možnost stáhnout sestavu vypnutá. Postup, jak tuto funkci zapnout, najdete v tématu Nastavení zásad schůzky [– sestava účasti na schůzce.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---meeting-attendance-report)
 
-Po povolení této akce mohou organizátori schůzky vybrat možnost  **Zobrazit účastníky**  a zvolit možnost  **Stáhnout seznam účastníků**. Další informace najdete v článku [sestavy docházky ke stažení v aplikaci teams a v](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) [sestavě docházky schůzky v Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report).
+Jakmile je tato možnost povolená, mohou organizátoři schůzky během schůzky vybrat  **Zobrazit**  účastníky a zvolit  **Stáhnout seznam účastníků**. Další informace najdete v tématu [Stažení sestav docházky v teams](https://support.office.com/article/download-attendance-reports-in-teams-ae7cf170-530c-47d3-84c1-3aedac74d310) a [sestavě docházky na](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/meeting-attendance-report)schůzce v Microsoft Teams.
 
-**Důležité upozornění**: sestavu docházky budete moct stáhnout jenom v průběhu schůzky a účastníci se pořád prezentují.
+**Důležité:** Zprávu o účasti si budete moct stáhnout jenom v průběhu schůzky a účastníci budou pořád přítomni.
