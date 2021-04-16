@@ -1,8 +1,8 @@
 ---
-title: Selhání aplikace Excel?
+title: Excel se zhroutí?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359290"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804806"
 ---
-# <a name="frequent-excel-crashes"></a>Často dochází k chybě aplikace Excel?
+# <a name="frequent-excel-crashes"></a>Časté chybě v Excelu?
 
-Časté chyby v aplikaci Excel může být způsobeno vadným doplněk. Doplněk aplikace Excel můžete zakázat pomocí následujícího postupu:
+Časté chybové chyby v Excelu mohou být způsobeny vadou doplňku. Doplněk Excelu můžete zakázat podle těchto pokynů:
   
-1. Zvolte **soubor** \> **možností** \> **Doplňky**.
+1. Zvolte  \> **Možnosti souboru**, \> **Doplňky**.
 
-2. V rozevíracím seznamu **Spravovat** vyberte **Doplňky modelu COM**a klepněte na tlačítko **Přejít**.
+2. V poli **Manage** (Spravovat) zvolte **Add-ins (Doplňky modelu COM)** a potom klikněte na **Go (Přejít).**
 
-3. V poli Dostupné doplňky zrušte zaškrtnutí políčka u doplňku, který chcete zakázat a potom klepněte na tlačítko **OK**.
+3. V Add-Ins, které je k dispozici, zrušte zaškrtnutí políčka vedle doplňku, který chcete zakázat, a potom klikněte na **OK.**
 
 > [!NOTE]
-> Pokud aplikace Excel dojde k chybě při spuštění, spusťte jej v nouzovém režimu stisknutím a podržením Ctrl při spuštění aplikace.
+> Pokud excel při spuštění dojde k chybě, spusťte ho prosím v nouzovém režimu stisknutím a podržením klávesy Ctrl při spuštění programu.
   
-Pokud potíže potrvají, naleznete v následujících článcích:
+Pokud máte pořád problémy, přečtěte si následující články:
   
-- [Při spuštění sady Office 2016 nebo 2013 aplikace v počítači se zobrazí chybu "zastavena práce"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Při spuštění aplikací Office 2016 nebo 2013 na počítači se zobrazí chyba "přestala fungovat".](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [Řešení potíží selhání a neodpovídá v aplikaci Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Řešení potíží s chybou a nereagování na problémy s Excelem](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Aplikace Excel přestane reagovat, zamrzne, zamrzne nebo přestane reagovat](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel nereaguje, přestane reagovat, zamrzne nebo přestane fungovat](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)

@@ -1,8 +1,8 @@
 ---
-title: Proč se aktualizace softwaru nezasazují?
+title: Proč se nenasadily aktualizace softwaru?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461753"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805679"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a>Proč se aktualizace softwaru nezasazují?
+# <a name="why-software-updates-are-not-being-deployed"></a>Proč se nenasadily aktualizace softwaru?
 
-Pokud jste nakonfigurovali aktualizace softwaru prostřednictvím vyzvánění aktualizace Windows 10, ale aktualizace se nenasazením neprovádí, podívejte se na následující skutečnosti:  
+Pokud jste nakonfigurovali aktualizace softwaru prostřednictvím aktualizačního okruhu Windows 10, ale aktualizace se nenasazují, podívejte se na tyto články:  
 
-- Zvažte změnu služby Windows Servicing z  **víceletého**  typu verze na přísnější, častější typ verze  
-- Zkontrolujte období časově rozlišených položek pro  **aktualizaci**  a  **aktualizaci funkcí**. Období časově rozlišených položek může způsobit zpoždění aktualizací po 180 dní.
+- Zvažte možnost změny typu vydání služby Windows z  **Pololetního kanálu**  na striktnější a častější typ vydání.  
+- Zkontrolujte časové období pro **aktualizace pro zvýšení kvality**  a  **aktualizace funkcí**. Pozdržení platnosti může vést ke zpoždění aktualizací až o 180 dnů.
