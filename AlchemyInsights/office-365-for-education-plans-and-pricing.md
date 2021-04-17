@@ -1,8 +1,8 @@
 ---
-title: Plány a ceny pro Office 365 pro vzdělávací organizace
+title: Plány a ceny Office 365 pro vzdělávací instituce
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6d6292fddfceb03191c29dc14e9b2295da52e4ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 95d398a7f287899d11dc069e9874db805c5f51a8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729576"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829585"
 ---
 # <a name="get-microsoft-365-free-for-your-entire-school"></a>Získejte Microsoft 365 zdarma pro celou školu
 
-Vylepšete učební a školní spolupráci pomocí bezplatných nástrojů pro zvýšení produktivity. Budete muset ověřit, že jste schválenou akademickou institucí, abyste mohli využít těchto nabídek.
+Vylepšete spolupráci ve třídách a ve škole pomocí bezplatných nástrojů pro zvýšení produktivity. Abyste tyto nabídky využili, budete muset ověřit, že jste akreditovaná akademická instituce.
   
-- [Kontrola plánů pro vzdělávací organizace](https://products.office.com/academic/compare-office-365-education-plans)
+- [Prohlédněte si plány Education](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [Srovnání všech předplatných Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [Porovnání všech předplatných Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

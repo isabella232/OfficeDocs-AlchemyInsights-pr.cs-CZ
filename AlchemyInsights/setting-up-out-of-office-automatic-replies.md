@@ -2,21 +2,22 @@
 title: Nastavení automatických odpovědí Mimo kancelář
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002390"
 - "4658"
-ms.openlocfilehash: 32c52db55bfc0ae1ab97e06139750544eb1a6141
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: b89646f9a231e24d038df61e50777072dc8db33d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286524"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828505"
 ---
 # <a name="setting-up-out-of-office-automatic-replies"></a>Nastavení automatických odpovědí Mimo kancelář
 

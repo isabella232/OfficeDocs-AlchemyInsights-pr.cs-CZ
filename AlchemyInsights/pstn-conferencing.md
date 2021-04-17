@@ -2,7 +2,7 @@
 title: Konference ve veřejné telefonní síti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 0bf07abb9f28528d6c24a801fb0c2d565654ccec
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692351"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828901"
 ---
 # <a name="pstn-calling-with-skype-for-business-online"></a>Volání do veřejné telefonní sítě pomocí Online Skypu pro firmy
 

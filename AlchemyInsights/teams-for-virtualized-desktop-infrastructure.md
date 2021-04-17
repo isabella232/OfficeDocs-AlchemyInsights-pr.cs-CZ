@@ -1,8 +1,8 @@
 ---
-title: Týmy pro virtualizované desktopovou infrastrukturu
+title: Teams pro virtualizovanou desktopovou infrastrukturu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7a3f6bcdd6b4b9d260d4cbe634952a02319a242
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736425"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829405"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>Týmy pro virtualizované desktopovou infrastrukturu
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>Teams pro virtualizovanou desktopovou infrastrukturu
 
-Podrobné informace o Teams pro prostředí virtualizované počítačové infrastruktury najdete v tématu [týmy pro virtualizované desktopovou infrastrukturu](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+Podrobné informace o prostředích Teams pro virtualizovanou desktopovou infrastrukturu najdete v tématu [Teams pro virtualizovanou desktopovou infrastrukturu](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
 
-Známé problémy a omezení v prostředích VDI jsou podrobně popsány v části [známé problémy a omezení ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) ve stejném článku, které obsahují následující témata:
- - Nasazení klienta, instalace a nastavení
+Známé problémy a omezení v prostředích [](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) VDI jsou podrobně uvedená v části Známé problémy a omezení stejného článku, která obsahuje následující témata:
+ - Nasazení, instalace a nastavení klienta
  - Volání a schůzky
