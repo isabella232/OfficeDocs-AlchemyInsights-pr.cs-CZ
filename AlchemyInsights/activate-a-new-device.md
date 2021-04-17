@@ -2,7 +2,7 @@
 title: Aktivace nového zařízení
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668375"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823276"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a><span data-ttu-id="eeef6-102">Aktivace nového zařízení s Windows 10</span><span class="sxs-lookup"><span data-stu-id="eeef6-102">Activating a new device running Windows 10</span></span>
+# <a name="activating-a-new-device-running-windows-10"></a><span data-ttu-id="82816-102">Aktivace nového zařízení s Windows 10</span><span class="sxs-lookup"><span data-stu-id="82816-102">Activating a new device running Windows 10</span></span>
 
-<span data-ttu-id="eeef6-103">Pokud jste si koupili nové zařízení s Windows 10, automaticky se aktivuje po připojení zařízení k Internetu.</span><span class="sxs-lookup"><span data-stu-id="eeef6-103">If you bought a new device running Windows 10, it will automatically activate when you connect your device to the Internet.</span></span> <span data-ttu-id="eeef6-104">Pokud jsou aktivační servery zaneprázdněné, může být potřeba počkat a až po aktivaci systému Windows.</span><span class="sxs-lookup"><span data-stu-id="eeef6-104">If the activation servers are busy, you might need to wait a while for Windows to activate.</span></span>
+<span data-ttu-id="82816-103">Pokud jste si koupili nové zařízení s Windows 10, aktivuje se automaticky při připojení zařízení k internetu.</span><span class="sxs-lookup"><span data-stu-id="82816-103">If you bought a new device running Windows 10, it will automatically activate when you connect your device to the Internet.</span></span> <span data-ttu-id="82816-104">Pokud jsou aktivační servery zaneprázdněné, možná budete muset chvíli počkat, než se aktivuje Windows.</span><span class="sxs-lookup"><span data-stu-id="82816-104">If the activation servers are busy, you might need to wait a while for Windows to activate.</span></span>
 
-<span data-ttu-id="eeef6-105">Pokud chcete zkontrolovat stav aktivace, zvolte **Spustit** **Settings**  >  **aktualizaci nastavení &**  >  **Aktivace**zabezpečení.</span><span class="sxs-lookup"><span data-stu-id="eeef6-105">To check activation status, choose **Start** **Settings** > **Update & security** > **Activation**.</span></span>
+<span data-ttu-id="82816-105">Pokud chcete zkontrolovat stav aktivace, zvolte **Spustit** **aktualizaci nastavení**&  >    >  **aktivaci zabezpečení**.</span><span class="sxs-lookup"><span data-stu-id="82816-105">To check activation status, choose **Start** **Settings** > **Update & security** > **Activation**.</span></span>
 
-<span data-ttu-id="eeef6-106">**Poznámka:** V některých případech se může stát, že budete muset zadat kód Product Key pro Windows 10, který jste dostali s balíčkem zařízení, nebo jako kartu nebo na certifikát pravosti (COA) připojený k zařízení.</span><span class="sxs-lookup"><span data-stu-id="eeef6-106">**Note:** In some cases, you might need to enter the Windows 10 product key that came with the device packaging, or included as a card or on the Certificate of Authenticity (COA) attached to the device.</span></span>
+<span data-ttu-id="82816-106">**Poznámka:** V některých případech může být potřeba zadat kód Product Key pro Windows 10, který byl součástí balení zařízení, nebo je součástí karty nebo certifikátu pravosti připojeného k zařízení.</span><span class="sxs-lookup"><span data-stu-id="82816-106">**Note:** In some cases, you might need to enter the Windows 10 product key that came with the device packaging, or included as a card or on the Certificate of Authenticity (COA) attached to the device.</span></span>
 
-[<span data-ttu-id="eeef6-107">Další informace o aktivaci ve Windows 10</span><span class="sxs-lookup"><span data-stu-id="eeef6-107">Learn more about activation in Windows 10</span></span>](https://support.microsoft.com/help/12440)
+[<span data-ttu-id="82816-107">Další informace o aktivaci ve Windows 10</span><span class="sxs-lookup"><span data-stu-id="82816-107">Learn more about activation in Windows 10</span></span>](https://support.microsoft.com/help/12440)
