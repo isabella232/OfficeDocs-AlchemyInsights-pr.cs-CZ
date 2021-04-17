@@ -1,8 +1,8 @@
 ---
-title: Změna informací o platbě v Azure
+title: Změna platebních údajů v Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: c46f1cd65ae5a07a4aab33c641ebfcb7ef6fd42d
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807396"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820711"
 ---
-# <a name="change-payment-information-in-azure"></a>Změna informací o platbě v Azure
+# <a name="change-payment-information-in-azure"></a>Změna platebních údajů v Azure
 
-Na portálu Azure můžete jako správce účtu přidat novou kreditní kartu, aktualizovat existující kreditní kartu nebo odstranit kreditní kartu, kterou nepoužíváte. V případě [smlouvy pro zákazníky společnosti Microsoft](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)jsou způsoby platby přidružené k [profilům faktur](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Pouze uživatel, který je podepsaný do služby Azure, může aktualizovat způsob platby.
+Na portálu Microsoft Azure můžete jako správce účtu přidat novou platební kartu, aktualizovat stávající platební kartu nebo odstranit platební kartu, kterou nepoužíváte. U [Smlouvy se zákazníkem Microsoftu](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement) jsou způsoby platby přidružené k [fakturačním profilům](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Způsob platby může aktualizovat jenom uživatel, který se zaregistroval k Azure.
 
-**Přidání nové kreditní nebo debetní karty do předplatného Azure**
+**Přidání nové kreditní nebo debetní karty k předplatnému Azure**
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/) jako [správce účtu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Hledání ve **správě nákladů + fakturace**
-2. Vyberte předplatné, ke kterému chcete přidat kredit nebo debetní kartu. Výběr **způsobů platby**
-3. V levém horním rohu vyberte + a přidejte kartu. Na pravé straně se zobrazí formulář kreditní karty. Zadejte podrobnosti o kreditních nebo debetních kartách. 4.To-li tuto kartu jako aktivní platební způsob, zaškrtněte políčko u tohoto aktivního způsobu platby nad formulářem. Tato karta se změní na aktivní platební nástroj pro všechna předplatná používající stejnou kartu jako vybrané předplatné. Vyberte **další** 5.to **použijte jinou kreditní kartu** , zaškrtněte políčko vedle karty, kterou chcete použít jako aktivní způsob platby.
-6. klikněte na **nastavit aktivní** .
+1. Přihlaste se na [portál Microsoft Azure](https://portal.azure.com/) jako [správce účtu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Vyhledávejte v článku **Správa nákladů + fakturace**.
+2. Vyberte předplatné, ke kterému chcete kreditní nebo debetní kartu přidat. Vyberte **Způsoby platby**
+3. V levém horním rohu vyberte symbol „+“ a přidejte tak kartu. Vpravo se zobrazí formulář platební karty. Zadejte podrobnosti o kreditní nebo debetní kartě. 4. Kartu nastavíte jako aktivní způsob platby zaškrtnutím políčka „Nastavit jako aktivní způsob platby“ ve formuláři výše. Tato karta se stane aktivním platebním nástrojem pro všechna předplatná, která používají stejnou kartu jako vybrané předplatné. Zaškrtněte **Další** 5. Pokud chcete **používat jinou platební kartu**, zaškrtněte políčko vedle karty, kterou chcete nastavit jako aktivní způsob platby.
+6. Klikněte na **Nastavit jako aktivní**.
 
-**Aktualizace, změna nebo odebrání stávající kreditní nebo debetní karty**
+**Aktualizace, změna nebo odebrání existující debetní nebo kreditní karty**
 
-1. Přihlaste se na [Azure Portal](https://portal.azure.com/) jako [správce účtu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Vyhledávání ve **správě nákladů + fakturace**
-2. Vyberte **způsob platby** . Klikněte na kreditní nebo debetní kartu, kterou chcete upravit. Na pravé straně se zobrazí formulář kreditní karty. aktualizace podrobností o kreditní nebo debetní kartě Vyberte **Uložit** .
-4.To **Odebrat** zaškrtněte políčko vedle karty, kterou chcete odebrat 5. klikněte na **Odstranit** .
+1. Přihlaste se na [portál Microsoft Azure](https://portal.azure.com/) jako [správce účtu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Vyhledávejte v článku **Správa nákladů + fakturace**.
+2. Vyberte **Způsoby platby**. Klikněte na kreditní nebo debetní kartu, kterou chcete upravit. Na pravé straně se zobrazí formulář platební karty. 3. Aktualizujte podrobnosti o kreditní nebo debetní kartě. Vyberte **Uložit**.
+4. Pro **odebrání** zaškrtněte políčko vedle karty, kterou chcete odebrat. 5. Klikněte na **Odstranit**.
 
-_Poznámka_ : kreditní kartu nemůžete odebrat, pokud je přidružena k dalším aktivním předplatným společnosti Microsoft. Budete muset odebrat kreditní kartu ze všech aktivních předplatných, které máte u Microsoftu, a zkuste to znovu.
+_Poznámka_: Platební kartu nemůžete odebrat, pokud je přidružená k jiným aktivním předplatným Microsoftu. Odeberte platební kartu ze všech aktivních předplatných, která máte u Microsoftu, a zkuste to znovu.
 
-Další informace: [aktualizace, změna nebo odebrání způsobů platby](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+Další informace: [Aktualizace, změna nebo odebrání způsobu platby](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Řešení problémů s platbou**
+**Řešení potíží s platbou**
 
-Podívejte se na [řešení problémů s platbami a chybové scénáře](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues) , abyste viděli, jestli se problém vyřešil.
+Obraťte se na [Řešení potíží s platbami za Azure](https://support.microsoft.com/help/4505172/troubleshooting-payment-issues), možná to vyřeší váš problém.
 
-Pokud na kartě vyřizujete platbu od odepření vaší finanční institucí, obraťte se na **finanční instituci** , abyste tento problém vyřešili. Použijte následující ukazatele:
+Pokud je na kartě nevyřízená platba, protože kartu zamítla vaše finanční instituce, obraťte se prosím při řešení problému na svou **finanční instituci**. Použijte následující ukazatele:
 
-- Je možné, že budete muset v bance zkontrolovat, jestli je na kartě povolená mezinárodní transakce.
-- Pokud má karta limit kreditu pro vyrovnání zůstatku
-- Pokud je na kartě povolená opakovaná platba
+- Možná budete u banky muset zjistit, jestli na kartě máte povolené mezinárodní transakce.
+- Jestli je na kartě dostatečný zůstatek k zaplacení neuhrazené částky.
+- Jestli jsou na kartě povolené opakované platby
 
 **Doporučené dokumenty**
 
 - [Nastavení fakturace](https://azure.microsoft.com/pricing/invoicing/)
-- [Změnit způsob platby – časté otázky](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Změna způsobu platby pro fakturační profil](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [Kontrola přístupu ke Smlouvě o zákaznících Microsoftu](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Nejčastější dotazy o změně způsobu platby](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Změna způsobu platby u fakturačního profilu](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Kontrola přístupu ke smlouvě se zákazníkem Microsoftu](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

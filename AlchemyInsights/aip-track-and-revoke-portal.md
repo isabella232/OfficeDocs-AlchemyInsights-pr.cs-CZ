@@ -1,8 +1,8 @@
 ---
-title: 'AIP: sledování a odvolání portálu'
+title: 'AIP: Sledování a odvolání portálu'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663146"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821584"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AIP: sledování a odvolání portálu
+# <a name="aip-track-and-revoke-portal"></a>AIP: Sledování a odvolání portálu
 
-**Web sledování dokumentů** na portálu Azure se používá ke sledování a odvolání dokumentů při použití ochrany informací Azure. Aplikace Office (Word, Excel a PowerPoint) a Průzkumník souborů mohou sloužit také ke sledování a odvolání dokumentů.
+Web **sledování dokumentů na** portálu Azure Portal můžete použít ke sledování a odvolání dokumentů při používání Azure Information Protection. Aplikace Office (Word, Excel a PowerPoint) a Průzkumník souborů můžete taky použít ke sledování a odvolání dokumentů.
 
-1. Na webu sledování dokumentů klikněte na **odvolat přístup**. Odvoláním dokumentu odeberete přístup od autorizovaných uživatelů. dokument se neodstraní.
+1. Na webu pro sledování dokumentů klikněte na **Odvolat přístup.** Odvolání dokumentu odebere přístup oprávněným uživatelům. dokument se odstraní.
 2. V aplikaci Office:
-    - Otevřete dokument, který chcete sledovat nebo odvolat.
-    - Na kartě **Domů** klikněte ve skupině **zámek** na **chránit > sledování a odvolat**.
+    - Otevřete chráněný dokument, který chcete sledovat nebo odvolat.
+    - Na kartě **Domů** klikněte ve skupině **Ochrana** na **Zamknout > sledování a odvolání.**
 
-- Další informace o sledování a odvolávání dokumentu najdete v tématu [sledování a odvolání](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- Další informace o sledování a odvolání dokumentu najdete v tématu Sledování a [odvolání](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)dokumentu.
 
-Informace o použití PowerShellu ke správě webu sledování dokumentů, protokolování informací najdete v následujících článcích:
-- [Uživatelská příručka: sledování a odvolání dokumentů při použití ochrany informací Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Příručka pro správce: konfigurace a používání sledování dokumentů pro službu Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Licence na používání správy přístupových práv](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Přečtěte si předplatné a funkce služby Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)
-- [Požadavky na ochranu informací Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Rychlý kurz pro rychlé zahájení ochrany informací Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+Informace o použití PowerShellu ke správě webu pro sledování dokumentů, protokolování informací, najdete v těchto informacích:
+- [Uživatelská příručka: Sledování a odvolání dokumentů při používání Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Příručka pro správu: Konfigurace a používání sledování dokumentů pro Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Licence k používání rights managementu](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Kontrola předplatných a funkcí Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)
+- [Požadavky na Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Úvodní kurz pro Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

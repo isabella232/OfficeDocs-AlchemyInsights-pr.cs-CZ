@@ -1,8 +1,8 @@
 ---
-title: Zásady konfigurace aplikace pro Microsoft Intune
+title: Zásady konfigurace aplikací pro Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,20 +14,20 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: babdff75b53c4a5cab0ae7697369304319d105af
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366385"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821323"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Zásady konfigurace aplikace pro Microsoft Intune
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Zásady konfigurace aplikací pro Microsoft Intune
 
-Zásady konfigurace aplikací v Microsoft Intune slouží k poskytování nastavení konfigurace pro aplikace pro iOS nebo Android. Tato nastavení konfigurace umožňují aplikaci přizpůsobit. Uvědomte si, že existují určitá omezení pro verze operačního systému a které aplikace podporují použití zásad konfigurace.
+Zásady konfigurace aplikací v Microsoft Intune slouží k nastavení konfigurace aplikací pro iOS nebo Android. Tato nastavení konfigurace umožňují přizpůsobit aplikaci. Uvědomte si, že existují omezení týkající se verzí operačního systému a aplikací, které podporují použití zásad konfigurace.
 
-Podrobnosti najdete v následující dokumentaci
+Podrobnosti najdete v následující dokumentaci.
 
-[Zásady konfigurace aplikace pro Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+[Zásady konfigurace aplikací pro Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
 
 [Přidání zásad konfigurace aplikací pro spravovaná zařízení s iOS](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
 

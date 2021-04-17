@@ -1,8 +1,8 @@
 ---
-title: Moderní fakturace e-mailu Azure
+title: Moderní e-mailová fakturace Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6866"
-ms.openlocfilehash: 65df6091a97d4937379ded384a78b5d07aa76e42
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4df8c49880fe638c1659f76edc0905532d091e45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922023"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820819"
 ---
-# <a name="email-invoicing-in-azure"></a>Fakturace e-mailu v Azure
+# <a name="email-invoicing-in-azure"></a>E-mailová fakturace v Azure
 
-Abyste mohli aktualizovat svou e-mailovou fakturu, musíte mít roli vlastníka nebo přispěvatele v fakturačním profilu nebo jeho fakturačním účtu. Jakmile se rozhodnete, že všichni uživatelé s rolí vlastník, přispěvatel, čtenáři a správce faktur v profilu fakturace obdrží svou fakturu v e-mailu.
+Abyste mohli aktualizovat předvolby e-mailové fakturace, musíte mít na fakturačním profilu nebo na jeho fakturačním účtu roli vlastníka nebo přispěvatele. Jakmile to odsouhlasíte, všichni uživatelé s rolí vlastníka, přispěvatele, čtenáře a správce faktur na fakturačním profilu dostanou fakturu tohoto profilu e-mailem.
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/).
-2. Vyhledejte **správu nákladů + fakturace**.
-3. V horní části stránky vyberte **faktury** a pak vyberte **e-mailová faktura** .
-4. Pokud máte několik fakturačních profilů, vyberte profil fakturace a pak vyberte **Přihlásit se**.
+1. Přihlaste se na [portál Microsoft Azure](https://portal.azure.com/).
+2. Vyhledejte položku **Správa nákladů + fakturace**.
+3. Vyberte **Faktury** na levé straně a v horní části stránky pak vyberte možnost **Poslat fakturu e-mailem**.
+4. Pokud máte fakturačních profilů víc, vyberte některý z nich a pak vyberte **Vyjádřit souhlas**.
 
-5. Vyberte **aktualizovat**.
-6. Pokud máte několik fakturačních profilů, vyberte profil fakturace a pak vyberte **Přihlásit se**.
+5. Vyberte **Aktualizovat**.
+6. Pokud máte fakturačních profilů víc, vyberte některý z nich a pak vyberte **Vyjádřit souhlas**.
 
-Chcete-li ostatním udělit přístup k zobrazení, stažení a placení faktur, přiřaďte jim roli správce faktur pro fakturační profil MCA nebo MPA. Pokud jste se přihlásili, že budete mít fakturu v e-mailu, uživatelé také získají faktury v e-mailu.
+Ostatním uživatelům můžete udělit přístup k zobrazování, stahování a placení faktur tím, že jim přiřadíte roli správce faktur pro fakturační profil MCA nebo MPA. Pokud jste odsouhlasili, že faktury budete dostávat e-mailem, i uživatelům budou chodit faktury e-mailem.
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/).
-2. Vyhledejte **správu nákladů + fakturace**.
-3. Vyberte **profily pro fakturaci** z levé strany. V seznamu profily faktur vyberte profil fakturace, pro který chcete přiřadit roli správce faktury.
-4. V levé části vyberte **řízení přístupu (IAM)** a potom v horní části stránky vyberte **Přidat** .
+1. Přihlaste se na [portál Microsoft Azure](https://portal.azure.com/).
+2. Vyhledejte položku **Správa nákladů + fakturace**.
+3. Vyberte **Fakturační profily** na levé straně. V seznamu fakturačních profilů vyberte fakturační profil, ke kterému chcete přiřadit roli správce faktur.
+4. Vyberte **Řízení přístupu (systém IAM)** na levé straně a pak vyberte **Přidat** v horní části stránky.
 
-V rozevíracím seznamu role vyberte **správce faktur**. Zadejte e-mailovou adresu uživatele, kterému chcete udělit přístup. Kliknutím na **Uložit** roli přiřadíte.
+V rozevíracím seznamu Role vyberte **Správce faktur**. Zadejte e-mailovou adresu uživatele, kterému chcete udělit přístup. Výběrem možnosti **Uložit** roli přiřadíte.

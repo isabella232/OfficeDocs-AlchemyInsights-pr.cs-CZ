@@ -1,8 +1,8 @@
 ---
-title: Požádejte správce, aby povolil Microsoft Teams
+title: Požádejte správce o povolení Microsoft Teams.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716238"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821179"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Chybí vám! Požádejte správce, aby povolil Microsoft Teams
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Přicházíte o to! Požádejte správce o povolení Microsoft Teams.
 
-Pokud máte tenanta EDU, je potřeba povolit Microsoft Teams ručně. To můžete udělat tak, že v >centru pro správu Microsoft 365 přejdete na  **služby a doplňky > Microsoft Teams**. Pokud používáte nové centrum pro správu týmů, budete muset vypnout **nové centrum pro správu**a   Najít **služby a**doplňky. 
+Pokud máte tenanta EDU, je potřeba povolit Microsoft Teams ručně. Pokud to chcete udělat, přejděte do Centra pro správu Microsoft 365 >Services and  **add-ins**> Microsoft Teams . Pokud používáte nové Centrum pro správu Teams, budete muset **** vypnout Vyzkoušet nové centrum pro správu, kde najdete Služby a    **doplňky**. 
 
-**Důležité upozornění**: změny se projeví až po 24 hodinách.
+**DŮLEŽITÉ:** Možná budete muset počkat až 24 hodin, než se změny projeví.

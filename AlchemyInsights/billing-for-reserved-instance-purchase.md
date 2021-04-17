@@ -1,8 +1,8 @@
 ---
-title: Fakturace pro nákup rezervované instance
+title: Fakturace za nákup rezervované instance
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,104 +12,104 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 6cdcb5af27a475cc838eb434ff025eb18356360c
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823029"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820315"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Fakturace pro nákup rezervované instance
+# <a name="billing-for-reserved-instance-purchase"></a>Fakturace za nákup rezervované instance
 
-Rezervovaná instance je účtována způsobu platby, který je spojený s předplatným, které jste vybrali při nákupu. Typem předplatného musí být smlouva Enterprise (číslo nabídnutí: MS-AZR-0017P), plaťte podle sebe-Go (číslo nabídnutí: MS-AZR-0003P), smlouva zákazníka nebo CSP společnosti Microsoft.
+Nákup rezervované instance se účtuje podle způsobu platby vázaného na předplatné, které vyberete v okamžiku nákupu. Typ předplatného musí být smlouva enterprise (číslo nabídky: MS-AZR-0017P), Pay-As-You-Go (číslo nabídky: MS-AZR-0003P), Smlouva se zákazníky společnosti Microsoft nebo csp.
 
-- U předplatného podniku se poplatky odečtou od měnového zůstatku kreditu pro přihlášení nebo jako poplatky za převzetí.
-- U předplatného s platbou po vás budou poplatky účtovány na platební kartu nebo na platební způsob platby.
+- U podnikového předplatného se poplatky odečtou z zůstatku peněžního závazku registrace nebo se účtují jako nadváže.
+- U předplatného Pay-As-You-Go se poplatky účtují na platební kartu nebo způsob platby fakturou v rámci předplatného.
 
 **Zrušení rezervace**
 
-- **Samoobslužné služby:** Rezervovanou instanci můžete zrušit nebo vyměnit pomocí [portálu Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Vyberte rezervaci a klikněte na refundace nebo Exchange. Uvědomte si, že u objednávky rezervací musíte mít přístup vlastníka k Exchangi nebo vrácení peněz. Přístup pouze k rezervaci vám neumožní pokračovat v refundaci nebo Exchangi. Zeptejte se vlastníka objednávky rezervací, aby vám poskytl přístup vlastníka k objednávce rezervací.
-- **Zásady Exchange:** Můžete si vyměnit rezervaci pro jinou rezervaci stejného typu – neexistují **žádné sankce** při výměně rezervací. Celkový závazek s novou výhradou by měl být větší než součet částky refundace vyměněné rezervace a budoucích měsíčních plateb (Pokud je to možné).
-- **Zásady vracení peněz:** Součet refundace a zrušené budoucí platby nemohou překročit $50 000 USD v okně s dvanáctiměsíčním měsícem. V **současné době neplatíme žádné sankce** za vrácení peněz, které by mohly být účtovány budoucími náhradami.
+- **Samoobslužná služba:** Rezervovaný výskyt můžete zrušit nebo si vyměnit sami pomocí [portálu Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Vyberte rezervaci a klikněte na refundaci nebo výměnu. Upozorňujeme, že k výměně nebo refundaci musíte mít přístup vlastníka k objednávce rezervace. Přístup jenom k rezervaci vám neumů e pokračovat v refundaci nebo výměně. Požádejte vlastníka objednávky rezervace, aby vám dal přístup k objednávce rezervace.
+- **Zásady Exchange:** Rezervaci si můžete vyměnit za jinou rezervaci stejného typu – při výměně rezervací nejsou **žádné** postihy. Celkový závazek s novou rezervací by měl být větší než součet částky refundace vyměněné rezervace a budoucích měsíčních plateb (pokud je to možné)
+- **Zásady refundace:** Součet refundace a zrušených budoucích plateb nesmí překročit 50 000 USD v 12měsíčním průběžném okně. V současné **době neúčtujeme žádnou penále** za refundace, ale můžeme ji účtovat z budoucích refundace.
 
-**Výjimky:** Funkce samoobslužná výměna a zrušení nejsou pro zákazníky s podnikovou vládou USA k dispozici.
+**Výjimky:** Možnost samoobslužné výměny a zrušení není dostupná pro zákazníky se smlouvou US Government Enterprise Agreement
 
-- Podpora **rozhraní API a PS/CLI** není dostupná pro zrušení a refundaci [automatických výměn a refundací pro Azure rezervací](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) .
-- Funkce Samoobslužné výměny a rušení se nehodí pro zákazníky z dohod spojených s vládou USA. Podporují se i další typy předplatného pro vládní organizace včetně placeného placení a CSP.
+- **Podpora API / PS / CLI** není dostupná pro zrušení a refundace samoobslužných výměn a refundace za rezervace [Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Možnost samoobslužné výměny a zrušení není dostupná pro zákazníky se smlouvou US Government Enterprise Agreement. Podporují se další typy předplatného americké vlády, včetně služeb Pay-As-You-Go a CSP.
 
-Další informace: [jak se zpracovávají transakce vracení a Exchange](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) Další informace: [zásady Exchange a refundace náhrad](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) další otázky: [navštivte vyhrazené instance](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) .
+Další informace : [Zpracování transakcí vrácení](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) a výměny Další informace : Zásady [exchange](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) a refundace Další otázky: Navštivte dokumenty [rezervované instance](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Výměna existující rezervované instance (samoobslužné služby)**
+**Exchange stávající rezervované instance (samoobslužná služba)**
 
-Můžete si vyměnit rezervaci pro další rezervaci stejného typu. Můžete také vrátit rezervaci, až $50 000 USD za rok, pokud ji už nepotřebujete. Funkce Samoobslužné výměny a rušení se nehodí pro zákazníky z dohod spojených s vládou USA. Podporují se i další typy předplatného pro vládní organizace včetně placeného placení a CSP. Abyste mohli provést výměnu nebo refundaci existující rezervaci, musíte mít v pořadí rezervací oprávnění Vlastník.
+Rezervaci si můžete vyměnit za jinou rezervaci stejného typu. Pokud už rezervaci nepotřebujete, můžete refundovat rezervaci až do výše 50 000 USD ročně. Možnost samoobslužné výměny a zrušení není dostupná pro zákazníky se smlouvou US Government Enterprise Agreement. Podporují se další typy předplatného americké vlády, včetně placených služeb a csp. K výměně nebo refundaci stávající rezervace musíte mít přístup vlastníka k objednávce rezervace.
 
-Následující kroky se týkají postupu dokončení transakce
+Následující kroky vám posouou pokyny k provedení transakce.
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Vyberte rezervace, které chcete refundaci, a klikněte na **Exchange** 2. Vyberte produkt VM, který chcete koupit, a zadejte množství. [Před nákupem](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)se ujistěte, že je nový nákup větší než vrácená hodnota.
-3. Zkontrolujte a dokončete transakci.
+1.Přihlaste se k [portálu Azure Portal.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Vyberte rezervace, které chcete vrátit, a klikněte na **Exchange** 2. Vyberte produkt virtuálního počítače, který chcete koupit, a zadejte množství. Ujistěte se, že nový nákupní součet je víc než celkový výnos. Před nákupem určete [správnou velikost.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3.Zkontrolujte a dokončete transakci.
 
-**Refundace rezervované instance**
+**Refundace za rezervovanou instanci**
 
-Pokud chcete vrátit rezervaci, přejděte na **Detaily rezervací** a klikněte na **refundace** .
+Pokud chcete refundovat rezervaci, přejděte na **Podrobnosti rezervace** a klikněte na **Refundovat.**
 
-**Nominální refundace:**
+**Pro-rated refundace:**
 
-**Příklad pro-dávku a minimální požadavek pro refundaci a Exchange** Příklad rezervace:
+**Příklady provizí a minimálních požadavků pro refundaci a výměnu** Příklad rezervace předem:
 
-- Zakoupíte jednoletý termín RI pro $120 1. ledna
-- 7. dubna, kterou chcete vrátit, nebo si vyměňovat tuto rezervaci
-- Vzhledem k tomu, že rezervace je za 97 dnů živá, dostanete (1-97/365) * $120 zpátky. (například $88,1). V současné době není k dispozici žádná pokuta
-- Při výměně by váš nový nákup měl být větší než $88,1
-- V současné době neexistuje žádné snížení náhrad
+- 1. ledna si zakoupíte roční období RI za 120 USD.
+- 7. dubna chcete tuto rezervaci vrátit nebo vyměnit.
+- Vzhledem k tomu, že rezervace je živě 97 dní, dostanete (1.97.365) * 120 Kč zpět. (tj. 88,1 Kč). V současné době neexistuje žádná penále za refundace.
+- Při výměně by váš nový nákup měl být vyšší než 88,1 USD.
+- V současné době neexistuje žádná penále za refundace.
 
-**Příklad rezervace plánu fakturace:**
+**Příklad rezervace fakturačního plánu:**
 
-- Koupíte si jednoletý termín RI pro $10 za měsíc
-- 7. dubna, kterou chcete vrátit, nebo si vyměňovat tuto rezervaci
-- Od poslední platby uplynulo 7 dnů, získáte (1-7/31) * $10 zpátky. (například $7,74)
-- Zrušení budoucích plateb je $80. V současné době není k dispozici žádná pokuta
-- Toto zrušení odečte $87,74 od vás limit $50 000 refundace
-- V případě výměny by měla být celková hodnota nového nákupu větší než $87,74
+- Zakoupíte si roční období RI za 10 USD měsíčně.
+- 7. dubna chcete tuto rezervaci vrátit nebo vyměnit.
+- Od poslední splátky za 7 dní dostanete (1.7.31) * 10 Kč zpět. (tj. 7,74 Kč)
+- Zrušené budoucí platby jsou 80 Usd. V současné době neexistuje žádná penále za refundace.
+- Toto zrušení vám odečte 87,74 USD od limitu refundace ve výši 50 000 Kč.
+- Při výměně by celková hodnota nového nákupu měla být vyšší než 87,74 Kč.
 
-**Nelze zobrazit fakturu za poslední fakturační období**
+**Fakturu za poslední fakturační období se nepodařilo zobrazit.**
 
-Existují některé možné důvody, proč nemůžete fakturu zobrazit:
+Některé možné důvody, proč se vám faktura nemusí zobrazit:
 
-- Máte měsíční kreditovou částku s předplatným, o kterou jste nepřekročili nebo máte bezplatnou zkušební verzi. Faktura se generuje jenom v případě, že dlužíte peníze.
-- Je kratší než 30 dní od dne, kdy jste přihlášeni k Azure
-- Faktura ještě není vygenerovaná. Počkat na konec fakturačního období
-- Pokud nejste správce účtu, nemusí být starší faktury k dispozici
+- U předplatného máte měsíční kredit, který jste nepřekročili nebo máte bezplatnou zkušební verzi. Faktura se vygeneruje jenom v případě, že jste dlužní peníze.
+- Je to méně než 30 dní ode dne, kdy jste se přihlásili k odběru Azure.
+- Faktura se ještě nevygeneruje. Počkejte až do konce fakturačního období.
+- Pokud nejste správcem účtu, starší faktury nemusí být pro vás dostupné.
 
-**Stažení faktury z Azure Portal (. PDF)**
+**Stáhněte si fakturu z webu Azure Portal (.pdf)**
 
-- Výběr předplatného na stránce [předplatná](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) na portálu Azure jako [uživatel s přístupem k fakturám](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Výběr **faktur**
-- Kliknutím na **stáhnout fakturu** zobrazíte kopii faktury ve formátu PDF. Pokud [nevidíte fakturu za poslední fakturační období?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice) **Not available**
+- Vyberte předplatné na stránce [Předplatná](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) na webu Azure Portal jako uživatel s [přístupem k fakturám.](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Vybrat **faktury**
+- Kliknutím **na Stáhnout fakturu** zobrazíte kopii faktury PDF. Pokud je v **části Není k** dispozici, podívejte se na informace v tématu Proč nevidím [fakturu za poslední fakturační období?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
-**Příjem vaší faktury v e-mailu (. PDF)**
+**Příjem faktury v e-mailu (.pdf)**
 
-- Vyberte své předplatné ze stránky [předplatná](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) . Klikněte na **faktury** a odešlete e-mailem fakturu
-- Klikněte na přijmout **v** a přijměte podmínky. U každého předplatného, které vlastníte, budete muset souhlasit.
+- Na stránce [Předplatná](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) vyberte předplatné. Klikněte **na Faktury** a potom na Poslat fakturu e-mailem.
+- Klikněte **na Přihlásit se k odběru** a přijměte podmínky. Budete se muset přihlásit ke každému předplatnému, které vlastníte.
 
-Poznámka: Pokud nebudete po provedení těchto kroků dostávat e-maily, ujistěte se, že je vaše e-mailová adresa ve [svém profilu](https://account.windowsazure.com/profile) správná.
+Poznámka: Pokud po provedení kroků e-mail nezískáte, zkontrolujte, jestli je vaše e-mailová adresa v předvolbách komunikace [ve vašem profilu správná.](https://account.windowsazure.com/profile)
 
-**Stažení dat o využití z portálu Azure**
+**Stažení dat o využití z portálu Azure Portal**
 
-- Přihlaste se do [centra účtů Azure](https://account.windowsazure.com/Subscriptions) jako [správce účtu](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) .
-- Vyberte předplatné, pro které chcete informace o faktuře a používání
-- Výběr **historie fakturace**
-- Výběrem **Zobrazit aktuální výkaz** zobrazíte odhad nákladů v době vygenerování odhadu.
-- Pokud chcete stáhnout denní data o využití jako soubor CSV, vyberte **Stáhnout využití** . Pokud se zobrazí dvě verze, Stáhněte si verzi 2
+- Přihlaste se [do Centra účtů Azure](https://account.windowsazure.com/Subscriptions) jako správce [účtu.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa)
+- Vyberte předplatné, pro které chcete zobrazit informace o faktuře a použití.
+- Vyberte **Historie fakturace.**
+- Výběrem **možnosti Zobrazit aktuální** výpis zobrazíte odhad poplatků v okamžiku, kdy byl odhad vygenerován.
+- Vyberte **Stáhnout využití a** stáhněte si data o denním používání jako soubor CSV. Pokud vidíte dvě dostupné verze, stáhněte si verzi 2.
 
-Další otázky: [navštivte vyhrazené instance](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) .
+Další otázky: [Navštivte dokumenty rezervované instance.](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Doporučené dokumenty**
 
 - [Základy fakturace](https://docs.microsoft.com/partner-center/billing-basics/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Principy používání rezervované instance slevy](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Stažení nebo zobrazení dat fakturace a denního používání faktur Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Principy používání rezervované instance slevy](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Princip využití rezervované instance pro předplatné s platbou na váš tarif](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Principy vyhrazeného využití instance pro váš Podnikový zápis](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Poplatky za software Windows nezahrnuté v rezervovaných instancích](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Rezervované instance programu partner Central Provider (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Principy použití slevy rezervované instance](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Stažení nebo zobrazení fakturační faktury Azure a dat o denním používání](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Principy použití slevy rezervované instance](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Princip využití rezervované instance pro vaše předplatné Pay-As-You-Go](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Princip využití rezervované instance pro registraci enterprise](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Náklady na software Windows, které nejsou součástí rezervovaných instancí](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Rezervované instance v programu Partner Central Cloud Solution Provider (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
