@@ -2,21 +2,22 @@
 title: Použití bezdrátových monitorů nebo doků
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 39b377b654f485ed8914d4d7fbb3c2faf97d079f
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: b769773206aa2be4118d655a82cb8d0703f1149b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034155"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834400"
 ---
 # <a name="use-wireless-displays-or-docks"></a>Použití bezdrátových monitorů nebo doků
 

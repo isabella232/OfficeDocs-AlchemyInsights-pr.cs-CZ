@@ -2,7 +2,7 @@
 title: Nastavení jednoho externího monitoru
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 699219510d5c68884b4552599c95549decd435cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773885"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835516"
 ---
 # <a name="set-up-one-monitor"></a>Nastavení jednoho monitoru
 
-**Kontrola nastavení Projectu**
+**Kontrola nastavení projektu počítače**
 
-1. Otevřete nastavení projektu současným stisknutím následujících kláves: Klávesa Windows (tlačítko Start v systému Windows) + P.
-2. V závislosti na nastaveních zvolte **Duplikovat**, **rozšířit**nebo **druhá obrazovka**.
+1. Otevřete nastavení projektu stisknutím následujících kláves současně: Klávesa Windows (tlačítko Start s logem Windows) + P.
+2. V **závislosti na** vašich předvolbách zvolte Duplikovat, Rozšířit nebo Jenom druhou obrazovku. 
 
-**Poznámka:** Pokud má váš počítač jenom jeden zobrazovací port (například HDMI nebo VGA), budete potřebovat dokovací stanici nebo adaptér USB k nastavení víc monitorů.
+**Poznámka:** Pokud má váš počítač jenom jeden port zobrazení (například HDMI nebo VGA), budete k nastavení více monitorů potřebovat dokovací stanici nebo adaptér USB.
 
-Pokud můžete nastavit jeden monitor, ale ne víc, váš počítač nemusí být kompatibilní s víc monitory. Další informace najdete v původních dokumentech počítače.
+Pokud taky můžete nastavit jeden monitor, ale ne násobek, nemusí být váš počítač kompatibilní s více monitory. Další informace najdete v původních dokumentech počítače.

@@ -1,8 +1,8 @@
 ---
-title: Používání Microsoft Edge založené na prohlížečích Chromu pro export eDiscovery
+title: Použití Microsoft Edge založeného na prohlížečích Chromium pro export Ediscovery
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 64aebb7f048dba37eef8cd1fa6286b36823d3f0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734508"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834364"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Používání Microsoft Edge založené na prohlížečích Chromu pro export eDiscovery
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Použití Microsoft Edge založeného na prohlížečích Chromium pro export Ediscovery
 
-V důsledku nedávné změny už nebudou v prohlížečích Microsoft Edge podpora ClickOnce ve výchozím nastavení povolená. Abyste mohli nástroj pro export Microsoft 365 eDiscovery dál používat, musíte v Microsoft Edge použít Microsoft Internet Explorer nebo povolit podporu ClickOnce. 
+Kvůli nedávné změně už prohlížeče Microsoft Edge nebudou mít ve výchozím nastavení povolenou podporu ClickOnce. Pokud chcete nástroj Microsoft 365 eDiscovery Exportovat dál používat, budete muset buď používat Microsoft Internet Explorer, nebo povolit podporu ClickOnce v Microsoft Edge. 
 
-Povolení podpory ClickOnce v Microsoft Edge na základě Chromu: 
-1. V prohlížeči Microsoft Edge navštivte edge://flags/#edge – klikněte na.
-2. U možnosti podpora ClickOnce změňte hodnotu z **výchozí** nebo **zakázáno** na **povoleno**. 
-3. V dolní části okna prohlížeče vyberte **restartovat**. <br>
+Povolení podpory ClickOnce v Microsoft Edge na základě chromu: 
+1. V prohlížeči Microsoft Edge přejděte na edge://flags/#edge-click-once.
+2. U možnosti Podpora ClickOnce změňte hodnotu z **výchozího** nebo **zakázaného** na **Povoleno**. 
+3. V dolní části okna prohlížeče vyberte **Restartovat.** <br>
  Změna se projeví po restartování Microsoft Edge. 
 
-Informace o tomto článku a postupu instalace nástroje pro export najdete v tématu: [ Export výsledků hledání obsahu](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Informace o tomto postupu a postupu pro instalaci nástroje pro export najdete v tématu Export [výsledků hledání obsahu.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)

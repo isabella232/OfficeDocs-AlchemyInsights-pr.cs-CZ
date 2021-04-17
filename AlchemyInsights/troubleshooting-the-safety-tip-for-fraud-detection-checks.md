@@ -1,8 +1,8 @@
 ---
-title: Řešení potíží s bezpečnostním tipem pro kontroly rozpoznávání podvodů
+title: Řešení potíží s bezpečnostním tipem pro kontroly zjišťování podvodů
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: e42b498070bf5d9bfc36110667da8cc0fd431524
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658403"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834724"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Řešení potíží s bezpečnostním tipem pro kontroly rozpoznávání podvodů
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Řešení potíží s bezpečnostním tipem pro kontroly zjišťování podvodů
 
-Pokud se vám zobrazuje bezpečnostní tip, který říká "odesílatel selhal při kontrole vyhledávání podvodů a nepovažuje se, kdo se jeví jako", odesílatel se nepovedlo projít kontrolou ověřování DKIM nebo SPF. Nejlepším způsobem, jak tento problém vyřešit, je to, aby ho odesílatel sám povolil. Pokud odesílatel posílá vaše zastoupení, musíte ho schválit přidáním IP adresy odesílatele k záznamu SPF.
+Pokud se vám zobrazí bezpečnostní tip s informací, že odesílatel neprošel našimi kontrolami zjišťování podvodů a nemusí být tím, kým se jeví, pak odesílatel neprošel kontrolami ověřování DKIM nebo SPF. Nejlepší způsob, jak to vyřešit, je, aby odesílatel autorizuje sám sebe. Pokud odesílatel posílá vaším jménem, musíte ho autorizovat přidáním IP adresy odesílatele do záznamu SPF.
   
-Další informace najdete v článku [Poradce při potížích s červeným (podezřelým) bezpečnostním tipem pro detekci podvodů](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .
+Další informace najdete v článku Řešení potíží s [červeným (podezřelým)](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) bezpečnostním tipem pro zjišťování podvodů.
   
-Tady je několik dalších odkazů, které vám můžou pomoct:
+Tady jsou některé další odkazy, které vám pomůžou:
   
-- [Jak Microsoft používá k zabránění falšování identity architekturu zásad pro odesílatele (SPF)](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
+- [Jak Microsoft používá rozhraní SPF (Sender Policy Framework) k zabránění falšování falšování](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [Nastavení SPF pro zabránění falšování obsahu](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Nastavení SPF, aby se zabránilo falšování falšování](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)

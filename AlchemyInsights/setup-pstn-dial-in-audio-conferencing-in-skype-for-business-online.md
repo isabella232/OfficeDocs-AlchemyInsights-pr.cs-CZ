@@ -1,8 +1,8 @@
 ---
-title: Nastavení vytáčených zvukových konferencí ve veřejné telefonní síti v Online Skypu pro firmy
+title: Nastavení vytáčených audiokonferencí ve Skypu pro firmy Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,21 +13,21 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 809627422cd245a6b5962762ced5b524dd0f3730
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739530"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835480"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Nastavení vytáčených zvukových konferencí ve veřejné telefonní síti v Online Skypu pro firmy
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Nastavení vytáčených audiokonferencí ve Skypu pro firmy Online
 
-Pokud chcete nastavit zvukové konference pro Online Skype pro firmy, budete muset dělat pár věcí. 
+Pokud chcete nastavit audiokonference pro Online Skype pro firmy, budete muset udělat několik věcí. 
 
-- Zjistěte, jestli máte ve vaší zemi nebo oblasti k dispozici zvukové konference.
+- Zjistěte, jestli je zvuková konference dostupná ve vaší zemi/oblasti.
 
 - Získejte a přiřaďte licence uživatelům.
 
-- Získejte a přiřaďte čísla služeb.
+- Získání a přiřazení čísel služeb
 
-- Postupujte podle návodu v části [Nastavení zvukových konferencí pro Skype pro firmy](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).
+- Vyplňte kontrolní seznam v části [Nastavení audiokonferencí pro Skype pro firmy](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing).

@@ -1,29 +1,30 @@
 ---
-title: Někdo už nastavil chybu Teams pro vaši organizaci.
+title: 'Chyba: někdo už pro vaši organizaci Teams nastavil'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 0aa2d68e737faba8b8558a1581e25bdb14e5a9ff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44282582"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835300"
 ---
-# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Chyba "Někdo již nastavil Týmy pro vaši organizaci"
+# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Chyba: „Někdo už pro vaši organizaci Teams nastavil“
 
-Pokud se v Teams zobrazuje chyba "Někdo již nastavil Týmy pro vaši organizaci", může to být způsobeno:
+Pokud se vám v Teams zobrazuje chyba „Někdo už pro vaši organizaci Teams nastavil“, může to být způsobeno těmito důvody:
 
-1. Někdo už pro vás připravil Teams. Zkontrolujte, zda ve svém e-mailu není pozvánka, nebo se pokuste přihlásit do Teams v soukromém/anonymním webovém prohlížeči s přihlašovacími údaji domény na adrese [https://teams.microsoft.com](https://teams.microsoft.com) .
+1. Někdo už pro vaši organizaci Teams nastavil. Zkontrolujte, jestli jste neobdrželi e-mailovou pozvánku, nebo se zkuste do Teams přihlásit přes soukromé/anonymní okno ve vašem prohlížeči na následující adrese: [https://teams.microsoft.com](https://teams.microsoft.com).
 
-2. Pokoušíte se zaregistrovat pomocí e-mailové adresy, která je vázána na pracovní i osobní účet. Contoso.com se například používá jak pro váš účet služby Microsoft (Live ID), tak pro pracovní účet (Active Directory). V takovém případě se pokuste vytvořit Teams v novém okně prohlížeče privátní/anonymní a vyberte verzi "Práce nebo škola" vašeho přihlášení namísto osobního. Pokud to nepomůže, budete je muset odpojit, abyste si správně vytvořili bezplatný účet Teams. Chcete-li to provést, postupujte podle pokynů v části "Chci se přihlásit jinou adresu nebo telefonní číslo" na [stránce, Změňte e-mailovou adresu nebo telefonní číslo svého účtu Microsoft](https://support.microsoft.com/help/12407).
+2. Zkoušíte se přihlásit s e-mailovou adresou, která je navázaná na pracovní i soukromý účet. Například Contoso.com se používá k přihlášení k účtu služeb společnosti Microsoft (Live ID), ale i k vašemu pracovnímu účtu (Active Directory). V takovém případě zkuste vytvořit účet Teams v novém soukromém/anonymním okně vašeho prohlížeče a vyberte pracovní nebo školní verzi přihlášení místo soukromé. Pokud to nebude fungovat, budete tyto účty muset odpojit, abyste si mohli vytvořit bezplatný účet Teams. Postupujte podle kroků v článku „Chci k přihlášení použít jinou adresu nebo telefonní číslo“ na stránce [Změnit e-mailovou adresu nebo telefonní číslo vašeho účtu Microsoft](https://support.microsoft.com/help/12407).
 
-3. Pokoušíte se zaregistrovat aktuální pracovní adresu bezplatnému tenantovi. Pokud se jedná o tento případ, očekává se, že se to nezdaří zde a budete muset použít tenanta vaší organizace s touto adresou. Zde si můžete vytvořit bezplatný účet Teams s osobní e-mailovou adresou pro jakékoli osobní [použití](https://products.office.com/microsoft-teams/group-chat-software).
+3. Chcete zaregistrovat vaši aktuální pracovní adresu k volnému tenantovi. V takovém případě se počítá s neúspěchem, budete muset použít tenanta vaší organizace s touto adresou. Bezplatný účet Teams s osobní e-mailovou adresou pro vaše osobní použití můžete vytvořit [tady](https://products.office.com/microsoft-teams/group-chat-software).

@@ -1,8 +1,8 @@
 ---
-title: Odstraňování potíží s událostmi z e-mailu
+title: Řešení potíží s událostmi z e-mailu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658727"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834832"
 ---
-# <a name="troubleshooting-events-from-email"></a>Odstraňování potíží s událostmi z e-mailu
+# <a name="troubleshooting-events-from-email"></a>Řešení potíží s událostmi z e-mailu
 
-1. Ověřte, jestli je funkce pro poštovní schránku povolená: **Get- <mailbox> EventsFromEmailConfiguration-identity**
+1. Ověřte, jestli je pro poštovní schránku povolená funkce: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Potom se podívejte na události z e-mailu protokoly **exportovat – MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
+2. Pak se podívejte na protokoly Události z **e-mailu Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. V protokolech události z e-mailu Najděte InternetMessageId, který odpovídá položce v poštovní schránce.  
+3. V protokolech Události z e-mailu najděte Id internetové zprávy, které odpovídá položce v poštovní schránce.  
 
-4. TrustScore určuje, jestli je položka přidaná. Události budou přidány pouze v případě, že je TrustScore = "Trusted".
+4. TrustScore určuje, jestli je položka přidaná nebo ne. Události se přidávají jenom v případě, že trustscore = "Důvěryhodný".
 
-TrustScore je určený vlastnostmi SPF, DKIM nebo DMARC, které jsou v záhlaví zprávy.
+TrustScore je určeno vlastnostmi SPF, Dkim nebo Dmarc, které jsou v záhlaví zprávy.
 
 Zobrazení těchto vlastností:
 
-**Desktopová aplikace Outlook**
+**Desktopový Outlook**
 
 - Otevření položky
-- Vlastnosti > souborů – > Internetová záhlaví
+- File -> Properties -> Internet Headers
 
 nebo
 
-**MFCMapi**
+**KNIHOVNA MFCMapi**
 
 - Přechod na položku ve složce Doručená pošta
-- Vyhledejte PR_TRANSPORT_MESSAGE_HEADERS_W
+- Hledejte PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Tyto vlastnosti se zjišťují a zaznamenávají při přenosu a směrování. Pro další řešení potíží možná budete muset zpracovat podporu přenosu o chybách v SPF, DKIM a. nebo DMARC.
+Tyto vlastnosti se určují a zaznamenávají během přenosu a směrování. Pokud chcete další řešení potíží vyřešit, budete možná muset s podporou přenosu vyřešit chyby v SPF, DKIM a.nebo DMARC.

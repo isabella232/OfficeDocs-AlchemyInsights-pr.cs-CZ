@@ -1,8 +1,8 @@
 ---
-title: Zkoušíte najít zkušební verzi?
+title: Snažíte se najít zkušební verzi?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658367"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834688"
 ---
-# <a name="trying-to-find-a-trial"></a>Zkoušíte najít zkušební verzi?
+# <a name="trying-to-find-a-trial"></a>Snažíte se najít zkušební verzi?
 
-Pokud chcete vyzkoušet novou službu, najdete v centru pro správu Microsoft 365 seznam předplatných pro zkušební verzi.
+Pokud chcete vyzkoušet novou službu, najdete seznam předplatných dostupných pro zkušební verzi v Centru pro správu Microsoftu 365.
   
-1. V centru pro správu přejděte na **Billing** \> stránku [služby pro nákupy](https://go.microsoft.com/fwlink/p/?linkid=868433) fakturace.
+1. V Centru pro správu přejděte na stránku **Služby nákupu** \> [fakturace.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Vyberte předplatné, které splňuje vaše potřeby, a pak vyberte  **Stáhnout bezplatnou zkušební verzi**.
+2. Vyberte předplatné, které vyhovuje vašim potřebám, a pak vyberte  **Získat bezplatnou zkušební verzi**.
 
     > [!NOTE]
-    > Některá předplatná nejsou k dispozici jako zkušební verze. Pokud při najetí myší na předplatné nevidíte tlačítko **získat bezplatnou zkušební verzi** , znamená to, že není k dispozici zkušební verze.
+    > Ne všechna předplatná jsou dostupná jako zkušební verze. Pokud tlačítko Získat bezplatnou zkušební verzi nevidíte, když najeďte myší na předplatné, znamená to, že zkušební verze není dostupná. 
   
-3. Můžete být vyzváni k zadání kreditní karty nebo jiného způsobu platby, který zajistí další ověření jako bezpečnostní opatření. Za tuto bezplatnou zkušební verzi vám nic nepřijdete. Informace o platbách budeme uchovávat v souboru a nebudeme je používat pro nákup bez vašeho souhlasu.
+3. Můžete být požádáni, abyste jako bezpečnostní opatření zadat platební kartu nebo jiný způsob platby. Za tuto bezplatnou zkušební verzi se vám nic neúčtovat. Vaše platební údaje budeme mít v souboru a nebudeme je používat k žádnému nákupu bez vašeho souhlasu.
 
-4. Zvolte **zkusit nyní**.
+4. Zvolte **Vyzkoušet hned**.
