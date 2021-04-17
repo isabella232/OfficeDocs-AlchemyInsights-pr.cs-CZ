@@ -1,8 +1,8 @@
 ---
-title: Poradce při potížích s řízením licencování datových proudů
+title: Řešení potíží s nastavením streamu – správa licencování streamu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 43d0a04194214a9630958ad80707187d9f8f3270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749651"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834760"
 ---
-# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="7036c-102">Správa licencí Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="7036c-102">Managing Microsoft Stream licenses</span></span>
+# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="fd5af-102">Správa licencí Microsoft Streamu</span><span class="sxs-lookup"><span data-stu-id="fd5af-102">Managing Microsoft Stream licenses</span></span>
 
-<span data-ttu-id="7036c-103">**Důležité:** Abyste mohli provádět operace popsané v tomto tématu, musíte být v roli správce tenanta.</span><span class="sxs-lookup"><span data-stu-id="7036c-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
+<span data-ttu-id="fd5af-103">**Důležité:** K provádění operací popsaných v tomto tématu musíte být v roli Správce tenanta.</span><span class="sxs-lookup"><span data-stu-id="fd5af-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
 
-<span data-ttu-id="7036c-104">Musíte být globální správce nebo správce správy uživatelů. Další informace najdete v tématu [role správců](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="7036c-104">You need to be either a Global admin or a User Management admin. For more information, see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
+<span data-ttu-id="fd5af-104">Musíte být globální správce nebo správce správy uživatelů. Další informace najdete v článku [O rolích správců](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="fd5af-104">You need to be either a Global admin or a User Management admin. For more information, see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
 
-<span data-ttu-id="7036c-105">[K uživatelským účtům můžete přiřazovat licence pomocí Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="7036c-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
+<span data-ttu-id="fd5af-105">Licence můžete [přiřadit uživatelským účtům pomocí Office 365 PowerShellu.](https://go.microsoft.com/fwlink/p/?linkid=850410)</span><span class="sxs-lookup"><span data-stu-id="fd5af-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
