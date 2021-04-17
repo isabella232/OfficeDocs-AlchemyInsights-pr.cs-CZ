@@ -2,7 +2,7 @@
 title: Přidání aplikace Bookings do Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - "5041"
 - "9002238"
 - "4344"
-ms.openlocfilehash: 527f90621fb8a15967259b58de673bf28025bd3c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: ec9501bedc4eb2f06fc306215c6898d2bde29c4c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707263"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822160"
 ---
 # <a name="adding-bookings-to-teams"></a>Přidání aplikace Bookings do Teams
 

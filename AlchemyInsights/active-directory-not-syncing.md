@@ -1,8 +1,8 @@
 ---
-title: Služba Active Directory se nesynchronizuje
+title: Active Directory se nesynchronuje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697622"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822844"
 ---
-# <a name="active-directory-not-syncing"></a>Služba Active Directory se nesynchronizuje
+# <a name="active-directory-not-syncing"></a>Active Directory se nesynchronuje
 
-Pokud se vám zobrazují chyby synchronizace, třeba "žádná nedávná synchronizace" nebo se zobrazí stav synchronizace adresářů na portálu pro správu Office, znamená to, že se "naposledy synchronizace před více než 3 dny" znamená, že AADConnect má nesprávné nastavení nebo nemáte dostatečná oprávnění k provedení synchronizace.  
+Pokud se vám zobrazí chyby synchronizace, například "žádná nedávná synchronizace", nebo si všimnete, že stav synchronizace adresářů na portálu pro správu Office říká: "Poslední synchronizace před více než 3 dny", může to být tím, že AADConnect má nesprávná nastavení nebo nedostatečná oprávnění k provedení synchronizace.  
 
-Přeinstalace AADConnect pomocí expresního nastavení se dá použít k rychlému vyřešení problému:
+Přeinstalace AADConnect pomocí expresního nastavení může tento problém rychle vyřešit:
 
 1. [Stáhněte si nejnovější verzi AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
 2. [Postupujte podle pokynů pro expresní instalaci](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Další informace o účtech služeb AADConnect najdete v článku [Azure AD Connect: účty a oprávnění](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Další informace o účtech služeb AADConnect najdete v tématu [Azure AD Connect: Účty](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)a oprávnění .

@@ -1,8 +1,8 @@
 ---
-title: Aktivace Office pomocí licencování založeného na zařízení
+title: Aktivace Office pomocí licencování na zařízení
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: b82eeb6c716b180cf45dbae96dc4e508a977a517
-ms.sourcegitcommit: d3db72afc2f31ac9f1e78738937a51f40fb4b5fc
+ms.openlocfilehash: f59e817192ee38bdafb5ad0de64ed12f0a4f0392
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "50094030"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822988"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Aktivace Office pomocí licencování založeného na zařízení
+# <a name="activating-office-using-device-based-licensing"></a>Aktivace Office pomocí licencování na zařízení
 
-Licencování založené na zařízení pro Microsoft 365 Apps pro podniky je k dispozici jako licence jen některým komerčním zákazníkům a některým zákazníkům z oblasti vzdělávání. Podrobné informace najdete v článku: Licencování založené na zařízení [pro Microsoft 365 Apps pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing)
+Licence microsoftových aplikací microsoft 365 pro podniky založené na zařízeních jsou k dispozici jako licence jenom pro některé komerční zákazníky a některé vzdělávací zákazníky. Podrobné informace najdete v tématu: Licence založené na [zařízeních pro aplikace Microsoft 365 pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-Pokud chcete aktivovat Microsoft 365 Apps pro podniky pomocí licencování založeného na zařízení, podívejte se na článek:
+Informace o aktivaci aplikací Microsoft 365 pro podniky pomocí licencování založených na zařízení najdete v tématu:
 
-- [Požadavky pro používání licencování založeného na zařízení pro Microsoft 365 Apps pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Postup konfigurace licencování založeného na zařízení pro Microsoft 365 Apps pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Požadavky na používání licencování na zařízení pro aplikace Microsoft 365 pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Postup konfigurace licencování na zařízení pro aplikace Microsoft 365 pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-Pokyny k řešení potíží najdete v článku Řešení potíží s licencování pro [Microsoft 365 Apps pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+Pokyny k řešení potíží najdete v článku Řešení potíží s licencování na [zařízeních pro aplikace Microsoft 365 pro podniky](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> Pokud už jsou aplikace Microsoft 365 Apps nainstalované a aktivované pomocí licencování předplatného uživatelského předplatného nebo aktivace sdíleného počítače, budete muset obnovit stav licence na zařízení, než přechází na licencování založené na zařízení. Pokud chcete obnovit stav aktivace, podívejte se na článek Obnovení stavu aktivace [Microsoft 365 Apps pro podniky](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
+> Pokud jsou aplikace Microsoft 365 už nainstalované a aktivované pomocí licencování uživatelského předplatného nebo aktivace sdíleného počítače, budete muset obnovit stav licence na zařízení, než se přesouvá na licencování na zařízení. Pokud chcete obnovit stav aktivace, podívejte se na článek Resetování stavu aktivace [aplikací Microsoft 365 pro podniky](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)

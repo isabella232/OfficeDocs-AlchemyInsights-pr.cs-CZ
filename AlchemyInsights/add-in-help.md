@@ -2,7 +2,7 @@
 title: Nápověda k doplňkům
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000776"
 - "2717"
-ms.openlocfilehash: abb12a533ba3c5d610ef27c713c32fa46d75e78f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e459ef90a1d08d5f3b4e742b4a31104147733d7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688147"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822484"
 ---
 # <a name="add-in-help"></a>Nápověda k doplňkům
 

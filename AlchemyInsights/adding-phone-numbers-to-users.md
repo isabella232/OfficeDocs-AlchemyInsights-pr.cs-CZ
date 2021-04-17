@@ -2,7 +2,7 @@
 title: Přidání telefonních čísel pro uživatele
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002538"
 - "5485"
-ms.openlocfilehash: 7cdd5c6d7e018f06fb7c063c0fea250ed78fd0e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8e8b3a56b25fb7841d4f8d8f84d7d9df766386b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663290"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822016"
 ---
 # <a name="adding-phone-numbers-to-users"></a>Přidání telefonních čísel pro uživatele
 

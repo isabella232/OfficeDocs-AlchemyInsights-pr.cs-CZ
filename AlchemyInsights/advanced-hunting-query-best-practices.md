@@ -1,8 +1,8 @@
 ---
-title: Osvědčené postupy pro lepší loveckí dotazů
+title: Doporučené postupy pro pokročilé lovecké dotazy
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696650"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821728"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>Osvědčené postupy pro lepší loveckí dotazů
+# <a name="advanced-hunting-query-best-practices"></a>Doporučené postupy pro pokročilé lovecké dotazy
 
-Podrobné postupy pro rozhodování o [loveckých dotazech](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) najdete v článku věnovaném podrobným doporučeným postupům:
-- Optimalizace výkonu dotazů
-- Tipy a problémům.
-- Dotazy s příkazovým řádkem
+Podrobné doporučení a [](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) pokyny k následujícím postupům najdete v úplném článku Doporučené postupy pro pokročilé lovecké dotazy:
+- Optimalizace výkonu dotazu
+- Tipy a úskalí dotazu
+- Dotazy s příkazové řádky
 
 

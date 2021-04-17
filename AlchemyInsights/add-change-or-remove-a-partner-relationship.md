@@ -1,8 +1,8 @@
 ---
-title: Přidání, změna nebo odebrání vztahu partnera
+title: Přidání, změna nebo odebrání relace partnera
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "3748"
-ms.openlocfilehash: d8e5f6860a7aa40889722bd8b437bd60c1e77645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad27f3ef8973fb9defe97343a4eda46cf96a4100
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688434"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822592"
 ---
-# <a name="add-change-or-remove-a-partner-relationship"></a>Přidání, změna nebo odebrání vztahu partnera
+# <a name="add-change-or-remove-a-partner-relationship"></a>Přidání, změna nebo odebrání relace partnera
 
-Jako správce můžete spolupracovat s partnerem pro nákup, aktivaci a obnovu předplatných Microsoft 365. 
+Jako správce můžete spolupracovat s partnerem na nákupu, aktivaci a prodloužení předplatného Microsoft 365. 
 
-- Pokud chcete upravit stávající vztah partnera, přečtěte si článek [Přidání, změna nebo odstranění předplatného poradenského partnera](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide).
+- Pokud chcete upravit stávající partnerský vztah, podívejte se na stránku Přidání, změna nebo odstranění partnera poskytujícího doporučení [k předplatnému.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner?view=o365-worldwide)
 
-- Pokud hledáte partnera společnosti Microsoft, přečtěte si téma [vyhledání partnera nebo prodejce systému microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
+- Pokud hledáte partnera Microsoftu, podívejte se na článek Vyhledání partnera nebo [prodejce Microsoftu 365.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide)
 
-Pokud jste stávající partner společnosti Microsoft nebo se ho chcete podívat, podívejte se na [Partnerské centrum Microsoftu](https://support.microsoft.com/help/4499930/partner-center-overview) , kde najdete další informace o výhodách nebo o tom, jak získat pomoc od [podpory partnera Microsoftu](https://aka.ms/partnersupport).
+Pokud jste stávajícím partnerem Microsoftu nebo se chcete stát partnerem, podívejte se na partnerské centrum [Microsoftu,](https://support.microsoft.com/help/4499930/partner-center-overview) kde najdete další informace o výhodách nebo o tom, jak získat pomoc od [podpory partnerů Microsoftu.](https://aka.ms/partnersupport)

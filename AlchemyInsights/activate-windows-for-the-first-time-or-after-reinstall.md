@@ -1,8 +1,8 @@
 ---
-title: První aktivace Windows 10 nebo po ní
+title: Aktivace Windows 10 poprvé nebo po přeinstalaci
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 981583abd210c3263bfe09e4c3147870a1ae0c7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698162"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823060"
 ---
 # <a name="activate-windows-10"></a>Aktivace Windows 10
 
-**Pokud chcete Windows 10 aktivovat po prvním nainstalování:**
+**Aktivace Windows 10 po první instalaci:**
 
-- K aktivaci Windows 10 na zařízení, na kterém nikdy nemá aktivovanou kopii Windows 10, budete muset použít platný kód Product Key.
-- Pokud instalujete edici Windows 10, která se na zařízení neaktivovala, budete taky potřebovat platný kód Product Key. Pokud třeba chcete nainstalovat a aktivovat Windows 10 pro na zařízení s nainstalovaným Windows 10 Home, budete potřebovat platný kód Product Key pro Windows 10 pro.
-- Během instalace se zobrazí výzva k zadání platného kódu Product Key. Po dokončení instalace bude Windows 10 automaticky aktivováno online. Pokud chcete zkontrolovat stav aktivace ve Windows 10, vyberte **Spustit** >  **Settings**  >  **aktualizaci nastavení &**  >  **Aktivace**zabezpečení.
+- K aktivaci Windows 10 na zařízení, na které nikdy nebyla aktivovaná kopie Windows 10, budete muset použít platný kód Product Key.
+- Pokud instalujete edici Windows 10, která na zařízení ještě nebyla aktivovaná, budete potřebovat platný kód Product Key. Pokud třeba chcete nainstalovat a aktivovat Windows 10 Pro na zařízení s nainstalovaným Windows 10 Home, budete potřebovat platný kód Product Key pro Windows 10 Pro.
+- Během instalace se vám bude zobrazit dotaz, jestli chcete zadat platný kód Product Key. Po dokončení instalace se Windows 10 automaticky aktivuje online. Pokud chcete zkontrolovat stav aktivace ve Windows 10, vyberte **Spustit** >  **aktualizaci nastavení**&  >    >  **aktivaci zabezpečení**.
 
 **Aktivace po přeinstalaci Windows 10:**
 
-- Pokud jste v Microsoft Storu aktivovali bezplatný upgrade na Windows 10 nebo jste koupili a aktivovali Windows 10, budete mít místo kódu Product Key digitální licenci na zařízení. To znamená, že můžete znovu nainstalovat stejnou edici Windows 10, na kterou má vaše zařízení digitální licenci, aniž byste zadali kód Product Key.
-- Pokud se při přeinstalaci zobrazí výzva k zadání kódu Product Key, vyberte **Přeskočit**. Ve většině případů, kdy se na vašem zařízení aktivoval Windows 10, se po přechodu do online režimu automaticky aktivuje.
+- Pokud jste aktivovali bezplatný upgrade na Windows 10 nebo jste si koupili a aktivovali Windows 10 z Microsoft Storu, budete mít digitální licenci pro vaše zařízení místo kód Product Key. To znamená, že můžete přeinstalovat stejnou edici Windows 10, pro kterou má vaše zařízení digitální licenci bez zadání kódu Product Key.
+- Pokud se při přeinstalaci budete vyzváni k zadání kód Product Key, vyberte **Přeskočit.** Pokud byl windows 10 ve většině případů aktivovaný na vašem zařízení před přeinstalací, aktivuje se automaticky po připojení k internetu.
