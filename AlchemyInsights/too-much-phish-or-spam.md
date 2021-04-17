@@ -11,17 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
-ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
+ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767930"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824608"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Dostáváte ve své poštovní schránce moc phish nebo spam?
 
-> [!NOTE]
-> K Centru zabezpečení Microsoftu 365 můžete přistupovat na [security.microsoft.com](https://security.microsoft.com).
+**Poznámka:** Přístup k Centru zabezpečení Microsoftu 365 najdete na webu [https://security.microsoft.com](https://security.microsoft.com) .
 
 Jako správce Microsoftu 365 nejlepší způsob, jak zjistit, proč byla doručena phishingová nebo spamová zpráva, je odeslat ukázku Microsoftu v [Průzkumníku odeslání.](https://security.microsoft.com/reportsubmission) Dostanete okamžitou zpětnou vazbu související s filtrováním zpráv a důvody problémů.
 

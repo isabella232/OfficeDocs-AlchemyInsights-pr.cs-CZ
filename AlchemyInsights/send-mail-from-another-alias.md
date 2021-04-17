@@ -1,8 +1,8 @@
 ---
-title: Odeslání pošty z jiného aliasu
+title: Posílání pošty z jiného aliasu
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 045dd451adcb66f84a1aa3f20b7c0b6550e8f2ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd41ecaf53d926880c5949892f7751906b549b8a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720747"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823672"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a>Odesílání e-mailů z aliasu nebo sekundární adresy
+# <a name="send-email-from-an-alias-or-secondary-address"></a>Odeslání e-mailu z aliasu nebo sekundární adresy
 
-Microsoft 365 v současnosti nepodporuje odesílání e-mailů z aliasu nebo sekundární e-mailové adresy. E-mailové aliasy lze používat pouze k přijímání e-mailů. Pokud chcete poslat e-mail z jiné e-mailové adresy, musíte vytvořit sdílenou poštovní schránku. Sdílená poštovní schránka vám poskytne jinou e-mailovou adresu, aniž by vyžadovala jinou licenci.
+Microsoft 365 momentálně nepodporuje posílání e-mailů z aliasu nebo sekundární e-mailové adresy. E-mailové aliasy můžete použít jenom k přijímání e-mailů. Pokud chcete poslat e-mail z jiné e-mailové adresy, musíte vytvořit sdílenou poštovní schránku. Sdílená poštovní schránka vám dá jinou e-mailovou adresu bez nutnosti další licence.
   
-- [Vytvoření sdílené poštovní schránky](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [Pokud chcete vytvořit sdílenou poštovní schránku, přejděte sem.](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Můžete si přečíst také článek [vytvořit sdílenou poštovní schránku](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , který vám sdělí všechno, co potřebujete vědět o sdílených poštovních schránkách, včetně toho, jak je používat.
+Můžete si také přečíst článek [Vytvoření](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) sdílené poštovní schránky, který vám řekne všechno, co potřebujete vědět o sdílených poštovních schránkách, včetně toho, jak je používat.

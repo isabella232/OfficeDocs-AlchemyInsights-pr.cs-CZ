@@ -1,8 +1,8 @@
 ---
-title: Týmy – podporované webové prohlížeče
+title: Webové prohlížeče podporované teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 7ede4f52740835b0690648ad17cafbea50929f61
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750516"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824680"
 ---
-# <a name="teams-supported-web-browsers"></a>Týmy – podporované webové prohlížeče
+# <a name="teams-supported-web-browsers"></a>Webové prohlížeče podporované teams
 
-Aplikace Teams plně podporuje internetové prohlížeče uvedené v článku, [omezení a specifikace pro Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), s vyznačenými výjimkami pro volání a schůzky.
+Teams plně podporuje internetové prohlížeče uvedené v článku Limity a specifikace [pro Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)s výjimky pro hovory a schůzky.

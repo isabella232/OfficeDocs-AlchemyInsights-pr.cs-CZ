@@ -2,7 +2,7 @@
 title: Přístup k souborům v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2675"
 - "9000710"
-ms.openlocfilehash: a00a39954737287b4888b833b66d98e9b5e711b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c6766c318f0058e66950dbd0ca2953b149579a5c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668520"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823348"
 ---
 # <a name="accessing-files-in-microsoft-teams"></a>Přístup k souborům v Microsoft Teams
 
-Pokud uživatelé mají problémy s přístupem k souboru v Microsoft teams, nejprve zjistěte, jestli je soubor připojený ke soukromému chatu nebo konverzaci kanálu. Týmové kanály jsou místo, kde můžou všichni členové týmu otevírat konverzace. Soukromé chaty jsou viditelné jenom lidem v chatu (a soubory, které sdílíte v chatu, jsou uložené na OneDrivu pro firmy).
+Pokud mají uživatelé potíže s přístupem k souboru v Microsoft Teams, nejdřív určete, jestli je soubor připojený k soukromému chatu nebo konverzaci v kanálu. Týmové kanály jsou místa, kde každý v týmu může otevřeně vést konverzace. Soukromé chaty jsou viditelné jenom těm lidem v chatu (a soubory, které sdílíte v chatu, jsou uložené na OneDrivu pro firmy).
 
-Když uživatelé sdílejí soubory v soukromých chatech, uloží se soubor na OneDrive pro firmy sdílejícího uživatele. Pokud byl uživatel přidán do stávajícího soukromého chatu, nebude mít přístup k souborům, pokud ho původní vlastník znovu nesdílí.    
+Když uživatelé sdílejí soubory v soukromých chatech, soubor se uloží na OneDrive pro firmy uživatele sdílení. Pokud byl uživatel přidán do stávajícího privátního chatu, nebude mít k souborům přístup, pokud původní vlastník soubor znovu nesdí.    
 
-**Konverzace v kanálu:**
+**Pro konverzace v kanálu:**
 
-- [Sdílení souborů v Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) je založeno na nastaveních nakonfigurovaných v SharePointu nebo OneDrivu. 
-- Podívejte [se na téma spolupráce na souborech s týmem](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) , kde se dozvíte víc o tom, jak můžou vaše organizace sdílet soubory a spolupracovat na nich. 
-- Pokud se nové členy týmu setká na zpoždění při přístupu k souborům, počkejte před otevřením lístku podpory alespoň **4 hodiny** a umožněte tak dokončení replikace. 
+- [Sdílení souborů v Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams) je založené na nastavení nakonfigurovaných na SharePointu nebo OneDrivu. 
+- Přečtěte [si informace o](https://support.office.com/article/Collaborate-on-files-with-your-Team-9b200289-dbac-4823-85bd-628a5c7bb0ae) tom, jak aplikace Teams umožňuje vaší organizaci sdílet soubory a spolupracovat na souborech. 
+- Pokud u nových členů týmu dochází ke zpoždění při přístupu k souborům, počkejte prosím nejméně **4** hodiny před otevřením lístku podpory, aby se replikace mohla dokončit. 
 
-Pokud uživatelé mohli získat přístup k souborům pomocí karty soubory na týmovém kanálu a dostanete chybu "tyto soubory už nejsou k dispozici", zkontrolujte, jestli je SharePointový web nebo knihovna dokumentů přejmenovaná. Přejmenování SharePointových webů a knihoven dokumentů se zatím nepodporuje. Tento problém vyřešíte tak, že otevřete týmový web používaný pro tento tým a přejmenujete knihovnu zpět na "sdílené dokumenty".
+Pokud uživatelé měli dříve přístup k souborům prostřednictvím karty Soubory v týmovém kanálu a zobrazí se chyba "tyto soubory už nejsou dostupné", zkontrolujte, jestli byl sharepointový web nebo knihovna dokumentů přejmenován. Přejmenování sharepointových webů a knihoven dokumentů pro Teams zatím není podporované. Pokud chcete tento problém vyřešit, otevřete týmový web použitý pro tento tým a přejmenujte knihovnu zpátky na Sdílené dokumenty.

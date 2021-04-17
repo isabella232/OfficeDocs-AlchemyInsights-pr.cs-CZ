@@ -1,8 +1,8 @@
 ---
-title: Povolení nebo zakázání připojení anonymních uživatelů ke schůzkám v týmu
+title: Povolení nebo zabránění anonymním uživatelům v připojování se ke schůzkám v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669889"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824752"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Povolení nebo zakázání připojení anonymních uživatelů ke schůzkám v týmu
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Povolení nebo zabránění anonymním uživatelům v připojování se ke schůzkám v Teams
 
-Anonymní nastavení připojení ke schůzce můžete řídit v centru pro správu týmů.
+Nastavení anonymního připojení ke schůzce můžete řídit v Centru pro správu Teams.
 
-**Tato změna se projeví až po 24 hodinách.**
+**Může trvat až 24 hodin, než se tato změna projeví.**
 
-1.  Přechod do [centra pro správu týmů](https://admin.teams.microsoft.com)
-2.  V levém navigačním panelu **přejděte na**   >   **nastavení schůzky**schůzky.
-3.  V části  **Účastníci**se  **může uživatel připojit ke schůzce**.
+1.  Přejděte do [Centra pro správu Teams.](https://admin.teams.microsoft.com)
+2.  V levém navigačním panelu přejděte na **Nastavení**   >   **schůzky schůzek .**
+3.  V **části Účastníci** zapněte anonymní **uživatele, kteří se mohou připojit ke schůzce.**

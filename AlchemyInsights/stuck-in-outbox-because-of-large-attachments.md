@@ -1,8 +1,8 @@
 ---
-title: Zablokování ve složce Pošta k odeslání z důvodu velkých příloh
+title: Zablokované ve složce Pošta k odeslání kvůli velkým přílohám
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +14,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 2185c1439d84a3beea00fe6849c1dae456131b96
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: f2342e99544f475b24181e0571ccd0a7c6fdc8b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451825"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825004"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Oprava zpráv, které se nachází ve složce Pošta k odeslání s podsystému,
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Oprava zpráv, které se zasekly ve složce Pošta k odeslání pomocí SaRA
 
-Doporučujeme začít spuštěním scénáře ["Mám problémy s posíláním, přijímáním nebo hledáním e-mailových zpráv"](https://aka.ms/SaRA-OutlookSendReceive) na počítači, na kterém se dá pracovat, od nástroje [Microsoft Support and Recovery Assistant (SaRa)](https://diagnostics.office.com/#/) .
+Doporučujeme začít spuštěním scénáře "Mám problémy s odesíláním, přijímáním nebo hledáním e-mailových [zpráv"](https://aka.ms/SaRA-OutlookSendReceive) na počítači, který je v počítači, který je v nástroji [Microsoft Support and Recovery Assistant (SaRa).](https://diagnostics.office.com/#/)
