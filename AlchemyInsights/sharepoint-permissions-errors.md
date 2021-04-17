@@ -1,8 +1,8 @@
 ---
-title: Chyby oprávnění služby SharePoint
+title: Chyby oprávnění SharePointu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653389"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826588"
 ---
-# <a name="sharepoint-permissions-errors"></a>Chyby oprávnění služby SharePoint
+# <a name="sharepoint-permissions-errors"></a>Chyby oprávnění SharePointu
 
-Existuje mnoho scénářů, které mohou jednu z těchto zpráv zobrazit. Oprávnění uživatele nebo správce jsou nejčastěji nakonfigurována nebo nejsou vůbec nakonfigurována. 
+Existuje mnoho scénářů, které mohou vyzvat k jedné z těchto zpráv. Nejčastěji jsou oprávnění pro uživatele nebo správce nesprávně nakonfigurovaná nebo vůbec nakonfigurovaná. 
 
-Další informace najdete v článku o[odepření přístupu, potřebujete pro přístup k tomuto webu "nebo" uživatel nebyl nalezen v adresáři v SharePointu Online a OneDrivu pro firmy](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+Další informace najdete v tématu "Přístup[odepřen", "Potřebujete](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)oprávnění k přístupu k tomuto webu" nebo "Uživatel nebyl nalezen v adresáři" chyby v SharePointu Online a OneDrivu pro firmy .

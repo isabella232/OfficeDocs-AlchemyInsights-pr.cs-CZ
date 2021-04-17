@@ -2,7 +2,7 @@
 title: Aktualizování informací o platební kartě
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 2c16f7afc44ff375ef26e809793edfc32c192429
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 171354cb182a0692fd42a0b9a4245dfd2b1bf561
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657638"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827461"
 ---
 # <a name="update-my-credit-card-information"></a>Aktualizování informací o platební kartě
 
-Můžete přidat nebo odebrat způsob platby z **centra pro správu Microsoft 365**. Pokud vaše platební metoda není přiřazená k žádnému předplatnému, můžete ji okamžitě odstranit. Pokud je přidružený k předplatnému, přečtěte si téma [Správa způsobů platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Způsob platby můžete přidat nebo odebrat z Centra pro správu **Microsoftu 365.** Pokud vaše platební metoda není přiřazená k žádnému předplatnému, můžete ji okamžitě odstranit. Pokud je přidružená k předplatnému, přečtěte si informace [v tématu Správa způsobů platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 1. Přejděte na stránku **Fakturace > Účty a platby > [Způsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 

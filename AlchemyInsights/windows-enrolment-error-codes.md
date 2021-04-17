@@ -2,7 +2,7 @@
 title: Odemknutí účtu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "4863"
-ms.openlocfilehash: fadf1b646e53f645678ce9ac3f348a1002fc9fb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a84637d7135cef04921ce76bc3582538a003d731
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699035"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825904"
 ---
 # <a name="windows-enrolment-error-codes"></a>Chybové kódy registrace Windows
 

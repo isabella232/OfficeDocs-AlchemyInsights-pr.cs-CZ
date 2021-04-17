@@ -1,8 +1,8 @@
 ---
-title: Použití Planneru s Microsoft Teams
+title: Používání Planneru v Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 95b83d6658fc77ac6e5eeac58c198f5c4adbb674
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb0677e7b4115cb957d32c74ee8ad6de954eb373
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657377"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827137"
 ---
-# <a name="using-planner-with-microsoft-teams"></a>Použití Planneru s Microsoft Teams
+# <a name="using-planner-with-microsoft-teams"></a>Používání Planneru v Microsoft Teams
 
-Uspořádejte si úkoly přidáním jedné nebo více karet Planneru do kanálu týmu: 
+Uspořádejte úkoly přidáním jedné nebo více karet Planneru do kanálu Teams: 
 
-- [Přidejte kartu Planner do týmového kanálu](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Uživatel, který kartu přidá, musí být členem týmu, ne jenom majitelem. Uživatele můžete přidat jako člena prostřednictvím rozhraní Microsoft Teams.
+- [Přidání karty Planner do týmového kanálu](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel) Uživatel, který kartu přidá, musí být členem týmu, ne jenom vlastníkem. Uživatele můžete přidat jako člena přes rozhraní Microsoft Teams.
 - [Přidání existujícího plánu do Microsoft Teams](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
-- [Odebrání karty Planneru nebo odstranění plánu](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) Odstraněné plány nelze v Teams obnovit. Pokud už skupinu odstraníte, můžete [Obnovit odstraněné plány a skupiny](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
-- [Povolte nebo zakažte v Teams oznámení o přiřazení](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
+- [Odeberte kartu Planneru nebo odstraňte plán.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) Odstraněné plány nelze obnovit v Teams. Pokud už je skupina odstraněná, můžete obnovit [odstraněné plány](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups)a skupiny .
+- [Povolte nebo zakažte oznámení o přiřazení Planneru v Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
 
-**Poznámka:** Obecný přehled integrace Planneru s Microsoft Teams najdete v tématu [použití Planneru v Microsoft Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).
+**Poznámka:** Obecný přehled integrace Planneru s Microsoft Teams najdete v tématu [Použití Planneru v Microsoft Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)

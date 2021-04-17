@@ -2,7 +2,7 @@
 title: 'Outlook na webu: Posílání odpovědí Mimo kancelář'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: f9a33534000b6ceec2bd71e933b36c2af48816c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2aa47f7da34c1039925d12a51b4f906d6333abaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702176"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826921"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlook na webu: Posílání odpovědí Mimo kancelář
 

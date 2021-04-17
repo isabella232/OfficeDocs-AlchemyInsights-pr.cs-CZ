@@ -2,7 +2,7 @@
 title: Řešení problémů s ověřováním SMTP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 3eaab2c601f78e20f2ee67bc21a9598cb45a24f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737982"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826408"
 ---
 # <a name="solving-smtp-authentication-issues"></a>Řešení problémů s ověřováním SMTP
 
-Pokud se při pokusu o odeslání e-mailu SMTP a ověřování pomocí klienta nebo aplikace dostanou chyby 5.7.57 nebo 5.7.3, je potřeba zkontrolovat:
+Pokud se při pokusu o odeslání e-mailu SMTP a ověření pomocí klienta nebo aplikace zobrazí chyby 5.7.57 nebo 5.7.3, měli byste zkontrolovat několik věcí:
 
-- Ověřené odeslání protokolu SMTP může být zakázáno ve vašem tenantovi nebo v poštovní schránce, kterou chcete použít (zaškrtněte obě políčka). Další informace najdete v článku [Povolení nebo zákaz odesílání ověřených klientů SMTP](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).
+- Ověřené odeslání SMTP může být ve vašem tenantovi zakázané nebo v poštovní schránce, kterou se pokoušíte použít (zkontrolujte obě nastavení). Další informace najdete v tématu Povolení nebo zakázání odesílání protokolu [SMTP ověřeného klienta](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission).
 
-- Zkontrolujte, jestli jsou pro tenanta povolené [výchozí hodnoty zabezpečení Azure](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) . Pokud je tato možnost povolená, ověřování SMTP pomocí základního ověřování (známé také jako starší verze) se nezdaří.
+- Zkontrolujte, [jestli je pro vašeho tenanta](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) povolené výchozí nastavení zabezpečení Azure. Pokud je tato možnost povolená, ověřování SMTP pomocí základního ověřování (označované také jako starší verze, použije se uživatelské jméno a heslo).

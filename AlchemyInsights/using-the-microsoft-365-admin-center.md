@@ -2,7 +2,7 @@
 title: Použití centra pro správu Microsoftu 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002613"
 - "5042"
-ms.openlocfilehash: d97f930ff1355cc9d11b507784e1b2ed1aeca6d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2d9ded3f2d3a2006e0cd3b698cf40c36ab4df45
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734544"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827101"
 ---
 # <a name="using-the-microsoft-365-admin-center"></a>Použití centra pro správu Microsoftu 365
 
