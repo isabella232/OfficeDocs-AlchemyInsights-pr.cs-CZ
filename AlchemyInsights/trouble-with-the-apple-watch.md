@@ -1,8 +1,8 @@
 ---
-title: Potíže s programem Apple Watch
+title: Potíže s Apple Watch
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700016"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832267"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Potíže s programem Apple Watch
+# <a name="trouble-with-the-apple-watch"></a>Potíže s Apple Watch
 
-Pokud máte potíže s používáním Outlooku v programu Apple Watch, tady je několik kroků pro řešení potíží: 
+Pokud máte problémy s používáním Outlooku na Apple Watch, tady je několik kroků k řešení potíží: 
 
-1. Přejděte na aplikaci Watch na iPhonu.
+1. Přejděte do aplikace Sledovat na iPhonu.
 
 2. Přejděte do aplikace Outlook.
 
-3. **Vypněte** možnost "Zobrazit aplikaci na Apple Watch" a odinstalujte ji.
+3. Pokud chcete odinstalovat, přepněte možnost Zobrazit aplikaci na Apple Watch **na vypnuto.**
 
-4. Přepínač "Zobrazit aplikaci na Apple Watch" na **zapnuto** , pokud chcete na hodinky znovu nainstalovat.
+4. Přepněte "Show App on Apple Watch" (Zobrazit aplikaci na Apple Watch) na **ON (Zapnout)** a znovu nainstalujte aplikaci Watch.
 
-5. Spusťte aplikaci Outlook na Apple Watch a počkejte, až se data synchronizují s nejnovějšími daty. 
+5. Spusťte aplikaci Outlook na Apple Watch a počkejte, až se data synchronizují s nejnovějšími. 
 
-Pokud se problém nevyřeší, tým podpory by vám mohl pomoct. Přejděte na **nastavení > nápověda & >te kontaktovat podporu**. 
+Pokud se váš problém nevyřeší, tým podpory vám s radostí pomůže. Přejděte na **Nastavení a > nápovědu & Váš názor > kontaktovat podporu.** 

@@ -1,8 +1,8 @@
 ---
-title: OneNote – chybové zprávy při otevírání poznámkových bloků
+title: OneNote – Chyby přihlášení při otevírání poznámkových bloků
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "2651"
 - "9000669"
-ms.openlocfilehash: c928e29d931b9deb3598377864265f9e03e5ed14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c5800abb7e6446b935551858c6c7864c4d9f0aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729288"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832663"
 ---
 # <a name="issues-signing-in-to-onenote-notebooks"></a>Problémy s přihlášením k poznámkovým blokům OneNotu
 
-Pokud se při pokusu o otevření poznámkového bloku zobrazí chyby při přihlašování nebo heslu, zkuste toto:
+Pokud se při pokusu o otevření poznámkového bloku zobrazí chyby přihlášení nebo hesla, zkuste toto:
 
-- Pokud se Poznámkový blok, který se neotevře, uloží na OneDrive nebo SharePoint Online, zkuste otevřít poznámkový blok ve OneNotu pro web (na www.onenote.com). Pokud Poznámkový blok uvedený není, je možné, že k němu nemáte oprávnění. Pokud se jedná o sdílený poznámkový blok, požádejte vlastníka, aby ho sdílel, a zkontrolujte, jestli používáte správný účet pro přihlášení.
+- Pokud je poznámkový blok, který se neotevře, uložený na OneDrivu nebo SharePointu Online, zkuste poznámkový blok otevřít ve OneNotu pro web (na www.onenote.com). Pokud poznámkový blok není uvedený, pravděpodobně k tomu nemáte oprávnění. Pokud se jedná o sdílený poznámkový blok, požádejte vlastníka, aby ho nasdílel, a ujistěte se, že k přihlášení používáte správný účet.
 
-- Pokud se Poznámkový blok otevře ve OneNotu pro web, zkontrolujte, že se přihlašujete pomocí aktuálních přihlašovacích údajů ve OneNotu. 
+- Pokud se poznámkový blok otevře ve OneNotu pro web, ujistěte se, že jste přihlášení pomocí aktuálních přihlašovacích údajů ve OneNotu. 
 
-- Pomocí [Správce přihlašovacích údajů systému Windows](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager)vymažte [přihlašovací údaje Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) .
+- Vymazání [přihlašovacích údajů Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) pomocí Správce [přihlašovacích údajů systému Windows](https://support.microsoft.com/help/4026814/windows-accessing-credential-manager)
 
-- Ve OneNotu 2016 vyberte **soubor**  >  **účet** a **odhlaste** se ze všech účtů. Přihlaste se znovu pomocí uživatelského účtu s platnou licencí. Podrobné informace najdete v článku [Účty v Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Ve OneNotu 2016 vyberte **Účet** souboru a  >   **Odhlásit se** ze všech účtů. Přihlaste se znovu pomocí uživatelského účtu s platnou licencí. Podrobné informace najdete v článku [Účty v Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
 
-- Ve OneNotu pro Windows vyberte tři tečky (**...**) v pravém horním rohu obrazovky, vyberte účty **Nastavení**  >  **Accounts**a zkontrolujte, jestli je uvedený pracovní nebo školní účet.
+- Ve OneNotu pro Windows vyberte tři tečky (**...**) v pravém horním rohu obrazovky, vyberte **Nastavení** účtů a zkontrolujte, že je uvedený pracovní nebo  >  školní účet.

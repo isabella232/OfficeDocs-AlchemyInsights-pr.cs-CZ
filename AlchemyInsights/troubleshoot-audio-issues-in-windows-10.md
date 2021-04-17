@@ -1,8 +1,8 @@
 ---
-title: Poradce při potížích se zvukem ve Windows 10
+title: Řešení potíží se zvukem ve Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750300"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833284"
 ---
-# <a name="troubleshooting-audio-issues-in-windows-10"></a>Řešení problémů se zvukem ve Windows 10
+# <a name="troubleshooting-audio-issues-in-windows-10"></a>Řešení potíží se zvukem ve Windows 10
 
-**Spuštění Poradce při potížích se zvukem**
+**Spuštění poradce při potížích se zvukem**
 
-1.  Otevřete [nastavení Poradce při potížích](ms-settings:troubleshoot).
+1.  Otevřete nastavení [Poradce při potížích](ms-settings:troubleshoot).
 
-2.  Vyberte **přehrávat zvuk**  >  **Spusťte Poradce při potížích**.
+2.  Vyberte **Přehrát**  >  **zvuk: Spusťte poradce při potížích**.
 
 **Nastavení výchozího zařízení**
 
-Pokud se připojujete ke zvukovému zařízení přes USB nebo HDMI, možná budete muset nastavit toto zařízení jako výchozí:
+Pokud se připojujete ke zvukovému zařízení pomocí USB nebo HDMI, budete možná muset toto zařízení nastavit jako výchozí:
 
-1. Otevřete **Start**  >  **zvuk**spuštění a v seznamu výsledků vyberte **zvuk** nebo **změnit systémové zvuky** .
+1. Otevřete **Spustit** zvuk a v seznamu výsledků vyberte Zvuk nebo Změnit systémové  >  zvuky.  
 
-2.  Na kartě **přehrávání** vyberte zařízení, vyberte **nastavit výchozí**a pak vyberte **OK**.
+2.  Na kartě **Přehrávání** vyberte zařízení, vyberte **Nastavit výchozí** a pak vyberte **OK.**
 
 **Kontrola kabelů, hlasitosti, reproduktorů a sluchátek**
 
-1. Zkontrolujte připojení reproduktorů a sluchátek, abyste mohli ztratit kabely, a ujistěte se, že jsou připojené ke správné zásuvce.
+1. Zkontrolujte, jestli nejsou kabely reproduktoru a sluchátek připojené ke správnému konektoru, a zkontrolujte, jestli jsou připojené ke správnému konektoru.
 
-2. Zkontrolujte úrovně napájení a hlasitosti a zkuste nastavit všechny ovladače hlasitosti.
+2. Zkontrolujte úroveň napájení a hlasitosti a zkuste všechny ovládací prvky hlasitosti zesílit.
 
-3. Některé reproduktory a aplikace mají vlastní ovládání hlasitosti. je možné, že všechny zkontrolujete, jestli jsou na správných úrovních.
+3. Některé reproduktory a aplikace mají vlastní ovládací prvky hlasitosti. Možná je budete muset všechny zkontrolovat, abyste měli jistotu, že jsou na správných úrovních.
 
 4. Zkuste se připojit pomocí jiného portu USB.
 
-**Poznámka**: Pokud jsou sluchátka zapojená, nemusí se vaše reproduktory správně pracovat.
+**Poznámka:** Nezapomeňte, že reproduktory nemusí při připojení sluchátek fungovat.
 
 **Kontrola Správce zařízení**
 
-Jestli máte aktuální ovladače, postupujte takto:
+Abyste měli jistotu, že jsou ovladače aktuální:
 
-1. Vyberte **Start**, zadejte **Správce zařízení**a potom v seznamu výsledků vyberte **Správce zařízení** .
+1. Vyberte **Start,** zadejte **Správce zařízení** a pak ze seznamu výsledků vyberte Správce zařízení. 
 
-2. V části ovladače **zvuku, videa a herních zařízení**vyberte zvukovou kartu, otevřete ji, vyberte kartu **ovladač** a vyberte **Aktualizovat ovladač**.
+2. V **části Ovladače zvuku, videa** a her vyberte zvukovou  kartu, otevřete ji, vyberte kartu Ovladač a vyberte **Aktualizovat ovladač**.
 
-**Poznámka**: Pokud systém Windows nenašel nový ovladač, hledejte ho na webu výrobce zařízení a postupujte podle pokynů.
+**Poznámka:** Pokud Systém Windows nenajde nový ovladač, vyhledejte ho na webu výrobce zařízení a postupujte podle jeho pokynů.
 
 **Přeinstalace ovladače**
 
-Pokud nemůžete provést aktualizaci prostřednictvím Správce zařízení nebo najít nový ovladač na webu výrobce, zkuste tento postup:
+Pokud nemůžete aktualizovat přes Správce zařízení nebo najít nový ovladač na webu výrobce, zkuste tento postup:
 
-1. Ve Správci zařízení klikněte pravým tlačítkem (nebo stiskněte a podržte) ovladač zvuku a vyberte **odinstalovat**. Restartujte zařízení a Windows se pokusí ovladač přeinstalovat.
+1. Ve Správci zařízení klikněte pravým tlačítkem myši (nebo stiskněte a podržte) ovladač zvuku a vyberte **Odinstalovat.** Restartujte zařízení a Windows se pokusí ovladač přeinstalovat.
 
-2. Pokud přeinstalace ovladače nefunguje, zkuste použít obecný ovladač zvuku, který je součástí Windows. Ve Správci zařízení klikněte pravým tlačítkem (nebo stiskněte a podržte) svého ovladače zvuku > **aktualizovat software**ovladače  >  **Procházet můj počítač pro software ovladače**  >  : vybrat**ze seznamu ovladačů zařízení na mém počítači**vyberte **zvukové zařízení s vysokým rozlišením**, vyberte **Další**a postupujte podle pokynů k instalaci.
+2. Pokud přeinstalace ovladače nefunguje, zkuste použít obecný ovladač zvuku, který je součástí Windows. Ve Správci zařízení klikněte pravým tlačítkem myši (nebo stiskněte a podržte) ovladač zvuku > Aktualizovat software ovladače Projděte si software ovladače Na počítači si vyberu ze seznamu ovladačů zařízení na mém počítači , vyberte Zvukové zařízení s vysokým rozlišením , vyberte Další a nainstalujte ho podle  >    >  pokynů.  

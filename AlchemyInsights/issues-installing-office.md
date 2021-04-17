@@ -2,7 +2,7 @@
 title: Řešení problémů při instalaci Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 4b309039dc920089d966e3bbe45dcea874668597
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d466e4dc26379509c4bf3b34d9d7b39c5d3c4c19
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695498"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833104"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Řešení problémů při instalaci Office
 

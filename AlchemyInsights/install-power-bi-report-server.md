@@ -1,8 +1,8 @@
 ---
-title: Instalace serveru sestav Power BI
+title: Instalace Serveru sestav Power BI
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 3ea596547093773ab872ca34e8dd3a4e49e59fd7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755088"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832087"
 ---
-# <a name="install-power-bi-report-server"></a>Instalace serveru sestav Power BI
+# <a name="install-power-bi-report-server"></a>Instalace Serveru sestav Power BI
 
 1. Najděte umístění PowerBIReportServer.exe a spusťte instalační program.
 
-2. Vyberte **nainstalovat server sestav Power BI**.
+2. Vyberte **Nainstalovat Server sestav Power BI.**
 
-3. Zvolte edici, kterou chcete nainstalovat, a pak vyberte **Další**.
+3. Zvolte edici, která se má nainstalovat, a pak vyberte **Další**.
 
-4. V rozevíracím seznamu můžete zvolit buď hodnocení, nebo edici vývojáře.  Jinak můžete zadat kód Product Key pro server, který jste získali ze služby Power BI nebo služby Volume License Service Center. Další informace o tom, jak získat kód Product Key, najdete v části před začátkem. Čtěte a odsouhlaste s licenčními podmínkami a pak vyberte **Další**.
+4. V rozevíracím seznamu můžete zvolit edici Vyhodnocení nebo Vývojář.  V opačném případě můžete zadat kód Product Key pro server, který jste získali ze služby Power BI nebo Centra služeb multilicenčních služeb. Další informace o tom, jak získat kód Product Key, najdete v části Než začnete. Přečtěte si licenční podmínky a souhlasíte s nimi a pak vyberte **Další.**
 
-5. Abyste mohli uložit databázi serveru sestav, musíte mít k dispozici databázový stroj. Výběrem možnosti **Další** nainstalujete pouze Report Server.
+5. K uložení databáze serveru sestav musíte mít k dispozici databázový stroj. Pokud **chcete nainstalovat** jenom server sestav, vyberte Další.
 
-6. Zadejte umístění instalace serveru sestav. Pokračujte výběrem možnosti **nainstalovat** .
+6. Zadejte umístění instalace pro server sestav. Pokračujte **výběrem možnosti** Nainstalovat.
 
-7. Po úspěšném dokončení instalace vyberte **Konfigurovat server sestav** a spusťte Správce konfigurace služby Reporting Services.
+7. Po úspěšném nastavení vyberte Konfigurovat **server sestav** a spusťte službu Reporting Services Správce konfigurace.
 
-Při instalaci nepotřebujete Server databázového stroje SQL Server dostupný. Po instalaci budete muset nakonfigurovat služby Reporting Services.
+V době instalace není k dispozici server SQL Server Database Engine. Budete ho potřebovat ke konfiguraci služby Reporting Services po instalaci.
 
 Další informace: https://docs.microsoft.com/power-bi/report-server/install-report-server

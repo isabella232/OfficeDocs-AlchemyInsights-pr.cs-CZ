@@ -2,7 +2,7 @@
 title: Řešení problémů s kvalitou hovorů
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001224"
 - "5489"
-ms.openlocfilehash: 1e323ca437fdd62aab23b5ed8e13b08605a51366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52d50bfd703b9ef9c3fddd42f2a5793f5d7b918
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750228"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833248"
 ---
 # <a name="troubleshoot-call-quality-problems"></a>Řešení problémů s kvalitou hovorů
 

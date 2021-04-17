@@ -1,8 +1,8 @@
 ---
-title: Překryv kalendáře SharePointu Online
+title: Překryvný kalendář SharePointu Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 052330e0cf84c2dbb1586803806b8d013e53dd12
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cd18da6e7091153abeeadb83f6f9d95e615dea2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665495"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833464"
 ---
-# <a name="sharepoint-online-calendar-overlay"></a>Překryv kalendáře SharePointu Online
+# <a name="sharepoint-online-calendar-overlay"></a>Překryvný kalendář SharePointu Online
 
-Další SharePointový kalendář můžete překrýt, pokud jsou SharePointové kalendáře ve stejné kolekci webů. Možnost použít překryv kalendáře v SharePointu Online nebo SharePoint serveru, který je načtený z Exchange Online, není podporovaná.
+Pokud jsou oba sharepointové kalendáře ve stejné kolekci webů, můžete překrýt jiný sharepointový kalendář. Možnost použití překryvného kalendáře v kalendáři SharePointu Online nebo SharePoint Serveru, který se načte z Exchange Online, není podporovaná.
 
-SharePoint Online nabízí moderní prostředí pro kalendáře skupin Microsoft 365. Další informace najdete v tématu [použití webové části kalendář skupiny](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce).
+SharePoint Online nabízí moderní prostředí s kalendáři skupin Microsoftu 365. Další informace najdete v tématu [Použití webové části Kalendář skupiny](https://support.microsoft.com/en-us/office/use-the-group-calendar-web-part-eaf3c04d-5699-48cb-8b5e-3caa887d51ce).

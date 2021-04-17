@@ -2,7 +2,7 @@
 title: Studentské licence Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001723"
 - "3822"
-ms.openlocfilehash: 56f090440b2dc22dd829019da22f47484fe7e6b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a30f1d02d8560e9aad27597de44cb206671f09e9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750588"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833356"
 ---
 # <a name="teams-student-licenses"></a>Studentské licence Teams
 

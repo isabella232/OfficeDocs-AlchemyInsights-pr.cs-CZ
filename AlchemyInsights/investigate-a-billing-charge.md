@@ -2,7 +2,7 @@
 title: Prozkoumání fakturovaných poplatků z Microsoftu nebo MSbill.info
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 50143ea86f07412f34830e84df5c7ce2a050f5d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1409ba54da2354933e9202af9501868d9b1c90
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696074"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833176"
 ---
 # <a name="investigate-a-billing-charge-from-microsoft-or-msbill-dot-info"></a>Prozkoumání fakturovaných poplatků z Microsoftu nebo MSbill.info
 
