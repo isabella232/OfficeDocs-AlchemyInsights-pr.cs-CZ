@@ -1,8 +1,9 @@
 ---
-title: Povolení archivované poštovní schránky
+title: Povolení archivační poštovní schránky
 ms.author: markjjo
 author: markjjo
-ms.audience: ITPro
+manager: laurawi
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,49 +12,28 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 3e20eaf8dec85454ce5a67e1b21292b2a33ebb1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
+ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811698"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51857873"
 ---
-# <a name="enable-an-archive-mailbox"></a>Povolení archivované poštovní schránky
+# <a name="enable-an-archive-mailbox"></a>Povolení archivační poštovní schránky
 
-Chcete-li, aby vaše archivace mohla být nakonfigurována pomocí automatických kontrol, vyberte tlačítko zpět <--v horní části této stránky zadejte e-mailovou adresu účtu.
+Povolení archivu v Centru dodržování předpisů M365:
 
-Archivovat poštovní schránky v Microsoft 365 (taky nazývané *online archivy* nebo *místní archivy*) poskytují uživatelům další úložiště e-mailů. Uživatelé můžou přesunout nebo zkopírovat položky do archivované poštovní schránky a správci můžou vytvořit zásady archivace, které automaticky přesunou položky do archivních poštovních schránek.
-  
-Tady je postup, jak vytvořit archivní poštovní schránku:
-  
-1. Přejděte na [https://protection.office.com](https://protection.office.com).
+1. Přejděte na [https://compliance.microsoft.com](https://compliance.microsoft.com).
+2. Vyberte **Správa informací**.
+3. Potom klikněte na **možnost Archivovat.**
 
-2. Přihlaste se k Microsoft 365 pomocí účtu správce.
+Nebo postupujte [podle tohoto odkazu](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive).  
 
-3. V levém podokně &amp; centra dodržování předpisů pro zabezpečení vyberte archiv **informace o správě zásad** \> **Archive**.
+Pro sdílené poštovní schránky:
 
-4. Vyberte uživatele, jehož archivní poštovní schránku chcete povolit.
-
-5. V podokně podrobností vpravo klikněte na **Povolit** a potom kliknutím na **Ano** ve zprávě povolte archivaci poštovní schránky.
-
-Archivované poštovní schránky můžete také hromadně povolit tak, že vyberete více uživatelů (pomocí kláves **SHIFT** nebo **CTRL** ) a pak v podokně Podrobnosti kliknete na **Povolit** .
-  
-### <a name="shared-mailboxes"></a>Sdílené poštovní schránky
-
-Pokud chcete povolit archivaci pro sdílenou poštovní schránku, je potřeba licence Exchange Online Plan 2 nebo licence Exchange Online s plánem 1 s licencí na Exchange Online.  
-
-Povolení archivu pro sdílenou poštovní schránku:
-
-1. Přejděte do [centra pro správu Exchange](https://outlook.office365.com/ecp) a přihlaste se pomocí účtu správce.
-
-2. Přejděte na **Recipients**  >  **sdílené**příjemce.
-
+1. Přejděte do [Centra pro správu Exchange a](https://outlook.office365.com/ecp) přihlaste se pomocí svého účtu správce.
+2. Přejděte na **Sdílené**  >  **příjemce**.
 3. Vyberte sdílenou poštovní schránku.
+4. V podokně podrobností vpravo v části **Archiv na** místě klikněte  na **Povolit** a potom kliknutím na Ano povolte archivační poštovní schránku.
 
-4. V podokně podrobností vpravo v části **archiv na místě**klikněte na **Povolit**a potom kliknutím na **Ano** povolte archivaci poštovní schránky.
-
-Další informace najdete tady:
-  
-- [Povolení archivních poštovních schránek](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
-
-- [Nastavení zásad archivace a odstraňování](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+Další informace o přesouvání zpráv do poštovní schránky archivu najdete v tématu [Nastavení zásad archivace a odstranění.](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

@@ -1,8 +1,8 @@
 ---
-title: Vlastník nemůže vytvořit podsložku pomocí Outlooku.
+title: Vlastník nemůže vytvořit podsadu pomocí Outlooku.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665711"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836128"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlastník nemůže vytvořit podsložku pomocí Outlooku.
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlastník nemůže vytvořit podsadu pomocí Outlooku.
 
-**U vlastníků veřejných složek se při vytváření podsložek používá Outlook. Problém bude brzy opraven.**
+**Při vytváření podsložek pomocí Outlooku dochází k probíhajícímu problému s vlastníky veřejných složek. Problém bude brzy opravený.**
 
-Dále použijte jedno z následujících řešení:
+Mezitím použijte jedno z následujících alternativních řešení:
 
-1. Vytvoření podsložky pomocí Outlooku pro MAC jenom Outlook pro desktopová okna (všechny verze)
-2. Vytvoření podsložky pomocí Správce EXO Shell nebo EAC
-3. Změnit DefaultPublicFolderMailbox/EffectivePublicFolderMailbox u uživatele na jinou poštovní schránku, než je poštovní schránka pro složku, která způsobuje chybu  
-    - *Set-Mailbox user1 DefaultPublicFolderMailbox PubMBX3*
-4. Počkat na hodinu, restartovat klienta Outlooku
+1. Vytvoření podsložky v Outlooku pro MAC se týká jenom Outlooku pro desktopová okna (všechny verze).
+2. Vytvoření podsložky správcem pomocí prostředí EXO Shell nebo EAC
+3. Změna DefaultPublicFolderMailbox/EffectivePublicFolderMailbox u uživatele na jinou poštovní schránku než poštovní schránku obsahu pro složku způsobující problém  
+    - *Set-Mailbox User1 DefaultPublikaceMailbox PubMBX3*
+4. Počkejte hodinu, restartujte klienta Outlooku.

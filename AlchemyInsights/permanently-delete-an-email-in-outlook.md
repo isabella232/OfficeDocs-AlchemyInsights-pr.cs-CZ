@@ -2,7 +2,7 @@
 title: Trvalé odstranění e-mailu v Outlooku
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: 85a9f244c44af7695f3bbea76ad62877172ea53e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771678"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836092"
 ---
 # <a name="permanently-delete-an-email-in-outlook"></a>Trvalé odstranění e-mailu v Outlooku
 
-- V zobrazení Doručená pošta stiskněte dlouhou dobu a ikona popelnice se zobrazí. Klepnutím na tuto ikonu zprávu odstraníte.
+- V zobrazení doručené pošty dlouho stiskněte zprávu a uvidíte ikonu koše. Klepnutím na tuto ikonu zprávu odstraníte.
 
-- Můžete také nastavit možnost Odstranit jako potáhnutí (**Nastavení-> Potáhnutí prstem**). pak pomocí prstu potáhněte prstem na e-mail, který chcete odstranit. 
+- Můžete taky nastavit možnost "odstranit" jako možnost potáhnutí prstem (**Nastavení -> Možnosti potáhnutí prstem**); pak potáhněte prstem po e-mailu, který chcete odstranit. 
 
-- Pokud chcete odstranit zprávu v otevřeném zobrazení e-mailu, klepněte v horní části obrazovky na ikonu koše. Odstraněné zprávy budou přesunuty do složky Koš. 
+- Pokud chcete odstranit zprávu z otevřeného zobrazení e-mailu, klepněte na ikonu koše v horní části obrazovky. Odstraněné zprávy se přesunou do složky Koš. 
 
-**Odstranění e-mailu**
+**Trvalé odstranění e-mailu**
 
-- Otevřete složku Koš v zobrazení pošta, klepněte na ikonu účtu (3 řádky) a klepněte na složku Koš.
+- Přístup ke složce koše v zobrazení pošty, klepněte na ikonu účtu (3 řádky) a klepněte na složku koše.
 
-- Odstraňte jednotlivé e-maily nebo označte více e-mailů a odstraňte je z tohoto umístění. budou trvale odstraněny.
+- Odstraňte jednotlivé e-maily nebo označte více e-mailů a odstraňte je odsud. budou trvale odstraněny.

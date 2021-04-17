@@ -2,7 +2,7 @@
 title: Soukromé týmy
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: d81ac4790ab62f882bd35f0b8b4ea95a4b789abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803604"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835984"
 ---
-# <a name="managing-discovery-of-private-teams"></a>Správa zjišťování soukromých týmů
+# <a name="managing-discovery-of-private-teams"></a>Správa zjišťování privátních týmů
 
 **Nové týmy**
 
-Když vlastník týmu vytvoří soukromý tým, může si ho nastavit tak, aby byl zjistitelný, a to tak, že nastaví zjišťování týmu. Ve výchozím nastavení je vyhledávání a zjišťování nových soukromých týmů. Pokud vlastník týmu nechce, aby se váš soukromý tým zobrazoval ve výsledcích hledání a v návrzích návrhů, může vlastník toto nastavení vypnout tak, že vyberete možnost změnit nastavení vedle tohoto týmu, kterou můžete vyhledat a zjistit.  
+Když vlastník týmu vytvoří soukromý tým, může ho nastavit tak, aby byl zjistitelný tak, že nakonfiguruje nastavení zjišťování týmu. Ve výchozím nastavení jsou nové soukromé týmy prohledávatelné a zjistitelné. Pokud vlastník týmu nechce, aby se soukromý tým objevil ve výsledcích hledání a v náhonech, může toto nastavení vypnout výběrem možnosti Změnit nastavení vedle položky Tento tým je prohledávatelný a zjistitelný.  
 
 **Existující týmy**
 
-Vlastníci týmu můžou nastavit nastavení zjišťování pro stávající soukromý tým přímo v nastaveních týmu a správci můžou to použít PowerShellem.  
+Vlastníci týmů mohou nastavení zjišťování pro stávající soukromý tým nastavit přímo v nastavení týmu a správci to mohou udělat pomocí PowerShellu.  
 
-Další informace najdete  [v tématu Správa zjišťování soukromých týmů v Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).
+Další informace najdete v  [tématu Správa zjišťování soukromých týmů v Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).

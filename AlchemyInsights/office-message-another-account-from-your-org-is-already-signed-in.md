@@ -1,8 +1,8 @@
 ---
-title: Zpráva aplikace Microsoft 365 Apps – je nám líto, ale jiný účet z vaší organizace už je přihlášený.
+title: Zpráva o aplikacích Microsoft 365 – Omlouváme se, ale už je přihlášený další účet z vaší organizace.
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48236010"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836236"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Zpráva aplikace Microsoft 365 Apps – je nám líto, ale jiný účet z vaší organizace už je přihlášený.
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Zpráva o aplikacích Microsoft 365 – Omlouváme se, ale už je přihlášený další účet z vaší organizace.
 
 Pokud chcete tuto chybu vyřešit, vyzkoušejte následující:
 
@@ -33,7 +33,7 @@ Pokud chcete tuto chybu vyřešit, vyzkoušejte následující:
 
 - Spusťte aplikaci Office a v případě potřeby se znovu přihlaste. 
 
-**Tip** V počítačích s Windows můžeme diagnostikovat a automaticky opravovat několik běžných problémů s přihlášením k Office. Stáhněte si a spusťte nástroj  **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** , abyste mohli používat náš automatizovaný nástroj.
+**Tip** Na počítačích s Windows můžeme diagnostikovat a automaticky vyřešit několik běžných problémů s přihlášením k Office. Stáhněte a spusťte  **[Pomocníka pro podporu](https://aka.ms/SaRA-OfficeSignInScenario)** a obnovení microsoftu a použijte náš automatizovaný nástroj.
 
 Pokud potíže potrvají, vyzkoušejte následující krok: 
 
