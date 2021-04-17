@@ -2,7 +2,7 @@
 title: Úprava fakturačních údajů účtu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002605"
 - "5022"
-ms.openlocfilehash: e888eb597d4290314c41ef691598c25a2126ccd8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b5e7ec1c8558ef3c776d186f4f522f7b169306a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793967"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819217"
 ---
 # <a name="change-billing-account-information"></a>Úprava fakturačních údajů účtu
 

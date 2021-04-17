@@ -2,21 +2,22 @@
 title: Změna partnera pro předplatné
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5065"
-ms.openlocfilehash: e71d8de284ce687525d1876d258055f6992aec8c
-ms.sourcegitcommit: 37b142dfe0f09401577144d7f8727bd2c04af0f8
+ms.openlocfilehash: 26369a89b46cc9bb4e32b22b6e314575b69671c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43930581"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818281"
 ---
 # <a name="change-the-partner-for-a-subscription"></a>Změna partnera pro předplatné
 

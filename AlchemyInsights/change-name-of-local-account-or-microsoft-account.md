@@ -2,7 +2,7 @@
 title: Změna názvu místního účtu nebo účtu Microsoft
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,61 +12,61 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: db13ecbe31b9bb0ca4a98b061619358c6c5edadd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682783"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818929"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Změna názvu místního účtu nebo účtu Microsoft
 
-Pokud se přihlásíte do Windows 10 pomocí uživatelského jména a hesla, používáte místní účet. 
+Pokud k přihlášení k Windows 10 používáte jenom uživatelské jméno a heslo, používáte místní účet. 
 
-**Změna názvu místního účtu**:
+**Změna názvu místního účtu:**
 
-1. Klikněte na tlačítko **Start** , zadejte **Ovládací panely**a v seznamu výsledků vyberte **Ovládací panely** .
+1. Klikněte na **tlačítko Start,** zadejte **Ovládací panely** a **v** seznamu výsledků vyberte Ovládací panely.
 
-2. Klikněte na **uživatelské účty**a **změňte typ účtu**.
+2. Klikněte **na Uživatelské účty** a potom na Změnit typ **účtu.**
 
-3. Vyberte účet, který chcete změnit, klikněte na **vlastnosti**a zadejte nový název uživatelského jména.
+3. Vyberte účet, který chcete změnit, klikněte na **Vlastnosti** a zadejte nové jméno uživatelského jména.
 
 4. Klikněte na tlačítko **OK**.
 
-Pokud se přihlásíte pomocí e-mailové adresy a hesla, používáte účet Microsoft.
+Pokud k přihlášení použijete e-mailovou adresu a heslo, používáte účet Microsoft.
 
-**Změna zobrazovaného názvu účtu Microsoft**:
+**Změna zobrazovaného názvu účtu Microsoft:**
 
-Zobrazované jméno se používá, když se přihlásíte ke svému účtu. Je to taky jméno, které vidíte na vašich zařízeních s Windows 10, a jméno, které lidé uvidí při posílání e-mailů. Tento název se smí lišit od zobrazovaného jména vašeho místního účtu. Tady je postup, jak změnit zobrazované jméno:
+Zobrazované jméno použijete pokaždé, když se přihlásíte ke svému účtu. Je to taky jméno, které vidíte na zařízeních s Windows 10, a je to jméno, které lidé vidí při posílání e-mailů. Tento název se může lišit od zobrazované jméno místního účtu. Tady je postup, jak změnit zobrazované jméno:
 
-1. Přihlaste se na stránku s **informacemi** na [webu účtu Microsoft](https://account.microsoft.com/).
+1. Přihlaste se na **stránku Vaše informace** na webu účtu [Microsoft](https://account.microsoft.com/).
 
-2. Pod vaším jménem klikněte na **Upravit jméno**. Pokud zde žádné jméno uvedeno není, klikněte na **Přidat jméno**. 
+2. Pod svým jménem klikněte na **Upravit jméno**. Pokud ještě žádný název není uvedený, klikněte na **Přidat název.** 
 
-3. Zadejte požadovaný název, zadejte Test CAPTCHA a klikněte na **Uložit**. Některé názvy nemusí být povoleny, pokud obsahují blokovaná slova nebo fráze. Pokud se při zadávání svého jména zobrazí chyba, zkuste použít přezdívku.
+3. Zadejte název, který chcete, zadejte CAPTCHA a klikněte na **Uložit.** Některá jména nemusí být povolená, pokud obsahují blokovaná slova nebo fráze. Pokud se při zadávání jména zobrazí chyba, zkuste místo toho přezdívku.
 
-4. Pokud se zobrazované jméno nezmění nebo pokud se starý název pořád zobrazuje v e-mailech, mohou být informace uloženy do mezipaměti. Pokud chcete, aby se název aktualizoval rychle, můžete přepnout na místní účet a znovu se [přihlásit k účtu Microsoft](https://account.microsoft.com/).
+4. Pokud se zobrazované jméno hned nezmění nebo pokud se staré jméno stále zobrazuje v e-mailech, vaše informace mohou být uložené v mezipaměti. Pokud chcete název rychle aktualizovat, můžete přepnout na místní účet a pak se znovu přihlásit [ke svému účtu Microsoft](https://account.microsoft.com/).
 
-Zobrazované jméno nezmění váš jmenovku hráče. Pokud chcete vytvořit novou jmenovku hráče, přečtěte si [článek Jak změnit jmenovku hráče Xbox](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag).
+Zobrazované jméno nezmění vaši jmenovku hráče. Pokud chcete novou jmenovku hráče, podívejte se na postup změny [jmenovky hráče xboxu.](https://support.xbox.com/id-ID/account-management/change-xbox-live-gamertag)
 
-**Změna jména správce**:
+**Změna názvu správce**:
 
-1. Do vyhledávacího pole na hlavním panelu zadejte **Správa počítače** a vyberte ji ze seznamu.
+1. Do vyhledávacího pole na hlavním panelu zadejte **Správa počítače** a vyberte ho ze seznamu.
 
-2. Kliknutím na šipku vedle položky **místní uživatelé a skupiny** ji rozbalte. Klikněte na **Uživatelé**.
+2. Kliknutím na šipku vedle **položky Místní uživatelé a skupiny** ji rozbalte. Klikněte **na Uživatelé**.
 
-3. Klikněte pravým tlačítkem na **správce** a pak klikněte na **Přejmenovat**.
+3. Klikněte pravým tlačítkem **na Správce a** potom klikněte na **Přejmenovat.**
 
-4. Zadejte nový název. Uvědomte si, že změnu tohoto jména vyžaduje správce.
+4. Zadejte nový název. Abyste tento název změnili, musíte být správcem.
 
-**Tady jsou některé další užitečné věci, které můžete změnit v účtu Microsoft**:
+**Tady je několik dalších užitečných věcí, které můžete změnit ve svém účtu Microsoft:**
 
-- [E-mailové adresy, které můžete použít pro přihlášení k účtu Microsoft](https://support.microsoft.com/help/4026162)
+- [Které e-mailové adresy můžete použít k přihlášení ke svému účtu Microsoft](https://support.microsoft.com/help/4026162)
 
-- [Které e-mailové adresy můžete použít k posílání e-mailů](https://support.microsoft.com/help/12407) (přidáním a správou aliasů na účtu Microsoft)
+- [Jaké e-mailové adresy můžete použít k odesílání e-mailů](https://support.microsoft.com/help/12407) (přidáním a správou aliasů na vašem účtu Microsoft)
 
-- [Datum narození na účtu Microsoft](https://support.microsoft.com/help/12411)
+- [Datum narození na vašem účtu Microsoft](https://support.microsoft.com/help/12411)
 
-- [Obrázek účtu Microsoft](https://support.microsoft.com/help/4026790)
+- [Obrázek vašeho účtu Microsoft](https://support.microsoft.com/help/4026790)
 
-[Další pomoc s nastavením a správou účtu Microsoft](https://support.microsoft.com/hub/4294457/microsoft-account-help#manage-account)
+[Získání další nápovědy k nastavení a správě účtu Microsoft](https://support.microsoft.com/hub/4294457/microsoft-account-help#manage-account)

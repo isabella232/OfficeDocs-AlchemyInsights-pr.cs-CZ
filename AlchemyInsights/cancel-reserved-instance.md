@@ -2,7 +2,7 @@
 title: Zrušení rezervace
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,61 +12,61 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807363"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819685"
 ---
 # <a name="cancelling-reservation"></a>Zrušení rezervace
 
-- **Samoobslužné služby:** Rezervovanou instanci můžete zrušit nebo vyměnit pomocí [portálu Azure Portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Vyberte rezervaci a klikněte na refundace nebo Exchange. Uvědomte si, že u objednávky rezervací musíte mít přístup vlastníka k Exchangi nebo vrácení peněz. Přístup pouze k rezervaci vám neumožní pokračovat v refundaci nebo Exchangi. Zeptejte se vlastníka objednávky rezervací, aby vám poskytl přístup vlastníka k objednávce rezervací.
-- **Zásady Exchange:** Můžete si vyměnit rezervaci pro jinou rezervaci stejného typu – neexistují **žádné sankce** při výměně rezervací. Celkový závazek s novou výhradou by měl být větší než součet částky refundace vyměněné rezervace a budoucích měsíčních plateb (Pokud je to možné).
-- **Zásady vracení peněz:** Součet refundace a zrušené budoucí platby nemohou překročit $50 000 USD v okně s dvanáctiměsíčním měsícem. V **současné době neplatíme žádné sankce** za vrácení peněz, které by mohly být účtovány budoucími náhradami.  
-    **Výjimky:** Funkce samoobslužná výměna a zrušení nejsou pro zákazníky s podnikovou vládou USA k dispozici.
-- Podpora **rozhraní API a PS/CLI** není dostupná pro zrušení a refundaci [automatických výměn a refundací pro Azure rezervací](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) .
-- Funkce Samoobslužné výměny a rušení se nehodí pro zákazníky z dohod spojených s vládou USA. Podporují se i další typy předplatného pro vládní organizace včetně placeného placení a CSP.
+- **Samoobslužné funkce:** Rezervované instance můžete sami zrušit nebo vyměnit přes [portál Microsoft Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Vyberte rezervaci a klikněte na refundaci nebo výměnu. Upozorňujeme, že pro výměnu nebo refundaci musíte mít přístup vlastníka k objednávce rezervace. Přístup jenom k rezervacím vám neumožní pokračovat v refundaci nebo výměně. Požádejte vlastníka objednávky rezervace, aby vám k ní dal přístup.
+- **Zásady výměny:** Rezervaci můžete vyměnit za jinou rezervaci stejného typu – za výměnu rezervace **nebudete penalizováni**. Celkový závazek nové rezervace by měl být vyšší než součet refundované částky vyměněné rezervace a budoucích měsíčních plateb (v příslušných případech).
+- **Zásady refundace:** Součet refundované částky a zrušených budoucích plateb nesmí ve 12 kalendářních měsících překročit 50 000 USD. **Momentálně refundace nepenalizujeme**, což se ale v budoucnu může změnit.  
+    **Výjimky:** Samoobslužná výměna a zrušení nejsou dostupné zákazníkům smlouvy Enterprise ve státní správě USA.
+- Podpora pro **API/PS/CLI** není dostupná pro zrušení a refundace. [Samoobslužné výměny a refundace za rezervace Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Samoobslužná výměna a zrušení nejsou dostupné zákazníkům smlouvy Enterprise ve státní správě USA. Podporované jsou jiné typy předplatného státní správy USA, včetně platby typu průběžná platba a CSP.
 
-Další informace: [zpracování transakcí vracení a výměny](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
-Další informace: [zásady výměny a refundace](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
-Další otázky: [navštivte vyhrazené instance](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support) .
+Další informace: [Jak se zpracovávají transakce vrácení a výměn](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
+Další informace: [Zásady výměny a refundace](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+Další otázky: [Podívejte se na dokumenty o rezervovaných instancích](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Výměna existující rezervované instance (samoobslužné služby)**
+**Výměna existující rezervované instance (samoobslužná funkce)**
 
-Můžete si vyměnit rezervaci pro další rezervaci stejného typu. Můžete také vrátit rezervaci, až $50 000 USD za rok, pokud ji už nepotřebujete. Funkce Samoobslužné výměny a rušení se nehodí pro zákazníky z dohod spojených s vládou USA. Podporují se i další typy předplatného pro vládní organizace včetně placeného placení a CSP. Abyste mohli provést výměnu nebo refundaci existující rezervaci, musíte mít v pořadí rezervací oprávnění Vlastník.
+Rezervaci můžete vyměnit za jinou rezervaci stejného typu. Rezervaci můžete refundovat do výše 50 000 USD ročně, pokud už ji nepotřebujete. Samoobslužná výměna a zrušení nejsou dostupné zákazníkům smlouvy Enterprise ve státní správě USA. Podporované jsou jiné typy předplatného státní správy USA, včetně platby typu průběžná platba a CSP. Pro výměnu nebo refundaci existující rezervace musíte mít přístup vlastníka k objednávce rezervace.
 
-Následující kroky se týkají postupu dokončení transakce
+Následující kroky vás provedou postupem pro dokončení transakce.
 
-1. Přihlaste se ke svému [portálu Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Vyberte rezervace, které chcete refundaci, a klikněte na **Exchange** .
-2. Vyberte produkt VM, který chcete koupit, a zadejte množství. [Před nákupem](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy) se ujistěte, že je nový nákup větší než vrácená hodnota.
+1. Přihlaste se k [portálu Microsoft Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Vyberte rezervace, které chcete refundovat, a klikněte na **Vyměnit**.
+2. Vyberte produkt virtuálního počítače, který chcete koupit, a zadejte počet. Ujistěte se, že celková hodnota nákupu je vyšší než celková vrácená částka: [Určení správné velikosti virtuálního počítače před nákupem](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 3. Kontrola a dokončení transakce
 
-**Refundace rezervované instance**
+**Refundace za rezervovanou instanci**
 
-Pokud chcete vrátit rezervaci, přejděte na **Detaily rezervací** a klikněte na **refundace** .
+Pokud chcete refundovat rezervaci, přejděte na **Podrobnosti rezervace** a klikněte na možnost **Refundace**.
 
-**Nominální refundace:**
+**Poměrná refundace:**
 
-**Příklad pro-dávku a minimální požadavek pro refundaci a Exchange**  
-Příklad rezervace:
+**Poměry a příklady minimálních požadavků na refundaci a výměnu**  
+Příklad počáteční rezervace:
 
-- Zakoupíte jednoletý termín RI pro $120 1. ledna
-- 7. dubna, kterou chcete vrátit, nebo si vyměňovat tuto rezervaci
-- Vzhledem k tomu, že rezervace je za 97 dnů živá, dostanete (1-97/365) * $120 zpátky. (například $88,1). V současné době není k dispozici žádná pokuta
-- Při výměně by váš nový nákup měl být větší než $88,1
-- V současné době neexistuje žádné snížení náhrad
+- Prvního ledna si za 120 USD koupíte RI na rok.
+- Sedmého dubna budete chtít tuto rezervaci refundovat nebo ji vyměnit.
+- Vzhledem k tomu, že rezervace probíhala 97 dní, vrátí se vám (1–97/365) * 120 USD. (tj. 88,1 USD). Momentálně nemáte žádné penále za refundace.
+- Při výměně by měl nový nákup mít hodnotu vyšší než 88,1 USD.
+- Momentálně nemáte žádné penále za refundaci.
 
-**Příklad rezervace plánu fakturace:**
+**Příklad rezervace fakturačního plánu:**
 
-- Koupíte si jednoletý termín RI pro $10 za měsíc
-- 7. dubna, kterou chcete vrátit, nebo si vyměňovat tuto rezervaci
-- Od poslední platby uplynulo 7 dnů, získáte (1-7/31) * $10 zpátky. (například $7,74)
-- Zrušení budoucích plateb je $80. V současné době není k dispozici žádná pokuta
-- Toto zrušení odečte $87,74 od vás limit $50 000 refundace
-- V případě výměny by měla být celková hodnota nového nákupu větší než $87,74
+- Koupíte si RI na rok za 10 USD měsíčně.
+- Sedmého dubna budete chtít tuto rezervaci refundovat nebo ji vyměnit.
+- Od poslední platby uběhlo 7 dní, vrátí se vám (1–7/31) * 10 USD. (tj. 7,74 USD).
+- Zrušené budoucí platby mají hodnotu 80 USD. Momentálně nemáte žádné penále za refundace.
+- Zrušením se z vašeho limitu refundací o výši 50 000 USD odečte 87,74 USD.
+- Při výměně by měl nový nákup mít hodnotu vyšší než 87,74 USD.
 
 **Doporučené dokumenty**
 
-- [Jak se zpracovávají transakce vracení a Exchange](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
+- [Jak se zpracovávají transakce vrácení a výměn](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
 - [Zásady výměny a refundace](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)

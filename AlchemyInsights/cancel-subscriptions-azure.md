@@ -2,7 +2,7 @@
 title: Zrušení předplatného v Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807351"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819577"
 ---
-# <a name="cancel-subscription"></a>Zrušit předplatné
+# <a name="cancel-subscription"></a>Zrušení předplatného
 
-Pokud už předplatné nepotřebujete, můžete předplatné Azure zrušit na portálu Azure, jenom správce účtu nebo vlastník. Postupujte podle následujících kroků.
+Předplatné Azure může na portálu Microsoft Azure zrušit jenom správce nebo vlastník účtu. Pokud už předplatné nepotřebujete, můžete ho zrušit na portálu Microsoft Azure. Postupujte podle těchto pokynů.
 
-1. [Na portálu Azure na stránce Předplatná](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)vyberte předplatné.
+1. Vyberte předplatné na stránce [Předplatná na portálu Microsoft Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Vyberte předplatné, které chcete zrušit.
-3. Vyberte **Přehled** a pak vyberte **zrušit předplatné** .
+3. Vyberte **Přehled** a pak vyberte **Zrušit předplatné**.
 
-**Co se stane po zrušení předplatného?**
+**Co se stane, až předplatné zruším?**
 
-Po zrušení bude fakturace okamžitě zastavena. Může to ale trvat až 10 minut, než se zrušení zobrazí na portálu. Pokud zrušíte prostřední hodnotu fakturačního období, pošleme konečnou fakturu na typické datum fakturace po uplynutí období.
+Po zrušení předplatného se fakturace okamžitě zastaví. Než se ale zrušení na portálu zobrazí, může to trvat až 10 minut. Pokud předplatné zrušíte uprostřed fakturačního období, pošleme vám po uplynutí období poslední fakturu k běžnému datu faktury.
 
-Po zrušení budou služby zakázány. To znamená, že virtuální počítače jsou přidělené jako zrušené, dočasné IP adresy jsou uvolněné a úložiště je jen pro čtení.
+Po zrušení budou vaše služby zakázané. To znamená, že vaše virtuální počítače už vám nebudou přidělené, dočasné IP adresy se uvolní a úložiště bude jen pro čtení.
 
-Po zrušení předplatného čeká společnost Microsoft před trvalým odstraněním dat z aplikace 30-90. Neúčtujeme vám za zachování dat. Další informace najdete v tématu [Microsoft Trust Center – Správa vašich dat](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
+Po zrušení předplatného Microsoft počká 30–⁠90 dní, než trvale odstraní vaše data pro případ, že k nim budete potřebovat získat přístup nebo si zrušení předplatného rozmyslíte. Za uchovávání dat vám nic neúčtujeme. Další informace najdete ve článku [Centrum zabezpečení Microsoftu – Jak spravujeme vaše data](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
 
 **Zrušení předplatného Azure**
 
 - [Kdo může předplatné zrušit?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
-- [Co se stane po předplatném](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
+- [Co se stane po zrušení předplatného?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
 
 **Doporučené dokumenty**
 
-- [Znovu aktivovat předplatné](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
-- [Přepnout předplatné](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Opětovná aktivace předplatného](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
+- [Přepnutí předplatného](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)

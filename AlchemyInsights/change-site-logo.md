@@ -2,7 +2,7 @@
 title: Změna loga webu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "9002502"
 - "4869"
 - "4870"
-ms.openlocfilehash: 44dd76383b2ca6b071c9f7cbbc9166509ff808fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8c45b297feb06d73121b8a473ef28c3820160316
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681901"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818497"
 ---
 # <a name="change-site-logo"></a>Změna loga webu
 

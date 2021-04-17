@@ -1,8 +1,8 @@
 ---
-title: Volání na kvalitu nebo přerušené volání
+title: Kvalita hovorů nebo zrušené hovory
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000675"
 - "5987"
-ms.openlocfilehash: b5bd7544dd219b32d563c0c375de70122297fb47
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d41775a74f61dfaaac1052c00e9f6efd84cfee68
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734400"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819865"
 ---
-# <a name="call-quality-or-dropped-calls"></a>Volání na kvalitu nebo přerušené volání
+# <a name="call-quality-or-dropped-calls"></a>Kvalita hovorů nebo zrušené hovory
 
-Pokud máte problémy s kvalitou hovorů, jako je špatná zvuková nebo přerušená volání, podívejte se na článek: [Poradce při potížích s kvalitou hovorů pomocí analýzy hovorů](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)
+Pokud máte problémy s kvalitou hovorů, jako je špatný zvuk nebo vyřazené hovory, přečtěte si prosím informace: Řešení problémů s kvalitou hovorů [pomocí analýzy hovorů](https://docs.microsoft.com/microsoftteams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics)

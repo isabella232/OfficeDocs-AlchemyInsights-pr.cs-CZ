@@ -1,8 +1,8 @@
 ---
-title: Změna hlavního názvu uživatele
+title: Změna upn
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,33 +12,33 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 63831912c9781c73135790f0f855c71ee6ee6621
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60b8f4d1cdf64369709b8bd2703d3ae77ae5a410
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756456"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818245"
 ---
 # <a name="change-a-users-email-address"></a>Změna e-mailové adresy uživatele
 
-Změna e-mailové adresy, kterou někdo nabízí, je snadná. Postupujte takto:
+Změna e-mailové adresy uživatele je jednoduchá. Stačí postupovat takto:
   
-1. V centru pro správu Microsoft 365 přejděte na stránku [Uživatelé](https://go.microsoft.com/fwlink/p/?linkid=834822) nebo zvolte **Uživatelé, kteří** mají \> **aktivní uživatele**.
+1. V Centru pro správu Microsoftu 365 přejděte na [stránku Uživatelé](https://go.microsoft.com/fwlink/p/?linkid=834822) nebo zvolte **Uživatelé** \> **aktivní uživatelé**.
     
 2. Vyberte uživatele.
     
 3. Napravo v řádku **Uživatelské jméno / E-mailové aliasy** zvolte **Upravit**.
     
-4. Do pole **alias** zadejte nový e-mail a pak zvolte **Přidat**.
+4. Do pole **Alias** zadejte nový e-mail a pak zvolte **Přidat**.
     
-    **Důležité**: Pokud se zobrazí chybová zpráva, že nebyl **nalezen parametr, který se shoduje s názvem parametru ' EmailAddresses**"znamená to, že je trvat delší dobu, než společnost Microsoft dokončí nastavení tenanta, nebo vaší vlastní doménou, pokud jste ho přidali v poslední době. Nastavení může trvat až 4 hodiny. Chvíli počkejte, aby mohl proces nastavení doběhnout do konce, a potom to zkuste znovu. Pokud se tím problém nevyřeší, zavolejte pracovníkům podpory a požádejte je o úplnou synchronizaci.
+    **DŮLEŽITÉ:** Pokud se zobrazí chybová zpráva " Nelze najít parametr, který odpovídá názvu parametru **"EmailAddresses",** znamená to, že microsoftu chvíli trvá, než dokončí nastavení tenanta nebo vlastní domény, pokud jste ho nedávno přidali. Nastavení může trvat až 4 hodiny. Chvíli počkejte, aby mohl proces nastavení doběhnout do konce, a potom to zkuste znovu. Pokud se tím problém nevyřeší, zavolejte pracovníkům podpory a požádejte je o úplnou synchronizaci.
     
-    Pokud se zobrazí chybová zpráva " **je nám líto, ale uživatele se nepovedlo upravit. Zkontrolujte informace o uživateli a zkuste to znovu**. znamená to, že nemáte globální správce a nemáte oprávnění měnit jeho jméno.
+    Pokud se zobrazí chybová zpráva "Je nám líto, uživatele se nešlo **upravit. Zkontrolujte informace o uživateli** a zkuste to znovu, znamená to, že nejste globální správce a nemáte oprávnění ke změně uživatelského jména.
     
-5. U e-mailové adresy, kterou chcete dané osobě nastavit jako primární, zvolte **Nastavit jako primární**. Pokud jste si předplatné koupili od GoDaddy, musíte se ke konzole pro správu přihlásit a nastavit primární e-mailovou adresu. 
+5. U e-mailové adresy, kterou chcete dané osobě nastavit jako primární, zvolte **Nastavit jako primární**. Pokud jste si předplatné koupili od GoDaddy, musíte se přihlásit k jejich konzole pro správu, abyste nastavili primární e-mailovou adresu. 
     
-6. Zvolte **Uložit**a pak **Zavřít**a hotovo!
+6. Zvolte **Uložit,** pak **Zavřít** a máte hotovo.
     
-Není to snadné? Další podrobnosti a postup pro snímky obrazovky najdete v tomto článku: [Změna uživatelského jména a e-mailové adresy](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+Nebylo to snadné? Další podrobnosti a kroky s snímky obrazovky najdete v tomto článku: Změna uživatelského jména [a e-mailové adresy](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

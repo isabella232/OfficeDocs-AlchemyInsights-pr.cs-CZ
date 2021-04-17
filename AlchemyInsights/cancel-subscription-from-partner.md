@@ -2,7 +2,7 @@
 title: Zrušení předplatného od partnera
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5078"
-ms.openlocfilehash: 9d9b9439e5232a8b31b81c7b52df28d9a6c9b26a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f5756932509b0b0554dbf33c268745c01fad548
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683143"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819649"
 ---
 # <a name="cancel-subscription-from-partner"></a>Zrušení předplatného od partnera
 

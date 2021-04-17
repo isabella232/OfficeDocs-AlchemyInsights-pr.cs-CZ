@@ -2,7 +2,7 @@
 title: Změna obrázku účtu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001439"
 - "3437"
-ms.openlocfilehash: c2a7ac823c9a50d66e597ca1ca0cbf6906efe183
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3642697d27a7e20c8c131f513a3ef80c9223b4d2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734040"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819253"
 ---
 # <a name="change-account-picture"></a>Změna obrázku účtu
 
-Pokud se přihlásíte do Windows 10 pomocí uživatelského jména a hesla, používáte místní účet. **Změna obrázku místního účtu**:
+Pokud k přihlášení k Windows 10 použijete uživatelské jméno a heslo, používáte místní účet. **Změna obrázku místního účtu:**
 
-1. Přejděte na nastavení pro **spuštění**  >  **Settings**  >  **Accounts**  >  **Your info**.
-2. V části **vytvořit obrázek**klikněte na **Procházet**. Pokud máte zařízení kameru, klikněte na **kamera** a využijte vlastní. 
-    **Poznámka**: systém Windows si pamatuje poslední tři použité obrázky. Klikněte na obrázek na stránce s informacemi a přepněte na ni.
+1. Přejděte na **Start**  >  **Settings**  >  **Accounts Your** info  >  (Vaše **informace).**
+2. V **části Create your picture (Vytvořit obrázek)** klikněte na Browse for one **(Vyhledat).** Pokud má vaše zařízení kameru, klikněte na **Kamera** a udělejte si selfie. 
+    **Poznámka:** Windows si pamatuje poslední tři obrázky, které jste použili. Kliknutím na obrázek na stránce Vaše informace na tento obrázek přepnete.
 
-Pokud se přihlásíte pomocí e-mailové adresy a hesla, používáte účet Microsoft. Pokud chcete změnit obrázek účtu Microsoft:
+Pokud k přihlášení použijete e-mailovou adresu a heslo, používáte účet Microsoft. Změna obrázku účtu Microsoft:
 
-1. Přihlaste se ke **své** stránce s účtem Microsoft.
-2. Klikněte na **Přidat obrázek** nebo **změnit obrázek**a postupujte podle pokynů.
+1. Přihlaste se na **stránku Vaše informace** pomocí svého účtu Microsoft.
+2. Klikněte **na Přidat obrázek** nebo Změnit **obrázek** a postupujte podle pokynů.
 
-[Získejte další pomoc s nastavením a správou účtu Microsoft](https://support.microsoft.com/products/microsoft-account?category=manage-account).
+[Získejte další nápovědu k nastavení a správě účtu Microsoft.](https://support.microsoft.com/products/microsoft-account?category=manage-account)

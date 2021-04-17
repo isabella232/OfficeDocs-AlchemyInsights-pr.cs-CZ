@@ -1,8 +1,8 @@
 ---
-title: Zachytit všechny problémy se synchronizací
+title: Zachycení všech problémů se synchronizací
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,22 +14,22 @@ ms.custom:
 - "1674"
 - "9000241"
 - "1951"
-ms.openlocfilehash: b84e73ce4776d148b8c0ff46c48ec7663a4f21b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 681bdc16efac19c4b8ea0b91b13aa38cd4e9007c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757041"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819397"
 ---
-# <a name="basic-outlook-sync-troubleshooting"></a>Základní řešení potíží s synchronizací v Outlooku
+# <a name="basic-outlook-sync-troubleshooting"></a>Základní řešení potíží se synchronizací Outlooku
 
 Pokud máte problémy se synchronizací, zkuste toto:
 
-- Spusťte [Tento diagnostický nástroj](https://aka.ms/sara-outlooksendreceive) v postiženém počítači.
-- Snižte počet složek v primární nebo sdílené poštovní schránce. Podívejte [se na problémy s výkonem Outlooku, když je v režimu offline nebo ve složce s mezipamětí příliš mnoho položek nebo složek](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in).
-- Zakáže ukládání do mezipaměti všech sdílených složek.
-- Změňte konfiguraci sekundární poštovní schránky Exchange na druhý účet Exchange ve svém profilu.
-- Ujistěte se, že se uživatel může připojit k Internetu. 
+- Spusťte [tento diagnostický nástroj](https://aka.ms/sara-outlooksendreceive) na příslušném počítači.
+- Snižte počet složek v primární nebo sdílené poštovní schránce. Podívejte [se na problémy s výkonem Outlooku,](https://support.microsoft.com/help/2768656/outlook-performance-issues-when-there-are-too-many-items-or-folders-in)když je ve složce souborů .ost nebo .pst v režimu mezipaměti příliš mnoho položek nebo složek.
+- Zakažte ukládání všech sdílených složek do mezipaměti.
+- Změňte konfiguraci sekundární poštovní schránky Exchange na druhý účet Exchange ve vašem profilu.
+- Ujistěte se, že se uživatel může připojit k internetu. 
 - [Ověřte, že jste online](https://support.office.com/article/2460e4a8-16c7-47fc-b204-b1549275aac9).
-- [Určete, jestli se používá pravidlo](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
-- Zkontrolujte, jestli je povolená možnost **Stáhnout sdílené složky** , a to tak, že přejdete **na nastavení**  >  **účtu**  >  **Nastavení účtu**  >  **More Settings**  >  **Advanced**.
+- [Určete, jestli se pravidlo používá](https://support.office.com/article/C24F5DEA-9465-4DF4-AD17-A50704D66C59).
+- Ověřte, **jestli je povolené** stahování sdílených složek, a to tak, že v nastavení účtu souborový   >  **účet** nastavení  >  **účtu** Další nastavení  >    >  **Upřesnit**.

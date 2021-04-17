@@ -2,7 +2,7 @@
 title: Rozostření pozadí během schůzky v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3815"
 - "9001720"
-ms.openlocfilehash: b22004a83e8a7e291c1e55fecaab3ab290c3d9de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d708e4c71ca9fb18f04121056007041e49fb7e5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685411"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820063"
 ---
 # <a name="blur-your-background-in-a-teams-meeting"></a>Rozostření pozadí během schůzky v Teams
 

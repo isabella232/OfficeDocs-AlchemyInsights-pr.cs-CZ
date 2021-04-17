@@ -2,7 +2,7 @@
 title: Zrušit předplatné
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,27 +14,27 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: 5b1f336202c621f45b98b91772faf0b84887e48a
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: c4fc2f27afd623218ad413d8738ba9d9ea8d6115
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088542"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819613"
 ---
 # <a name="cancel-subscription"></a>Zrušit předplatné
 
-Předplatné, které jste vybrali na stránce základy, už je zrušené. Opravdu chcete zrušit toto předplatné?
+Předplatné, které jste vybrali na stránce Základní informace, je už zrušené. Určitě chcete zrušit právě toto předplatné?
 
-Předplatné Azure na Azure Portal můžete zrušit jenom v případě, že jste vlastníkem předplatného nebo správcem účtu. Postupujte podle následujících kroků.
+Předplatné Azure na portálu Microsoft Azure můžete zrušit jenom v případě, že jste vlastníkem předplatného nebo správcem účtu. Postupujte podle těchto pokynů.
 
-1. Na [stránce Předplatná na portálu Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)vyberte předplatné, které chcete zrušit.
-2. Vyberte **Přehled** a pak vyberte **zrušit předplatné**.
+1. Na [stránce Předplatná na portálu Microsoft Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) vyberte předplatné, které chcete zrušit.
+2. Vyberte **Přehled** a pak vyberte **Zrušit předplatné**.
 
-**Co se stane po zrušení předplatného?**
+**Co se stane, až předplatné zruším?**
 
-Po zrušení bude fakturace okamžitě zastavena. Může to ale trvat až 10 minut, než se zrušení zobrazí na portálu. Pokud zrušíte prostřední hodnotu fakturačního období, pošleme konečnou fakturu na typické datum fakturace po uplynutí období.
+Po zrušení předplatného se fakturace okamžitě zastaví. Než se ale zrušení na portálu zobrazí, může to trvat až 10 minut. Pokud předplatné zrušíte uprostřed fakturačního období, pošleme vám po uplynutí období poslední fakturu k běžnému datu faktury.
 
-Po zrušení budou služby zakázány. To znamená, že virtuální počítače jsou přidělené jako zrušené, dočasné IP adresy jsou uvolněné a úložiště je jen pro čtení.
+Po zrušení budou vaše služby zakázané. To znamená, že vaše virtuální počítače už vám nebudou přidělené, dočasné IP adresy se uvolní a úložiště bude jen pro čtení.
 
-Po zrušení předplatného čeká společnost Microsoft před trvalým odstraněním svých dat na 30-90 dnů Neúčtujeme vám za zachování dat. Další informace najdete v tématu [Microsoft Trust Center – Správa vašich dat](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Po zrušení předplatného Microsoft počká 30–⁠90 dní, než trvale odstraní vaše data pro případ, že k nim budete potřebovat získat přístup nebo si zrušení předplatného rozmyslíte. Za uchovávání dat vám nic neúčtujeme. Další informace najdete v [Centru zabezpečení Microsoftu – Jak spravujeme vaše data](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 
