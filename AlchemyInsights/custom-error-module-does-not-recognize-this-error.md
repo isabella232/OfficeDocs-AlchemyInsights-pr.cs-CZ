@@ -1,8 +1,8 @@
 ---
-title: Získání vlastního chybového modulu tuto chybu nerozpozná při stahování sledování zpráv?
+title: Získání vlastního chybového modulu tuto chybu při stahování sledování zprávy nerozpozná?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1dc7bb93be0ca224b2c1e5fde98d4af393d2004
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731952"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815752"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Načítám "vlastní chybový modul nerozpoznal tuto chybu" při stahování sledování zpráv?
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>Dostáváte při stahování sledování zprávy "vlastní chybový modul tuto chybu nerozpozná"?
 
-Víme o problému a pracujeme na opravě.  Do té doby zkuste **Vymazat mezipaměť prohlížeče**nebo tento problém vyřešte pomocí režimu InPrivate.
+Víme o tomto problému a pracujeme na opravě.  Mezitím zkuste **tento** problém vyřešit vymazáním mezipaměti prohlížeče nebo pomocí režimu InPrivate.

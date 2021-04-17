@@ -2,7 +2,7 @@
 title: Vytvoření skupiny
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: b8cb3f1de991bfe7197607d5e8964a018e31c122
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088575"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816341"
 ---
 # <a name="create-a-group"></a>Vytvoření skupiny
 
-Toto téma popisuje vytvoření skupiny.
+Toto téma popisuje vytváření skupin.
 
 **Oprávnění k vytvoření skupiny**
 
-Zkontrolujte, jestli máte oprávnění vytvořit novou skupinu. Globální správci můžou zakázat vytváření skupin na portálu Azure nebo v panelu přístup. Abyste mohli vytvořit novou skupinu nebo vám udělit odpovídající oprávnění, budete možná potřebovat správce.
+Ujistěte se, že máte oprávnění k vytvoření nové skupiny. Globální správci můžou vytváření skupin zakázat na portálu Azure portal nebo na přístupových panelech. Možná budete potřebovat správce, který za vás vytvoří novou skupinu nebo vám dá příslušná oprávnění.
 
 **Správa oprávnění pro vytváření skupin**
 
-1. Globální Správci mohou spravovat oprávnění k vytváření skupin (z bezpečnostních důvodů) nebo skupiny Office 365 vytvořené na portálu Azure Portal nebo v panelu přístup tak, že výběrem možnosti "uživatelé můžou vytvářet skupiny zabezpečení v portálech Azure" nebo "uživatelé můžou vytvářet skupiny Office **365 v Azure** portáls"  >  **(nastavení)**.
-2. Pokud máte licenci Azure Active Directory P1 Premium, můžete vytvářet skupiny také pro výběr skupiny uživatelů.
+1. Globální správci můžou spravovat oprávnění k vytváření skupin (z důvodů souvisejících se zabezpečením) nebo skupiny Office 365 vytvořené na portálu Azure portal nebo na accessových panelech tak, že zvolí "Uživatelé můžou vytvářet skupiny zabezpečení na portálech Azure" nebo "Uživatelé můžou vytvářet skupiny Office 365 na portálech Azure" v části Všechny skupiny – obecné  >  **(Nastavení)**.
+2. Pokud máte licenci Azure Active Directory P1 Premium, můžete omezit vytváření skupin na výběr skupiny uživatelů.
 
 **Zakázání uvítacího oznámení pro nové členy skupiny Office 365**
 
-Uvítací oznámení, které se uživatelům přidají do skupin Office 365, můžete zakázat nastavením **UnifiedGroupWelcomeMessageEnabled** na false v PowerShellu. Přečtěte [si toto nastavení.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
+Uvítací oznámení odeslané uživatelům, kteří jsou přidáni do skupin Office 365, můžete zakázat nastavením **funkce UnifiedGroupWelcomeMessageEnabled** na False v PowerShellu. Další informace o tomto nastavení [najdete tady.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
 

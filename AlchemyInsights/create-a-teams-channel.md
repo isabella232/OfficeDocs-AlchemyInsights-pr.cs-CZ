@@ -2,7 +2,7 @@
 title: Vytvoření kanálu Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5039"
-ms.openlocfilehash: e8717530e95d3efedc8de0592444fc07a3c320dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7a8fcd62c6f153afe934f5459867f51f7182d2d3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713015"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816229"
 ---
 # <a name="create-a-teams-channel"></a>Vytvoření kanálu Teams
 

@@ -2,7 +2,7 @@
 title: Zpráva „Obsah zatím není k dispozici“ v aplikaci OneNote
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002541"
 - "4908"
-ms.openlocfilehash: c0035dcd2360fab8a52e77e4da73987f9d8f437e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: caa96324f41ad62c2e461241941957aa042602a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680857"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816877"
 ---
 # <a name="content-not-yet-available-message-in-onenote"></a>Zpráva „Obsah zatím není k dispozici“ v aplikaci OneNote
 

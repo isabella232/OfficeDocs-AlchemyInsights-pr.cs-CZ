@@ -1,8 +1,8 @@
 ---
-title: Nastavení oprávnění pro uživatelský a systémový graf
+title: Konfigurace oprávnění pro uživatelský a systémový graf
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002928"
 - "5607"
-ms.openlocfilehash: 4d8518242b98d580c2a88d6dc3c00e5a1096e2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb88ce45b2cd786e90e5d87713400e150787ec25
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713483"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817129"
 ---
-# <a name="configure-privilege-for-user-and-system-chart"></a>Nastavení oprávnění pro uživatelský a systémový graf
+# <a name="configure-privilege-for-user-and-system-chart"></a>Konfigurace oprávnění pro uživatelský a systémový graf
 
-**Příznak**: nemáte oprávnění ke čtení grafu.
+**Příznak:** Pro graf není k dispozici oprávnění ke čtení.
 
-**Příčina**: nemáte dostatečná oprávnění nebo nejsou k dispozici žádné nutné chyby oprávnění.
+**Příčina:** Není k tomu dost oprávnění nebo neobsahuje chyby potřebných oprávnění.
 
-**Řešení**: Konfigurace oprávnění pro graf
+**Řešení:** Konfigurace oprávnění pro graf
 
-**Postup**:
+**Postup:**
 
-1. Přejděte na **Nastavení – > přizpůsobení – > přizpůsobení rolí zabezpečení systému >**.
+1. Přejděte na **Nastavení -> Přizpůsobení -> Přizpůsobení rolí zabezpečení > systému**.
 
 2. Poklikejte na roli.
 
-    - Uživatelská konfigurace oprávnění grafu je pod kartou **Základní záznamy** .
-    - Konfigurace oprávnění systémového grafu je pod kartou **vlastní nastavení** .
+    - Konfigurace oprávnění Uživatelský graf je pod **záložkou Základní** záznamy.
+    - Konfigurace oprávnění Systémový graf je na kartě **Přizpůsobení.**

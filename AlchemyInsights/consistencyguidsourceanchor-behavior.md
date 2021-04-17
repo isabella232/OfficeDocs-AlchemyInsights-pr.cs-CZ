@@ -1,8 +1,8 @@
 ---
-title: Chování funkce ConsistencyGuid/sourceAnchor
+title: ConsistencyGuid / sourceAnchor behavior
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: adac469328485696d1ee1532aa3d6828af0642eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eafe1ec9636cddc9d73a88beb7ae3ad9f6fad660
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756276"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816985"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>Chování funkce ConsistencyGuid/sourceAnchor
+# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor behavior
 
-Azure AD Connect (verze 1.1.524.0 a After) teď usnadňuje použití atributu msDS-ConsistencyGuid as. Při použití této funkce Azure AD Connect automaticky konfiguruje synchronizační pravidla na:
+Azure AD Connect (verze 1.1.524.0 a po) teď usnadňuje použití atributu msDS-ConsistencyGuid jako atributu sourceAnchor. Při použití této funkce Azure AD Connect automaticky nakonfiguruje pravidla synchronizace tak, aby:
   
-- Jako atribut sourceAnchor objektů uživatelů použijte msDS-ConsistencyGuid. Objekt ObjectGUID se používá pro jiné typy objektů.
+- Jako atribut sourceAnchor pro objekty User použijte msDS-ConsistencyGuid. ObjectGUID se používá pro jiné typy objektů.
     
-- V případě jakéhokoli daného místního uživatelského objektu služby Active Directory, jehož atribut msDS-ConsistencyGuid není naplněn, Azure AD Connect zapíše hodnotu objektu objectGUID zpátky na atribut msDS-ConsistencyGuid v místní službě Active Directory. Po naplnění atributu msDS-ConsistencyGuid pak Azure AD Connect tento objekt exportuje do služby Azure AD.
+- U libovolného objektu místního uživatele služby AD, jehož atribut msDS-ConsistencyGuid není vyplněný, zapíše Azure AD Connect hodnotu svého objektuGUID zpátky do atributu msDS-ConsistencyGuid v místní službě Active Directory. Po naplnění atributu msDS-ConsistencyGuid exportuje Azure AD Connect objekt do Azure AD.
     
- **Poznámka:** Po naimportování místního objektu služby Active Directory do služby Azure AD Connect (to znamená, že je importován do prostoru připojovacího konektoru služby Active Directory a do úložiště metaverse) nelze změnit hodnotu sourceAnchor. Chcete-li zadat hodnotu sourceAnchor pro daný místní objekt Active Directory, nakonfigurujte před importem do služby Azure AD Connect jeho atribut msDS-ConsistencyGuid. 
+ **Poznámka:** Po importu místního objektu AD do Azure AD Connect (to znamená, že se importuje do prostoru konektoru AD a promítá se do metaverse), už nemůžete změnit jeho hodnotu sourceAnchor. Pokud chcete zadat hodnotu sourceAnchor pro daný místní objekt AD, nakonfigurujte jeho atribut msDS-ConsistencyGuid před importem do Azure AD Connect. 
   
-Další informace o SourceAnchor a ConsistencyGuid najdete v těchto článcích: [Azure AD Connect: koncepce návrhů](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Další informace o sourceanchoru a consistencyguidu najdete v následujících příkladech: [Azure AD Connect: Koncepty návrhu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

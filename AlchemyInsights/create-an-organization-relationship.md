@@ -1,8 +1,8 @@
 ---
-title: Vytvořením vztahu organizace umožníte uživatelům spolupracovat s jinou organizací.
+title: Vytvoření relace organizace, která uživatelům umožní spolupracovat s jinou organizací
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: a7ec7b4a8020cfe9a24d1f18af89b02400e6d45e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712726"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816121"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Vytvořením vztahu organizace umožníte uživatelům spolupracovat s jinou organizací.
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Vytvoření relace organizace, která uživatelům umožní spolupracovat s jinou organizací
 
-1. Na řídicím panelu centra pro správu Microsoft 365 přejděte na Exchange pro **správu**  >  **Exchange**.
-2. Přejděte na **organization**  >  **sdílení**organizace.
-3. V části **sdílení organizace**klikněte na **Nový** .
-4. V části **nový vztah organizace**zadejte do pole **název relace** popisný název pro vztah organizace.
-5. Do pole **domény ke sdílení** zadejte doménu pro externí organizaci Office 365 nebo pro místní organizaci, které chcete, aby se zobrazily vaše kalendáře. Pokud potřebujete zadat víc než jednu doménu, oddělte názvy domén čárkou. Například contoso.com, service.contoso.com.
-6. Zaškrtnutím políčka **Povolit sdílení informací o volném čase v kalendáři** Zapněte sdílení kalendáře s uvedenými doménami. Nastavení úrovně sdílení informací o volném čase v kalendáři a nastavení uživatelů, kteří můžou sdílet informace o volném čase v kalendáři.  
+1. Na řídicím panelu Centra pro správu Microsoftu 365 přejděte na **Správce**  >  **Exchange**.
+2. Přejděte na **sdílení**  >  **organizace**.
+3. V **části Sdílení organizace** klikněte na **Nový** .
+4. V **novém vztahu organizace** zadejte do pole Název **relace** popisný název relace organizace.
+5. Do pole **Domény** ke sdílení s zadejte doménu pro externí místní organizaci Office 365 nebo Exchange, kterou chcete nechat zobrazit kalendáře. Pokud potřebujete zadat víc než jednu doménu, oddělte je čárkou. Můžete třeba contoso.com service.contoso.com.
+6. Pokud chcete **zapnout** sdílení kalendáře s doménami, které jste v seznamu měli, zaškrtněte políčko Povolit sdílení informací o volném čase v kalendáři. Nastavte úroveň sdílení informací o volném čase v kalendáři a nastavte, kteří uživatelé mohou sdílet informace o volném čase v kalendáři.  
 
-Pokud chcete nastavit úroveň přístupu k informacím o volném čase, vyberte jednu z těchto možností:
+Pokud chcete nastavit úroveň přístupu k volnému čase, vyberte jednu z těchto možností:
 
 - **Informace o volném čase v kalendáři jenom s uvedením času**
-- **Informace o volném čase v kalendáři, předmět a místo konání**  
+- **Informace o volném čase, předmětu a místě v kalendáři**  
 
  Pokud chcete nastavit, kteří uživatelé budou sdílet informace o volném čase v kalendáři, vyberte jednu z těchto možností:
 
-- **Všichni v organizaci**
+- **Všichni ve vaší organizaci**
 - **Zadaná skupina zabezpečení**  
 
-Kliknutím na **Procházet** vyberte skupinu zabezpečení ze seznamu a klikněte na **OK**.
+Kliknutím **na** procházet vyberte skupinu zabezpečení ze seznamu a klikněte na **OK.**
 
-Kliknutím na **Uložit** vytvořte vztah organizace.  
+Pokud **chcete vytvořit** relaci organizace, klikněte na Uložit.  
 
-**Poznámka:** Konfigurace křížových klientů nepodporují osobní kontakty pro vyhledávání informací o volném čase. Pokud chcete, aby vyhledávání informací o volném čase fungovalo, musí být v globálním seznamu adres zahrnuté kontakty.
+**Poznámka:** Konfigurace mezi tenanty nepodporují osobní kontakty pro vyhledávání v volném čase. Aby vyhledávání v volném čase fungovalo, musí být kontakty zahrnuté do globálního seznamu adres.
 
-**Úplný výklad tohoto tématu najdete zde:**
+**Pokud chcete plně porozumět tomuto tématu, přečtěte si prosím:**
 
-- [Vytvoření vztahu organizace v Exchangi Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Změna vztahů organizace v Exchangi Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Odebrání vztahu organizace v Exchangi Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Vytvoření relace organizace v Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Změna relace organizace v Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Odebrání relace organizace v Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

@@ -1,8 +1,8 @@
 ---
-title: 'Ochrana proti narušení klienta v Defenderu '
+title: 'Ochrana proti neoprávněné manipulaci klienta v programu Defender '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680497"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815572"
 ---
-# <a name="defender-tamper-protection"></a>Defender 
+# <a name="defender-tamper-protection"></a>Ochrana proti neoprávněné manipulaci v programu Defender 
 
-V případě ochrany proti neoprávněným útokům se nepřesné aplikace nedají provádět takové akce:
+Ochrana proti neoprávněné manipulaci brání škodlivým aplikacím v těchto akcích:
 
-- Zákaz ochrany proti virům a hrozbám
-- Zákaz ochrany v reálném čase
-- Vypnutí monitorování chování
-- Zakázání antivirové ochrany (například IOfficeAntivirus (IOAV))
-- Zákaz ochrany před cloudem
-- Odebrání aktualizací bezpečnostního zpravodajství
+- Zakázání ochrany před viry a hrozbou
+- Zakázání ochrany v reálném čase
+- Vypnutí sledování chování
+- Zakázání antivirového softwaru (například IOfficeAntivirus (IOAV))
+- Zakázání cloudové ochrany
+- Odebrání aktualizací security intelligence
 
-Další informace najdete v článku [Ochrana nastavení zabezpečení pomocí ochrany před](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)zástupnými zástupnými programy.
+Další podrobnosti najdete v tématu [Ochrana zabezpečení pomocí ochrany proti neoprávněné manipulaci](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).

@@ -2,7 +2,7 @@
 title: Komentáře v Microsoft Planneru
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 048b63619256c1322837a06115f97127188aec6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 09385fd0235939d01e0baf141362cb8b76910682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793571"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817633"
 ---
 # <a name="comments-in-microsoft-planner"></a>Komentáře v Microsoft Planneru
 

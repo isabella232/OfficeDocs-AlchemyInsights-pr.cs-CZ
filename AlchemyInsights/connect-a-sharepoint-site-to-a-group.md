@@ -1,8 +1,8 @@
 ---
-title: Připojení SharePointového webu ke skupině
+title: Připojení sharepointového webu ke skupině
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: f2276ad3dcdc0426bbd255b7d07f2b9a74927bec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713303"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817057"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Připojení SharePointového webu ke skupině
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Připojení sharepointového webu ke skupině
 
-Pomocí Průvodce připojením skupiny můžete připojit SharePointový web ke skupině Microsoft 365.
+Pomocí průvodce připojením ke skupině můžete připojit sharepointový web ke skupině Microsoft 365.
 
-1. Na webu, který se chcete připojit ke skupině, vyberte  **nastavení (ikona ozubeného kola)**.
-2. Vyberte  **připojit k nové skupině Microsoft 365**.
-3. Dokončete připojení podle průvodce.
+1. Na webu, který chcete připojit ke skupině, vyberte **Nastavení (ikona ozubeného kola).**
+2. Vyberte **Připojit k nové skupině Microsoft 365.**
+3. Připojení dokončete podle průvodce.
 
-**Poznámka:**  Pokud se připojení k nové skupině Microsoft 365 nezobrazuje, web nebude podporovat připojení skupiny.
+**Poznámka:**  Pokud připojení k nové skupině Microsoft 365 není dostupné, web nepodporuje připojení skupiny.
 
-Další informace najdete v článku  [připojení k skupině Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+Další informace najdete v tématu  [Připojení ke skupině Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).

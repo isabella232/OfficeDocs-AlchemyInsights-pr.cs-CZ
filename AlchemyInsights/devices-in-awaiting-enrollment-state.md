@@ -1,8 +1,8 @@
 ---
-title: Zařízení čekají na stav přihlášení
+title: Zařízení jsou ve stavu Čeká se na registraci
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730728"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815347"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Zařízení jsou ve stavu čeká na přihlášení
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Zařízení jsou ve stavu Čeká se na registraci.
 
-Desktop Analytics nemá diagnostická data pro toto zařízení. 
+Desktopová analýza nemá diagnostická data pro toto zařízení. 
 
-K tomuto problému může dojít, protože jste toto zařízení nedávno přidali do cílové kolekce a zatím neodesílali data. Může také znamenat, že zařízení nekomunikuje správně, a nejnovější diagnostická data jsou starší než 28 dní.
+K tomuto problému může dojít, protože jste zařízení nedávno přidali do cílové kolekce a ještě neodeslala data. Může to taky znamenat, že zařízení se službou správně nekomunikuje a nejnovější diagnostická data jsou starší než 28 dní.
 
-Ujistěte se, že zařízení může komunikovat se službou. Další informace najdete v tématu [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Ujistěte se, že zařízení může se službou komunikovat. Další informace najdete v tématu [Koncové body](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
 
-Další informace o stavu čekání na zápis naleznete v tématu [sledování stavu připojení](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Další informace o očekávaném stavu registrace najdete v tématu [Sledování stavu připojení](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).

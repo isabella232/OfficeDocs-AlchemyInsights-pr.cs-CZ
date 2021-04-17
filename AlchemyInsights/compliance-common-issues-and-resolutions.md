@@ -2,7 +2,7 @@
 title: Známé problémy a řešení dodržování předpisů
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 4979375f098f65c703bad813feebcb5df6bd59ad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713592"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817345"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Známé problémy a řešení dodržování předpisů
 
@@ -33,6 +33,6 @@ Tady jsou některá často hledaná témata týkající se dodržování předpi
 
 - Ochrana před únikem informací (DLP): Další informace najdete v tématu [přehled ochrany před únikem informací (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide).
  
-- Popisky citlivosti: Další informace najdete v tématu [Vytvoření a konfigurace popisků utajení a jejich zásad](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
+- Popisky citlivosti: Další informace najdete v tématu Vytvoření a [konfigurace popisků citlivosti](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)a jejich zásad.
 
 **Poznámka**: Pokud chcete získat konkrétnější odpovědi ohledně problémů s dodržováním předpisů, zkuste přeformulovat otázku a zahrnout všechny chyby, které jste našli, a jaké funkce používáte.
