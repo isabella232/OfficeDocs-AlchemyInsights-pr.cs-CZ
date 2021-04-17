@@ -2,7 +2,7 @@
 title: Nahrazení slova nebo fráze
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001453"
 - "3465"
-ms.openlocfilehash: 47a631bd045d3a3ae889d00d8e4ac615948a0d0f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e278b15f552639332e576389ce10dbb0dc2d34fa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692684"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835732"
 ---
 # <a name="replace-a-word-or-phrase"></a>Nahrazení slova nebo fráze
 
-Nahrazení více výskytů slova nebo fráze ve wordovém dokumentu:
+Nahrazení více výskytů slova nebo slovního spojení ve wordových dokumentech:
 
-1. Přejděte na **Home**  >  **nahradit**domů nebo stiskněte CTRL + H.
-2. Do pole **Najít** zadejte slovo nebo frázi, které chcete nahradit. 
-3. Do pole **Nahradit čím** zadejte nový text.
-3. Pokud chcete změnit všechny výskyty slova nebo fráze, vyberte **Nahradit vše** , nebo vyberte **Najít další** , dokud nenajdete ten, který chcete aktualizovat, a pak vyberte **nahradit**.
+1. Přejděte na **Home**  >  **Replace**(Nahradit domů) nebo stiskněte Ctrl+H.
+2. Do **pole Najít** zadejte slovo nebo frázi, kterou chcete nahradit. 
+3. Do **pole Nahradit zadejte** nový text.
+3. Vyberte **Nahradit vše,** pokud chcete změnit všechny výskyty slova nebo fráze, nebo vyberte Najít další, dokud nenajdete ty, které chcete aktualizovat, a pak vyberte **Nahradit**. 

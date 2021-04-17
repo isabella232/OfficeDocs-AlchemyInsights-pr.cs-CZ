@@ -1,8 +1,8 @@
 ---
-title: Samoobslužná nákupní otázka
+title: Samoobslužná otázka k nákupu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3189"
-ms.openlocfilehash: 676f8807db95d50e1e714bcf0480e7a8802f2b06
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6294456c9e6c61e52da5e02a8f2e2ccee9fa1323
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739998"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835624"
 ---
-# <a name="self-service-purchase"></a>Samoobslužné nákupy
+# <a name="self-service-purchase"></a>Samoobslužný nákup
 
 **Jaké funkce má správce pro samoobslužné nákupy?**
 
-Správci mohou zobrazit všechny samoobslužné nákupy uskutečněné v organizaci v centru pro správu Microsoft 365. Mohou zobrazit produkt, jméno nákupčího, zakoupená předplatná, datum vypršení platnosti, historii objednávek, nákupní cenu a přiřazené uživatele pro všechny samoobslužné nákupy.  Pokud je to potřeba pro svou organizaci, můžou správci vypnout samoobslužné nákupy na jednotlivých produktech prostřednictvím PowerShellu.  Správci mají stejné zásady pro správu a přístup k datům pro produkty zakoupené prostřednictvím samoobslužného nákupu nebo centrálně.
+Správci mohou zobrazit všechny samoobslužné nákupy provedené v organizaci v Centru pro správu Microsoftu 365. Vidí produkt, název nákupčího, zakoupená předplatná, datum vypršení platnosti, historii objednávek, nákupní cenu a přiřazené uživatele pro každý samoobslužný nákup.  V případě potřeby pro svoji organizaci budou správci moct vypnout samoobslužné nákupy na základě produktů prostřednictvím PowerShellu.  Správci mají stejné zásady pro správu dat a přístup k produktům zakoupených prostřednictvím samoobslužných nákupů nebo centrálně.
 
-[Nejčastější dotazy k nákupům](https://aka.ms/self-service-purchase-faq)
+[Samoobslužné nákupy – časté otázky](https://aka.ms/self-service-purchase-faq)
 

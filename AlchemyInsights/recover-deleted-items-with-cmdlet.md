@@ -1,8 +1,8 @@
 ---
-title: Obnovení odstraněných položek pomocí rutiny
+title: Obnovení odstraněných položek rutinou
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 91a9bcf75b13881b903a1d3b6f2da53f65811c9c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741296"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835804"
 ---
-# <a name="recover-deleted-items-with-cmdlet"></a>Obnovení odstraněných položek pomocí rutiny
+# <a name="recover-deleted-items-with-cmdlet"></a>Obnovení odstraněných položek rutinou
 
-- K zobrazení odstraněných položek v poštovních schránkách použijte rutinu [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) . Po vyhledání odstraněných položek pomocí rutiny [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) je obnovíte.
+- K zobrazení odstraněných položek v poštovních schránkách použijte rutinu [Get-RecoverableItems.](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) Po vyhledání odstraněných položek je můžete obnovit pomocí rutiny [Restore-RecoverableItems.](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps)
 
-- Podívejte se na úplné podrobnosti v [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
+- Podrobnosti najdete v [tématu Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
 
-- Abyste mohli spustit tuto rutinu, musíte mít přiřazenou roli exportovat import poštovní schránky. Další informace najdete v článku [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) .
+- Abyste mohli tuto rutinu spustit, musíte mít přiřazenou roli Export importu poštovní schránky. Další informace najdete v tématu [Get-RecoverableItems.](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps)
