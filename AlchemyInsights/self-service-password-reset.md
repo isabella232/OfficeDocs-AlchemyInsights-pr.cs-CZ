@@ -2,7 +2,7 @@
 title: Samoobslužné resetování hesla
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: fb2ade4eff0e62d8c4d57202fd4420d564e5cc86
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49676335"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830647"
 ---
 # <a name="self-service-password-reset-sspr"></a>Samoobslužné resetování hesla (SSPR)
 
-- [Plánování nasazení pro Samoobslužné resetování hesla](https://go.microsoft.com/fwlink/?linkid=2142944)  
+- [Plánování nasazení samoobslužné resetování hesla](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
     nebo
-- [Registrace kontaktních informací ve SSPR](https://go.microsoft.com/fwlink/?linkid=849451) (ve výchozím nastavení je povolený správce)
+- [Registrace kontaktních údajů pro SSPR](https://go.microsoft.com/fwlink/?linkid=849451) (SSPR je ve výchozím nastavení pro správce povolená)
 
     Další informace najdete tady:
 

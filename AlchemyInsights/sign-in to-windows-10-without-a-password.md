@@ -1,8 +1,8 @@
 ---
-title: Přihlášení do Windows 10 bez použití hesla
+title: Přihlášení k Windows 10 bez použití hesla
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 839b945c457cb007f13605c5b903ded75dadd1d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719946"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830539"
 ---
-# <a name="sign-in-to-windows-10-without-using-a-password"></a>Přihlášení do Windows 10 bez použití hesla
+# <a name="sign-in-to-windows-10-without-using-a-password"></a>Přihlášení k Windows 10 bez použití hesla
 
-Chcete-li se vyhnout zadávání hesla při spuštění systému Windows, doporučujeme použít jednu z možností zabezpečeného přihlášení Windows Hello, jako je PIN, rozpoznávání obličeje nebo otisk prstu, pokud je dostupný. Pokud opravdu chcete zakázat zabezpečené přihlašování, přečtěte si následující pokyny v části Automatické přihlášení k Windows 10.
+Abyste při spuštění Windows museli zapisovat heslo, doporučujeme použít jednu z možností zabezpečeného přihlášení k Windows Hello, například PIN kód, rozpoznávání obličeje nebo otisk prstu, pokud je k dispozici. Pokud opravdu chcete zakázat zabezpečené přihlášení, přečtěte si níže uvedené pokyny k automatickému přihlášení k Windows 10.
 
-**Zabezpečení alternativních možností Windows Hello s heslem účtu**
+**Zabezpečení alternativ k hesly účtu ve Windows Hello**
 
-Přejděte na **nastavení > účty > možnosti přihlášení** (nebo klikněte [sem](ms-settings:signinoptions?activationSource=GetHelp)). Budou dostupné možnosti přihlášení. Příklad:
+Přejděte na **Nastavení > Účty > možnosti přihlášení** (nebo klikněte [sem).](ms-settings:signinoptions?activationSource=GetHelp) Zobrazí se dostupné možnosti přihlášení. Příklad:
 
 ![Možnosti přihlášení](media/sign-in-options.png)
 
-Kliknutím nebo klepnutím na jednu z možností ji nakonfigurujte. Při příštím spuštění nebo odemčení Windows budete moct místo hesla použít novou možnost. 
+Klikněte nebo klepněte na jednu z možností konfigurace. Až příště spustíte nebo odemknete Windows, budete moct místo hesla použít novou možnost. 
 
-**Automatické přihlášení do Windows 10**
+**Automatické přihlášení k Windows 10**
 
-**Poznámka**: automatické přihlašování je vhodné, ale představuje bezpečnostní riziko, obzvláště v případě, že je váš počítač přístupný více lidem. 
+**Poznámka:** Automatické přihlašování je pohodlné, ale představuje bezpečnostní riziko, zejména pokud je váš počítač přístupný více lidmi. 
 
-1. Klikněte nebo klepněte na tlačítko **Start** na hlavním panelu.
+1. Klikněte nebo klepněte **na tlačítko Start** na hlavním panelu.
 
-2. Zadejte **netplwiz** a stisknutím klávesy ENTER otevřete okno uživatelské účty.
+2. Zadejte **netplwiz** a stisknutím klávesy Enter otevřete okno Uživatelské účty.
 
-3. V části **uživatelské účty**klikněte na účet, ke kterému se chcete automaticky přihlásit při spuštění systému Windows.
+3. V **části Uživatelské účty** klikněte na účet, ke který se chcete automaticky přihlásit při spuštění Windows.
 
-4. Zrušte zaškrtnutí políčka před použitím tohoto počítače musí uživatelé zadat uživatelské jméno a heslo.
+4. Zrušte zaškrtnutí políčka Uživatelé musí zadat uživatelské jméno a heslo pro použití tohoto počítače.
 
-    ![Uživatelé musí zadat uživatelské jméno a heslo.](media/users-must-enter-username.png)
+    ![Uživatelé musí zadat možnost uživatelského jména a hesla.](media/users-must-enter-username.png)
 
-5. Klikněte na tlačítko **OK**. Zobrazí se výzva k zadání a potvrzení hesla vybraného účtu. Kliknutím na **OK** dokončete. Po příštím spuštění Windows 10 se automaticky přihlásí k vybranému účtu.
+5. Klikněte na tlačítko **OK**. Zobrazí se dotaz, jestli chcete zadat a potvrdit heslo k vybranému účtu. Dokončete to kliknutím **na OK.** Při příštím spuštění Windows 10 se automaticky přihlásí k vybranému účtu.

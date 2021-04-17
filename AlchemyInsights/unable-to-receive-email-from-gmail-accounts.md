@@ -1,8 +1,8 @@
 ---
-title: Nelze dostávat e-maily z účtů Gmail
+title: Z účtů Gmailu se nedaří přijímat e-maily
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735444"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830386"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Nelze dostávat e-maily z účtů Gmail
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Z účtů Gmailu se nedaří přijímat e-maily
 
-**DAJÍ**
+**PROBLÉM**
 
-Uvědomte si, že někteří uživatelé nemusí dostávat e-maily z účtů Gmail. Zkoumáme problém.
+Víme, že někteří uživatelé nemusí přijímat e-maily z účtů Gmailu. Prošetřujeme možný problém.
 
-**ZRUŠIT**
+**ALTERNATIVNÍ ŘEŠENÍ**
 
-Zkontrolujte, jestli jste při blokování jednoho uživatele Gmail nechtěně nezablokovali doménu gmail.
+Zkontrolujte, jestli jste omylem nezablokovali doménu Gmailu při blokování jednoho uživatele Gmailu.
 
-1. Otevřete [seznam blokovaných odesílatelů](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Otevřete seznam [Blokovaní odesílatelé](https://go.microsoft.com/fwlink/?linkid=2121010).
 
-2. Pokud je v seznamu Gmail.com, klikněte na ikonu koše vedle položky a stiskněte **Uložit**.
+2. Pokud Gmail.com v seznamu, klikněte na ikonu koše vedle položky a stiskněte **Uložit.**

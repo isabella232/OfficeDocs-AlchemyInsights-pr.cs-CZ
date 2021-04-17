@@ -1,8 +1,8 @@
 ---
-title: Odeslání e-mailu jako jiného uživatele
+title: Posílání pošty jako jiného uživatele
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6439"
 - "3500009"
-ms.openlocfilehash: 8bc35426bd1b65ba40fb6dc124df2a5f8bfb6679
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: c52e63c3d8a26a6aa26be0d06e3d19e74c1d2c91
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50075818"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830611"
 ---
-# <a name="sending-mail-as-another-user"></a>Odeslání e-mailu jako jiného uživatele
+# <a name="sending-mail-as-another-user"></a>Posílání pošty jako jiného uživatele
 
-Aby *mohl uživatel1* odesílat e-maily jako *Uživatel2,* musí mít *uživatel1* udělená oprávnění k poštovní schránce uživatele *2.* Postup najdete v tématu (Jak udělit oprávnění k poštovní schránce jinému uživateli)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
+Aby *uživatel1* mohl posílat e-maily jako *Uživatel2,* bude *uživatel1* muset mít oprávnění k poštovní schránce *uživatele2.* Informace o tom, jak to udělat, najdete v tématu (Udělit oprávnění poštovní schránky jinému uživateli)[ https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user ].
 
-Po udělených oprávněních (to může trvat asi 30 minut) – *uživatel1* bude moct posílat zprávy jako *uživatel2* podle postupu popsaného v tématu Vytvoření e-mailové zprávy nebo odpovídání na e-mailovou zprávu jménem jiného uživatele.
+Po udělit oprávnění (může to trvat asi 30 minut) – *Uživatel1* bude moct odeslat jako *Uživatel2* podle kroků popsaných v článku Vytvoření e-mailové zprávy nebo odpovídání na e-mailovou zprávu jménem jiné osoby.

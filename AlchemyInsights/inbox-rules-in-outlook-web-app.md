@@ -2,21 +2,22 @@
 title: Pravidla Doručené pošty v Outlook Web Appu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800021"
 - "922"
-ms.openlocfilehash: 3fb738f0571d8ae8d5770a1e495897904b9dae46
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 9d9bc9e9bcceace8457ae0d4961a9d7d5eda0cb8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005540"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830242"
 ---
 # <a name="inbox-rules-in-outlook-web-app"></a>Pravidla Doručené pošty v Outlook Web Appu
 

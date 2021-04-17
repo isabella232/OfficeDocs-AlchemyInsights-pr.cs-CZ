@@ -1,8 +1,8 @@
 ---
-title: Synchronizace SharePointové knihovny s funkcí synchronizace OneDrivu
+title: Synchronizace sharepointové knihovny se synchronizací OneDrivu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5797"
-ms.openlocfilehash: fbaca8eb8cc0f79783ce0918c43675594582d8e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66ed9c9e579eb591ea56436966976f6b1d9669b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737405"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831115"
 ---
-# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>Synchronizace SharePointové knihovny s funkcí synchronizace OneDrivu
+# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>Synchronizace sharepointové knihovny se synchronizací OneDrivu
 
-Abyste mohli synchronizovat soubory služby SharePoint na místním pevném disku, postupujte takto:
+Pokud chcete mít sharepointové soubory synchronizované s místním pevným diskem, postupujte takto:
 
 1. Přejděte do knihovny dokumentů, kterou chcete synchronizovat s místním pevným diskem.
-2. V možnostech nabídky vyberte tlačítko synchronizovat.
-3. Postupujte podle pokynů a dokončete synchronizaci.
+2. V možnostech nabídky vyberte tlačítko Synchronizovat.
+3. Synchronizaci dokončete podle podrobných pokynů.

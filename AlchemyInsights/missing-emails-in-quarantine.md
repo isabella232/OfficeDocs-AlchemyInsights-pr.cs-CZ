@@ -2,7 +2,7 @@
 title: Chybějící e-maily v karanténě
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43f9a1f03084bf9adab706b3f77eff1d1db888ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673707"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831727"
 ---
-# <a name="missing-emails-in-quarantine"></a>Chybějící e-maily v karanténě
+# <a name="missing-emails-in-quarantine"></a>Chybějící e-maily v karanténě"
 
-Správci můžou [tyto zprávy zobrazit, uvolnit nebo odstranit.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+Správci [můžou tyto zprávy zobrazit, uvolnit nebo odstranit.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
 
-Pokud chcete otevřít Centrum pro dodržování předpisů &, přejděte na [https://protection.office.com](https://protection.office.com/) . Pokud chcete stránku karantény otevřít přímo, přejděte na [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+Pokud chcete otevřít Centrum & dodržování předpisů, přejděte na [https://protection.office.com](https://protection.office.com/) . Pokud chcete stránku Karanténa otevřít přímo, přejděte na [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
 
 Můžete hledat podle následujících hodnot:  
 
-- **ID zprávy**: globálně jedinečný identifikátor zprávy. Pokud v seznamu vyberete zprávu, zobrazí se v zobrazeném podokně informační  **seznam s**  **podrobnostmi**  . Správci můžou pomocí [sledování zpráv](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) najít zprávy a odpovídající hodnoty ID zprávy.
-- **E-mailová adresa odesílatele**: e-mailová adresa jednoho odesílatele
-- **E-mailová adresa příjemce**: e-mailová adresa jednoho příjemce
-- **Předmět**: použijte celý předmět zprávy. V hledání se nerozlišují malá a velká písmena.
+- **ID zprávy:** Globálně jedinečný identifikátor zprávy. Pokud v seznamu vyberete zprávu, zobrazí se **hodnota ID zprávy** v podokně podrobností, které se zobrazí.  Správci mohou pomocí [sledování zpráv](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) najít zprávy a odpovídající hodnoty ID zprávy.
+- **E-mailová adresa** odesílatele: E-mailová adresa jednoho odesílatele.
+- **E-mailová adresa příjemce:** E-mailová adresa jednoho příjemce.
+- **Předmět:** Použijte celý předmět zprávy. Při hledání se rozlišují malá a velká písmena.
 
-Po zadání kritérií vyhledávání kliknutím na tlačítko ![ aktualizovat ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **aktualizujte** výsledky.  
+Po zadání kritérií hledání klikněte na tlačítko Aktualizovat aktualizovat a ![ ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide)  vyfiltrujte výsledky.  
 
-K zobrazení a správě zpráv a souborů v karanténě slouží rutiny:
+Rutiny, které používáte k zobrazení a správě zpráv a souborů v karanténě, jsou:
 - [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
-- [Export – QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
 - [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
-- [Náhled – QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Tato rutina je jenom pro zprávy, ne pro soubory malwaru z ATP pro SharePoint Online, OneDrive pro firmy nebo týmy.
-- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
+- [Preview-QuarantineMessage:](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage)Tato rutina je jenom pro zprávy, ne pro soubory malwaru z atp pro SharePoint Online, OneDrive pro firmy nebo Teams.
+- [Zpráva o uvolnění do karantény](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

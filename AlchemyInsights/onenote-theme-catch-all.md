@@ -1,8 +1,8 @@
 ---
-title: Všechny
+title: Motiv OneNotu zachytí všechny
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000755"
 - "2695"
-ms.openlocfilehash: d37f114c8349bcd1d6c3c2d896c54f3a31fada66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb3e0a729b34e46123fe66f6ef95f376a1a9707c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729144"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831511"
 ---
-# <a name="common-issues-and-resolutions-with-onenote"></a>Běžné problémy a řešení pomocí OneNotu
+# <a name="common-issues-and-resolutions-with-onenote"></a>Běžné problémy a řešení ve OneNotu
 
-Tady je několik často vyžadovaná témata OneNotu:
+Tady jsou některá často požadovaná témata OneNotu:
 
-- [Řešení problémů se synchronizací](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – řešíme nejčastější problémy související se synchronizací OneNotu, postupujte podle kroků v části [Oprava problémů, když OneNote nemůžete synchronizovat](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+- [Řešení problémů se synchronizací](https://support.office.com/article/299495ef-66d1-448f-90c1-b785a6968d45) – pokud chcete vyřešit většinu běžných problémů souvisejících se synchronizací [OneNotu,](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45)postupujte podle pokynů v tématu Řešení problémů, když onenote nemůžete synchronizovat.
 
-- Používání [OneNotu v Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
+- Použití [OneNotu v Teams](https://support.microsoft.com/office/0ec78cc3-ba3b-4279-a88e-aa40af9865c2) 
 
-- [Poznámkový blok předmětu v aplikaci Teams odpoví na](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) otázky týkající se nastavení poznámkového bloku předmětu v aplikaci Teams.
+- V Aplikaci Teams můžete použít [onenotové](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) poznámkové bloky předmětu a odpovídat na otázky týkající se nastavení poznámkového bloku předmětu v Teams.
 
 - [Přesunutí poznámkového bloku do cloudu](https://support.office.com/article/d5c28b91-7b9c-45be-8f0c-529bdbba019a)
 
-- [Poradce při potížích s přesunutím poznámkových bloků do cloudu](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78)
+- [Řešení potíží s přesouváním poznámkových bloků do cloudu](https://support.office.com/article/70528107-11dc-4f3f-b695-b150059dfd78)
 
-- [Instalace onenotu 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) – od března 2020: při instalaci Office 365 nebo Office 2019 se nainstaluje desktopová aplikace OneNote vedle Wordu, PowerPointu a excelové desktopové aplikace.
+- [Instalace OneNotu 2016](https://support.office.com/article/c08068d8-b517-4464-9ff2-132cb9c45c08) – Od března 2020 po instalaci Office 365 nebo Office 2019 se vedle desktopových aplikací Word, PowerPoint a Excel nainstaluje desktopová aplikace OneNote.
 
-- [Exportujte a importujte poznámkové bloky OneNotu](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309).
+- [Export a import poznámkových bloků OneNotu](https://support.office.com/article/a4b60da5-8f33-464e-b1ba-b95ce540f309)

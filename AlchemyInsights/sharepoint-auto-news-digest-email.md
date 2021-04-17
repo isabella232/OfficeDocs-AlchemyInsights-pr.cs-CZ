@@ -1,8 +1,8 @@
 ---
-title: E-mail automatického Digest pro SharePoint
+title: E-mail s automatickým algoritmem Digest v SharePointu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751164"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831187"
 ---
-# <a name="sharepoint-auto-digest-email"></a>E-mail automatického Digest pro SharePoint
+# <a name="sharepoint-auto-digest-email"></a>E-mail s automatickým algoritmem Digest v SharePointu
 
-Automatické zprávy Digest SharePointu posílá uživatelům ve vaší společnosti automatizovaný e-mail týkající se nejnovějších příspěvků, které se zatím nečetly.
+Funkce SharePoint Auto-News Digest odesílá uživatelům ve vaší společnosti automatizované e-maily o nejnovějších příspěvkůch, které ještě nečetli, které jsou pro ně relevantní.
 
-Další informace najdete na webu [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Další informace najdete na stránce [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- ID Průvodce Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Časování: zákazníci s cílovým vydáním v  **polovině července (dřív červen**  ) a hotovi pro všechny zákazníky v  **polovině**17.
-- Shrnutí: zahrnutí na úrovni uživatelů
-- Typ ovládacího prvku: uživatelský ovládací prvek, * * ovládací prvek pro správu prostřednictvím PowerShellu (už brzy)
+- ID plánu Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Časování: Zákazníci s cílovými verzemi v polovině **července (dřív** v červnu a dokončení pro všechny zákazníky do poloviny srpna **(dříve začátkem srpna)**
+- Roll-out: User level roll-out
+- Typ ovládacího prvku: Uživatelský ovládací prvek, **Správa řízení prostřednictvím PowerShellu (již brzy)

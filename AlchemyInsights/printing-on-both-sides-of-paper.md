@@ -2,7 +2,7 @@
 title: Tisk na obě strany papíru
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,29 +14,29 @@ ms.custom:
 - "5659"
 - "9001214"
 - "5664"
-ms.openlocfilehash: be8796538e538971b0950d89f88784790829c2e5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4c8acbd3e9bd74763e6dea1721dc87333b4b6d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801870"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831475"
 ---
 # <a name="printing-on-both-sides-of-paper-duplex-printing"></a>Tisk na obě strany papíru (oboustranný tisk)
 
-**Je moje tiskárna schopná oboustranného tisku?**
+**Je tiskárna schopná oboustranného tisku?**
 
-Souhrn funkcí a ruční informace o vaší tiskárně vám sdělí, jestli je možné tisknout na obě strany papíru, a to i v případě oboustranného tisku. Pokud máte Microsoft Office, můžete ho zjistit jiným způsobem, když otevřete aplikaci Office, třeba Word nebo Excel, na **soubor > vytisknout**, zajistěte, aby byla vybraná správná tiskárna a hledali jsme možnost v části nastavení. Příklad: 
+Shrnutí nebo příručka funkcí tiskárny by vám měly říct, jestli je schopná tisknout na obě strany papíru, označované také jako "oboustranný tisk". Pokud máte Microsoft Office, můžete to zjistit také tak, že otevřete aplikaci Office, jako je Word nebo Excel, otevřete Soubor **>** Tisk , zkontrolujte, jestli je vybraná ta pravá tiskárna, a vyhledejte možnosti v části Nastavení. Příklad: 
 
 ![Nastavení tiskárny](media/print-settings.png)
 
 **Oboustranný tisk v Microsoft Office**
 
-Pokud je tiskárna schopná tisknout po obou stranách, když přejdete na **soubor > vytisknout** v aplikaci Office, zobrazí se možnost "oboustranný tisk", jak je znázorněno v příkladu nahoře.  Vyberte typ oboustranného tisku (Překlápět po délce nebo překlopení po šířce) a kliknutím na **Tisk** spusťte výtisk.
+Pokud je vaše tiskárna schopná tisknout na obou stranách, když v aplikaci Office přejděte na Soubor **>** Tisk, zobrazí se možnost Vytisknout na obou stranách, jak ukazuje výše uvedený příklad.  Vyberte typ oboustranného tisku, který chcete použít (překlopit na  delší okraj nebo překlopit na krátký okraj) a kliknutím na Tisk spusťte výtisk.
 
 **Oboustranný tisk z libovolné aplikace**
 
-Při tisku se v mnoha aplikacích zobrazí dialogové okno pro tisk, které vypadá takto: 
+V mnoha aplikacích při tisku se zobrazí obecné dialogové okno tisku, které vypadá takhle: 
 
 ![Dialogové okno Tisk](media/print-dialog.png)
 
-Zkontrolujte, jestli je vybraná správná tiskárna a pak klikněte na **Předvolby** a otevřete okno Předvolby tiskárny. Pokud tiskárna podporuje oboustranný tisk, zobrazí se v tomto okně možnost Povolit tento postup pro aktuální tisk.
+Ujistěte se, že je vybraná ta pravá tiskárna, a potom kliknutím **na Předvolby** otevřete okno předvoleb tiskárny. Pokud je tiskárna schopná oboustranného tisku, zobrazí se v tomto okně možnost povolit tuto možnost pro aktuální tiskovou úlohu.
