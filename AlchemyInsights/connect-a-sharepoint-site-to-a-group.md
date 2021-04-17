@@ -1,8 +1,8 @@
 ---
-title: Připojení SharePointového webu ke skupině
+title: Připojení sharepointového webu ke skupině
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: f2276ad3dcdc0426bbd255b7d07f2b9a74927bec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713303"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817057"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a><span data-ttu-id="c250c-102">Připojení SharePointového webu ke skupině</span><span class="sxs-lookup"><span data-stu-id="c250c-102">Connect a SharePoint Site to a Group</span></span>
+# <a name="connect-a-sharepoint-site-to-a-group"></a><span data-ttu-id="6ff39-102">Připojení sharepointového webu ke skupině</span><span class="sxs-lookup"><span data-stu-id="6ff39-102">Connect a SharePoint Site to a Group</span></span>
 
-<span data-ttu-id="c250c-103">Pomocí Průvodce připojením skupiny můžete připojit SharePointový web ke skupině Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="c250c-103">Use the group-connection wizard to connect a SharePoint Site to a Microsoft 365 Group.</span></span>
+<span data-ttu-id="6ff39-103">Pomocí průvodce připojením ke skupině můžete připojit sharepointový web ke skupině Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="6ff39-103">Use the group-connection wizard to connect a SharePoint Site to a Microsoft 365 Group.</span></span>
 
-1. <span data-ttu-id="c250c-104">Na webu, který se chcete připojit ke skupině, vyberte  **nastavení (ikona ozubeného kola)**.</span><span class="sxs-lookup"><span data-stu-id="c250c-104">From the site you'd like to connect to a group, select  **Settings (gear icon)**.</span></span>
-2. <span data-ttu-id="c250c-105">Vyberte  **připojit k nové skupině Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="c250c-105">Select  **Connect to new Microsoft 365 Group**.</span></span>
-3. <span data-ttu-id="c250c-106">Dokončete připojení podle průvodce.</span><span class="sxs-lookup"><span data-stu-id="c250c-106">Follow the wizard to complete the connection.</span></span>
+1. <span data-ttu-id="6ff39-104">Na webu, který chcete připojit ke skupině, vyberte **Nastavení (ikona ozubeného kola).**</span><span class="sxs-lookup"><span data-stu-id="6ff39-104">From the site you'd like to connect to a group, select  **Settings (gear icon)**.</span></span>
+2. <span data-ttu-id="6ff39-105">Vyberte **Připojit k nové skupině Microsoft 365.**</span><span class="sxs-lookup"><span data-stu-id="6ff39-105">Select  **Connect to new Microsoft 365 Group**.</span></span>
+3. <span data-ttu-id="6ff39-106">Připojení dokončete podle průvodce.</span><span class="sxs-lookup"><span data-stu-id="6ff39-106">Follow the wizard to complete the connection.</span></span>
 
-<span data-ttu-id="c250c-107">**Poznámka:**  Pokud se připojení k nové skupině Microsoft 365 nezobrazuje, web nebude podporovat připojení skupiny.</span><span class="sxs-lookup"><span data-stu-id="c250c-107">**Note:**  If Connect to new Microsoft 365 Group isn't available, the site will not support a group connection.</span></span>
+<span data-ttu-id="6ff39-107">**Poznámka:**  Pokud připojení k nové skupině Microsoft 365 není dostupné, web nepodporuje připojení skupiny.</span><span class="sxs-lookup"><span data-stu-id="6ff39-107">**Note:**  If Connect to new Microsoft 365 Group isn't available, the site will not support a group connection.</span></span>
 
-<span data-ttu-id="c250c-108">Další informace najdete v článku  [připojení k skupině Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span><span class="sxs-lookup"><span data-stu-id="c250c-108">For more info, see  [Connect to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
+<span data-ttu-id="6ff39-108">Další informace najdete v tématu  [Připojení ke skupině Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span><span class="sxs-lookup"><span data-stu-id="6ff39-108">For more info, see  [Connect to an Office 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
