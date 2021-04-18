@@ -1,29 +1,30 @@
 ---
-title: Používání OneNotu v Teams
+title: Používání OneNotu v aplikaci Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: 369845b8d5cb6e192ab3a6fa976119bc3189ffb1
-ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
-ms.translationtype: MT
+ms.openlocfilehash: 644de124e9807cee69ed9ebff46226530b3930ea
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852845"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827173"
 ---
-# <a name="using-onenote-in-teams"></a>Používání OneNotu v Teams
+# <a name="using-onenote-in-teams"></a>Používání OneNotu v aplikaci Teams
 
-Zjednodušte vytváření poznámek a dejte jediné místo, abyste měli všechny svoje poznámky, výzkum, plány a informace přidávat pomocí jedné nebo více karet OneNotu do kanálu aplikace Teams.
+Zjednodušte si psaní poznámek a mějte všechny poznámky, prohledávání zdrojů, plány a informace na jednom místě, a to přidáním jedné nebo více karet OneNotu do kanálu Teams.
 
-- **Přidání poznámkového bloku**: do týmů můžete [Přidat nový nebo existující Poznámkový blok](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) .
-- **Správa Accessu do OneNotu**: přístup uživatelů ke OneNotu můžete spravovat v centru pro správu Microsoft Teams. Další informace najdete [v článku Správa aplikací v centru pro správu Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps) .
-- **Obnovení poznámkových bloků z odstraněných skupin**: postupujte podle pokynů v tématu [Obnovení odstraněného týmu](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) a jeho obsahu obnovením skupin Office 365.
-- **Problémy s poznámkovým blokem**předmětu: Přečtěte si informace v článku [aktualizace a Doporučené postupy pro pedagogy a studenty](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) a [aplikace OneNote a Doporučené postupy pro správce IT ve vzdělávání](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46).
-- Pokud **v aplikaci Teams nemůžete použít kartu OneNotu**nebo pokud máte v **poznámkovém bloku problémy se synchronizací**, přihlaste se pomocí účtu [Service Health Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) správce tenanta a ověřte, že neexistuje výpadek nebo snížení služby.
+- **Přidání poznámkového bloku**: Do aplikace Teams můžete [přidat nový nebo existující poznámkový blok](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2).
+- **Správa přístupu k OneNotu**: Přístup uživatelů k OneNotu můžete spravovat v Centru pro správu Microsoft Teams. Další informace najdete v článku [Správa aplikací v Centru pro správce Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps).
+- **Obnovení poznámkových bloků z odstraněných skupin**: Postupujte podle návodu v části [obnova odstraněného týmu](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) a jeho obsahu obnovením skupin Microsoftu 365.
+- **Problémy s poznámkovým blokem předmětu**: Přečtěte si prosím článek [Aktualizace OneNotu a osvědčené postupy pro pedagogy a studenty](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) a článek [Aktualizace OneNotu a osvědčené postupy pro správně IT ve vzdělávání](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46).
+- Pokud **v aplikaci Teams nemůžete použít kartu OneNote** nebo pokud máte **problémy se synchronizací poznámkového bloku**, přihlaste se pomocí účtu správce tenanta a zkontrolujte [řídicí panel stavu služeb](https://docs.microsoft.com/office365/enterprise/view-service-health), abyste ověřili, že nedošlo k výpadku nebo snížení úrovně dostupnosti služeb.

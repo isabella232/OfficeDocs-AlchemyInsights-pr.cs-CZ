@@ -1,44 +1,45 @@
 ---
-title: Vytvoření zásad sdílení, které uživatelům umožní sdílet kalendář s lidmi mimo vaši organizaci.
+title: Vytvoření zásad sdílení umožňující uživatelům sdílet kalendář s lidmi mimo vaši organizaci
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: cb2c0af55f4f8833709b6952d3a6e2ac258ce5fc
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862067"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816265"
 ---
-# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Vytvoření zásad sdílení, které uživatelům umožní sdílet kalendář s lidmi mimo vaši organizaci.
+# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Vytvoření zásad sdílení umožňující uživatelům sdílet kalendář s lidmi mimo vaši organizaci
 
-1. Z řídicího panelu Centra pro správu Microsoftu 365 přejděte na **Admin**  >  **Admin Exchange**.
-2. Přejděte na sdílení **organizací**  >  **sharing**.
-3. V zobrazení seznamu klepněte v části **Individuální sdílení**na tlačítko **Nový** .
-4. Do **pole Název zásady**zadejte do pole **Název zásady** popisný název zásady sdílení.
-5. Chcete-li definovat pravidla sdílení pro zásadu, klepněte na tlačítko **Přidat.**
-6. V **části Pravidlo sdílení**vyberte jednu z následujících možností a určete domény, se kterými chcete sdílet:
+1. Na řídicím panelu Centra pro správu Microsoft 365 přejděte na **Správce** > **Exchange**.
+2. Přejděte na **Organizace** > **Sdílení**.
+3. V zobrazení seznamu klikněte v části **Sdílení s jednotlivci** na **Nové** .
+4. V části **Nová zásada sdílení** zadejte popisný název zásady sdílení do pole **Název zásady**.
+5. Klikněte na **Přidat** a definujte pravidla sdílení pro tuto zásadu.
+6. V části **pravidlo sdílení** vyberte jednu z následujících možností pro určení domény, se kterou chcete soubory sdílet:
     - **Sdílení se všemi doménami**
-    - **Sdílení s určitou doménou**
-8. Pokud vyberete **Sdílení s určitou doménou**, zadejte název domény, se kterou chcete sdílet. Pokud potřebujete pro tuto zásadu sdílení zadat více domén, uložte nastavení pro první doménu a upravte pravidla sdílení a přidejte další domény.
-9. Chcete-li určit informace, které lze sdílet, zaškrtněte políčko **Sdílet složku kalendáře** a pak vyberte jednu z následujících možností:
+    - **Sdílení s konkrétní doménou**
+8. Pokud vyberete **Sdílení s konkrétní doménou**, zadejte název domény, se kterou chcete kalendář sdílet. Pokud pro tuto zásadu sdílení potřebujete zadat víc než jednu doménu, uložte nastavení pro první doménu a pak upravte pravidla sdílení a přidejte další domény.
+9. Pokud chcete upřesnit, které informace se mají sdílet, zaškrtněte políčko **Sdílet složku kalendáře** a pak vyberte jednu z následujících možností:
     - **Informace o volném čase v kalendáři jenom s uvedením času**
-    - **Informace o volném čase v kalendáři s časem, předmětem a umístěním**
-    - **Všechny informace o události kalendáře, včetně času, předmětu, místa a názvu**
-11. Kliknutím na **uložit** nastavte pravidla pro zásady sdílení.
-12. Pokud chcete nastavit tuto zásadu sdílení jako novou výchozí zásadu sdílení pro všechny uživatele ve vaší organizaci, zaškrtněte políčko **Nastavit tuto zásadu jako výchozí zásadu sdílení.**
-13. Kliknutím na **uložit** vytvořte zásadu sdílení.  
+    - **Informace o volném čase v kalendáři s uvedením času, předmětu a místa**
+    - **Všechny informace o událostech v kalendáři, včetně času, předmětu, místa a názvu**
+11. Kliknutím na **uložit** nastavíte pravidla pro zásady sdílení.
+12. Pokud chcete tyto zásady sdílení nastavit jako nové výchozí zásady sdílení pro všechny uživatele ve vaší organizaci, zaškrtněte políčko **Nastavit tuto zásadu jako moji výchozí zásadu sdílení**.
+13. Zásady sdílení vytvoříte kliknutím na **uložit**.  
 
-**Pro plné pochopení tohoto tématu si prosím přečtěte:**
+**Pokud chcete plně porozumět tomuto tématu, přečtěte si prosím:**
 
 - [Vytvoření zásad sdílení v Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
 - [Použití zásad sdílení u poštovních schránek v Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [Úprava, zakázání nebo odebrání zásad sdílení v Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [Úprava, zakázání a odstranění zásad sdílení v Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
