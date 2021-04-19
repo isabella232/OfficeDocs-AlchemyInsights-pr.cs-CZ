@@ -2,21 +2,22 @@
 title: Řešení potíží s importem souborů PST
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 58fdd509fae5e87bf5ae72db5d8926c4367cdd64
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: 07609b39149c003b029f3ea5669f4044af43c25d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991151"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826156"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Řešení potíží s importem souborů PST
 
