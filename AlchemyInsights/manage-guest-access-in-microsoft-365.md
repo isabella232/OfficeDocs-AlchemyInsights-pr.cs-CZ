@@ -2,21 +2,22 @@
 title: Správa přístupu hostů v Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001728"
 - "3826"
-ms.openlocfilehash: aedfe81f3d7573dbc0a9c308bea53c649f08b4d9
-ms.sourcegitcommit: 5aa4a4f40cf064f0cdb944ef35054719e87eeda3
-ms.translationtype: HT
+ms.openlocfilehash: 36f8da40bfa7cffb886e25ea89a7a3772733e1f4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42699629"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810513"
 ---
 # <a name="manage-guest-access-in-microsoft-365"></a>Správa přístupu hostů v Microsoft 365
 

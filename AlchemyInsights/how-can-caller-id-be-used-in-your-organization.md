@@ -2,21 +2,22 @@
 title: Jak se ve vaší organizaci dá použít ID volajícího
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002506"
 - "4859"
-ms.openlocfilehash: 2faf0140317ddfeb2a1ff1abe415d4245126fba9
-ms.sourcegitcommit: a9e6b2fcce8bd12fd079ed967f426b67d5c6d239
-ms.translationtype: HT
+ms.openlocfilehash: 5d312cf48b08ef7a8b074169e548da7ba5e39b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43928381"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811377"
 ---
 # <a name="how-can-caller-id-be-used-in-your-organization"></a>Jak se ve vaší organizaci dá použít ID volajícího?
 

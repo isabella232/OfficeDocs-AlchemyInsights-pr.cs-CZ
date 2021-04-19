@@ -2,10 +2,11 @@
 title: Jak přidám platební kartu?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,12 +14,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: a4d30f59410d897584fb3ef91273361d028c0034
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: dbea3f179dc7f89386ba4f89dfe4b70e2e594bcd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417309"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811341"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Jak přidám platební kartu?
 
@@ -30,4 +31,4 @@ ms.locfileid: "44417309"
 
 4. Zadejte informace o nové platební kartě nebo bankovním účtu a potom klikněte na **Uložit**.
 
-Další informace najdete v [tématu Správa platebních metod](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Další informace najdete v tématu [Správa způsobů platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
