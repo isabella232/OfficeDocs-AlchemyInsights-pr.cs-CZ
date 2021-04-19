@@ -2,21 +2,22 @@
 title: Zásady podmíněného přístupu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002357"
 - "4583"
-ms.openlocfilehash: 569507318b499cdbcf2a1cd75e84046953f62212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: af95627d07d41add54f03c9254562b9be4e05d9b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706050"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817273"
 ---
 # <a name="conditional-access-policies"></a>Zásady podmíněného přístupu
 

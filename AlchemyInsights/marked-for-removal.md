@@ -2,21 +2,22 @@
 title: Označené k odebrání
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500020"
 - "4585"
-ms.openlocfilehash: 4ec00d216e99f8a067c3bb2c8ffa553679e10083
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: c93667f93dd567d5133fbe8b99e1f4db8ff584d1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787795"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823852"
 ---
 # <a name="marked-for-removal"></a>Označené k odebrání
 
