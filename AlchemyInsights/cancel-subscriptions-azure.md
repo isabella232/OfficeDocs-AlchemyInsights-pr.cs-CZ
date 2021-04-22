@@ -3,7 +3,7 @@ title: Zrušení předplatného v Azure
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 83fab49ccafd23352fe28569289a709a198fd402
+ms.sourcegitcommit: 80a36e6447953b3f65e45c05607dbfc585fbf8b0
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819577"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51936147"
 ---
 # <a name="cancel-subscription"></a>Zrušení předplatného
 
-Předplatné Azure může na portálu Microsoft Azure zrušit jenom správce nebo vlastník účtu. Pokud už předplatné nepotřebujete, můžete ho zrušit na portálu Microsoft Azure. Postupujte podle těchto pokynů.
+Pokud už předplatné Azure nepotřebujete, můžete ho zrušit na portálu Azure Portal. Předplatné Azure může zrušit jenom správce účtu nebo uživatelé s právy vlastníka předplatného.
 
 1. Vyberte předplatné na stránce [Předplatná na portálu Microsoft Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Vyberte předplatné, které chcete zrušit.
