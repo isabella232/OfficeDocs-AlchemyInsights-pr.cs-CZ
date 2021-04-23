@@ -1,5 +1,5 @@
 ---
-title: Nefungují tipy pro zásady DLP
+title: Tipy zásad ochrany před únikem informací nefungují
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,28 +13,23 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1e1f9b84cb8bd07468d3da0eeaff3716b9a309a4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68387bf6f5f91657f1d853b9d67bdea6fac21bde
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679578"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952185"
 ---
-# <a name="dlp-policy-tip-issues"></a>Problémy s tipem na ochranu před únikem informací
+# <a name="dlp-policy-tip-issues"></a>Problémy s tipy pro zásady ochrany před únikem informací
 
 **Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
-**Tipy pro zásady DLP**
+Pokud chcete nakonfigurovat tipy zásad pro zásady ochrany před únikem informací v Centru & dodržování předpisů v úplném režimu vynucení, proveďte toto:
 
-Při použití **zásad ochrany před únikem informací**mohou uživatelé upozorňovat na porušení zásad pomocí **tipů zásad**. Správci můžou nakonfigurovat tipy zásad, aby se zobrazovaly při testování jejich zásad ochrany před únikem informací nebo když je zásada v plném režimu vynucení.
-  
-Pokud chcete nakonfigurovat tipy zásad pro zásady ochrany před únikem informací v centru zabezpečení a dodržování předpisů v režimu úplného vynucení, postupujte takto:
-  
-- Zkontrolujte, jestli jsou v pravidle o DLP **zapnuté** tyto pokyny [.](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- Zajistěte, aby byly u pravidla DLP **povolené** tipy zásad. Postup najdete v tématu [Odesílání e-mailových oznámení a zobrazení tipů zásad pro zásady ochrany před únikem informací](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- Zajistěte, aby váš **obsah odpovídal** tomu, co je **potřeba** k aktivaci pravidla popsaného v [tomto článku.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Zajistěte, aby váš obsah odpovídal tomu, co je potřeba k aktivaci pravidla popsaného v [definicích](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)entit typu Citlivé informace .
 
-- Tipy zásad se zobrazují v OWA i Outlooku. Když ale používáte **Outlook 2013 nebo novější**, zobrazí se tipy zásad pouze za určitých podmínek. Tady jsou uvedené podmínky: [podporované podmínky pro Outlook 2013 nebo novější pro zobrazení tipů zásad](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+Tipy pro zásady se zobrazují v aplikaci OWA i v Outlooku. Při používání Outlooku 2013 nebo novějšího se ale tipy zásad zobrazují jenom za určitých podmínek. Seznam konkrétních podmínek najdete v tématu [Podporované podmínky pro Outlook 2013 nebo novější](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)pro zobrazení tipů zásad .
 
-Další informace o tipech zásad ochrany před únikem informací najdete v tématu [Zobrazení tipů zásad pro zásady ochrany před únikem](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips) .
-  
+Informace o tipech zásad ochrany před únikem informací najdete v tématu Tipy pro zásady [ochrany před](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) únikem informací – referenční informace a matice podpory pro tipy zásad ochrany před únikem [informací](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).
