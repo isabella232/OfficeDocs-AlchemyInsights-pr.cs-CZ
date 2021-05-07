@@ -1,5 +1,5 @@
 ---
-title: O Exchange Server aktualizací zabezpečení
+title: Informace o Exchange Server aktualizacích
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726520"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233455"
 ---
-# <a name="about-exchange-server-security-updates"></a>O Exchange Server aktualizací zabezpečení
+# <a name="about-exchange-server-updates"></a>Informace o Exchange Server aktualizacích
 
-Microsoft vydal řadu důležitých aktualizací zabezpečení pro Exchange Server místního nasazení. Ovlivněné verze serveru jsou všechny úrovně aktualizací Exchange Server 2010, 2013, 2016 a 2019. Exchange Online není ovlivněný, ale pokud máte některé místní servery Exchange kvůli hybridní konfiguraci, potenciálně mohou být ohrožené.
+Microsoft obvykle vydává Exchange Server aktualizace v úterý (aktualizace zabezpečení) nebo čtvrtletně (kumulativní aktualizace). Pokud se chcete podívat na oznámení o vydaných nejnovějších vydaných aktualizacích, podívejte se [na Exchange týmový blog.](https://aka.ms/ehlo)
 
-Podívejte se prosím na následující oznámení o umístění oprav: Vydaná: Aktualizace zabezpečení z března [2021 Exchange Server 2021](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- K inventáři Exchange serverů použijte skript Exchange Server Kontrola stavu [(GitHub, použijte nejnovější verzi).](https://aka.ms/ExchangeHealthChecker) Spuštěním tohoto skriptu se vám řekne, jestli některý z vašich Exchange servery jsou za aktualizacemi (CU a SU).
 
-**Důležité poznámky:**
+- Pokud chcete aktualizovat na nejnovější kumulativní aktualizaci, přejděte Exchange [Průvodce](https://aka.ms/ExchangeUpdateWizard) aktualizací a zvolte aktuálně spuštěnou CU a cílovou CU. Vyberte **Řekněte mi postup, jak** získat pokyny pro vaše prostředí.
 
-Pokud aktualizace instalujete ručně, přečtěte si důležité informace v článku znalostní báze o známých problémech. Ze zvýšených pokynů CMD/PowerShellu musí být spuštěny aktualizace zabezpečení.
-
-Informace o řešení potíží s aktualizacemi [najdete tady.](https://aka.ms/exupdatefaq)
+- Pokud se při instalaci nebo po instalaci aktualizací Exchange Server setkáte s chybami, podívejte se na část Oprava neúspěšných [instalací Exchange kumulativních](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)aktualizací a aktualizací zabezpečení .

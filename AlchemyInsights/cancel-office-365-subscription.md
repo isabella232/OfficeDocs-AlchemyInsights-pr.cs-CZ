@@ -1,5 +1,5 @@
 ---
-title: Zrušení předplatného Microsoft 365
+title: Zrušení Microsoft 365 předplatného
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 0dc2436fa0e52b1b13348d0f79247fcb75423d95
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348622"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261621"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Chcete zrušit předplatné Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Zrušení předplatného Microsoft 365 předplatného?
 
-Je nám líto, ale můžete se podívat, ale pokud chcete předplatné zrušit, tady jsou možnosti:
+Je nám líto, že jste na tom, ale pokud chcete předplatné zrušit, máte následující možnosti:
   
-- Pokud jste zákazníkem ve zkušební verzi, není nic, co by se dalo zrušit. Platnost předplatného zkušebního období skončí automaticky, pokud neposkytnete způsob platby.
-- Pokud máte méně než 25 přiřazených licencí, můžete předplatné zrušit online. Přejděte na stránku **fakturace** \> [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) a vyhledejte předplatné, které chcete zrušit. Vyberte **Další akce** (tři tečky) a pak vyberte **zrušit předplatné**.
-- Pokud máte k uživatelům přiřazených víc než 25 licencí, [zavolejte na podporu, abyste zrušili předplatné](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- Pokud jste zákazník zkušební verze, není nic, co byste zrušili. Zkušební předplatné vyprší automaticky, pokud nezadáte způsob platby.
+- Pokud máte méně než 25 přiřazených licencí, můžete předplatné zrušit online. Přejděte na **stránku Fakturace:** Vaše produkty a \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) najděte předplatné, které chcete zrušit. Vyberte **Další akce** (tři tečky) a pak vyberte Zrušit **předplatné.**
+- Pokud máte více než 25 licencí přiřazených uživatelům, zavolejte podporu a [zrušte předplatné.](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide)
 
-**Refundace: veškerý poměrný kredit vám bude vrácen v rámci dalšího fakturačního cyklu.**
+**Refundace: Jakýkoli revizní kredit vám bude vrácen během dalšího fakturačního cyklu.**
 
 > [!NOTE]
-> Pokud se vám možnost zrušení nezobrazuje, vyberte si předplatné a zobrazte stránku podrobností. V části **nastavení předplatného a platby** vyberte **zrušit předplatné**.
+> Pokud možnost zrušit nevidíte, vyberte předplatné a zobrazte stránku podrobností. V části **Nastavení předplatného** a plateb vyberte **Zrušit předplatné.**
 
-Další informace najdete v článku [zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Další informace najdete v tématu [Zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

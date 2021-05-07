@@ -1,5 +1,5 @@
 ---
-title: Oprava souboru. PST před importem
+title: Oprava souborů .pst nebo .ost
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,25 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 1ed37192a6b054b745fd48fbc01a6b00fa7074ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b6f3d55d69ce0664fa6316c6879ade9849d5950
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799089"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233707"
 ---
-# <a name="repair-pst-file-before-importing"></a>Oprava souboru. PST před importem
+# <a name="repair-pst-or-ost-files"></a>Oprava souborů .pst nebo .ost
 
-Před importem souboru. PST v Outlooku ověřte, jestli soubor není poškozený, opravte soubor:
+Opravou souboru ověřte, že soubor není poškozený:
 
 1. Ukončete aplikaci Outlook.
 
-2. Nalezněte a spusťte `Scanpst.exe` ve složce aplikace Office (C:\Program Files (x86) \Microsoft Office\root\Office \<Version\> nebo C:\Program Files\Microsoft Office\root\Office \<Version\> ).
+2. Najděte Office spusťte ve složce programu `Scanpst.exe` (C:\Program Files (x86)\Microsoft Office\root\Office nebo \<Version\> C:\Program Files\Microsoft Office\root\Office). \<Version\>
 
-3. V **nástroji pro opravu doručené pošty aplikace Microsoft Outlook**klikněte na **Procházet** a najděte soubor. PST (například v adresáři C:\Users \\<UserName \> \AppData\Local\Microsoft\Outlook). Vyberte soubor. PST a klikněte na **otevřít**.
+3. V nástroji **Pro opravu** doručené pošty  Microsoft Outlook klikněte na Procházet a vyhledejte soubor .pst nebo .ost (například v C:\Users<uživatelské jméno \\ \> \AppData\Local\Microsoft\Outlook). Vyberte soubor a potom klikněte na **Otevřít.**
 
-4. Skenování zahájíte kliknutím na **Start** .
+4. Kliknutím **na Start** spusťte kontrolu.
 
-5. Pokud jsou chyby v souboru nalezeny, klikněte na **opravit**a po dokončení opravy klikněte na **OK** .
+5. Pokud se v souboru nacházejí chyby, klikněte na **Opravit a** po dokončení opravy klikněte na **OK.**
 
-6. Zkuste znovu importovat soubor. PST v Outlooku.
-
-Další informace najdete v tématech [Oprava datových souborů Outlooku](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) a [řešení problémů s importem souboru. PST aplikace Outlook](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Další informace najdete v tématu [Oprava Outlook datových souborů](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) a Řešení problémů s [importem Outlook .pst](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

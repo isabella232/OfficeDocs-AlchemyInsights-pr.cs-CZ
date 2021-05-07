@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11107"
 - "9005477"
-ms.openlocfilehash: e55d8e5453f60b5993500dae1eb6efce11a8aa1a
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: a878a35ba9b530ce22ca7c263d20bd942d6896a8
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52124964"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233511"
 ---
 # <a name="deploying-add-ins-for-microsoft-365-apps"></a>Nasazení doplňků pro Microsoft 365 Apps
 
 Centralizované nasazení je doporučený způsob nasazení doplňků Office uživatelům a skupinám ve vaší organizaci. Pokud chcete nasadit doplňky, postupujte podle následujících kroků:
 
-**Poznámka:** Pokud chcete nainstalovat doplňky pro Office uživatele, podívejte se na informace v tématu Zobrazení, správa a instalace doplňků v [Office aplikacích](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d). Ujistěte se také, že je povolené individuální Office doplňků pro Store. 
+**Poznámka:** Pokud chcete nainstalovat doplňky pro Office uživatele, podívejte se na informace v tématu Zobrazení, správa a instalace doplňků v [Office aplikacích](https://support.microsoft.com/topic/view-manage-and-install-add-ins-in-office-programs-16278816-1948-4028-91e5-76dca5380f8d). Ujistěte se také, že je povolené individuální Office doplňků pro Store. Podrobnosti najdete v tématu Zabránění stahování doplňků vypnutím Office Storu ve všech klientech [(kromě Outlook).](https://docs.microsoft.com/microsoft-365/admin/manage/manage-addins-in-the-admin-center?view=o365-worldwide#prevent-add-in-downloads-by-turning-off-the-office-store-across-all-clients-except-outlook)
 
 1. Zajistěte, aby vaše prostředí splňovalo požadavky na nasazení doplňků pomocí centralizovaného nasazení. Podrobnosti najdete v tématu [Požadavky](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins?#requirements).
 2. Pokud chcete **Nastavení**  >  **doplňky,** přejděte na Microsoft 365 aplikace Získat aplikace v Centru pro  >   správu. 

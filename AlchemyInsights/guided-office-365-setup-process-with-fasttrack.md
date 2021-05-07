@@ -1,5 +1,5 @@
 ---
-title: Postup nastavení Office 365 s průvodcem FastTrack
+title: Proces Office 365 s průvodcem s fasttrackem
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6939"
-ms.openlocfilehash: 563d6c252740f577d9093febf2985f3cb65662e1
-ms.sourcegitcommit: c0b8e17c8696632e321e69b617aaff2958201e9b
+- "9419"
+ms.openlocfilehash: 4b8006959728192ba97fd1770f0caa71aaf7ca53
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194469"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233743"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Postup nastavení Office 365 s průvodcem FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>Proces Office 365 s průvodcem s fasttrackem
 
-Pokud máte nárok na pomoc s Office 365 FastTrack, můžete požádat o pomoc prostřednictvím portálu. Pokud hledáte pomoc nebo pokyny od partnera, náš průvodce nastavením Office 365 nebo kvalifikovaný partner vám s tím pomůže.
+Pokud máte nárok na pomoc Office 365 FastTrack, můžete požádat o pomoc prostřednictvím portálu. Pokud hledáte samoobslužnou nápovědu nebo pokyny od partnera, naši průvodci nastavením Office 365 nebo kvalifikovaný partner vám v tomto procesu pomůžou.
 
-1. Pokud chcete získat pomoc prostřednictvím portálu FastTrack, přihlaste se k portálu [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) a podle pokynů vyplňte formulář Žádost o pomoc s Microsoft 365.
+- Pokud chcete získat nápovědu prostřednictvím portálu FastTrack, přihlaste se k portálu [FastTrack a](https://go.microsoft.com/fwlink/?linkid=2125443) podle pokynů vyplňte formulář Žádost o pomoc s Microsoft 365.
 
     > [!NOTE]
-    > Pokud máte s přihlášením problémy nebo potřebujete další pomoc, pošlete [e-mail](mailto:ftcrfa@microsoft.com)ftcrfa@microsoft.com.
+    > Pokud máte problémy s přihlášením nebo potřebujete další pomoc, pošlete e-mail ftcrfa@microsoft.com [.](mailto:ftcrfa@microsoft.com)
 
-2. Nápovědu k Office 365, která se řídí vlastními pokyny, najdete v [pokynech k nastavení.](https://go.microsoft.com/fwlink/?linkid=2125827)
-3. Pokud hledáte poskytovatele řešení, podívejte se, jak [ho najít.](https://go.microsoft.com/fwlink/?linkid=2125918)
+- Informace o samoobslužné nápovědě pro Office 365 najdete v tématu [Pokyny k nastavení](https://go.microsoft.com/fwlink/?linkid=2125827).
+- Pokud chcete najít poskytovatele řešení, podívejte se na stránku Hledám [poskytovatele řešení](https://go.microsoft.com/fwlink/?linkid=2125918).
