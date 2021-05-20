@@ -1,5 +1,5 @@
 ---
-title: Změnit výchozí doménu
+title: Změna výchozí domény
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 6e7f56498326b3fb4038fbb9cdc191ec4692ca65
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: d293eb49f2f8a299feb61b4dfcd9d48011f79c3c
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815670"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569788"
 ---
-# <a name="change-default-domain"></a>Změnit výchozí doménu
+# <a name="change-default-domain"></a>Změna výchozí domény
 
-Po přidání vlastní domény pomocí [Průvodce přidáním domény](https://admin.microsoft.com/Adminportal#/Domains/Wizard)se vlastní doména stane výchozí doménou pro nové uživatele, ale stávající uživatelé se nezmění.
+Po přidání vlastní domény [](https://admin.microsoft.com/Adminportal#/Domains/Wizard)pomocí Průvodce přidáním domény se z vlastní domény stane výchozí doména pro nové uživatele, ale stávající uživatelé se nezmění.
 
-- Pokud chcete změnit výchozí doménu na existující doménu, vyberte doménu na [stránce domény](https://admin.microsoft.com/Adminportal/Home#/Domains)a pak vyberte **nastavit jako výchozí**.
+- Pokud chcete výchozí doménu změnit na existující doménu, zvolte doménu na stránce [Domény](https://admin.microsoft.com/Adminportal/Home#/Domains)a pak vyberte **Nastavit jako výchozí.**
 
-- Pokud chcete změnit název domény pro stávající uživatele, na  [stránce aktivní uživatelé](https://admin.microsoft.com/Adminportal/Home#/users) vyberte víc uživatelů, vyberte  **...** a pak vyberte  **změnit domény**.
+- Pokud chcete změnit název domény pro stávající uživatele, vyberte na stránce [Aktivní](https://admin.microsoft.com/Adminportal/Home#/users) uživatelé víc uživatelů a pak vyberte **Změnit domény**.
 
-- Pokud chcete změnit doménu nebo přidat alias pro jednoho uživatele, vyberte na [stránce aktivní uživatelé](https://admin.microsoft.com/Adminportal/Home#/users) uživatelské jméno a pak vyberte  **Spravovat uživatelské jméno a e-mail**.
+- Pokud chcete změnit doménu nebo přidat alias pro jednoho uživatele, vyberte na stránce [Aktivní](https://admin.microsoft.com/Adminportal/Home#/users) uživatelé uživatelské jméno a pak vyberte Spravovat uživatelské jméno a **e-mail.**
 
-Počáteční doménu. onmicrosoft.com nelze přejmenovat ani odebrat.
+Počáteční onmicrosoft.com .onmicrosoft.com nelze přejmenovat ani odebrat.

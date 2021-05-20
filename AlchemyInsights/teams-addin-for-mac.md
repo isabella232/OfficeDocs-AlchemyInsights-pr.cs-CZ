@@ -1,5 +1,5 @@
 ---
-title: Doplněk Teams pro Mac
+title: Teams pro Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670321"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582063"
 ---
-# <a name="teams-add-in-for-mac"></a>Doplněk Teams pro Mac
+# <a name="teams-add-in-for-mac"></a>Teams pro Mac
 
-Pokud chcete vyřešit problém s chybějícím doplňkem Teams pro Mac, postupujte takto:
+Pokud chcete vyřešit Teams pro uživatele operačního systému Mac, postupujte takto:
 
-**Krok 1:** Pokud máte hybridní místní Exchange Server (2016 CU3 nebo novější), pomocí nástroje Test-HMA.ps1 potvrďte, že je hybridní moderní ověřování správně nakonfigurované. Další informace najdete v článku [ověření nastavení hybridního moderního ověřování pro Outlook pro iOS a Android](https://aka.ms/AA980zq).  
+**Krok 1:** Pokud máte místní hybridní Exchange (2016 CU3 nebo novější), ověřte pomocí nástroje Test-HMA.ps1, že je hybridní moderní ověřování správně nakonfigurované. Další informace najdete v tématu Ověření nastavení hybridního moderního ověřování pro [Outlook pro iOS](https://aka.ms/TestHMAEAS)a Android.  
 
-**Poznámka:** Používejte formát adresy UPN (například [username@contoso.com](mailto:username@contoso.com)), ne doména \ uživatelské_jméno. Používejte to i pro uživatele s poštovními schránkami Exchange Online.
+**Poznámka:** Použijte formát adresy hlavní název uživatele (například [username@contoso.com](mailto:username@contoso.com)), ne doménu\uživatelské_jméno. To můžete udělat i pro uživatele s Exchange Online poštovními schránkami.
 
-**Krok 2:** Přejděte na **Tools**  >  **účty**nástrojů... v Outlooku pro Mac a najděte a vyberte účet. Potvrďte, že uvedené uživatelské jméno je ve formátu UPN (například [username@contoso.com](mailto:username@contoso.com)).
+**Krok 2:** Have the user go to **Tools**  >  **Accounts**... v Outlook pro Mac a vyhledejte a vyberte účet. Potvrďte, že uvedené uživatelské jméno je ve formátu hlavní název uživatele (například [username@contoso.com).](mailto:username@contoso.com)
 
-**Krok 3:** Ověřte, jestli je uživatel licencovaným uživatelem Microsoft Teams. Uživatel musí používat předplatné Office 365 for Mac, verzi produktu 16,24 nebo novější.
+**Krok 3:** Potvrďte, že uživatel je licencovaný Microsoft Teams uživatele. Uživatel musí používat předplatné Office 365 for Mac, produkt verze 16.24 nebo novější.

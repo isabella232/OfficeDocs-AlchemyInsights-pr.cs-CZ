@@ -1,5 +1,5 @@
 ---
-title: Simulátor útoků na útoky 2681 v Microsoft 365
+title: 2681 Attack Simulator in Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801544"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545719"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Simulátor útoků na útoky v Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Útočný trenažér v Microsoft 365
 
-- Postrádáte útok na útoky? Simulátor útoku vyžaduje **Microsoft Defender pro Office 365 plán 2 (ATP – plán 2)** nebo **Office 365 Enterprise E5** . Simulátor útoků na útoky **není** zahrnutý v Microsoft Defenderu pro Office 365 plán 1 (ATP – plán 1), Office 365 Enterprise E3 nebo jakékoli aplikace Microsoft 365 pro firmy.
+- Chybí vám útočný trenažér? Útočný **trenažér vyžaduje Microsoft Defender pro Office 365 Plán 2** nebo Office 365 Enterprise **E5.** Attack Simulator není **součástí** programu Microsoft Defender pro Office 365 Plán 1, Office 365 Enterprise E3 nebo Microsoft 365 Apps pro firmy předplatných.
 
-- Účet, který používáte ke spuštění simulaci útoků, vyžaduje oprávnění globálního správce nebo správce zabezpečení a vícefaktorové ověřování (MFA). Další informace o požadavcích na simulátory útoku najdete v [tomto tématu](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Účet, který používáte ke spouštění simulovaných útoků, vyžaduje oprávnění globálního správce nebo správce zabezpečení a vícefaktorové ověřování (MFA). Další informace o požadavcích na útočný trenažér najdete v [tomto tématu](/microsoft-365/security/office-365-security/attack-simulator).
 
-- Důležité informace o simulacích útoku na útoky pomocí **hesel**
+- Důležité informace o simulacích **útoku pomocí hesla Brute Force Password:**
 
-  - Pokud má cílový účet povolené MFA a heslo je správné, účet se nezobrazuje jako ohrožený (druhý ověřovací faktor nebude úplný).
+  - Pokud má cílový účet povolenou vícefaktorovou ověřování a heslo bylo správně uhodnuté, účet se nebude zobrazovat jako ohrožený (druhý faktor ověřování bude neúplný).
 
-  - Soubor s heslem nesmí být větší než 10 MB. Na každém řádku použijte jedno heslo a za poslední heslo v seznamu zahrňte prázdný řádek.
+  - Soubor hesla nemůže být větší než 10 MB. Použijte jedno heslo na řádek a za poslední heslo v seznamu zahrňte prázdný řádek (návrat k řádku).
 
-- Důležité informace o Spear připojení **útoků phishing** :
+- Důležité informace o útoku **Spear Phishing** připojte k simulacím:
 
-  - Nemůžete poskytnout vlastní hodnotu **adresy URL přihlašovacího serveru phishing** .
+  - Z návrhu nemůžete zadat vlastní hodnotu adresy **URL přihlašovacího serveru phishing.**
 
-  - Pokud příjemce používá k nahlášení zprávy jako podvodnou [zprávu,](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) může se stát, že pro zprávu nebudete dostávat upozornění (protože jde o simulovaný útok).
+  - Pokud příjemce používá [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) doplněk Povolit zprávu sestavy k nahlásit zprávu jako útok phishing, nemusí se pro zprávu zobrazit upozornění (protože se jedná o simulovaný útok).
 
-- Sestavy: po dokončení simulovaného útoku můžete sestavu zobrazit kliknutím na **Podrobnosti o útoku** .
+- Sestavy: Po dokončení simulovaného útoku můžete kliknout na **Podrobnosti** útoku a zobrazit tak sestavu.
 
-- Podrobné pokyny a nové funkce v simulátoru útoku najdete v tématu [simulátor útoků na útoky v Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Podrobné pokyny a nové funkce v attack simulatoru najdete v článku [Útočný trenažér v Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
