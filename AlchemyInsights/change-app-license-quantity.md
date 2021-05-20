@@ -1,5 +1,5 @@
 ---
-title: Změna počtu licencí aplikace
+title: Změna množství licencí aplikace
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232252"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543138"
 ---
-# <a name="change-app-license-quantity"></a>Změna počtu licencí aplikace
+# <a name="change-app-license-quantity"></a>Změna množství licencí aplikace
 
-V Centru pro správu Microsoftu 365 můžete zobrazit nebo změnit počet licencí, které máte, a přiřadit je uživatelům.
+Můžete zobrazit nebo změnit počet licencí, které máte, a přiřadit je uživatelům v centru Microsoft 365 správy.
 
-## <a name="to-change-license-quantity"></a>Změna počtu licencí
+## <a name="to-change-license-quantity"></a>Změna množství licencí
 
-**PODÍVEJTE se na video,** které ukazuje, jak to udělat: Nákup [nových licencí](https://go.microsoft.com/fwlink/p/?linkid=2154857) nebo [odebrání stávajících licencí](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**PODÍVEJTE SE NA video,** které ukazuje, jak to udělat: [Kupte si nové licence](https://go.microsoft.com/fwlink/p/?linkid=2154857) nebo [odeberte stávající licence.](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Přejděte na **stránku Fakturace**  >  **[vašich](https://go.microsoft.com/fwlink/p/?linkid=842054)** produktů.
-2. Na kartě **Produkty** v **části** Aplikace najděte aplikaci, kterou chcete spravovat. Vyberte **Další akce** (tři tečky) a pak vyberte Koupit **licence.**
-3. Pokud chcete snížit počet licencí, vyberte v horní  části podokna Koupit licence **možnost odebrat licence.**
-4. Pokud chcete koupit nebo  odebrat licence,  zadejte v části Nové množství v poli Celkový počet licencí celkový počet licencí, které chcete pro toto předplatné použít. Pokud máte například 100 licencí a chcete přidat pět dalších, zadejte 105. Pokud chcete jich pět odebrat, zadejte 95.
+1. Přejděte na stránku **Fakturace**  >  **[produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na kartě **Produkty** v části **Aplikace** najděte aplikaci, kterou chcete spravovat. Vyberte tři tečky (další akce) a pak vyberte **Koupit licence**.
+3. Pokud chcete snížit počet licencí, vyberte v horní  části podokna Koupit **licence možnost Odebrat licence**.
+4. Pokud chcete koupit nebo  odebrat licence,  zadejte v části Nové množství do pole Celkový počet licencí celkový počet licencí, které chcete pro toto předplatné použít. Pokud máte třeba 100 licencí a chcete přidat dalších pět, zadejte 105. Pokud chcete odebrat pět z nich, zadejte 95.
 5. Vyberte **Uložit**.
 
 ## <a name="to-assign-app-licenses"></a>Přiřazení licencí aplikací
 
-1. Přejděte na **stránku Fakturace**  >  **[vašich](https://go.microsoft.com/fwlink/p/?linkid=842054)** produktů.
-2. Na kartě **Produkty** v **části** Aplikace najděte aplikaci, kterou chcete spravovat.
-3. V **části & nastavení vyberte** odkaz, který chcete spravovat na portálu **vydavatele.**
+1. Přejděte na stránku **Fakturace**  >  **[produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na kartě **Produkty** v části **Aplikace** najděte aplikaci, kterou chcete spravovat.
+3. V **Nastavení & akcí** vyberte odkaz na Spravovat na portálu **vydavatele.**

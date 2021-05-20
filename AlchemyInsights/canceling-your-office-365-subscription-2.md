@@ -1,5 +1,5 @@
 ---
-title: Rušíte předplatné Microsoftu 365?
+title: Zrušení předplatného Microsoft 365 předplatného?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232000"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543210"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Rušíte předplatné Microsoftu 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Zrušení předplatného Microsoft 365 předplatného?
 
-Je nám líto, že jdete.
+Je nám líto, že jste na tom!
   
-Na základě dat vaší organizace se domníváme, že všechna vaše aktuální předplatná mají více než 25 přiřazených licencí. Než budete moci předplatné zrušit:
+Na základě dat vaší organizace se domníváme, že všechna vaše aktuální předplatná mají více než 25 přiřazených licencí. Než budete moci zrušit:
 
-1. Odstraňte licence uživatelům, dokud nemáte méně než 25 licencovaných uživatelů.
-2. Přejděte na **stránku Fakturace** \> **[vašich](https://go.microsoft.com/fwlink/p/?linkid=842054)** produktů.
-3. Na kartě **Produkty** najděte předplatné, které chcete zrušit, vyberte Další **akce** (tři tečky) a pak vyberte Zrušit **předplatné.**
+1. Odeberte licence uživatelům, dokud nemáte méně než 25 licencovaných uživatelů.
+2. Přejděte na stránku **Fakturace** \> **[produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. Na kartě **Produkty** najděte předplatné, které chcete zrušit, vyberte tři tečky (další akce) a pak vyberte **Zrušit předplatné.**
 
-**Refundace:** Jakékoliv ohodnocené kredity vám budou vráceny v příštím fakturačním cyklu.
+**Refundace:** Jakýkoli procedurovaný kredit vám bude vrácen během dalšího fakturačního cyklu.
 
-Další informace najdete v tématu [Zrušení předplatného.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Další informace najdete v tématu [Zrušení předplatného](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

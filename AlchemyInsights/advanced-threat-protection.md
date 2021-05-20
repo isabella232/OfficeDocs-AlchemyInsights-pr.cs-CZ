@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801220"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542886"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pro Office 365
 
-- Bezpečné přílohy, bezpečné odkazy a ochrana proti podvodným zprávám jsou součástí Microsoft Defenderu pro Office 365 (ATP). Analytické organizace zahrnují ATP – E5, vzdělávací a5 a Microsoft 365 Business Premium. Všechny ostatní plány vyžadují předplatné ATP.
+- Bezpečné přílohy, bezpečné odkazy a anti-phishing jsou součástí programu Microsoft Defender pro Office 365. Enterprise E5, Education A5 a Microsoft 365 Business Premium zahrnují Microsoft Defender pro Office 365. Všechny ostatní plány vyžadují doplněk Microsoft Defender pro Office 365 předplatné.
 
-- Abyste chránili vaše uživatele pomocí Office 365 ATP, musíte přiřadit příslušné licence. V [tomto tématu](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) najdete pokyny, jak hromadně použít licence pro uživatele.
+- Abyste chránili uživatele v programu Microsoft Defender, musíte přiřazovat příslušné licence pro Office 365. Pokyny [k hromadné](/microsoft-365/admin/add-users/add-users) použití licencí uživatelům najdete v článku Přidání uživatelů a přiřazení licencí současně.
 
-- Globální správci nebo správci zabezpečení mohou získat přístup k funkcím ATP Office 365 v centru zabezpečení & Security na zásadách **Managmeent hrozeb** \> **Policy** .
+- Globální správci nebo správci zabezpečení můžou přistupovat k programu Microsoft Defender Office 365 funkcím v Centru & dodržování předpisů na **webu Zásady společnosti Threat Managmeent** \> .
 
-- Bezpečným přílohám a zásadám bezpečných odkazů můžete zaoborovat celou organizaci, určité domény nebo menší skupiny uživatelů.
+- Zásady Bezpečných příloh a bezpečných odkazů mohou být vymezené pro celou organizaci, konkrétní domény nebo menší skupiny uživatelů.
 
-- Žádné výchozí zásady pro bezpečné přílohy ATP. Potřebujete [vytvořit zásadu](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) a použít ji pro uživatele.
+- Neexistuje žádná výchozí zásada bezpečné přílohy. Musíte vytvořit [zásadu a](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) použít ji pro uživatele.
 
-- Pro všechny uživatele ve vaší organizaci je k dispozici výchozí zásada pro bezpečné propojení ATP. Pokud chcete upravit tuto zásadu nebo vytvořit vlastní zásady, přečtěte si [Toto téma](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Existují výchozí zásady bezpečných odkazů, které platí pro všechny lidi ve vaší organizaci. Pokud chcete tuto zásadu upravit nebo vytvořit vlastní zásady, podívejte se na článek Nastavení zásad bezpečných odkazů v [programu Microsoft Defender pro Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

@@ -1,5 +1,5 @@
 ---
-title: 9001220 pokročilé vlastní zjišťování pro lov
+title: 9001220 advanced hunting custom detections
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801508"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542994"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Pokročilé vlastní možnosti lovu
+# <a name="advanced-hunting-custom-detections"></a>Advanced Hunting Custom detections
 
-Naučte se vytvářet a spravovat vlastní pravidla zjišťování založená na rozšířených dotazech o lovu. Díky vlastním detekcím můžete monitorovat a reagovat na různé události a stavy systému, včetně podezřelé aktivity a chybně konfigurovaných zařízení. Můžete tak provést pomocí přizpůsobitelných pravidel rozpoznávání, která automaticky aktivují upozornění a akce odpovědí.
+Můžete se naučit vytvářet a spravovat vlastní pravidla zjišťování na základě pokročilých loveckých dotazů. Díky vlastním zjišťováním můžete aktivně sledovat různé události a stavy systému a reagovat na ně, včetně podezření na porušení předpisů a chybně nakonfigurovaných zařízení. Můžete to udělat s přizpůsobitelnými pravidly zjišťování, která automaticky aktivují upozornění a akce odpovědí.
   
-Pokud používáte analytické služby Microsoft Defenderu, přečtěte si následující témata s informacemi: 
-- [Přehled vlastních zjišťování](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Vytvoření vlastních pravidel zjišťování](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Zobrazení a Správa pravidel pro vlastní zjišťování](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+Pokud používáte Microsoft Defender ATP, podrobnosti najdete v následujících tématech: 
+- [Přehled vlastních zjišťování](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Vytvoření vlastních pravidel zjišťování](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Zobrazení a správa vlastních pravidel zjišťování](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Pokud používáte Microsoft 365 Defender, přečtěte si následující témata s informacemi: 
-- [Přehled vlastních zjišťování](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [Vytváření a Správa pravidel pro vlastní zjišťování](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+Pokud používáte Microsoft 365 Defender, podrobnosti najdete v následujících tématech: 
+- [Přehled vlastních zjišťování](/microsoft-365/security/mtp/custom-detections-overview)
+- [Vytváření a správa vlastních pravidel zjišťování](/microsoft-365/security/mtp/custom-detection-rules)

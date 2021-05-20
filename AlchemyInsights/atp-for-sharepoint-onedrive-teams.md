@@ -1,5 +1,5 @@
 ---
-title: ATP pro SharePoint, OneDrive a Microsoft Teams
+title: Microsoft Defender pro Office 365 pro SharePoint, OneDrive a Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715554"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543570"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP pro SharePoint, OneDrive a Microsoft Teams
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender pro Office 365 pro SharePoint, OneDrive a Microsoft Teams
 
-Pokud chcete zapnout rozšířenou ochranu před internetovými útoky, postupujte takto:
+Pokud chcete povolit Microsoft Defender pro Office 365:
 
-1. Přejděte na stránku [https://protection.office.com](https://protection.office.com) a přihlaste se pomocí globálního správce nebo účtu správce zabezpečení.
+1. Přejděte na účet globálního správce nebo správce [https://protection.office.com](https://protection.office.com) zabezpečení a přihlaste se.
 
-2. V levém navigačním podokně v části **Správa hrozeb**zvolte **Policy** \> **zabezpečené přílohy**zásad.
+2. V levém navigačním podokně v části **Správa hrozeb** zvolte **Bezpečné** \> **přílohy zásad**.
 
-3. Vyberte **zapnout ATP pro SharePoint, OneDrive a Microsoft Teams**.
+3. Vyberte **Zapnout Defender pro Office 365 pro SharePoint, OneDrive** a Microsoft Teams .
 
-4. [Vytvořte zásady upozornění na aktivitu](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) , abyste mohli dostávat oznámení o škodlivých souborech.
+4. [Vytvořte zásadu upozornění na aktivitu,](/microsoft-365/compliance/create-activity-alerts) která vám bude při zjišťování škodlivých souborů dostávat oznámení.
 
-Podrobné pokyny najdete v tomto [tématu](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Úplné pokyny najdete v tomto článku Zapnutí bezpečných příloh pro [SharePoint, OneDrive](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)a Microsoft Teams .
 
-**Poznámka**: v tomto designu nekontroluje ATP všechny jednotlivé soubory v SharePointu Online, OneDrivu pro firmy nebo Microsoft Teams. Soubory jsou prohledávány asynchronně procesem, který používá sdílení aktivity, aktivity hosta a signály hrozeb k identifikaci nebezpečných souborů. Další informace najdete v tomto [tématu](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Poznámka:** Microsoft Defender pro Office 365 neskenuje každý jednotlivý soubor v SharePoint Online, OneDrive pro firmy nebo Microsoft Teams. Soubory se asynchronně naskenují procesem, který k identifikaci škodlivých souborů používá aktivity sdílení, aktivity hosta a signály hrozeb. Další informace najdete v tématu [Bezpečné přílohy pro SharePoint, OneDrive](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)a Microsoft Teams .

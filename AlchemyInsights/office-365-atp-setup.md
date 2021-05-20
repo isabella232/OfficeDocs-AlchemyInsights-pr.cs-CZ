@@ -1,5 +1,5 @@
 ---
-title: Nastavení programu Microsoft Defender pro Office 365 (ATP)
+title: Microsoft Defender pro Office 365 nastavení
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708631"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543606"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender pro Office 365 (ATP)
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender pro Office 365
 
-Rozšířená ochrana před útoky Office 365 zahrnuje bezpečné [přílohy,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)bezpečné [odkazy,](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links)pokročilé funkce útoku [Anti-Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)a další. 
+Microsoft Defender pro Office 365 obsahuje [bezpečné přílohy,](/microsoft-365/security/office-365-security/atp-safe-attachments) [bezpečné odkazy,](/microsoft-365/security/office-365-security/atp-safe-links) [pokročilé anti-phishing](/microsoft-365/security/office-365-security/atp-anti-phishing)a další. 
 
-AtP je součástí předplatných, jako jsou třeba Office 365 Enterprise E5, Office 365 Education A5 a Microsoft 365 Business Premium. Pokud vaše předplatné nezahrnuje atP, můžete si zakoupit atP jako doplněk. Další informace najdete v popisu služby AtP pro [Office 365.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
+Program Microsoft Defender pro Office 365 je součástí předplatných, jako jsou Office 365 Enterprise E5, Office 365 Education A5 a Microsoft 365 Business Premium. Pokud vaše předplatné neobsahuje, můžete si ho potenciálně koupit jako doplněk. Další informace najdete v tématu [Microsoft Defender for Office 365 Service Description](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).)
 
-## <a name="set-up-office-365-atp"></a>Nastavení atp pro Office 365
+## <a name="set-up-microsoft-defender-for-office-365"></a>Nastavení programu Microsoft Defender pro Office 365
 
-Aby se ochrana atp měla použít, je nutné nakonfigurovat zásady. Podívejte [se na úvodní příručku: Nastavení programu Microsoft Defender pro Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
+Aby program Microsoft Defender Office 365 ochranu, musíte nakonfigurovat zásady. Podívejte [se na úvodní příručku: Nastavení programu Microsoft Defender pro Office 365](/microsoft-365/security/office-365-security/office-365-atp).
 

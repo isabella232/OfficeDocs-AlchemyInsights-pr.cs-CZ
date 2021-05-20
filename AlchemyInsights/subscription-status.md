@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3586"
-ms.openlocfilehash: edb5a78343a99196379aca052b51b0ef1f7249c5
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286951"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542778"
 ---
 # <a name="subscription-status"></a>Stav předplatného
 
-Stav předplatného, datum vypršení platnosti a počet licencí najdete na stránce **Products** centra pro správu Microsoft 365.
+Stav předplatného, datum vypršení platnosti a počet  licencí najdete na stránce Vaše produkty v Centru Microsoft 365 pro správu.
 
-1. V centru pro správu přejděte na stránku **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na kartě **Products** se ve výchozím nastavení zobrazují všechna předplatná a jejich stav (aktivní, neplatné, zakázané nebo odstraněné). Pokud chcete zobrazit podmnožinu všech předplatných, vyberte ikonu filtru a pak vyberte požadovaný **stav předplatného** .
-3. Pokud chcete znovu aktivovat předplatné, jehož platnost vypršela nebo je zakázáno, vyberte **Další akce** (tři tečky) a pak vyberte znovu **aktivovat toto předplatné**.
-4. Na stránce **Products** se taky zobrazují tyto informace:
-    - Ve sloupci **přiřazené licence** se zobrazí počet licencí přiřazených uživatelům.
-    - Celkový počet licencí zahrnutých v předplatném se zobrazí ve sloupci **koupené množství** .
-    - Datum vypršení platnosti nebo obnovení ve sloupci **stav předplatného**
-    - Způsob platby, který se používá k placení za jednotlivá předplatná, se zobrazí ve sloupci **placeno** .
-    - Fakturační účet spojený s každým předplatným se zobrazuje ve sloupci **fakturační účet** .
-5. Pokud chcete přidat nebo odebrat sloupce, vyberte **Vybrat sloupce**.
+1. V Centru pro správu přejděte na stránku **Fakturace**  >  [vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
+2. Na kartě **Produkty** se ve výchozím nastavení zobrazí všechna předplatná a jejich stav (Aktivní, Vypršela platnost, Zakázáno nebo Odstraněno). Pokud chcete zobrazit podmnožinu všech předplatných, vyberte ikonu filtru a vyberte stav **předplatného,** který chcete zobrazit.
+3. Pokud chcete předplatné s ukončenou platností nebo zakázané předplatné znovu aktivovat, vyberte tři tečky (další akce) a pak vyberte **Znovu aktivovat toto předplatné.**
+4. Na **stránce Vaše produkty** se také zobrazí následující informace:
+    - Počet licencí přiřazených uživatelům se zobrazí ve **sloupci Přiřazené** licence.
+    - Celkový počet licencí zahrnutých do předplatného se zobrazí ve **sloupci Zakoupené** množství.
+    - Datum vypršení platnosti nebo prodloužení platnosti ve **sloupci Stav předplatného**
+    - Způsob platby použitý k platbě za každé předplatné se zobrazí ve **sloupci Placené** pomocí.
+    - Fakturační účet přidružený ke každému předplatnému se zobrazí ve **sloupci Fakturační** účet.
+5. Pokud chcete přidat nebo odebrat sloupce, vyberte **Zvolit sloupce**.
