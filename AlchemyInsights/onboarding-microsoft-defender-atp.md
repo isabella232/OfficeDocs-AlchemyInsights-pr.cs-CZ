@@ -1,5 +1,5 @@
 ---
-title: ATP Microsoft Defenderu
+title: Onboarding Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673418"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545297"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a><span data-ttu-id="9d30a-102">ATP Microsoft Defenderu</span><span class="sxs-lookup"><span data-stu-id="9d30a-102">Onboarding Microsoft Defender ATP</span></span>
+# <a name="onboarding-microsoft-defender-atp"></a><span data-ttu-id="0985e-102">Onboarding Microsoft Defender ATP</span><span class="sxs-lookup"><span data-stu-id="0985e-102">Onboarding Microsoft Defender ATP</span></span>
 
-<span data-ttu-id="9d30a-103">Informace o zdrojích k integrovanému programu Microsoft Defender pro počítače s Windows 10, Windows Server a Mac a Linux najdete v těchto článcích:</span><span class="sxs-lookup"><span data-stu-id="9d30a-103">For resources to onboard Microsoft Defender ATP for Windows 10, Windows servers, and Mac and Linux machines, see:</span></span> 
+<span data-ttu-id="0985e-103">Informace o zdrojích pro Microsoft Defender ATP pro Windows 10, Windows a počítače s Macem a Linuxem najdete v tématu:</span><span class="sxs-lookup"><span data-stu-id="0985e-103">For resources to onboard Microsoft Defender ATP for Windows 10, Windows servers, and Mac and Linux machines, see:</span></span> 
 
-- <span data-ttu-id="9d30a-104">**Počítače s Windows 10** V závislosti na požadavcích vaší firmy můžete vybírat z možností pro počítač s Windows 10.</span><span class="sxs-lookup"><span data-stu-id="9d30a-104">**Windows 10 machines** Depending on your business requirements, you can choose from options to onboard a machine running Windows 10.</span></span> <span data-ttu-id="9d30a-105">Další informace najdete v článku [nástroje a metody pro zařízení s Windows 10](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints).</span><span class="sxs-lookup"><span data-stu-id="9d30a-105">For more info, see [Onboarding tools and methods for Windows 10 devices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints).</span></span> 
+- <span data-ttu-id="0985e-104">**Windows 10 počítače** V závislosti na obchodních požadavcích si můžete vybrat z možností pro připojení počítače s Windows 10.</span><span class="sxs-lookup"><span data-stu-id="0985e-104">**Windows 10 machines** Depending on your business requirements, you can choose from options to onboard a machine running Windows 10.</span></span> <span data-ttu-id="0985e-105">Další informace najdete v tématu [Onboarding tools and methods for Windows 10 devices](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints).</span><span class="sxs-lookup"><span data-stu-id="0985e-105">For more info, see [Onboarding tools and methods for Windows 10 devices](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints).</span></span> 
 
-- <span data-ttu-id="9d30a-106">**Servery Windows** Pokud chcete, aby se ATP Microsoft Defender pro vaši verzi systému Windows Serverly, přečtěte si téma [servery služby ATP](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span><span class="sxs-lookup"><span data-stu-id="9d30a-106">**Windows servers** To onboard Microsoft Defender ATP for your version of Windows Server, see [Onboard servers to the Microsoft Defender ATP service](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span></span>
+- <span data-ttu-id="0985e-106">**Windows servery** Pokud chcete Microsoft Defender ATP pro vaši verzi Windows Serveru, podívejte se na informace v tématu [Onboard servers to the Microsoft Defender ATP service](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span><span class="sxs-lookup"><span data-stu-id="0985e-106">**Windows servers** To onboard Microsoft Defender ATP for your version of Windows Server, see [Onboard servers to the Microsoft Defender ATP service](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).</span></span>
 
-- <span data-ttu-id="9d30a-107">**Koncové body systému Windows**  Než začnete s Windows, musíte splňovat požadavky na systém pro [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) nebo [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).</span><span class="sxs-lookup"><span data-stu-id="9d30a-107">**Non-Windows endpoints**  Before you onboard a non-Windows system, you must meet the system requirements for [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) or [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).</span></span>
+- <span data-ttu-id="0985e-107">**Ne Windows koncové body**  Než se nasaříte do Windows systému, musíte splňovat požadavky na [systém pro Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) nebo [Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).</span><span class="sxs-lookup"><span data-stu-id="0985e-107">**Non-Windows endpoints**  Before you onboard a non-Windows system, you must meet the system requirements for [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) or [Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).</span></span>
 
-    <span data-ttu-id="9d30a-108">Po potvrzení požadavků na systém se podívejte na [zařízení, která nejsou v systému Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).</span><span class="sxs-lookup"><span data-stu-id="9d30a-108">After you confirm your system requirements, see [Onboard non-Windows devices](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).</span></span>
+    <span data-ttu-id="0985e-108">Po potvrzení požadavků na systém se podívejte na informace v článku o tom, jak Windows [zařízení.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)</span><span class="sxs-lookup"><span data-stu-id="0985e-108">After you confirm your system requirements, see [Onboard non-Windows devices](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).</span></span>
