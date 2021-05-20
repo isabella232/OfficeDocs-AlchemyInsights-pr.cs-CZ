@@ -1,5 +1,5 @@
 ---
-title: Další informace o atp
+title: Další informace o programu Microsoft Defender pro Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403556"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539781"
 ---
-# <a name="learn-about-atp"></a>Další informace o atp
+# <a name="learn-about-microsoft-defender-for-office-365"></a>Další informace o programu Microsoft Defender pro Office 365
 
-Tady jsou některé informace o rozšířené ochraně před hrozbou (ATP) Pro Office 365:
+Tady jsou některé informace o programu Microsoft Defender pro Office 365:
 
-**Co je atp?**
+**Co je Microsoft Defender pro Office 365?**
 
-ATP je cloudová služba filtrování e-mailů, která pomáhá chránit organizace před neznámým malwarem a viry tím, že poskytuje robustní ochranu po nulu. Obsahuje funkce, které chrání organizace před škodlivými odkazy v reálném čase.
+Microsoft Defender pro Office 365 je cloudová služba filtrování e-mailů, která pomáhá chránit organizace před neznámým malwarem a viry tím, že poskytuje robustní ochranu po nulách. Obsahuje funkce, které chrání organizace před škodlivými odkazy v reálném čase.
 
-**Jak aktivuji atp?**
+**Jak můžu aktivovat Microsoft Defender pro Office 365?**
 
-Součástí funkce ATP jsou bezpečné přílohy, bezpečné odkazy a anti-phishing. Enterprise E5, Education A5 a Microsoft 365 Business obsahují integrované funkce ATP. Všechny ostatní plány vyžadují předplatné atp doplňku. Musíte přiřadit příslušné licence uživatelům, aby je chránila sada Office 365 ATP. Abyste k této funkci měli přístup, musíte mít oprávnění globálního správce nebo správce zabezpečení. Další informace o hromadném použití licencí koncovým uživatelům najdete v tématu Přiřazení licencí uživatelům [v Office 365 pro firmy](https://go.microsoft.com/fwlink/?linkid=2093435).
+Součástí funkce Microsoft Defender for Office 365 jsou bezpečné přílohy, bezpečné odkazy a anti-phishing. Enterprise E5, Education A5 a Microsoft 365 Business obsahují integrované funkce Microsoft Defenderu pro Office 365. Všechny ostatní plány vyžadují doplněk Microsoft Defender pro Office 365 předplatné. Pokud chcete být chráněni v programu Microsoft Defender pro Office 365, musíte uživatelům přiřadit příslušné licence. Abyste k této funkci měli přístup, musíte mít oprávnění globálního správce nebo správce zabezpečení. Další informace o hromadném použití licencí koncovým uživatelům najdete v tématu Přiřazení licencí uživatelům v [Office 365 pro firmy](https://go.microsoft.com/fwlink/?linkid=2093435).
 
-**Jak můžu spravovat atp nebo se o tom dozvědět víc?**
+**Jak můžu spravovat Microsoft Defender pro Office 365 nebo se o tom dozvědět víc?**
 
 a. Přejděte na [Nastavení](https://go.microsoft.com/fwlink/p/?linkid=2075721).
 b. V **části Přihlášení a zabezpečení** najděte Položku Zvýšit ochranu před **pokročilými** hrozbami a pak vyberte [Zobrazení](https://go.microsoft.com/fwlink/?linkid=2109302).
