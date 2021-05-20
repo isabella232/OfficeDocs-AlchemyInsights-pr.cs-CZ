@@ -12,17 +12,19 @@ ms.custom:
 - "37"
 - "1000003"
 ms.assetid: 6817c10c-e7c4-49b5-b272-c09a869567ed
-ms.openlocfilehash: 6059ca011f3b9dd1d4045a0e90d391cae495bc72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2e2a8fbbc979d0079321e68e808eda7c37694995
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798945"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544643"
 ---
 # <a name="set-up-spf"></a>Nastavení SPF
 
-Aktualizujte záznamy DNS, abyste mohli pomocí vlastní domény ověřit odchozí e-maily odeslané z vlastní domény. Zabráníte tím ostatním v e-mailové poště, jako kdyby byly odeslané z vaší domény.
+Aktualizujte záznamy DNS, abyste mohli pomocí SPF (Sender Policy Framework) s vlastní doménou ověřit odchozí e-maily odeslané z vaší vlastní domény. Tím zabráníte ostatním v falšování pošty, jako by byla odeslána z vaší domény.
   
-- [Nastavení SPF pro zabránění falšování obsahu](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Nastavení SPF, aby se zabránilo falšování falšování](/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)
 
-- [Pomoc s nastavením všech záznamů DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
+- [Řešení potíží se záznamy SPF](/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing#SPFTroubleshoot)
+
+- [Nápověda k nastavení všech záznamů DNS](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

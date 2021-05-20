@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 49f690a08ed39e5132f9e23b514d3e353b126840
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 486ac58b9b5b88b11fe45b7ace5b084190cfcee2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744831"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543714"
 ---
 # <a name="increase-protection-from-advanced-threats"></a>Zvýšení ochrany před pokročilými hrozbami
 
 Nastavení nebo správa programu Microsoft Defender pro Office 365:
 
-1. Funkce Microsoft Defenderu pro Office 365 jsou dostupné v aplikacích Enterprise E5, Education A5 a Microsoft 365 Business. Všechny ostatní plány vyžadují předplatné atp doplňku. Abyste měli *přístup k Defenderu* pro Office 365, musíte mít oprávnění globálního správce nebo správce zabezpečení. 
+1. Microsoft Defender pro Office 365 funkce jsou dostupné v Enterprise E5, Education A5 a Microsoft 365 Business. Všechny ostatní plány vyžadují doplněk Microsoft Defender pro Office 365 předplatné. Abyste měli přístup  *k programu* Microsoft Defender pro Office 365, musíte mít oprávnění globálního správce nebo správce Office 365.
 2. V Centru pro správu vyberte [Nastavení](https://go.microsoft.com/fwlink/p/?linkid=2075721).
 3. Přejděte na **Přihlášení a zabezpečení** Zvýšení ochrany před  >  **pokročilými** hrozbami a pak vyberte [Zobrazení](https://go.microsoft.com/fwlink/?linkid=2109302).
 4. Vyberte **Spravovat** a pak zvolte jeden z dostupných typů zásad, u kterých chcete provést změny.

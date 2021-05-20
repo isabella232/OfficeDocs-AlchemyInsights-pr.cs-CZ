@@ -1,5 +1,5 @@
 ---
-title: Zpráva o tom, že v Centru zabezpečení nebyla nalezena žádná předplatná
+title: V Centru zabezpečení nebyla nalezena žádná zpráva o předplatných.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713412"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544101"
 ---
-# <a name="no-subscriptions-found-message-in-the-security-center"></a>Zpráva o tom, že v Centru zabezpečení nebyla nalezena žádná předplatná
+# <a name="no-subscriptions-found-message-in-the-security-center"></a>V Centru zabezpečení nebyla nalezena žádná zpráva o předplatných.
 
-Pokud se při přístupu k Centru zabezpečení v programu Microsoft Defender zobrazí zpráva "Nenašla se žádná předplatná", znamená to, že služba Azure Active Directory (AAD) použitá k přihlášení uživatele k portálu nemá licenci Microsoft Defenderu atp.  
+Pokud se při Centrum zabezpečení v programu Microsoft Defender zobrazí zpráva o tom, že se nenašla žádná předplatná, znamená to, že Azure Active Directory (AAD), který se používá k přihlášení uživatele k portálu, nemá Microsoft Defender ATP licenci.  
 
-Licence na Windows E5 a Office E5 jsou samostatné licence.
+Licence Windows E5 a Office E5 jsou samostatné licence.
 
-Otevřete případ podpory, pokud byla licence zakoupena, ale nebyla zřízena pro tuto instanci služby AAD. Máte buď: <br/>
--   Možný problém s zřizováním licencí.<br/>
--   Neúmyslně jste zřizaci licence jinému účtu Microsoft AAD, než se používá k ověřování ve službě.
+Otevřete případ podpory, pokud byla licence zakoupena, ale nebyla zřízena pro tuto instanci služby AAD. Buď máte: <br/>
+-   Možný problém se zřizováním licencí.<br/>
+-   Neúmyslně jste zřásekli licenci na jinou službu Microsoft AAD, než která se používá k ověřování ve službě.

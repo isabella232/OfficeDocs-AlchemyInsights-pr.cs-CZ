@@ -1,5 +1,5 @@
 ---
-title: Řešení potíží s programem Microsoft Defender pro Office 365
+title: Řešení potíží s aplikací Microsoft Defender pro Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801436"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545261"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Řešení potíží s programem Microsoft Defender pro Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Řešení potíží s aplikací Microsoft Defender pro Office 365
 
-- Zaznamenáte zpoždění doručení zpráv? Použijte možnost [dynamického doručování](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) v zásadě bezpečné přílohy atp. Tím se zabrání zpoždění zpráv při ochraně příjemců před škodlivými soubory.
+- **Všimli jste si zpoždění při doručování zpráv?** Pomocí možnosti [Dynamické doručování](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) v programu Microsoft Defender můžete použít Office 365 přílohy. To pomůže zabránit zpoždění zpráv při ochraně příjemců před škodlivými soubory.
 
-- Chcete Microsoftu ohlásit nepravdivé kladné nebo falešně záporné hodnoty? Pomocí tohoto [odkazu](https://www.microsoft.com/wdsi/filesubmission/) můžete odesílat soubory k analýze.
+- **Chcete Microsoftu nahlásit falešná kladná nebo falešná negativa?** Použijte [Průzkumníka odeslání.](https://protection.office.com/reportsubmission)
 
-- Věděli jste, že můžete povolit ochranu bezpečných odkazů pro interní e-maily poslané mezi příjemci v organizaci? Postupujte takto:
+-** Věděli jste, že můžete povolit ochranu bezpečných odkazů pro interní e-maily odeslané mezi příjemci ve vaší organizaci?** Postupujte takto:
 
-  1. Přejděte na stránku [https://protection.office.com](https://protection.office.com) a přihlaste se pomocí globálního správce nebo účtu správce zabezpečení.
+  1. Přejděte na účet globálního správce nebo správce [https://protection.office.com](https://protection.office.com) zabezpečení a přihlaste se.
 
-  2. V levém navigačním podokně v části **Správa hrozeb** zvolte **Policy** \> **bezpečné odkazy** zásad.
+  2. V levém navigačním podokně v části **Správa hrozeb** zvolte **Bezpečné** \> **odkazy zásad**.
 
-  3. V **zásadách, které platí pro celou organizaci** , vyberte zásadu a klikněte na **Upravit** .
+  3. V části **Zásady, které platí pro celou** organizaci, vyberte zásadu a klikněte na **Upravit.**
 
-  4. V části **Nastavení** povolte **použití bezpečných odkazů na zprávy poslané v rámci organizace** .
+  4. V **Nastavení** povolte **Použít bezpečné odkazy na zprávy odeslané v organizaci**.

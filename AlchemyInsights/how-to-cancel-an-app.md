@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: f974c84ea6231a012e8212f4e115b235cbf1e4ac
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 2006de9e9789dd080a45fa4962109690eb41d923
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488838"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544607"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>Jak zrušit softwarové aplikace pro služby
+# <a name="how-to-cancel-software-as-a-service-apps"></a>Jak zrušit aplikace jako služba softwaru
 
-1. V centru pro správu na stránku **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na stránce **Products** přejděte dolů na oddíl Apps ( **aplikace** ) a najděte předplatné, které chcete zrušit. 
-3. Vyberte **Další akce** (tři tečky) a pak vyberte **zrušit předplatné**.
-4. V podokně **zrušit předplatné** zvolte důvod, proč se rušíte. Volitelně můžete sdělit svůj názor.
+1. V Centru pro správu na stránku **Fakturace**  >  [vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
+2. Na stránce **Produkty** přejděte dolů do části **Aplikace** a najděte předplatné, které chcete zrušit. 
+3. Vyberte tři tečky (další akce) a pak vyberte **Zrušit předplatné.**
+4. V podokně **Zrušit předplatné** zvolte důvod, proč rušíte. Volitelně můžete poskytnout jakoukoli zpětnou vazbu.
 5. Vyberte **Uložit**.
