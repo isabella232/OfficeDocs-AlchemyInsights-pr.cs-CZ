@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733842"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696915"
 ---
 # <a name="11-call-recording"></a>Nahrávání hovorů 1:1
 
-Správci teď musí provést akci, aby uživatelé mohli nahrávat hovory 1:1.
- 
-Od 12. dubna 2021 začneme vynucovat novou možnost Zásad volání do Teams *AllowCloudRecordingForCalls*. 
+Pokud je **tlačítko Spustit záznam** v hovoru 1:1 šedé, musíte změnit nastavení zásad pro ovlivněné uživatele.   
 
-V současné době jsou možnosti nahrávání hovorů 1:1 řízeny možností *AllowCloudRecording* v zásadách schůzek v Teams. Pokud mají vaši uživatelé povoleno zaznamenávat schůzky v Teams, 1:1 hovory 1:1.
+Od 31. května 2021 začneme vynucovat novou Teams hovory *AllowCloudRecordingForCalls*. Před touto změnou je záznam hovoru 1:1 řízený zásadou *AllowCloudRecording* Teams schůzek. Tato změna je zdokumentována v příspěvku Centra zpráv: [(aktualizováno) 1:1 Úvod](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)zásad nahrávání hovorů .  
 
-Pokud chcete všem uživatelům blokovat nahrávání hovorů 1:1, není nutné nic dělat. *Možnost zásady volání AllowCloudRecordingForCalls* se $False ve výchozím nastavení.
+*AllowCloudRecordingForCalls*   Možnost zásady volání je ve **$False** nastavená. Pokud chcete všem uživatelům blokovat nahrávání hovorů 1:1, nemusíte nic udělat.  
 
-Tato změna je zdokumentovaná v následujícím příspěvku Centra zpráv: [(aktualizováno) 1:1](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) Úvod k zásadám nahrávání hovorů Pokud chcete nastavit možnost zásad volání teams, musíte [použít Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+Pokud chcete povolit nahrávání hovorů pro všechny uživatele v hovoru 1:1, Teams PowerShellu spustit následující rutinu: 
 
-**Povolení nahrávání hovorů v 1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True
+**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
-**Zakázání nahrávání hovorů v hovorech 1:1:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False
+Můžete také vytvořit novou zásadu a nastavit **možnost -AllowCloudRecordingForCalls** tak, aby $true a přiřazovat je uživatelům.  
 
+Další informace najdete v článku 1:1 Ovládací prvky zásad nahrávání hovorů [jsou (téměř!) Tady](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).
