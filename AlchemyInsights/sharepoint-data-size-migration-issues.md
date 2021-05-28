@@ -1,5 +1,5 @@
 ---
-title: Problémy při migraci dat do SharePointu Online
+title: Problémy při migraci dat do SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700880"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694769"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problémy při migraci dat do SharePointu Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Problémy při migraci dat do SharePoint Online
 
-**Migrace přes 100TB dat**
+**Migrace více než 100TB dat**
 
-Zdá se, že migrujete přes 100TB dat do SharePointu Online. Postupujte podle následujících kroků, abychom vám mohli co nejdříve pomoct. 
+Zdá se, že migrujete více než 100TB dat do SharePoint Online. Postupujte prosím podle následujících pokynů, abychom vám mohli co nejdříve pomoct. 
 
-1. Vyberte **Nová žádost o službu**a pak **novou žádost o službu**. 
-2. Ponechte název a popis jako **sharepointová migrace přes 100TB**.
-3. Po odeslání lístku ho aktualizujte s následujícími informacemi: 
+1. Vyberte **Kontaktovat podporu** a pak Nová žádost o **službu**. 
+2. Název a popis nechte jako **SharePoint 100TB.**
+3. Po tom, co byla vstupenka odeslána, aktualizujte ji prosím následujícími informacemi: 
 
-    - Odhadovaná velikost migrace.
-    - Odhad, kdy chcete zahájit a dokončit migraci.
-    - Popište, kam chcete obsah migrovat, třeba SharePoint serveru, pole, GDrive, sdílené soubory atd.
+    - Odhadovaná velikost migrace
+    - Odhad, kdy chcete migraci spustit a dokončit.
+    - Popište, odkud migrujete obsah, jako je SharePoint Server, Box, GDrive, Sdílené složky atd.
