@@ -1,5 +1,5 @@
 ---
-title: Aktivace aplikací Microsoft 365
+title: Aktivace Microsoft 365 aplikací
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823024"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798601"
 ---
-# <a name="activating-microsoft-365-apps"></a>Aktivace aplikací Microsoft 365
+# <a name="activating-microsoft-365-apps"></a>Aktivace Microsoft 365 aplikací
+
+**Poznámka:** Pokud používáte starší verzi Windows (například Windows 7), ujistěte se, že je jako výchozí povolená tls 1.2. Další informace najdete v článku Aktualizace a povolení [tls 1.1 a TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)jako výchozích zabezpečených protokolů ve WinHTTP v Windows .
 
 Informace o aktivaci Office získáte tady:
 
@@ -27,7 +29,7 @@ Informace o aktivaci Office získáte tady:
 
 - [Aktivace Office na Macu](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Poznámka:**  Ujistěte se, že máte předplatné Office 365 nebo Microsoft 365, které zahrnuje klientské aplikace [Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), například Microsoft 365 Business Standard, Aplikace Microsoft 365 pro firmy nebo Aplikace Microsoft 365 pro podniky. Navíc se ujistěte, že uživatelský účet, který používáte k přihlášení k aplikacím Office, [má přiřazenou licenci.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**Poznámka:**  Ujistěte se, že máte předplatné Office 365 nebo Microsoft 365, které zahrnuje klientské aplikace [Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), například Microsoft 365 Business Standard, Microsoft 365 Apps pro firmy nebo Microsoft 365 Apps pro velké organizace. Navíc se ujistěte, že uživatelský účet, který používáte k přihlášení k Office aplikacím, [má přiřazenou licenci.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Informace o postupu řešení problémů s aktivací Office získáte tady:
 
@@ -36,9 +38,9 @@ Informace o postupu řešení problémů s aktivací Office získáte tady:
 
 - [Co zkusit, když se vám nedaří instalace nebo aktivace Office pro Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Tip** Na počítačích s Windows můžeme diagnostikovat a automaticky vyřešit několik běžných problémů s přihlášením k Office. Stáhněte a spusťte  **[Pomocníka pro podporu](https://aka.ms/SaRA-OfficeSignInScenario)** a obnovení microsoftu a použijte náš automatizovaný nástroj.
+**Tip** Na Windows počítačích můžeme diagnostikovat a automaticky opravit několik běžných problémů Office přihlášení. Stáhněte si a spusťte **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** a použijte náš automatizovaný nástroj.
 
-Pokud se nemůžete přihlásit k aplikacím Microsoft 365, postupujte takto:
+Pokud se nemůžete přihlásit k Microsoft 365 aplikacím, postupujte takto:
 
 1. Otevřete aplikaci Office a [odhlaste se](https://go.microsoft.com/fwlink/?linkid=2114082) od všech existujících uživatelských účtů.
 
@@ -46,6 +48,6 @@ Pokud se nemůžete přihlásit k aplikacím Microsoft 365, postupujte takto:
 
 3. Ve Windows přejděte na možnosti **Nastavení > Účty > Přístup do práce nebo do školy** a odpojte neplatné nebo nepoužívané pracovní účty.
 
-4. [Resetujte stav aktivace Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) a pak [se k aplikacím Office přihlaste](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) novým účtem.
+4. [Resetujte stav aktivace Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) a pak [se k aplikacím Office přihlaste](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) novým účtem.
 
 Informace o dalších akcích umožňujících řešení problémů najdete v tématu [Při otevření aplikace Office 365 se mi zobrazuje oznámení ohledně předplatného](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
