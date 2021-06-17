@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677102"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989654"
 ---
 # <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Použití Microsoft Intune ke správě webového přístupu v Microsoft Edge pro iOS a Android
 
-Microsoft Edge pro iOS a Android umožňuje uživatelům procházet web z více úplně oddělených profilů.
+Microsoft Edge pro iOS a Android umožňuje uživateli procházet web z několika úplně samostatných profilů.
 
-Možnosti široké ochrany dat pro Microsoft 365 jsou dostupné, když se přihlásíte k odběru Enterprise mobility a bezpečnostní sady, která zahrnuje funkce Microsoft Intune a Azure Active Directory Premium, jako je třeba podmíněný přístup. Je třeba nasadit zásadu podmíněného přístupu, která (1) umožňuje uživatelům připojení z mobilních zařízení do Microsoft Edge pro iOS a Android a že (2) implementuje zásady ochrany aplikací Microsoft Intune, které poskytují chráněné možnosti procházení.
+Nejširší možnosti ochrany dat Microsoft 365 k dispozici, když se přihlásíte k odběru sady Enterprise Mobility + Security, která zahrnuje funkce Microsoft Intune a Azure Active Directory Premium, jako je podmíněný přístup. Minimálně budete chtít nasadit zásady podmíněného přístupu, které (1) umožňují uživatelům připojovat se z mobilních zařízení k Microsoft Edge pro iOS a Android a že (2) implementuje zásadu ochrany aplikací Microsoft Intune, která poskytuje chráněné prostředí procházení.
 
-Informace o používání podmíněného přístupu a zásad najdete v těchto tématech:
+Informace o tom, jak můžete používat podmíněný přístup a zásady, najdete v tématu:
 
-[Použití zásad podmíněného přístupu služby Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Použití Azure Active Directory zásad podmíněného přístupu](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Vytvoření zásad ochrany aplikací Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Vytvoření Microsoft Intune ochrany aplikací](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Použití jednotného přihlašování pro Azure Active Directory – připojené webové aplikace v prohlížečích chráněných zásadami](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Použití jednotného přihlašování pro webové Azure Active Directory aplikace připojené k internetu v prohlížečích chráněných zásadou](https://go.microsoft.com/fwlink/?linkid=2132482)
 
-[Správa možností procházení pomocí konfigurace aplikace](https://go.microsoft.com/fwlink/?linkid=2132483)
+[Správa prostředí procházení pomocí konfigurace aplikace](https://go.microsoft.com/fwlink/?linkid=2132483)
 
-[Povolit používání pouze pracovních a školních účtů](https://go.microsoft.com/fwlink/?linkid=2132652)
+[Povolit použití jenom pracovních a školních účtů](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[Nasazení obecných zásad konfigurace aplikace](https://go.microsoft.com/fwlink/?linkid=2132653)
+[Nasazení obecných zásad konfigurace aplikací](https://go.microsoft.com/fwlink/?linkid=2132653)
 
-[Nasazení zásad konfigurace aplikace pro ochranu dat](https://go.microsoft.com/fwlink/?linkid=2132654)
+[Nasazení zásad konfigurace aplikací pro ochranu dat](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Nasazení zásad konfigurace aplikací pomocí služby Microsoft Endpoint Manager](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Použití Microsoft Endpoint Manager nasazení zásad konfigurace aplikací](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Informace o tom, jak získat přístup k protokolům spravovaných aplikací, najdete v tématu [použití Microsoft Edge pro iOS a Android pro přístup k protokolům spravovaných aplikací](https://go.microsoft.com/fwlink/?linkid=2132578).
+Informace o tom, jak získat přístup ke spravovaným protokolům aplikací, najdete v tématu Použití [Microsoft Edge pro iOS](https://go.microsoft.com/fwlink/?linkid=2132578)a Android pro přístup ke spravovaným protokolům aplikací .

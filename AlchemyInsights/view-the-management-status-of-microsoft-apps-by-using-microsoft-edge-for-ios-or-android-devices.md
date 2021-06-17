@@ -1,5 +1,5 @@
 ---
-title: Zobrazení stavu aplikací Microsoftu pomocí Microsoft Edge pro iOS nebo zařízení s Androidem
+title: Zobrazení stavu správy aplikací Microsoft pomocí Microsoft Edge pro zařízení s iOSem nebo Androidem
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677034"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989890"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Zobrazení stavu aplikací Microsoftu pomocí Microsoft Edge pro iOS nebo zařízení s Androidem
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Zobrazení stavu správy aplikací Microsoft pomocí Microsoft Edge pro zařízení s iOSem nebo Androidem
 
-Pokud chcete získat přístup k protokolům aplikací pro účely odstraňování potíží se spravovanými aplikacemi pro iOS nebo Android, otevřete Microsoft Edge a v poli Adresa napište **o: intunehelp** . Microsoft Edge se otevře v režimu řešení potíží.
+Pokud chcete získat přístup k protokolům aplikací pro řešení potíží se spravovanými aplikacemi pro iOS nebo Android, otevřete Microsoft Edge a do pole adresa zadejte **about:intunehelp.** Microsoft Edge se spustí v režimu řešení potíží.
 
-Seznam nastavení uložených v protokolech aplikací najdete v tématu [Kontrola protokolů ochrany klientských aplikací](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Seznam nastavení uložených v protokolech aplikací najdete v tématu Kontrola [protokolů ochrany klientských aplikací](/mem/intune/apps/app-protection-policy-settings-log).
 
-Informace o tom, jak zobrazit protokoly aplikací na zařízeních s Androidem, najdete v tématu [nahrávání a e-mailové protokoly](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Pokud se chcete dozvědět, jak zobrazit protokoly aplikací na zařízeních s Androidem, přečtěte si Upload a [protokoly e-mailů](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).

@@ -1,5 +1,5 @@
 ---
-title: Konfigurace nastavení zásad Microsoft Edge v systému macOS pomocí funkce Jamf
+title: Použití funkce Jamf ke konfiguraci Microsoft Edge zásad v systému macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003852"
 - "9004632"
+- "9006494"
 - "6901"
 - "8360"
-ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+- "11115"
+ms.openlocfilehash: 2a8f01ba2224ab118dce332edd863a8c6f1122e6
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403448"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989782"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Konfigurace nastavení zásad Microsoft Edge v systému macOS pomocí funkce Jamf
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>Použití funkce Jamf ke konfiguraci Microsoft Edge zásad v systému macOS
 
-Pokud chcete nakonfigurovat Microsoft Edge (stabilní kanál 81 nebo novější) v macOS, použijte soubor manifestu zásad Microsoft Edge na Jamf Pro 10.19.
+Pokud chcete Microsoft Edge (stabilní kanál 81 nebo novější) v systému macOS, použijte soubor manifestu Microsoft Edge zásad na Jamf Pro 10.19.
 
-Další informace najdete v tématu [Konfigurace nastavení zásad Microsoft Edge na macOS pomocí Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).
+Další informace najdete v tématu Konfigurace [Microsoft Edge zásad v macOS pomocí Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).
