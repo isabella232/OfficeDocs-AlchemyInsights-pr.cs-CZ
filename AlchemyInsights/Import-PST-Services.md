@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721629"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023096"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Služba importu
 
@@ -29,9 +29,9 @@ Přístup ke službě Import a spuštění procesu importu:
 
 1. V levém podokně Centra dodržování předpisů M365 v části **Řešení** vyberte **Import zásad správného řízení**  >  **informací.**
 
-1. Na stránce **Import** vyberte **Nová úloha importu**.
+1. Na stránce **Import** vyberte **Nová úloha importu**. Zadejte název úlohy a vyberte **Další**.
 
-1. Postup v průvodci najdete v článku Použití síťového nahrávání k [importu](/compliance/use-network-upload-to-import-pst-files)souborů PST vaší organizace Microsoft 365 .
+1. Výběrem **Upload data** použijte možnost síťového nahrávání pro import **typu úlohy.** Podrobné kroky najdete v článku Použití síťového nahrávání k [importu](/compliance/use-network-upload-to-import-pst-files)souborů PST vaší organizace do Microsoft 365 .
 
 Pokud chcete získat **přístup na stránku Import,** ujistěte se, že máte přiřazená příslušná oprávnění. Další informace najdete v tématu [Použití síťového nahrávání k importu souborů PST](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
 
