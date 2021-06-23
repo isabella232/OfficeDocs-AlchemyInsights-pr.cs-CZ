@@ -1,5 +1,5 @@
 ---
-title: Pokyny k upgradu v Teams
+title: Teams upgradu
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333921"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095393"
 ---
-# <a name="microsoft-teams-upgrade"></a>Upgrade na Microsoft Teams
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams upgrade
 
-**Důležité**: Pokud jste upgradovali z Online Skypu pro firmy do Microsoft Teams v režimu jenom teams, ale nejste ještě připravení, můžeme vám tento problém vyřešit pomocí diagnostické podpory. V pravém horním rohu, které říká **nové centrum pro správu**, se ujistěte, že používáte nové centrum pro správu. V novém centru pro správu klikněte na widget " **potřebuju nápovědu?** ", zadejte "**Teams upgrade**" a spusťte diagnostický nástroj podle pokynů.
+Ať už právě začínáte s Teams, používáte Teams společně s Skype pro firmy nebo jste připravení upgradovat, chceme zajistit, abyste měli všechno, co potřebujete k úspěšné cestě k Teams. Další informace najdete na níže uvedených odkazech.
 
-Bez ohledu na to, jestli Začínáme s týmy už používáte Teams přes Skype pro firmy nebo jste připraveni na upgrade, chceme, abyste měli jistotu, že máte všechno, co potřebujete k přechodu na úspěšnou cestu do týmů. Další informace najdete v následujících odkazech.
+[Začínáme s Microsoft Teams upgradem](/MicrosoftTeams/upgrade-start-here)
 
-[Začínáme s upgradem Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Plánování upgradu](/MicrosoftTeams/upgrade-plan-journey)
 
-[Plánování upgradu](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Principy Microsoft Teams Skype pro firmy soužití](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Principy aplikace Microsoft teams a Skypu pro firmy](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Provedení upgradu z Skype pro firmy Online na Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Upgrade z Online Skypu pro firmy do týmů](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Upgrade z místního Skypu pro firmy na týmy](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Provedení upgradu z místního Skype pro firmy na místní Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Kontrola stavu upgradu Online Skypu pro firmy na Teams pomocí PowerShellu](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Kontrola stavu Skype pro firmy Online Teams pomocí PowerShellu](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
