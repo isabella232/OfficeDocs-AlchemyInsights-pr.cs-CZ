@@ -1,5 +1,5 @@
 ---
-title: Čtečka dokumentů PDF v Microsoft Edge
+title: Čtečka PDF v Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677014"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255884"
 ---
-# <a name="pdf-reader-in-microsoft-edge"></a>Čtečka dokumentů PDF v Microsoft Edge
+# <a name="pdf-reader-in-microsoft-edge"></a>Čtečka PDF v Microsoft Edge
 
-V oblíbenosti souborů PDF se zvýrazní potřeba spolehlivou, bezpečnou a výkonnou čtečku PDF, kterou můžou podnikové společnosti přijmout. Funkce – bohatá čtečka PDF integrovaná do Microsoft Edge (verze 77 a novější) je jenom taková. Funguje v systému Windows a macOS a lze ho použít k otevírání souborů PDF, které jsou místní, online nebo vložené na webové stránky.
+Oblíbenost souborů PDF upozorňuje na potřebu spolehlivé, bezpečné a výkonné čtečky PDF, kterou přijaly podnikové společnosti. Čtečka PDF bohatá na funkce integrovaná Microsoft Edge (verze 77 a novější) je právě taková aplikace. Funguje v aplikacích Windows a macOS a slouží k otevření a vytváření poznámek k souborům PDF, které jsou místní, online nebo vložené na webových stránkách.
 
-Další informace najdete v tématu [čtečka souborů PDF v Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
+Další informace najdete v tématu [Čtečka PDF v Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
