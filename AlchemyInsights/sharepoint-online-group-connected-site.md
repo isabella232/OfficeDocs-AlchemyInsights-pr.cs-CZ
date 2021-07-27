@@ -1,5 +1,5 @@
 ---
-title: Přidání skupiny na web služby SharePoint
+title: Přidání skupiny na SharePoint webu
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,27 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "5200004"
+- "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 396efbf9772b5398427a4fcc76e104fa95820af6
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771192"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532212"
 ---
-# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Problémy při vytváření skupinového propojeného webu na SharePointu
+# <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>Běžné problémy při vytváření webu připojeného ke skupině v SharePoint
 
-1. Vyskytly se některé běžné problémy při vytváření nebo opětovném vytváření skupinového propojeného webu.
-Pokud jste odstranili skupinu a její připojený web a chcete vytvořit další web se stejnou adresou URL, budete muset trvale odebrat předchozí Web.
+1. Pokud jste odstranili skupinu a její připojený web a chcete vytvořit jiný web se stejnou adresou URL, budete muset předchozí web trvale odebrat.
 
-   - Stáhnout [spo Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
-   - Další informace o úvodním prostředí PowerShellu najdete v tématu [Začínáme se službou SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
-   - Odeberte web z odstraněných webů pomocí rutiny [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell. K trvalému odstranění skupinových webů je potřeba PowerShell.
+   - Stažení [prostředí SPO Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+   - Další informace o tom, jak začít pracovat s PowerShellem, najdete v článku Začínáme [s SharePoint Online Management Shell](/powershell/module/sharepoint-online/remove-sposite).
+   - Odeberte web z odstraněných webů pomocí [rutiny Powershellu Remove-SPODeletedSite.](/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell je nutný k trvalému odstranění webů skupin.
 
-1. Pokud vytváříte web připojený ke skupině a dostanete upozornění: **už existuje jiná skupina se stejným aliasem**, podívejte se na existující skupiny v centru pro [správu Microsoftu 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Tento problém vyřešíte tak, že odstraníte existující skupinu, pokud ji už nepotřebujete nebo pokud chcete vytvořit web s jiným přiřazeným aliasem.
+1. Pokud vytváříte web připojený ke skupině a zobrazí se upozornění: Jiná skupina se stejným **aliasem** už existuje , zkontrolujte existující skupiny z [Centrum pro správu Microsoftu 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Pokud chcete tento problém vyřešit, odstraňte existující skupinu, pokud už není potřeba, nebo vytvořte web s přiřazeným jiným aliasem.
 
-1. Moderní skupiny se SharePointem můžete vytvářet a používat různými způsoby.
+1. Existují různé způsoby, jak vytvářet a používat moderní skupiny s SharePoint.
 
-   - Existující weby můžete připojit ke skupině Microsoft 365. Další informace najdete v článku [připojení skupiny Microsoft 365 pomocí uživatelského rozhraní SharePointu](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Pokud chcete vytvořit web s připojenou skupinou Microsoft 365, budete muset vytvořit [týmový web](https://admin.microsoft.com/sharepoint).
+   - Existující weby můžete připojit ke Microsoft 365 skupině. Další informace najdete v [Připojení Microsoft 365 skupiny pomocí SharePoint rozhraní](/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Pokud chcete Microsoft 365 web připojený ke skupině, musíte vytvořit [týmový web](https://admin.microsoft.com/sharepoint).

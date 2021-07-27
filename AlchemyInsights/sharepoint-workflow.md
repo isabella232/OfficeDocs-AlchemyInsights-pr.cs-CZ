@@ -1,5 +1,5 @@
 ---
-title: Řešení potíží s pracovními postupy v SharePointu
+title: Poradce při potížích s pracovními postupy v SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800241"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586927"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Řešení potíží s pracovními postupy v SharePointu
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Poradce při potížích s pracovními postupy v SharePoint
 
-**Řešení potíží a ladění pracovních postupů v SharePointu**
+**Poradce při potížích a ladění pracovních postupů v SharePoint**
 
-Podívejte se na [řešení chyb při ověřování pracovních postupů SharePointu](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) a [ladění sharepointových pracovních postupů](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Další informace najdete tady:
 
-**Automatické dopínání**
+- [Řešení SharePoint chyb ověření pracovního postupu](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Ladění SharePoint pracovních postupů](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [Shromažďování SharePoint řešení potíží s pracovním postupem 2013 pomocí funkce ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-Pokud začínáte pracovat s pracovními postupy, zvažte použití [Power automatizovat](https://docs.microsoft.com/power-automate/modern-approvals) namísto klasických řešení pracovního postupu SharePointu.
+**Power Automate**
 
-Další informace najdete v tématu [pracovní postupy SharePointu vyřazování](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring).
+Pokud právě začínáte s pracovními postupy, zvažte Power Automate [místo](/power-automate/modern-approvals) klasických řešení SharePoint pracovních postupů.
+
+Další informace najdete v tématu [SharePoint pracovních postupů.](/alchemyinsights/sharepoint-workflows-retiring)
