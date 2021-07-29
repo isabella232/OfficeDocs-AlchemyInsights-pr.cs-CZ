@@ -1,5 +1,5 @@
 ---
-title: Identifikace externího předávání e-mailů u poštovních schránek v protokolech auditování
+title: Určení externího přeposílání e-mailů u poštovních schránek v protokolech auditování
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,31 +13,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d06ef83adcae1342173a6fe75f79525c7e1797ce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7146b2b09b6ac1e33b192dcbcbfb72ea2593313
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696290"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630242"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Určení, kdy je u poštovních schránek nakonfigurovaný externí e-mail
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Určení, kdy je v poštovních schránkách nakonfigurované externí přeposílání e-mailů
 
-Když uživatel Microsoft 365 nakonfiguruje externí předávání e-mailů v poštovní schránce, bude auditována jako součást rutiny **Set-Mailbox** . Aktivitu můžete zobrazit pomocí vyhledávání v protokolu auditování & centru dodržování předpisů.
+Když Microsoft 365 externí přeposílání e-mailů v poštovní schránce, aktivita se audituje jako součást rutiny **Set-Mailbox.** Aktivitu můžete zobrazit pomocí vyhledávání v protokolu auditování v Centru & dodržování předpisů.
 
-1. Přihlaste se do [centra zabezpečení Microsoft 365 Security &](https://protection.office.com/).
+1. Přihlaste se do [centra Microsoft 365 dodržování předpisů](https://protection.office.com/).
 
-2. Přejděte na stránku **Search**pro  >  **vyhledávání protokolu auditování** .
+2. Přejděte na **vyhledávací stránku protokolu**  >  **auditování** hledání.
 
-3. V polích **Datum zahájení** a **Datum ukončení** vyberte rozsah dat. Nemusíte zadávat uživatelské jméno. Ověřte, jestli je pole **aktivity** nastaveno tak, aby **zobrazovalo výsledky pro všechny aktivity**.
+3. Vyberte rozsah dat v **polích Počáteční datum** a **Koncové** datum. Nemusíte zadít uživatelské jméno. Ověřte, **jestli je** pole Aktivity nastavené na Zobrazit výsledky pro všechny **aktivity**.
 
-4. Klikněte na **Hledat**.
+4. Klikněte na **Hledat.**
 
-Ve výsledcích klikněte v poli Filtr aktivity na filtrovat **výsledky** a typ **Nastavení – poštovní schránka** . Ve výsledcích vyberte záznam auditu. V rozevíracím seznamu **podrobností** klikněte na **Další informace**. Pokud chcete zjistit, jestli aktivita souvisí s přesměrováním e-mailu, podívejte se na podrobnosti o jednotlivých záznamech auditu.
+Ve výsledcích klikněte na **Filtrovat výsledky** **a** do pole filtru aktivity zadejte Nastavit poštovní schránku. Ve výsledcích vyberte záznam auditování. V **informačním podokně Podrobnosti** klikněte na **Další informace**. Abyste zjistili, jestli aktivita souvisí s přeposíláním e-mailů, musíte se podívat na podrobnosti jednotlivých záznamů auditování.
 
-- **ObjectID**: hodnota aliasu poštovní schránky, která byla změněna.
+- **Id Objektu:** Hodnota aliasu poštovní schránky, která byla změněna.
 
-- **Parametry**: _ForwardingSmtpAddress_ označuje cílovou e-mailovou adresu.
+- **Parametry:** _ForwardingSmtpAddress_ označuje cílovou e-mailovou adresu.
 
-- **UserID**: uživatel, který nakonfigurovali přesměrování e-mailu na poštovní schránku v poli **objectID**
+- **Id_uživatele:** Uživatel, který nakonfiguroval přeposílání e-mailů v poštovní schránce v **poli Id Objektu.**
 
-Další informace najdete v tématu [určení, kdo nastavil přeposlání e-mailů pro poštovní schránku](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Další informace najdete v článku [Určení, kdo nastavil přeposílání e-mailů pro poštovní schránku](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

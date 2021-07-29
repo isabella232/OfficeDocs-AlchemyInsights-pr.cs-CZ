@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779044"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630170"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Určení aktivity pravidla doručené pošty v protokolech auditování
 
-Pokud chcete zobrazit události pravidla doručené pošty (vytváření, úpravy a odstraňování pravidel doručené pošty), můžete použít vyhledávání v protokolu auditování v centru & zabezpečení Microsoft 365.
+K zobrazení událostí pravidel doručené pošty (vytváření, úpravy a odstraňování pravidel doručené pošty) můžete použít vyhledávání v protokolu auditování v centru Microsoft 365 Security & Compliance Center.
 
-1. Přihlaste se do [centra zabezpečení Microsoft 365 Security &](https://protection.office.com/).
+1. Přihlaste se do [centra Microsoft 365 dodržování předpisů](https://protection.office.com/).
 
-2. Přejděte na stránku **Search**pro  >  **vyhledávání protokolu auditování** .
+2. Přejděte na **vyhledávací stránku protokolu**  >  **auditování** hledání.
 
-3. V polích **Datum zahájení** a **Datum ukončení** vyberte rozsah dat.
+3. Vyberte rozsah dat v **polích Počáteční datum** a **Koncové** datum.
 
-4. V části **aktivity poštovní schránky Exchange**ověřte, že pole **aktivity** je nastavené na **New-InboxRule**.
+4. V **Exchange aktivity poštovní** schránky  ověřte, jestli je pole Aktivity nastavené na **New-InboxRule Create/modify/enable/disable inbox rule**.
 
-5. Klikněte na **Hledat**.
+5. Klikněte na **Hledat.**
 
-Ve výsledcích vyberte záznam auditu. V rozevíracím seznamu podrobností klikněte na **Další informace**. Informace o nastavení pravidla doručené pošty se zobrazí v poli **parametry** .
+Ve výsledcích vyberte záznam auditování. V informačním podokně podrobností klikněte na **Další informace**. Informace o nastavení pravidla doručené pošty se zobrazí v **poli Parametry.**
 
-Další informace najdete v tématu [určení, jestli uživatel vytvořil pravidlo doručené pošty](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule) .
+Další informace najdete v článku [Určení, jestli uživatel vytvořil pravidlo doručené pošty.](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

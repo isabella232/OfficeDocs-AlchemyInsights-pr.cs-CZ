@@ -1,5 +1,5 @@
 ---
-title: 1488-to-eDiscovery-a-obsah – hledání
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668507"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630206"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak provádět hledání obsahu a vyhledávání v eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak provádět vyhledávání obsahu a vyhledávání v eDiscovery
 
-**Provedení vyhledávání obsahu**:
+**Hledání obsahu:**
 
-1. Přejděte do [centra dodržování předpisů &](https://protection.office.com) a přihlaste se.
-2. Klikněte na **hledat > hledání obsahu**.
-3. Kliknutím na **nové hledání** vytvořte nové hledání.
-4. Zadejte požadované podmínky vyhledávání včetně klíčových slov a umístění obsahu.
-5. Kliknutím na **uložit & spustit** zobrazíte název hledání, spustíte ho a zobrazíte náhled výsledků.
+1. Přejděte do centra Microsoft 365 dodržování předpisů a přihlaste se.
+2. Vyberte **Hledat > hledání obsahu**.
+3. Pokud **chcete vytvořit** nové hledání, vyberte Nové hledání.
+4. Zadejte požadované podmínky hledání včetně klíčových slov a umístění obsahu.
+5. Vyberte **Uložit & spustit a** pojmnovat hledání, spustit ho a pak zobrazit náhled výsledků.
 
 > [!NOTE]
-> V **centru dodržování předpisů v M365** v části **řešení** zvolte Rozbalit **eDiscovery** a vyberte požadovaný nástroj eDiscovery.
+> V **Microsoft 365 Centra dodržování**  >  **předpisů** rozbalte **eDiscovery** a vyberte požadovaný nástroj eDiscovery.
 
-Podrobné pokyny k hledání obsahu, exportu výsledků a vytváření případů eDiscovery pro ukládání dat najdete v tématu případy [hledání obsahu](https://docs.microsoft.com/microsoft-365/compliance/content-search) a [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Podrobné pokyny k vyhledávání obsahu, exportu výsledků a vytváření případů eDiscovery pro blokování dat najdete v tématu [Hledání](/microsoft-365/compliance/content-search) obsahu a [případy eDiscovery](/microsoft-365/compliance/ediscovery-cases).
 
-**Další informace**:
+**Další informace:**
 
-- Další informace o nástrojích eDiscovery v Microsoft 365 najdete v tématu [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Získejte informace o oprávněních, požadavcích a limitech potřebných pro provádění vyhledávání eDiscovery z [oprávnění požadovaných pro hledání](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) a [požadavky a omezení](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)pro eDiscovery.
-- Pokud odstraňujete problémy se službou eDiscovery, podívejte se na téma [odstraňování běžných problémů](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) a [zkoumání částečně indexovaných položek](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Další informace o nástrojích eDiscovery v Microsoft 365 najdete v [tématu eDiscovery](/microsoft-365/compliance/ediscovery).
+- Získejte informace o oprávněních, požadavcích a limitech potřebných pro vyhledávání v eDiscovery z oprávnění vyžadovaných pro vyhledávání [eDiscovery](/microsoft-365/compliance/assign-ediscovery-permissions) a požadavky a [limity](/microsoft-365/compliance/limits-for-content-search).
+- Pokud řešení potíží s eDiscovery najdete v tématu [eDiscovery Řešení](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) běžných problémů a zkoumání [částečně indexovaných položek](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).

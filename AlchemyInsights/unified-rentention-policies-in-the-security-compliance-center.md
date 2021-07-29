@@ -1,5 +1,5 @@
 ---
-title: Jednotné zásady uchovávání informací v centru zabezpečení & dodržování předpisů
+title: Jednotné zásady uchovávání informací v Centru & dodržování předpisů
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669204"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630134"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Jednotné zásady uchovávání informací v centru zabezpečení & dodržování předpisů
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>Jednotné zásady uchovávání informací v Centru & dodržování předpisů
 
-Zásady uchovávání informací umožňují spravovat obsah organizace pomocí nastavení uchovávání a odstranění. Jednotné zásady uchovávání informací najdete v centru zabezpečení Office 365 Security & nebo v centru dodržování předpisů Microsoft 365. 
+Zásady uchovávání informací umožňují spravovat obsah vaší organizace pomocí nastavení uchovávání informací a odstranění. Jednotné zásady uchovávání informací můžete vytvořit v Centru Office 365 zabezpečení & dodržování předpisů nebo v centru Microsoft 365 dodržování předpisů. 
 
-1. V [centru pro zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143)vyberte **informace o správě**  >  **uchovávání**informací  >  **+Create**. <br/>
-    V [centru dodržování předpisů v Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)vyberte **Policies**  >  **data zásad > uchovávání informací > + nové zásady uchovávání informací.**
-2. Přidejte **název**, **Nastavení**a **Vyberte umístění**.
-3. Zkontrolujte nastavení a pak vyberte **vytvořit tuto zásadu** nebo **Uložit pro pozdější verzi**.  
+1. V Centru [zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143)vyberte **Správa** informací  >  **Uchovávání**  >  **informací +Vytvořit.** <br/>
+    V centru [Microsoft 365 dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077149)vyberte **Zásady**– data > uchovávání > + Nové zásady  >  **uchovávání informací.**
+2. Přidejte **název**, **Nastavení** a **Zvolte umístění**.
+3. Zkontrolujte nastavení a pak vyberte **Vytvořit tuto** zásadu nebo Uložit **na později**.  
       
-Další podrobnosti o zásadách uchovávání informací pro obsah, jako je Exchange e-mail, OneDrive, SharePoint a teams, najdete v tématu [Přehled zásad uchovávání informací](https://go.microsoft.com/fwlink/?linkid=2127785).  
+Další podrobnosti o zásadách uchovávání informací pro obsah, jako je Exchange, OneDrive, SharePoint a Teams, najdete v tématu Přehled zásad [uchovávání informací](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-Pokud používáte zásady uchovávání informací souběžně v centru pro správu Exchange a v centru dodržování předpisů & zabezpečení, přečtěte si toto doporučení pro [použití zásad uchovávání informací namísto starších funkcí](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+Pokud používáte zásady uchovávání informací vedle sebe v Centru pro správu Exchange a Centru dodržování předpisů & Security &, podívejte se na toto doporučení k použití zásad uchovávání informací místo [starších funkcí](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features).  
     
-Podrobné informace o zachování týmů najdete v tématu [zásady uchovávání informací v Teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+Konkrétní informace o uchovávání Teams najdete v tématu Zásady uchovávání informací [v Teams](/microsoftteams/retention-policies).
