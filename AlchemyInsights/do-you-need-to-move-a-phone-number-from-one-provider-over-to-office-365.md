@@ -1,5 +1,5 @@
 ---
-title: Potřebujete přesunout telefonní číslo z jednoho poskytovatele do Microsoftu?
+title: Potřebujete přesunout číslo Telefon poskytovatele do Microsoftu?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712141"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689399"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Přenos existujících čísel do Teams
 
-Pokud máte poskytovatele telefonních služeb nebo operátora a vaši uživatelé nebo služby už od něj mají telefonní čísla, musíte vytvořit objednávku přenosu a zajistit tak převedení těchto telefonních čísel do Microsoft Teams.
+Pokud máte poskytovatele telefonních služeb nebo operátora a vaši uživatelé nebo služby už od něj mají telefonní čísla, musíte vytvořit objednávku přenosu a zajistit tak převedení těchto telefonních čísel do Microsoft Teams.  
 
-- Informace o provedení tohoto přenosu najdete v tématu věnovaném [přenosu telefonních čísel do Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+Pokud chcete vytvořit novou objednávku přenosu nebo zkontrolovat stávající, postupujte takto: 
 
-- Rady ohledně správy telefonních čísel najdete v tématu [Správa telefonních čísel pro vaši organizaci](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+1. Přejděte do [Centra Teams pro správu](https://admin.teams.microsoft.com/phone-numbers) a otevřete stránku Telefon čísel. 
 
-Další informace najdete v tématu s [přehledem pořadí přenosu](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. Vyberte **Získat odkaz na podporu telefonního čísla**. 
+
+Pokud chcete přejít přímo na podporu telefonních čísel, podívejte [se Telefon Number Service Center](https://pstnsd.powerappsportals.com/).  

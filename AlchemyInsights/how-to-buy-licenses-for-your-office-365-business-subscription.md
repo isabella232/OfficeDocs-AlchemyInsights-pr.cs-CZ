@@ -3,20 +3,23 @@ title: Jak koupit licence pro vaše předplatné Microsoft 365 Apps pro firmy p�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, sinakassaw
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
+- commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: 7b60f51f394c28d90b42a7d86ad08d1aeefd8a78
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 96677aa7ad38185e35999dac4f18e65e88624ed8
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545333"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689183"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Jak koupit licence pro vaše předplatné Microsoft 365 Apps pro firmy předplatného
 

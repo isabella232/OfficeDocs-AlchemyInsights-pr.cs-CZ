@@ -1,8 +1,9 @@
 ---
-title: Výchozí obnovovací subsscription
+title: Výchozí obnovení dolního indexu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,25 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 9bf0273fc2f0ca653750d037f022c5bf367bf23a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416616"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689291"
 ---
 # <a name="renewing-your-subscription"></a>Prodloužení předplatného
 
-Pokud platíte kreditní kartou nebo bankovním účtem, je ve výchozím nastavení zapnutá periodická fakturace. Pokud je periodická fakturace zapnutá, předplatné se bude dál účtovat každý rok v den, kdy jste předplatné. Pokud je vaše předplatné aktivní, můžete ho znovu zapnout nebo vypnout v centru pro správu.
+Pokud platíte platební kartou nebo bankovním účtem, je opakovaná fakturace ve výchozím nastavení zapnutá. Když je opakovaná fakturace nastavená, bude se vám předplatné účtovat každý rok v den, kdy jste si předplatné předplatili. Pokud je vaše předplatné aktivní, můžete ho v Centru pro správu zase vypnout nebo znovu zapnout.
 
-Pokud jste si předplatili svým předplatným pomocí kódu Product Key, platnost předplatného skončí na konci předplatného. Můžete zapnout opakovanou fakturaci a poskytnout informace o kreditní kartě nebo bankovním účtu, aby vaše předplatné bylo vždy účtováno každý rok v den, kdy jste předplatné.
+Pokud jste předplatné předplatili kódem Product Key, platnost vašeho předplatného vyprší na konci období předplatného. Můžete zapnout opakovanou fakturaci a poskytnout informace o platební kartě nebo bankovním účtu, aby se vaše předplatné dál fakturoval každý rok v den, kdy jste si předplatné předplatili.
 
 Zapnutí opakované fakturace:
 
-1. V centru pro správu přejděte na stránku **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na kartě **Products (produkty** ) vyberte předplatné, které chcete změnit.
-3. Na stránce Podrobnosti předplatného klikněte v části **nastavení předplatného a platby**na **Upravit opakovanou fakturaci**.
-4. V podokně **Upravit nastavení opakovaných faktur** vyberte **zapnout**, **zapnuto, zapnuto**nebo **vypnuto**.
+1. V Centru pro správu přejděte na stránku **Fakturace**  >  [vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
+2. Na kartě **Produkty** vyberte předplatné, které chcete změnit.
+3. Na stránce s podrobnostmi předplatného vyberte v **části Nastavení předplatného** a platby **možnost Upravit opakovanou fakturaci.**
+4. V podokně **Upravit nastavení opakované fakturace** vyberte **Zapnout**, **Zapnout, ale jednou** prodloužit nebo **Vypnout**.
 5. Vyberte **Uložit**. 

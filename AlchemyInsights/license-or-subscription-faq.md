@@ -1,8 +1,9 @@
 ---
-title: Časté otázky k licencím a předplatným
+title: Časté otázky k licenci nebo předplatnému
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,27 +11,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 2406001aa64704025d0013521c2f76f99eafdc46
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 9911832f9d147e565c83a39995f8909f24a70405
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286699"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689219"
 ---
-# <a name="license-or-subscription-faq"></a>Časté otázky k licencím a předplatným
+# <a name="license-or-subscription-faq"></a>Časté otázky k licenci nebo předplatnému
 
-- Pokud chcete najít předplatné nebo licence vlastněné vaší organizací, přejděte na **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054).
-- [Přidání nebo odebrání licencí](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) z předplatného
+- Pokud chcete najít předplatná nebo licence vlastněné vaší organizací, přejděte na **Fakturace**  >  [produktů](https://go.microsoft.com/fwlink/p/?linkid=842054).
+- [Přidejte nebo odeberte licence](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) z předplatného.
     > [!NOTE]
-    > Pořád budete účtovat licence, které nejsou přiřazené uživatelům. Abyste předešli nepotřebných poplatků, odeberte licence, abyste snížili počet licencí.
-. [Převeďte licence mezi účty](https://docs.microsoft.com/alchemyinsights/transfer-licenses-between-tenants).
-- [Opětovná aktivace předplatného nebo zákazu](https://go.microsoft.com/fwlink/p/?linkid=2117519)
-- [Úprava způsobu platby použitého k placení předplatného](https://go.microsoft.com/fwlink/p/?linkid=2117167).
-- [Změna frekvence fakturace](https://go.microsoft.com/fwlink/p/?linkid=2119112)
+    > Za licence, které nejsou přiřazeny uživatelům, se vám pořád účtují poplatky. Pokud chcete zabránit nepožádádám poplatky, odeberte licence, abyste snížili počet licencí.
+. [Přenos licencí mezi účty](https://docs.microsoft.com/alchemyinsights/transfer-licenses-between-tenants)
+- [Opětovná aktivace předplatného s ukončenou platností nebo zakázaného předplatného](https://go.microsoft.com/fwlink/p/?linkid=2117519)
+- [Upravte způsob platby, který se používá k platbě předplatného](https://go.microsoft.com/fwlink/p/?linkid=2117167).
+- [Změňte, jak často se vám fakturuje](https://go.microsoft.com/fwlink/p/?linkid=2119112).
 - [Změna opakované fakturace](https://go.microsoft.com/fwlink/p/?linkid=2119216)
-- [Zrušte předplatné](https://go.microsoft.com/fwlink/p/?linkid=2119113).
-- [Zavřete účet](https://docs.microsoft.com/alchemyinsights/how-to-close-your-account).
-- Na stránce **fakturace > [Nákup služeb](https://go.microsoft.com/fwlink/p/?linkid=868433) ** si můžete koupit další předplatná.
+- [Zrušení předplatného](https://go.microsoft.com/fwlink/p/?linkid=2119113)
+- [Zavřete svůj účet](https://docs.microsoft.com/alchemyinsights/how-to-close-your-account).
+- Další předplatná si můžete koupit na stránce **Fakturace > [koupit](https://go.microsoft.com/fwlink/p/?linkid=868433)** služby.

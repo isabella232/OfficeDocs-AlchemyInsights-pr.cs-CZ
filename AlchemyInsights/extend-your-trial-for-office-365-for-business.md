@@ -1,8 +1,10 @@
 ---
-title: Prodloužení zkušební verze Microsoft 365 pro firmy
+title: Prodloužení zkušební verze pro Microsoft 365 pro firmy
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,23 +12,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 470d9e0ccca52d28a6bf51e65706fe3b0c316214
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 68dab6e3c3661bcaa93695b2612e4fc46fe43aa1
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307299"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687527"
 ---
-# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Prodloužení zkušební verze Microsoft 365 pro firmy
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Prodloužení zkušební verze pro Microsoft 365 pro firmy
 
-Bezplatnou zkušební verzi si můžete prodloužit na další 30denní období. Po uplynutí této [doby](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)bude zkušební verze předplatného 30denní lhůta. Zkušební verzi můžete prodloužit takto:
+Bezplatnou zkušební verzi můžete prodloužit o další 30denní období. Potom vaše zkušební verze přejde do 30denní lhůty [odkladu](/alchemyinsights/grace-period-for-microsoft-365-free-trial). Pokud chcete prodloužit zkušební verzi, postupujte takto:
   
-1. V centru pro správu přejděte na stránku **fakturace** \> [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na kartě **Products** vyberte zkušební předplatné, které chcete prodloužit.
-3. Na stránce Podrobnosti předplatného vyberte v části **nastavení předplatného a platby** možnost **prodloužit koncové datum**.
-4. V podokně **rozšířit koncové datum** zkontrolujte informace o příponě a v případě potřeby vyberte způsob platby. Až skončíte, vyberte **prodloužit zkušební verzi**.
+1. V Centru pro správu přejděte na stránku **Fakturace** \> [vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
+2. Na kartě **Produkty** vyberte zkušební předplatné, které chcete rozšířit.
+3. Na stránce s podrobnostmi předplatného vyberte v části **Nastavení předplatného** a platby **možnost Prodloužit koncové datum**.
+4. V podokně **Prodloužit koncové datum** zkontrolujte informace o rozšíření a v případě potřeby vyberte způsob platby. Až skončíte, vyberte **Prodloužit zkušební verzi**.
 
-Další informace o rozšíření zkušební verze nebo podrobné pokyny najdete v článku [rozšíření zkušební verze pro Office 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
+Další informace o rozšíření zkušební verze nebo podrobných pokynech najdete v tématu Rozšíření zkušební verze [pro Office 365 pro firmy](/microsoft-365/commerce/extend-your-trial).
