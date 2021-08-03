@@ -3,6 +3,7 @@ title: Časté otázky k předplatným pro firmy
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,6 +11,7 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002875"
 - "5445"
 - "9002874"
@@ -20,12 +22,12 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 417299cb82d9dfcd7afd8822378d2993e12ce355
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: d9f11e265480a97025b8c57e4f012ce1e64bbed6
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601087"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686087"
 ---
 # <a name="business-subscription-faq"></a>Časté otázky k předplatným pro firmy
 
@@ -36,7 +38,7 @@ ms.locfileid: "50601087"
 - Pokud chcete **Přidat či odebrat** licence na Project, přejděte na **Fakturace > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Další informace najdete v článku [Přidání či odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 - Pokud chcete **zrušit** předplatné přejděte na **Fakturace > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vyberte předplatné a v sekci **Nastavení předplatného a plateb** vyberte **Zrušit předplatné**. Další informace najdete v článku [Zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Pokud chcete **aktivovat** předplatné, přečtěte si téma [Aktivace předplatného](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Pokud **chcete předplatné znovu** aktivovat, podívejte se na [opětovnou aktivaci předplatného.](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription)
-- Pokud **si chcete** zkušební období prodloužit, podívejte se na stránku Prodloužení [zkušebního období.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
+- Pokud **chcete předplatné znovu** aktivovat, podívejte se na stránku [Opětovná aktivace předplatného](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Pokud  **chcete zkušební** verzi prodloužit, podívejte se na stránku Prodloužení zkušební [verze](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
 Další informace najdete v článku [Přidání či odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

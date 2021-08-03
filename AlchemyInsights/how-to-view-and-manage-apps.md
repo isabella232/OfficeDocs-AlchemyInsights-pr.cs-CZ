@@ -3,6 +3,7 @@ title: Jak zobrazit a spravovat aplikace
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,19 +12,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9000561"
 - "2420"
-ms.openlocfilehash: 1ee6d1a6bacdaa95054e8a7c98f11543ccae6c41
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 0789275d75bf611e2bda31ff16eafa730836fb54
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489090"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686555"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Jak zobrazit a spravovat aplikace
 
-Svoje aplikace můžete zobrazit v centru pro správu Microsoft 365.
+Aplikace si můžete zobrazit v Centrum pro správu Microsoftu 365.
 
-1. V centru pro správu přejděte na stránku **fakturace**  >  [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na kartě **Products** přejděte na oddíl **aplikace** .
-3. Pokud chcete aplikaci spravovat, vyberte ji, kterou chcete spravovat.
+1. V Centru pro správu přejděte na stránku **Fakturace**  >  [vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
+2. Na kartě **Produkty** přejděte dolů k části **Aplikace.**
+3. Pokud chcete spravovat aplikaci, vyberte aplikaci, kterou chcete spravovat.

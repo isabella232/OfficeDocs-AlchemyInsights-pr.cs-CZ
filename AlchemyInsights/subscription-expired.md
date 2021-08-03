@@ -3,6 +3,7 @@ title: Vypršela platnost předplatného
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,15 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: d26c4e6738ed1d34a642436b09c67853a88586a8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: e397f9cb39f289b96f20a9d69b8ff9e8efe5f40c
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544283"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687419"
 ---
 # <a name="subscription-expired"></a>Vypršela platnost předplatného
 

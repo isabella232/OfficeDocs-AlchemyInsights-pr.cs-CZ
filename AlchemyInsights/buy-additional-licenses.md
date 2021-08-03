@@ -3,6 +3,8 @@ title: Zakoupení dalších licencí
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, shegu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 2df9278e13ca497c7ab71bb458c672031313759f
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1c1bf0b5380fc51c64981309f17abf614fbe7e86
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543534"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686015"
 ---
 # <a name="buy-additional-licenses"></a>Zakoupení dalších licencí
 

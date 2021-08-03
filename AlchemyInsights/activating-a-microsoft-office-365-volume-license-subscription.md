@@ -1,9 +1,9 @@
 ---
-title: Aktivace předplatného multilicenčního programu společnosti Microsoft
+title: Aktivace multilicenčního předplatného Microsoftu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,23 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.date: 04/21/2020
+ms.openlocfilehash: f00526f507826cf4e58967531fff73183461e3b9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307114"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685799"
 ---
-# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivace předplatného multilicenčního programu společnosti Microsoft
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktivace multilicenčního předplatného Microsoftu
 
-1. Přihlaste se na [portál Volume Licensing Service Center (VLSC)](https://go.microsoft.com/fwlink/p/?LinkId=329762).
-2. Přejděte na svoje předplatné a zvolte **aktivovat**.
-3. Do kontaktu služeb online (OLS) se odešle e-mail.
-4. Aktivační e-mail vám nabízí dvě možnosti: **registrace**nebo **přihlášení**. Pokud jste dříve vytvořili zkušební verzi, zvolte **Přihlásit**se. Pokud ještě nemáte tenanta Microsoft 365, zvolte **Přihlásit**se.
-5. Přihlaste se do centra pro správu Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) pomocí stávajících přihlašovacích údajů správce. Po úspěšném přihlášení obdržíte další e-mail, který potvrzuje váš nákup.
-6. Po přihlášení přejděte na stránku **fakturace** \> [vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054) a ověřte, že vaše zakoupené předplatné je teď aktivní. 
+1. Přihlaste se k [portálu Volume Licensing Service Center (VLSC).](https://go.microsoft.com/fwlink/p/?LinkId=329762)
+2. Přejděte na předplatné a zvolte **Aktivovat**.
+3. E-mail se pošle vašemu kontaktu online služeb (OLS).
+4. Aktivační e-mail nabízí dvě možnosti: **Zaregistrovat se** nebo **Přihlásit se**. Pokud jste už dříve vytvořili zkušební verzi, zvolte **Přihlásit se**. Pokud ještě nemáte tenanta Microsoft 365, zvolte **Zaregistrovat se**.
+5. Přihlaste se k Centrum pro správu Microsoftu 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) pomocí stávajících přihlašovacích údajů správce. Po úspěšném přihlášení dostanete další e-mail, který potvrdí váš nákup.
+6. Po přihlášení přejděte na stránku  Fakturace vaše produkty a ověřte, že vaše zakoupená předplatná \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) jsou teď aktivní. 
     > [!NOTE]
-    > Chcete-li zobrazit podrobnosti o aktivaci předplatného, můžete také zvolit kartu **předplatného** ve VLSC.)
+    > Můžete také zvolit kartu **Předplatné** na kartě VLSC a zobrazit podrobnosti o tom, že je vaše předplatné aktivované.)
