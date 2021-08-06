@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8471"
 - "9004687"
-ms.openlocfilehash: 0fc519c8170de498c9bcb1fc41a76116bda48b1f
-ms.sourcegitcommit: 379e132c4d21ecf703d5506484ec96a767fdda39
-ms.translationtype: MT
+ms.openlocfilehash: 32a5d010b95b9587e121ca1526def743fd8f371b13d1d73d3578c692839edf19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481095"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036485"
 ---
 # <a name="workday-to-ad-user-provisioning-goes-into-quarantine-state"></a>Workday to AD User Provisioning goes into quarantine state
 
-**Zřizování uživatelů služby AD v pracovní dny je v karanténě a v ad nejsou vytvořeni žádní uživatelé.**
+**Zřizování uživatelů služby Workday to AD přejde do stavu karantény a ve službě AD se vytvoří žádní uživatelé.**
 
-Úloha Workday to AD User Provisioning je v karanténě a protokoly auditování zobrazují události selhání exportu s chybovou zprávou **Chyba: OperationsError-SvcErr: Došlo k chybě operace. Pro adresářovou službu nebyl nakonfigurován žádný nadřízený odkaz. Adresářová služba proto nemůže vydat doporučení** k objektům mimo tuto doménovou strukturu. Tato chyba se obvykle zobrazí, pokud není OU kontejneru služby Active Directory nastaveno správně nebo pokud jsou problémy s mapováním výrazů, které se používají pro **parentDistinguishedName.**
+Úloha Zřizování uživatelů služby Workday to AD je v karanténě a v protokolech auditování se zobrazují události selhání exportu s chybovou zprávou **Chyba: OperationsError-SvcErr: Došlo k chybě operace. Pro adresářovou službu nebyl nakonfigurovaný žádný nadřízený odkaz. Adresářová služba proto nemůže vydávat odkazy na objekty mimo tuto doménovou strukturu**. Tato chyba se obvykle zobrazuje, pokud není správně nastavená OU kontejneru služby Active Directory nebo pokud existují problémy s mapováním výrazů použitým pro **parentDistinguishedName**.
 
-Překlepy zkontrolujte u **parametru Výchozí** OU pro nové uživatele. Ujistěte se, že zadaná OU už ve vaší službě AD existuje. Pokud v mapování **atributů používáte parentDistinguishedName,** ujistěte se, že se vždy vyhodnocuje jako známý kontejner v doméně služby AD. Zkontrolujte událost exportu v protokolech auditování a podívejte se na vygenerovanou hodnotu.
+U překlepů **zaškrtněte** u parametru Výchozí OU pro nové uživatele. Ujistěte se, že zadaná OU už ve vaší službě AD existuje. Pokud v mapování atributů používáte **parentDistinguishedName,** ujistěte se, že se vždy vyhodnotí jako známý kontejner v doméně AD. Zkontrolujte událost Export v protokolech auditování a zobrazte vygenerovanou hodnotu.
 
-Další podrobnosti o konfiguraci pracovního dne pro automatické zřizování najdete v kurzu: Konfigurace [funkce Workday pro automatické zřizování uživatelů.](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)
+Další podrobnosti o konfiguraci pracovního dne pro automatické zřizování najdete v tématu [Kurz:](https://docs.microsoft.com/azure/active-directory/saas-apps/workday-inbound-tutorial)Konfigurace pracovního dne pro automatické zřizování uživatelů .
 

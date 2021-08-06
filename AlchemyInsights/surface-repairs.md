@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11648"
 - "9003951"
-ms.openlocfilehash: 1ebd6f9cdde0db4ac50d06f75208bd16dbc05417
-ms.sourcegitcommit: cd71980a8f95467c95f97d657bfa859ee47931fa
+ms.openlocfilehash: 7267c12aae152f3e5cc851c22d8bc8a98e6a5625da0ec1aaf85d2dc3f82f8144
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "53004980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998757"
 ---
 # <a name="surface-repairs"></a>Opravy zařízení Surface
 

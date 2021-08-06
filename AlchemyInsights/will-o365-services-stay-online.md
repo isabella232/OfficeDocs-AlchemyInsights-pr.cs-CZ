@@ -1,5 +1,5 @@
 ---
-title: Zůstanou služby Office 365 online?
+title: Zůstanou Office 365 služby online?
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003899"
 - "6953"
-ms.openlocfilehash: 172f8c9bdf54b608de8d5cac33a4cf7f4193dc61
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 3e511bf287d9dad3a00d45686308d036f81372e6f9bc700c6043ed76aa5b184e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49677685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036845"
 ---
-# <a name="will-office-365-services-stay-online"></a>Zůstanou služby Office 365 online?
+# <a name="will-office-365-services-stay-online"></a>Zůstanou Office 365 služby online?
 
-Ano. Vyvinuli jsme tyto služby s ohledem na odolnost. Každá z těchto služeb spouští více instancí najednou, a to i v případě, že se jedná o jednu instanci. Každá služba je také obsažena, takže pokud se problém týká jedné služby, nešíří se do ostatních. Nakonec jsou do kódu jednotlivých služeb integrována ochranná opatření, která zabraňují problémům v kaskádě.
+Ano. Tyto služby jsme vyvinuli s vědomím odolnosti. Každá ze služeb spustí více instancí najednou, takže i když má jedna instance problémy, naši zákazníci na to nemají vliv. Každá služba je také obsažená, takže pokud dojde k problému s jednou službou, nebude se šířit do ostatních. A konečně jsme do kódu každé služby zabudováli bezpečnostní opatření, která pomáhají zabránit problémům v kaskádové kaskádové službě.
 
-Pokud se chcete dozvědět víc o naší snaze udržet stabilní služby, přečtěte si téma [Správa kontinuity podnikání organizace (EBCM) v rámci cloudových služeb](https://go.microsoft.com/fwlink/?linkid=2124377).
+Další informace o našich snahách o zajištění stabilních služeb najdete v článku Enterprise řízení kontinuity provozu [(EBCM)](https://go.microsoft.com/fwlink/?linkid=2124377)s cloudovými službami .
 
-Děkujeme, že jsme váš názor vyhodnotili, klikněte na **tlačítko Ano** /  na otázku, která se zobrazí, a ohodnoťte svůj zážitek.
+Vážíme si vaší zpětné vazby, proto **vyberte** ano ne na otázku, která se zobrazí, a pak /  ohodnotit vaše zkušenosti.

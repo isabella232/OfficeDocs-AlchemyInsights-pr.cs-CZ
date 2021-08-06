@@ -1,5 +1,5 @@
 ---
-title: Předplatné je zrušené – starší verze – účet zdarma
+title: Předplatné bylo zrušeno – starší verze – účet zdarma
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6847"
-ms.openlocfilehash: 36755f68e45d3a0099c0e378e166bff82362e490
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: e2cedead6e93fa7303e5d54b8d79fda14ae2cb9987a17986c6327ac78189c4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999197"
 ---
-# <a name="subscription-cancelled---legacy---free-account"></a>Předplatné je zrušené – starší verze – účet zdarma
+# <a name="subscription-cancelled---legacy---free-account"></a>Předplatné bylo zrušeno – starší verze – účet zdarma
 
-Vaše předplatné je zakázané, protože vypršela platnost kreditu Azure.
+Vaše předplatné je zakázané, protože platnost kreditu Azure vypršela.
 
-**Platnost kreditu Azure vypršela.**
+**Platnost kreditu Azure vypršela**
 
-Když se přihlásíte k účtu služby Azure Free, získáte bezplatné zkušební předplatné, které vám poskytne $200 v Azure kreditech po dobu 30 a 12 měsíců bezplatných služeb. Na konci 30 dnů Azure deaktivuje vaše předplatné. Vaše předplatné je zakázáno, aby vás chránil za nechtěně vzniklé poplatky za využití za kredit a bezplatné služby, které jsou součástí vašeho předplatného. Pokud chcete dál používat služby Azure, musíte [upgradovat předplatné](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription). Po upgradu má předplatné pořád přístup k bezplatným službám po dobu 12 měsíců. Účtuji jste pouze za využití za bezplatné služby a množství.
+Když si zaregistrujete bezplatný účet Azure, získáte bezplatné zkušební předplatné, které vám poskytne kredity Azure za 30 dní a 12 měsíců bezplatných služeb. Na konci 30 dnů Azure vaše předplatné zakáže. Vaše předplatné je zakázané, aby vás chránilo před nechtěným zrušením poplatků za použití nad rámec kreditu a bezplatných služeb, které jsou součástí vašeho předplatného. Pokud chcete dál používat služby Azure, musíte [upgradovat předplatné.](https://docs.microsoft.com/azure/cost-management-billing/manage/upgrade-azure-subscription) Po upgradu má vaše předplatné stále přístup k bezplatným službám po dobu 12 měsíců. Poplatky za použití se vám účtují jenom nad rámec bezplatných služeb a množství.
 
-K upgradu předplatného postupujte takto:
+Při upgradu předplatného postupujte takto:
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/).
+1. Přihlaste se na [portál Microsoft Azure](https://portal.azure.com/).
 2. Vyhledejte **předplatná**.
-3. Vyberte předplatné, které bylo vytvořeno při registraci účtu služby Azure Free.
-4. V přehledu předplatného klikněte na panelu příkazů na tlačítko **upgradovat předplatné** . Pokud se tlačítko předplatné upgradu nezobrazuje, klikněte v horní části stránky na nápis pro upgrade.
-5. Pokud pro svůj účet nepoužíváte způsob platby, zobrazí se výzva k jeho přidání.
-6. Možná budete muset zadat telefonní číslo, abyste ověřili svou totožnost.
-7. Zadejte název svého předplatného.
-8. Klikněte na  **upgradovat**.
+3. Vyberte předplatné, které jste vytvořili při přihlášení k bezplatnému účtu Azure.
+4. V přehledu předplatného klikněte na **panelu** příkazů na tlačítko Upgradovat předplatné. Pokud tlačítko předplatného upgradu nevidíte, klikněte na banner upgradu v horní části stránky.
+5. Pokud pro svůj účet nemáte způsob platby, zobrazí se výzva, abyste ho přidali.
+6. Možná budete muset zadat telefonní číslo, abyste ověřili svou identitu.
+7. Zadejte název předplatného.
+8. Klikněte **na Upgradovat.**

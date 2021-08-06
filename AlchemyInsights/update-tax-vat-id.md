@@ -1,5 +1,5 @@
 ---
-title: Aktualizace DIČ/DPH
+title: Aktualizace DIČ
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7323"
-ms.openlocfilehash: 086b91c3247214d33e9b71b53ea6ba4d001936e3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 378ad1434f80d31c9649cecee363a448fb6dc342d36dc06123a59bacfd9d73f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677103"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908449"
 ---
-# <a name="update-taxvat-id"></a>Aktualizace DIČ/DPH
+# <a name="update-taxvat-id"></a>Aktualizace DIČ
 
-Pokud máte nějaké problémy související s ID vaší daně nebo DPH, obraťte se na partnera pro licencování společnosti Microsoft (partner nebo softwarový poradce). Budou kontaktovat centrum pro otázky místního provozu (ROC) s dotazy týkajícími se daňového přiznání. 
+Pokud máte nějaké problémy související s VAŠÍM DIČ/DIČ, kontaktujte svého licenčního partnera microsoftu (partnera nebo softwarového poradce). S dotazy týkajícími se VAŠEHO DIČ/DIČ se budou obrátit na Regional Operations Center (ROC). 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006487"
 - "11085"
-ms.openlocfilehash: 877a53cb1b08d40fda1c7f238b2e7328739e93d0
-ms.sourcegitcommit: d8abdc8490c26f180bcce2ec696cd521381eb288
-ms.translationtype: MT
+ms.openlocfilehash: 9a4b84f8ad8d805934e4df7f2e450428fa659b70fb532d3e912c5fd9e422f66e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52124952"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036593"
 ---
 # <a name="get-the-windows-10-may-2021-update"></a>Získání aktualizace Windows 10 z května 2021
 

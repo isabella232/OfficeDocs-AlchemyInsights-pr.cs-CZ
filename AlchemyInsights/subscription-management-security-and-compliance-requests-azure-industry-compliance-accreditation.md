@@ -1,5 +1,5 @@
 ---
-title: Správa předplatného – požadavky na zabezpečení a dodržování předpisů – akreditace dodržování předpisů Azure
+title: Správa předplatného – požadavky na zabezpečení a dodržování předpisů – akreditování dodržování předpisů v azure industry
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998936"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Správa předplatného – požadavky na zabezpečení a dodržování předpisů – akreditace dodržování předpisů Azure
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>Správa předplatného – požadavky na zabezpečení a dodržování předpisů – akreditování dodržování předpisů v azure industry
 
-Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
+Na základě popisu vašeho problému jsme pro vás našli řešení. Většina zákazníků dokázala vyřešit svůj problém sami po provedení naší dokumentace.
 
-- **Zásada**: u všech dotazů týkajících se dokumentů Microsoft dodržování předpisů se podívejte na článek [dodržování předpisů v centru zabezpečení Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **Zásady:** Všechny otázky týkající se dokumentu Microsoft Compliance najdete v tématu [Dodržování předpisů v Centru zabezpečení Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
-- **HIPAA a Hitech Act**: Podívejte se na článek Windows Azure HIPAA Guide, pokud máte zájem o HIPAA a o Hitech Act, abyste porozuměli příslušným funkcím Windows Azure.
+- **HIPAA** Windows HITECH Act : Pokud máte zájem o HIPAA Windows hitech act, podívejte se na příručku Azure HIPAA, kde se můžete se podívat na příslušné možnosti Windows Azure.
 
-- **Certifikace FedRamp**: všechny informace o certifikaci FedRamp najdete v článku FedRamp Marketplace.
+- **Certifikace FedRamp**: Informace o certifikaci FedRamp najdete v tématu FedRamp Marketplace.
 
-- **Dodržování předpisů Azure PCI DSS**: požadované dokumenty v Azure pro dosažení souladu s dodržováním závazků platební karty jsou "ověření shody" a "matice odpovědnosti", obě jsou k dispozici v centru zabezpečení Azure. Ověřte, jestli máte tyto dokumenty. Pokud máte tyto dokumenty, ale potřebujete další kontrolní nátisk dodržování standardů zabezpečení dat PCI Microsoft Azure, podívejte se na [Microsoft a PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- Dodržování předpisů **azure PCI DSS:** Požadované dokumenty související s Azure pro dosažení souladu s obory platebních karet jsou "Ověření dodržování předpisů" a "Matice odpovědnosti", které jsou dostupné v Centru zabezpečení Azure. Ověřte prosím, jestli máte tyto dokumenty. Pokud máte tyto dokumenty, ale potřebujete další doklad o Microsoft Azure standardu zabezpečení dat PCI, podívejte se na článek Microsoft a [PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
 
-- **Provozní operace, zabezpečení a dodržování předpisů**: Pokud máte obecné otázky týkající se zabezpečení v Azure, přečtěte si téma standardní odpověď na žádost o zabezpečení Microsoft Azure, ochranu osobních údajů a dodržování předpisů
+- **Azure Operations/Security/Compliance**: Pokud máte obecné otázky související se zabezpečením v Azure, přečtěte si článek Standardní odpověď na žádost o informace Microsoft Azure Zabezpečení, ochrana osobních údajů a dodržování předpisů Pokud máte otázky související s dodržováním předpisů, podívejte se na časté otázky k microsoftu STP – Dodržování předpisů a portálu service Trust Portal.
 
-Pokud máte otázky týkající se dodržování předpisů, podívejte se na článek Nejčastější dotazy k [Microsoft portál STP – dodržování předpisů](https://www.microsoft.com/trust-center/compliance/compliance-overview) a služeb.
+Pokud máte dotazy související s dodržováním předpisů, podívejte se na časté otázky k [portálu Microsoft STP – Compliance](https://www.microsoft.com/trust-center/compliance/compliance-overview) and Service Trust Portal.
 
-- **GDPR, dodržování předpisů**: Pokud máte dotazy o smlouvě o zpracování dat, přečtěte si téma "termíny služby Online Services" začínají na stránce 7. Tento OST zahrnuje primární termíny zpracování dat, ale je součástí standardní komerční smlouvy. Kromě jiného je to ve smluvním závazku ohledně našich závazků v GDPR. Kromě toho se podívejte na termíny GDPR na konci kontraktu v části "přílohy 4", počínaje na stránce 42. Tyto oddíly zahrnují závazky společnosti Microsoft týkající se GDPR jako datového a subprocesoru jinému datovému procesoru.
-
-> [!NOTE]
-> Při otevírání dokumentů PDF se doporučuje používat aplikaci Adobe Acrobat Reader, protože byly zjištěny problémy s jinými prohlížeči PDF. Doporučujeme také stáhnout soubor místně, a nemusíte ho otevírat v okně prohlížeče, což může způsobit chyby.
-
-- **Dodržování předpisů HDS**: Azure je teď "hostingem dat o stavu", certifikováno podle francouzských požadavků. Další informace najdete v tématu "Microsoft Azure je nyní certifikován pro hostování citlivých zdravotních dat ve Francii".
-
-- **Testování průniků**: úplný proces odeslání žádosti o pronikání je zákazníkem samostatný proces na webu "pentest".
-
-Další podrobnosti o testování průniků najdete v tématu [testování průniků](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **Upozornění zákazníků na změny subprocesu**: můžete se rozhodnout, že budete dostávat oznámení o změnách v seznamu podprocesorů Microsoft Personal data.
+- **Dodržování předpisů GDPR:** Pokud máte dotazy týkající se Smlouvy o zpracování dat, podívejte se na "Podmínky ochrany osobních údajů" počínaje stránkou 7 v části "Podmínky online služeb". OST zahrnuje primární podmínky zpracování dat, ale je součástí standardní obchodní smlouvy. Mimo jiné poskytuje smluvní závazek týkající se našich povinností GDPR. Podmínky specifické pro GDPR na konci smlouvy najdete v části Příloha 4 počínaje stránkou 42. Tyto oddíly zahrnují povinnosti společnosti Microsoft týkající se GDPR jako zpracovatele dat a jako dílčí procesor pro jiného zpracovatele dat.
 
 > [!NOTE]
-> Data zákazníků online služeb a upozornění na seznam osobní údaje jsou plně automatizovaná. Další informace najdete v tématu Microsoft Data Protection Resources.
+> Důrazně se doporučuje používat Adobe Acrobat Reader k otevření dokumentů PDF, protože byly zminěny problémy s jinými prohlížeči PDF. Doporučujeme také soubor stáhnout místně místo otevření v okně prohlížeče, protože to může způsobit chyby.
+
+- **Dodržování předpisů HDS:** Azure je teď "Health Data Hosting" certifikovaný v souladu s francouzskými požadavky. Další informace najdete v tématu "Microsoft Azure je certifikovaný pro hostování citlivých dat o stavu ve Francii".
+
+- **Testování průniku:** Celý proces odeslání žádosti o průnikový test je proces samoobslužné služby zákazníka při "pentestu".
+
+Další informace o testování průniku najdete v tématu [Testování průniku](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
+
+- **Oznámení zákazníků o změnách** podprocesoru: Můžete se přihlásit k přijímání oznámení o změnách v seznamu podprocesorů osobních údajů společnosti Microsoft.
+
+> [!NOTE]
+> Oznámení o zákaznických datech a seznamu osobních údajů online služeb je plně automatizované. Další informace najdete v tématu Zdroje ochrany dat microsoftu.
 
 **Doporučené dokumenty**
 
-- [Export nebo odstranění nastavení na portálu Azure](https://docs.microsoft.com/azure/azure-portal/set-preferences)
-- [Vyhledání sestav aktivit na portálu Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [Události rizik služby Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Rizika pro uživatele](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Rizikové přihlášení](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [Co jsou sestavy Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
-- [Microsoft a HIPAA a HITECH Act](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [Dokumentace o prozatímním ověření ministerstva obrany USA (US) na IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [Export nebo odstranění nastavení na portálu Azure Portal](https://docs.microsoft.com/azure/azure-portal/set-preferences)
+- [Vyhledání sestav aktivit na portálu Azure Portal](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
+- [Azure Active Directory rizikové události](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Ohrožení uživatelé](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Risky sign-ins](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [Co jsou Azure Active Directory sestavy?](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Microsoft a HIPAA a zákon HITECH](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
+- [Dokumentace k předběžné autorizaci amerického ministerstva obrany (DoD) na il4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Vaše skupina se nezobrazuje v seznamu skupin
+title: Vaše skupina se nezobrazuje v seznamu skupin.
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a9a4cc59288046affe35c9248a3829e3c0b3fa361b5120e47aaeaa34eec7a983
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47757473"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907623"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Skupina "{AimKIObject}" se nezobrazuje v seznamu skupiny
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Vaše skupina {AimKIObject}, která se nezobrazuje v seznamu Skupin
 
-Distribuční skupina s názvem "{AimKIObject}" byla vytvořena před {AimKITimeElapsed} minutami. Může to trvat až 60 minut, než se vaše nová skupina objeví v centru pro správu.
+Vaše distribuční skupina s názvem {AimKIObject}" byla vytvořena {AimKITimeElapsed} před několika minutami. Než se nová skupina zobrazí v Centru pro správu, může to trvat až 60 minut.
   
-Pokud chcete přidat členy nebo udělat jiné úpravy, použijte funkci skupiny v [centru pro správu Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Pokud chcete přidat členy nebo provést další úpravy hned teď, použijte prosím funkci Skupiny v [Centru Exchange pro správu.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx)
   
 

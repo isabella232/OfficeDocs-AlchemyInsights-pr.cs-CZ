@@ -1,5 +1,5 @@
 ---
-title: Odepřený přístup při prohlížení pracovního postupu
+title: Access denied when viewing a Workflow
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 77f7f3b68ea4c99f39049b90f3feaf2f7f9b1364
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f5fa5f8afdfacbefb071f6899b75c397b26705379d11bb1958c3d7f7be499b1f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664451"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907767"
 ---
-# <a name="intermittent-delays-with-workflow-progress"></a>Přerušované zpoždění při průběhu pracovního postupu
+# <a name="intermittent-delays-with-workflow-progress"></a>Občasná zpoždění s průběhem pracovního postupu
 
-Pokud se váš pracovní postup nespouští, může se jednat o dočasný problém s poskytováním služeb, při kterém mohou uživatelé zaznamenat přerušované zpoždění pomocí pracovního postupu. Podívejte se na [řídicí panel stavu služeb](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a zjistěte, jestli je vaše organizace ovlivněná. 
+Pokud pracovní postup nezačáte, může docházet k dočasnému problému se službou, kdy se uživatelům může při průběhu pracovního postupu občas vyskytnout zpoždění. Zkontrolujte řídicí [panel Stavu služby](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a podívejte se, jestli má vaše organizace vliv. 
 
-Pokud od prvního vystavení tohoto problému uplynulo více než 24 hodin, protokolujte lístek podpory. V mnoha případech jsme na řešení ještě pracujeme. Dokončete řešení alespoň 24 hodin.
+Pokud od prvního pohledu na tento problém uplynulo více než 24 hodin, přihlaste se prosím k lístku podpory. V mnoha případech už pracujeme na řešení. Na dokončení řešení nám prosím dejte aspoň 24 hodin.
 
 
   

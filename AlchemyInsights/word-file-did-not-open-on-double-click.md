@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 0b29aa150d9eead7fa97768a1cd59c1601cfce77
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aff548db493087e16629e81f5da9990a00c53e510bc5f92743dee393956d9c1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834112"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036557"
 ---
 # <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Word dokument otevřený v nesprávné aplikaci nebo se neotevřel
 
@@ -31,19 +31,19 @@ Vyzkoušejte jeden z těchto návrhů:
 
 1. Přejděte na **Ovládací panely > Programy > Programy a funkce**.
 
-2. Vyberte produkt Office, který chcete opravit, a pak zvolte **Změnit**.
+2. Vyberte Office, který chcete opravit, a pak zvolte **Změnit**.
 
 3. Zvolte možnost **Rychlá oprava** a pak zvolte **Opravit**.
 
-**Odinstalace verzí Office, které nepou íte**
+**Odinstalace verzí Office, které používáte**
 
-1. Přejděte na **Ovládací panely > Odinstalovat program a** vyberte verzi Office, kterou chcete odebrat.
+1. Přejděte na **Ovládací panely > Odinstalovat program a** pak vyberte verzi aplikace, Office kterou chcete odebrat.
 
 2. Klikněte **na Odinstalovat.**
 
 3. Restartujte počítač.
 
-**Spuštěním tohoto poradce při potížích nastavte přípony souborů Office tak, aby se v Office otevíra**
+**Spuštěním tohoto poradce při potížích nastavte Office souborů, které se otevřou v Office**
 
 1. Spusťte tohoto poradce při potížích: https://aka.ms/diag_officefile .
 

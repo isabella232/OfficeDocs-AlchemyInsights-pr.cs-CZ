@@ -1,5 +1,5 @@
 ---
-title: Windows se nespustí na Zařízení Surface
+title: Windows se na Zařízení Surface nespustí
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9758"
 - "9005418"
-ms.openlocfilehash: d4e86433bb15e07143b0b25bb515eedcfd329cb9
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 91ccb5d24b820978579ece9a412cb87c5540564d9c1005482ab928b53a0c1a10
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035174"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036773"
 ---
-# <a name="windows-doesnt-start-on-surface"></a>Windows se nespustí na Zařízení Surface
+# <a name="windows-doesnt-start-on-surface"></a>Windows se na Zařízení Surface nespustí
 
-Pokud se Na zařízení Surface nespustí Windows nebo se vaše zařízení neprobouzí z režimu spánku, zkuste tento postup řešení potíží:
+Pokud Windows zařízení Surface nespustí nebo se vaše zařízení neprobouzí z režimu spánku, zkuste tento postup řešení potíží:
 
-- Pokud se Systém Windows nespustí správně, když zapnete Surface (tj. systém Windows se nespustí), postup řešení tohoto problému najdete v článku Windows se nespustí na [Zařízení Surface](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c).
+- Pokud Windows nefunguje správně, když zapnete Surface (tj. Windows se nespustí), postup řešení tohoto problému najdete v článku Windows se nespustí [na Surface](https://support.microsoft.com/surface/windows-doesn-t-start-on-surface-3dd47ea1-472a-4514-c8e1-ff81bd72be5c).
 
 - Pokud se zařízení Surface nezapíná ani neprobudí, postup řešení potíží najdete v článku Zařízení Surface se nezapíná ani [neprobudí z režimu spánku](https://support.microsoft.com/surface/surface-won-t-turn-on-or-wake-from-sleep-1e181652-3db8-5ca1-9649-7390fafb102a).
 

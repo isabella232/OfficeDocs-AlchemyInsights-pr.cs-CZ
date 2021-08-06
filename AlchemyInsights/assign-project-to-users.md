@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: 4938f3e20f5540091ee0b255e7b3f752c07d13fd
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 6547a70b4208f362fb995afad656a2bae9c3f37452ee73b9808c29f60be44513
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019645"
 ---
 # <a name="assign-project-to-users"></a>Přiřazení Projectu uživatelům
 

@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908667"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Řešení chyby schránky v Excelu
+# <a name="resolving-excel-clipboard-error"></a>Řešení Excel schránky
 
-Pokud se v Excelu zobrazí chyba s oznámením, že se jedná o problém se schránkou, ale obsah v tomto sešitu můžete přesto vložit, zkuste funkci Live Preview zakázat takto:
+Pokud se v aplikaci Excel zobrazí chyba s oznámením, že se jedná o problém se schránkou, ale obsah v tomto sešitu můžete vložit, zkuste funkci Live Preview zakázat takto:
 
-1. V Excelu klikněte na **Možnosti**  >  **souboru**.
-3. V dialogovém **okně Možnosti** aplikace Excel vyberte **Obecné**.
+1. V Excel klikněte na **Možnosti**  >  **souboru**.
+3. V dialogovém **Excel Možnosti** vyberte **Obecné**.
 4. V **části Možnosti uživatelského rozhraní** zrušte zaškrtnutí políčka Povolit živý **náhled**.
-5. Klikněte na tlačítko **OK**.
+5. Klikněte na **OK**.
 6. Restartujte Excel.

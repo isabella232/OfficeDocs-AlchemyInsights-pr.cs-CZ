@@ -1,5 +1,5 @@
 ---
-title: Předplatné je zrušené – zastaralé – limit útraty
+title: Předplatné bylo zrušeno – starší verze – limit útraty
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: da4f7456359b04619a505d3c9fd378387c255a24
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 31480f84c8eed63163b1436246eaf1812f15f6d7c2dad29653b2019f8a15f1af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999017"
 ---
-# <a name="subscription-cancelled---legacy---spending-limit"></a>Předplatné je zrušené – zastaralé – limit útraty
+# <a name="subscription-cancelled---legacy---spending-limit"></a>Předplatné bylo zrušeno – starší verze – limit útraty
 
-Naše záznamy ukazují, že máte nastavený limit útraty pro předplatné a využití přesáhlo limit útraty. Proto je vaše předplatné zakázáno.
+Naše záznamy označují, že máte nastavený limit útraty u předplatného a využití překročilo limit útraty. Vaše předplatné je proto zakázané.
 
-**Limit útraty v předplatném**
+**Limit útraty u předplatného dosáhl**
 
-Předplatná Azure s kredity má u nich omezení útraty. To znamená, že služby můžete používat pouze k zahrnutému kreditu. Když využití dosáhne limitu útraty, Azure zakáže předplatné pro zbývající část tohoto fakturačního období. Vaše předplatné je zakázáno, aby vás chránil za nechtěně vzniklé poplatky za použití za kreditem, který je součástí vašeho předplatného. Pokud chcete odebrat limit útraty, přečtěte si článek [Odebrání limitu útraty v centru účtů](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
+Předplatná Azure s kredity mají u nich limity útraty. To znamená, že můžete používat jenom služby až do zahrnutých kreditů. Když vaše využití dosáhne limitu útraty, Azure zakáže vaše předplatné po zbytek tohoto fakturačního období. Vaše předplatné je zakázané, aby vás chránilo před nechtěným vyždíráním poplatků za použití nad rámec kreditu, který je součástí vašeho předplatného. Pokud chcete limit útraty odebrat, podívejte se na stránku Odebrání [limitu útraty v Centru účtů.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove)
 
 Pomocí následujících kroků odeberte limit útraty a znovu aktivujte předplatné:
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/) jako správce účtu.
-2. Vyhledejte **správu nákladů + fakturace**.
-3. V seznamu **Moje předplatná** vyberte bezplatné předplatné nebo předplatné účtu.
-4. V přehledu předplatného klikněte na oranžový proužek a odeberte limit útraty.
-5. Zvolte, jestli chcete odebrat limit útraty po neomezenou dobu nebo pouze pro aktuální fakturační období.
-6. Klikněte na **Vybrat způsob platby** a zvolte způsob platby pro předplatné. Ta se stanou aktivním způsobem platby pro vaše předplatné.
+1. Přihlaste se k [portálu Azure portal](https://portal.azure.com/) jako správce účtu.
+2. Vyhledejte položku **Správa nákladů + fakturace**.
+3. V seznamu **Moje předplatná** vyberte bezplatné předplatné zkušební verze nebo účtu.
+4. V přehledu předplatného klikněte na oranžový banner a limit útraty odeberte.
+5. Zvolte, jestli chcete limit útraty odebrat neomezeně dlouho nebo jenom pro aktuální fakturační období.
+6. Kliknutím **na Vybrat způsob platby** vyberte způsob platby předplatného. Stane se to aktivním způsobem platby vašeho předplatného.
 7. Klikněte na tlačítko **Dokončit**.
