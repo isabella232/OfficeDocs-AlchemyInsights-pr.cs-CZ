@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
-ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.openlocfilehash: a3c787005c24e6e107c8cbd2f0f80348e813e4c3dfcedeb1a132b798b1ef12bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006559"
 ---
 # <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a>Přiřazení bezplatného čísla konferenčnímu mostu pro audiokonference
 

@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2250b3a62de885789d5b2e38555359194f44e320
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7966933cd7474dd640ac8397ce560c9fb1c57fb4e99d02f8976d5dcfe7cf5a82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737154"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909207"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synchronizace sharepointových souborů pomocí nového synchronizačního klienta OneDrivu
 

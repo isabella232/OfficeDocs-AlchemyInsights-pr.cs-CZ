@@ -1,5 +1,5 @@
 ---
-title: 8000052 připojení souborů v Outlook.com
+title: 8000052 připojení souborů na Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,18 +12,18 @@ ms.custom:
 - "857"
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: 798884ed8bb190044d486265c8e896c8980f2f54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17357abe83c410e0bcb81ac38487689aff7fd6421d9ed33d9f10576721b71d3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060129"
 ---
-# <a name="how-to-attach-files-in-outlook"></a>Jak připojit soubory v OUtlooku 
+# <a name="how-to-attach-files-in-outlook"></a>Jak připojit soubory v aplikaci OUtlook 
 
-1. Vytvoření nové zprávy nebo odpovědi na zprávu
+1. Vytvořte novou zprávu nebo odpovězte na zprávu.
 
-2. V dolní části podokna pro psaní vyberte ikonu kancelářské sponky.
+2. V dolní části podokna pro psaní zprávy vyberte ikonu sponky.
 
-Přečtěte si další informace o [připojování souborů v Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).
+Přečtěte si [další informace o tom, jak připojit soubory na Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409)
   

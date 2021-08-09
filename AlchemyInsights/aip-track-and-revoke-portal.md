@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a98b2dd7ae24674d7d346335e0729daec3a00db7bb0580dd0dd4ba08f58e7aca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821584"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934214"
 ---
 # <a name="aip-track-and-revoke-portal"></a>AIP: Sledování a odvolání portálu
 
-Web **sledování dokumentů na** portálu Azure Portal můžete použít ke sledování a odvolání dokumentů při používání Azure Information Protection. Aplikace Office (Word, Excel a PowerPoint) a Průzkumník souborů můžete taky použít ke sledování a odvolání dokumentů.
+Web **sledování dokumentů na** portálu Azure Portal můžete použít ke sledování a odvolání dokumentů při používání Azure Information Protection. Ke sledování Office a odvolání dokumentů můžete použít Office aplikací (Word, Excel a PowerPoint) a Průzkumníka souborů.
 
 1. Na webu pro sledování dokumentů klikněte na **Odvolat přístup.** Odvolání dokumentu odebere přístup oprávněným uživatelům. dokument se odstraní.
-2. V aplikaci Office:
+2. V Office aplikace:
     - Otevřete chráněný dokument, který chcete sledovat nebo odvolat.
     - Na kartě **Domů** klikněte ve skupině **Ochrana** na **Zamknout > sledování a odvolání.**
 
