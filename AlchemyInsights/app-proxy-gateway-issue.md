@@ -1,5 +1,5 @@
 ---
-title: Problém brány proxy aplikací
+title: Problém s bránou Proxy aplikací
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7804"
-ms.openlocfilehash: e706b0456199c2dbd3e5ba5e926ac974b7e12c36
-ms.sourcegitcommit: 07501553ea9adabdb50ac613687e1583d159e302
+ms.openlocfilehash: 8b3bbfb1db9be8cb7aa1f651499043b3433bd7b08e3ff271e810c591b6f74acf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916705"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951522"
 ---
-# <a name="app-proxy-gateway-issue"></a>Problém brány proxy aplikací
+# <a name="app-proxy-gateway-issue"></a>Problém s bránou Proxy aplikací
 
-Pokud chcete řešit běžné problémy s chybou "tuto firemní aplikaci nelze získat přístup" u proxy aplikace Azure AD, přečtěte si článek [Chyba "k této podnikové aplikaci nelze přistupovat" při použití aplikace proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)aplikace.
+Pokud chcete vyřešit běžné problémy s chybou "Tato podniková aplikace není přístupná" v aplikaci Proxy aplikací Azure AD, podívejte se na článek Chyba "Nelze získat přístup k této podnikové [aplikaci"](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)při použití aplikace Proxy aplikace .

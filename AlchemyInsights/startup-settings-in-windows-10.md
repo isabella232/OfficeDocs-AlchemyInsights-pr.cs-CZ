@@ -1,5 +1,5 @@
 ---
-title: Nastavení spouštění ve Windows 10
+title: Nastavení spouštění v Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: 6dfae58a398db088ba00d9c2ea9788bab929ccc1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 526b92013f26675b5bf42077271ae7dc7003af31fa8f605d76aea92e0ccabfa1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828145"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909819"
 ---
-# <a name="startup-settings-in-windows-10"></a>Nastavení spouštění ve Windows 10
+# <a name="startup-settings-in-windows-10"></a>Nastavení spouštění v Windows 10
 
 **Změna automaticky spouštěné aplikace při spuštění**
 
-1. Přejděte na [Nastavení > aplikace > spuštění](ms-settings:startupapps?activationSource=GetHelp).
+1. Přejděte na [Nastavení > Aplikace > spuštění](ms-settings:startupapps?activationSource=GetHelp).
 
 2. Ujistěte se, že je zapnutá jakákoli aplikace, kterou chcete spustit při **spuštění.**
 
@@ -33,11 +33,11 @@ ms.locfileid: "51828145"
 
 2. Klikněte pravým tlačítkem myši na aplikaci, klikněte **na Další** a potom klikněte na Otevřít **umístění souboru.** Tím se otevře umístění, kam se zástupce aplikace uloží. Pokud není možnost Pro otevření umístění souboru, znamená to, že aplikace nemůže běžet při spuštění.
 
-3. S otevřeným umístěním souboru stiskněte klávesu **s logem Windows + R**, zadejte **shell:startup** a klikněte na **OK.** Tím se otevře složka Po spuštění.
+3. S otevřeným umístěním souboru stiskněte klávesu **Windows + R**, zadejte **shell:startup** a potom klikněte na **OK.** Tím se otevře složka Po spuštění.
 
 4. Zkopírujte a vložte zástupce aplikace z umístění souboru do složky Po spuštění.
 
-**Rozšířené možnosti spuštění (včetně nouzového režimu, nastavení UEFI a spouštění z jiného zařízení)**
+**Rozšířené možnosti spuštění (včetně Sejf, nastavení UEFI a spouštění z jiného zařízení)**
 
 1. Uložte si práci a zavřete všechny otevřené dokumenty, protože tento postup restartuje počítač.
 
@@ -49,6 +49,6 @@ ms.locfileid: "51828145"
 
     - Pokud chcete spustit systém ze zařízení, jako je usb disk, klikněte **na Použít zařízení.**
 
-    - Pokud chcete zadat nastavení UEFI (někdy se tomu říká nastavení systému BIOS), klikněte na Poradce při potížích > Upřesnit možnosti > **nastavení firmwaru UEFI.** 
+    - Pokud chcete zadat nastavení UEFI (někdy se tomu říká nastavení systému BIOS), klikněte na Poradce při potížích > Upřesnit možnosti > **UEFI Firmware Nastavení**. 
 
-    - Pokud chcete vstoupit do nouzového režimu nebo změnit upřesňující nastavení spouštění, klikněte na > Upřesnit možnosti **> Nastavení spuštění** a potom klikněte na **Restartovat.** Může se zobrazit dotaz, jestli chcete zadat [obnovovací klíč nástroje BitLocker.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Po opětovném restartování počítače klikněte na nastavení spouštění, které chcete použít.
+    - Pokud chcete Sejf režim nebo změnit upřesňující nastavení spuštění, klikněte na Poradce při potížích > Upřesnit možnosti > **spuštění Nastavení a** potom klikněte na **Restartovat.** Může se zobrazit dotaz, jestli chcete zadat [obnovovací klíč nástroje BitLocker.](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key) Po opětovném restartování počítače klikněte na nastavení spouštění, které chcete použít.

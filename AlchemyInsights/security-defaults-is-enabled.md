@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6006"
 - "1300007"
-ms.openlocfilehash: 78893d1ac260f9c9a2670969b4c50c8b911102c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 45154bceda45763a3cf9095c2df537070fa7d4774cdc248f72dc015d572da93b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942936"
 ---
 # <a name="security-defaults-is-enabled"></a>Výchozí nastavení zabezpečení je povolené.
 
-Nastavení zabezpečení vyzve všechny uživatele pro vícefaktorové ověřování.
+Nastavení Výchozí nastavení zabezpečení vyzve všechny uživatele k vícefaktorové ověřování.
 
-Správa výchozích nastavení zabezpečení:
+Pokud chcete spravovat výchozí nastavení zabezpečení:
 
-1. Přihlaste se k [portálu Azure](https://ms.portal.azure.com/)   pomocí přihlašovacích údajů globálního správce.
-2. Přejděte na **vlastnosti Azure Active Directory**  >  **Properties**.
+1. Přihlaste se k [webu Azure Portal](https://ms.portal.azure.com/)pomocí přihlašovacích údajů   globálního správce.
+2. Přejděte na **Azure Active Directory**  >  **Vlastnosti**.
 3. V dolní části stránky klikněte na **Spravovat výchozí nastavení zabezpečení**.
 4. Pokud chcete povolit výchozí nastavení zabezpečení, klikněte na **Ano**, pokud chcete zakázat výchozí zabezpečení, klikněte na **Ne**.
 
-Další informace najdete v tématu [co jsou výchozí nastavení zabezpečení?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+Další informace najdete v tématu [Co jsou výchozí nastavení zabezpečení?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).

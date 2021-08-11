@@ -1,5 +1,5 @@
 ---
-title: Změna domény pro skupinu Microsoft 365
+title: Změna domény pro Microsoft 365 skupiny
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
+ms.openlocfilehash: eab64b90775c28a84ebd33774ec5bf68303892dd4b2880493a4b236d9d8993d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49911760"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916984"
 ---
-# <a name="change-the-domain-for-a-microsoft-365-group"></a>Změna domény skupiny Microsoft 365
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>Změna domény pro Microsoft 365 skupiny
 
-Pokud chcete během vytváření změnit doménu pro skupinu Microsoft 365, postupujte podle pokynů v [tématu Výběr domény, kterou chcete použít při vytváření skupin systému microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
+Pokud chcete změnit doménu pro skupinu Microsoft 365 během vytváření, postupujte podle pokynů v tématu Volba domény, kterou chcete použít při [vytváření Microsoft 365 skupin.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
 
-Pokud chcete změnit doménu existující skupiny Microsoft 365, jako správce můžete přejít do centra pro správu systému Microsoft 365 https://admin.microsoft.com a pak provést následující kroky:
+Pokud chcete změnit doménu existující skupiny Microsoft 365, můžete jako správce přejít na centrum Správa Microsoftu 365 a pak provést https://admin.microsoft.com následující kroky:
 
-- V nabídce vlevo zvolte **skupiny** .
-- Vyhledejte skupinu M365, kterou chcete upravit, a vyberte ji a pak klikněte na **Upravit** v části **e-mailové adresy** , když na kartě **Obecné** .
-- Teď můžete změnit doménu primární e-mailové adresy a můžete také přidat e-mailové aliasy.
+- V **nabídce vlevo** zvolte Skupiny.
+- Vyhledejte skupinu M365, kterou chcete upravit, a  zvolte ji a potom klikněte na Upravit v části **E-mailové** adresy, když na **kartě** Obecné.
+- Teď můžete změnit doménu její primární e-mailové adresy a taky můžete přidávat e-mailové aliasy.
 
 > [!IMPORTANT]
-> Běžné distribuční skupiny **a skupiny zabezpečení** s podporou pošty vám umožní spravovat menší nastavení z centra pro správu M365. Pokud chcete spravovat víc z jejich podrobností, klikněte na kartu **Nastavení** při jejich úpravách v centru pro správu M365 a **v možnostech Správa Exchange zvolte spravovat další nastavení** .
+> Pravidelné distribuční skupiny a skupiny zabezpečení s podporou pošty vám umožní spravovat menší nastavení v části Centrum pro správu M365, **Skupiny.** Pokud chcete spravovat další podrobnosti o nich, klikněte při úpravách jednoho z nich v Centru pro správu M365 na kartu **Nastavení a** v centru pro správu Exchange vyberte Spravovat další **nastavení.**

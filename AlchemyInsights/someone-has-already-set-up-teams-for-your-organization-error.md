@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 5fe3dd4c2cea3b50028b28896c33c8dfe7621a6c0b9fdbee4976dfb0e62c3f5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909891"
 ---
 # <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Chyba: „Někdo už pro vaši organizaci Teams nastavil“
 

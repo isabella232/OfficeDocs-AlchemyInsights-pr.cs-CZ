@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: 9843c6e9c3f12c49ce11c4cb626e7d193e0ed647
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: a6ffa3a8bbed64194620ae82edf149be91efc42b0e34ed6a05f7ca03478a8697
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53909675"
 ---
 # <a name="subscription-no-longer-active"></a>Předplatné už není aktivní
 
