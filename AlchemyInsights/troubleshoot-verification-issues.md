@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002657"
 - "5619"
-ms.openlocfilehash: 601aff799a0116fb5d86e8adb746964ab9645a16
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 0b439ec3ec305df37095cb2013f62742d13170bad5bfd1ebb3d8967fc4ca02af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092871"
 ---
 # <a name="troubleshoot-verification-issues"></a>Odstraňování potíží s ověřením
 

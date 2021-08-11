@@ -1,5 +1,5 @@
 ---
-title: Správa webu SharePointu Online
+title: SharePoint Online správa webů
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5808"
-ms.openlocfilehash: 3226579bcd505699ff595bffb70548e0767229b1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2cac667b7d662c50834c1e726fdec2cb73342fac11a16289b9ef928925fd173e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826552"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093159"
 ---
-# <a name="sharepoint-online-site-management"></a>Správa webu SharePointu Online
+# <a name="sharepoint-online-site-management"></a>SharePoint Online správa webů
 
-Tady jsou některá často požadovaná témata pro správu webu SharePointu Online:
+Tady jsou některá často požadovaná témata pro SharePoint online webu:
 
 - [Správa webů](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center)
 - [Správa limitů úložiště webu](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)

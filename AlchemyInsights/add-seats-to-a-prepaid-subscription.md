@@ -15,12 +15,12 @@ ms.custom:
 - "663"
 - "1500007"
 ms.date: 04/21/2020
-ms.openlocfilehash: 3fd9ec088bc58cbe062da01be31caf8e7982038a
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 2d270fa84f6135ffdb5a42c0838c519ac4963a9873e3d021fcfcebf6c409fac6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680435"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935582"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Přidání licencí k předplaceným předplatným
 

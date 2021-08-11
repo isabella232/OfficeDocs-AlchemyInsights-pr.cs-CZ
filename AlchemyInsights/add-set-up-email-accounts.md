@@ -1,5 +1,5 @@
 ---
-title: 1800018 přidání nebo nastavení e-mailových účtů
+title: 1800018 přidat nebo nastavit e-mailové účty
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935546"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>Problémy s nastavením e-mailového účtu v Outlooku
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Problémy s nastavením e-mailového účtu v Outlook
 
-Pokud máte problémy s nastavením účtu Exchange v Outlooku, můžete v příslušném počítači spustit [Nástroj nastavení účtu v Outlooku](https://aka.ms/SaRA-OutlookSetupProfile) . Provede různé kontroly a umožní řešení problémů s nastavením účtu.
+Pokud máte problémy s nastavením účtu Exchange v Outlook, můžete na příslušném počítači spustit [nástroj Outlook nastavení](https://aka.ms/SaRA-OutlookSetupProfile) účtu. Provede různé kontroly a poskytne možná řešení problému s nastavením vašeho účtu.
   
-Pokud pořád máte problémy, podívejte se na článek [automatické konfigurace systému Exchange pro poštovní schránku Exchange Online v Outlooku se nedá nastavit nový profil](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+Pokud máte pořád problémy, podívejte se na Outlook nemůžete nastavit nový profil pomocí automatické konfigurace Exchange pro poštovní schránku [Exchange Online.](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
   
