@@ -1,5 +1,5 @@
 ---
-title: 646 jak nakonfigurovat AADConnect
+title: 646 Jak nakonfigurovat AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,25 +13,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5fa5fd7586f999698fe43554fb9a2b205be3e25740c20763254a38d41297e0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704482"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963636"
 ---
 # <a name="configure-sync-features"></a>Konfigurace funkcí synchronizace
 
-Azure AD Connect obsahuje několik funkcí, které jsou ve výchozím nastavení povolené, nebo je můžete povolit později. Některé funkce vyžadují další konfiguraci v konkrétních prostředích.
+Azure AD Připojení obsahuje několik funkcí, které jsou ve výchozím nastavení povolené nebo které můžete povolit později. Některé funkce vyžadují další konfiguraci v určitých prostředích.
 
-- [Filtrování](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) omezení: objekty jsou synchronizovány do služby Azure AD. Ve výchozím nastavení se synchronizují všichni uživatelé, kontakty, skupiny a účty počítačů s Windows 10. Můžete zahrnout nebo vyloučit objekty na základě domén, organizačních jednotek nebo jiných atributů.
+- [Filtrování omezuje,](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) že se objekty synchronizují s Azure AD. Ve výchozím nastavení se synchronizují všichni uživatelé, kontakty, skupiny Windows 10 účty počítačů. Můžete zahrnout nebo vyloučit objekty založené na doménách, OU nebo jiných atributech.
 
-- [Synchronizace hash hesla](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) : synchronizuje hodnotu hash hesla z místní služby Active Directory do Azure AD. To umožňuje správu hesel v jednom umístění, ale používat stejné heslo v místním i cloudovém prostředí. Protože je služba Active Directory autoritativním zdrojem, můžete použít vlastní zásady hesel.
+- [Synchronizace hodnot hash](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) hesel synchronizuje hodnotu hash hesel z místního adresáře Active Directory do Azure AD. To umožňuje správu hesel na jednom místě, ale použití stejného hesla v místním i cloudovém prostředí. Vzhledem k tomu, že služba Active Directory je autoritativním zdrojem, můžete použít vlastní zásady hesel.
 
-- [Samoobslužné resetování hesla (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) umožňuje uživatelům resetovat si svoje vlastní hesla v cloudu i při používání místních zásad hesel.
+- [Samoobslužné resetování hesla (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) umožňuje uživatelům resetovat vlastní hesla v cloudu a přitom používat místní zásady hesel.
 
-- [Zpětný zápis zařízení](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) umožňuje, aby registrovaná zařízení v Azure AD byla zapsána zpátky do místní služby Active Directory, aby se mohla používat pro podmíněný přístup.
+- [Zpětný zápis zařízení](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) umožňuje zaregistrovaná zařízení v Azure AD zapisovat zpátky do místního adresáře Active Directory, aby je bylo možné použít pro podmíněný přístup.
 
-- Možnost [zabránit nechtěným odstraněním](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) je ve výchozím nastavení zapnutá, aby se zabránilo přílišnému počtu současných odstranění objektů (více než 500 objektů na synchronizaci). Toto nastavení můžete změnit podle potřeb vaší organizace.
+- [Zabránění náhodným odstraněním](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) je ve výchozím nastavení povolené, aby se zabránilo příliš mnoha současným odstraněním objektů (více než 500 objektů na synchronizaci). Toto nastavení můžete změnit tak, aby splňovalo potřeby vaší organizace.
 
-- [Automatický upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) je ve výchozím nastavení povolený pro Expresní instalace a pomáhá zajistit, že vaše verze Azure AD Connect je vždycky aktuální.
+- [Automatický upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) je ve výchozím nastavení povolený pro expresní instalace a pomáhá zajistit, aby vaše verze služby Azure AD Připojení vždy aktuální.

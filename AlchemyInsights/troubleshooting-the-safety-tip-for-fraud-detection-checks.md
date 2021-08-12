@@ -1,5 +1,5 @@
 ---
-title: Řešení potíží s bezpečnostním tipem pro kontroly zjišťování podvodů
+title: Řešení potíží bezpečnostní tip pro kontroly zjišťování podvodů
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955959"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Řešení potíží s bezpečnostním tipem pro kontroly zjišťování podvodů
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Řešení potíží bezpečnostní tip pro kontroly zjišťování podvodů
 
-Pokud se vám zobrazí bezpečnostní tip s informací, že odesílatel neprošel našimi kontrolami zjišťování podvodů a nemusí být tím, kým se jeví, pak odesílatel neprošel kontrolami ověřování DKIM nebo SPF. Nejlepší způsob, jak to vyřešit, je, aby odesílatel autorizuje sám sebe. Pokud odesílatel posílá vaším jménem, musíte ho autorizovat přidáním IP adresy odesílatele do záznamu SPF.
+Pokud se vám zobrazí zpráva bezpečnostní tip která říká, že odesílatel neprošel našimi kontrolami zjišťování podvodů a nemusí být tím, kým se jeví, pak odesílatel neprošel kontrolami ověřování DKIM nebo SPF. Nejlepší způsob, jak to vyřešit, je, aby odesílatel autorizuje sám sebe. Pokud odesílatel posílá vaším jménem, musíte ho autorizovat přidáním IP adresy odesílatele do záznamu SPF.
   
-Další informace najdete v článku Řešení potíží s [červeným (podezřelým)](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) bezpečnostním tipem pro zjišťování podvodů.
+Další informace najdete v tématu Řešení [bezpečnostní tip (podezřelých)](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) informací o kontrolách zjišťování podvodů.
   
 Tady jsou některé další odkazy, které vám pomůžou:
   

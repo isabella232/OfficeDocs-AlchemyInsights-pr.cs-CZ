@@ -14,12 +14,12 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: 8b5ac1df0b6a07a475345235a8b4b555d6881147
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8372032e19bd2ebaf3ba8cc8e87f19ef3e2edf1e607b1739a919f6dcc443cd97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813717"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946705"
 ---
 # <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Při odesílání e-mailu došlo k chybě: Hostitel klienta je zablokovaný pomocí spamhausu.
 

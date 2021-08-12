@@ -1,5 +1,5 @@
 ---
-title: Typ entity, který se nezobrazuje v kategoriích nebo výsledcích vyhledávání v aplikaci Dynamics 365 Unified Interface
+title: Typ entity, který se nezobrazuje ve výsledcích hledání podle kategorií nebo relevance v jednotném rozhraní Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946688"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>Typ entity se nezobrazuje ve výsledcích hledání
+# <a name="entity-type-not-showing-in-search-results"></a>Typ entity, který se nezobrazuje ve výsledcích hledání
 
-Pokud chcete, aby byl typ entity zobrazený v seznamu hledání podle kategorií nebo vyhledávání významnosti v aplikaci Dynamics 365 Unified, musí být nejprve přidán do modulu aplikace.
+Aby se typ entity v rozhraní Dynamics 365 Unified Interface v kategorii nebo hledání relevance zobrazovat, musí být nejprve přidán do modulu aplikace.
 
-Poznámka: při vyhledávání příloh v hledání podle relevance je nutné přidat entitu Příloha do modulu aplikace, i když nadřazený záznam je ve výsledcích zobrazený.
+Poznámka: Při hledání příloh v hledání podle relevance musí být entita přílohy přidána do modulu aplikace, i když je nadřazený záznam zobrazený ve výsledcích.

@@ -12,32 +12,32 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: bd3a6c0d7206801ff76be121c4878b8343cc9886
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53f6fd009d3dab3cd66d33d9cd248201219caa1605c7a4e7758a5a8d720f68c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691568"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910359"
 ---
-# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Řešení problémů se sdílením obsahu služby SharePoint s externími uživateli
+# <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Řešení problémů se sdílením SharePoint s externími uživateli
 
-Ujistěte se, že je ve vaší organizaci zapnuté externí sdílení:
+Zkontrolujte, jestli je pro vaši organizaci zapnuté externí sdílení:
   
-1. Přejděte na [ &amp; stránku doplňky služeb v centru pro správu Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)a klikněte na **weby**.
+1. Přejděte na [stránku Doplňky služeb &amp; v](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)Centrum pro správu Microsoftu 365 a klikněte na **Weby.**
     
-2. Zkontrolujte, jestli je nastavení zapnuté. Pokud je vybraná možnost jenom stávající externí uživatelé, zkontrolujte, jestli je externí uživatel uvedený v centru pro správu Microsoft 365.
+2. Ujistěte se, že je nastavení zapnuté. Pokud je vybraná možnost Pouze existující externí uživatelé, zkontrolujte, jestli je externí uživatel uvedený v Centrum pro správu Microsoftu 365.
     
-Zkontrolujte, jestli je na webu zapnuté externí sdílení. Pro klasickou kolekci webů:
+Ujistěte se, že je externí sdílení pro web zapnuté. Pro klasickou kolekci webů:
   
-1. V novém centru pro správu SharePointu v levém podokně klikněte na **weby**.
+1. V novém SharePoint pro správu klikněte v levém podokně na **Weby**.
     
-2. Vyberte web nebo weby a na pásu karet klikněte na **sdílení**.
+2. Vyberte web nebo weby a na pásu karet klikněte na **Sdílení.**
     
-Pro týmový web, který patří do skupiny Microsoft 365 nebo komunikační web:
+Pro týmový web, který patří do Microsoft 365 skupiny nebo komunikačního webu:
   
-- Tyto nové typy webů mají stejné nastavení sdílení jako nastavení pro celou organizaci, pokud toto nastavení neumožňuje sdílení souborů pomocí odkazů, které nevyžadují přihlášení. V tomto případě weby povolí sdílení s novými a stávajícími externími uživateli, kteří se přihlásí. Pokud chcete změnit nastavení pro určité weby, použijte nové centrum pro správu SharePointu nebo PowerShell. [Další informace](https://go.microsoft.com/fwlink/?linkid=871863)
+- Tyto nové typy webů mají stejné nastavení sdílení jako nastavení pro celou organizaci, pokud nastavení pro celou organizaci nepomáhá sdílení souborů pomocí odkazů, které nevyžadují přihlášení. V takovém případě weby umožňují sdílení s novými a stávajícími externími uživateli, kteří se přihlašují. Pokud chcete změnit nastavení pro konkrétní weby, použijte nové centrum pro SharePoint nebo PowerShell. [Další informace](https://go.microsoft.com/fwlink/?linkid=871863)
     
 > [!NOTE]
-> Nastavení externího sdílení libovolného webu může být více omezující než vaše nastavení pro celou organizaci, ale neomezenější než u celé organizace. 
+> Nastavení externího sdílení pro libovolný web může být restriktivní než nastavení pro celou organizaci, ale ne více schůdné než nastavení pro celou organizaci. 
   
 

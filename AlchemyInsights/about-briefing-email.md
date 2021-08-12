@@ -1,5 +1,5 @@
 ---
-title: O přehledných e-mailech
+title: Informace o e-mailu s přehledy
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6179"
 - "9003284"
-ms.openlocfilehash: 04fcc9930de844d221033e976adb04ef483a27ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d1c7027eeba1d156ed2b7b68502504f9eb0b940519d43ac84df1c94435260101
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663695"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955851"
 ---
-# <a name="about-briefing-email"></a>O přehledných e-mailech
+# <a name="about-briefing-email"></a>Informace o e-mailu s přehledy
 
-Další informace o přehledu najdete v tématu Přehled [e-mailů](https://docs.microsoft.com/briefing/be-overview).  
+Další informace o přehledech najdete v tématu [Přehled e-mailů přehledu](https://docs.microsoft.com/briefing/be-overview).  
 
-Tato funkce se teď vyjímá, takže vaše organizace nemusí mít přehledné e-maily, i když máte povolenou přehledovou práci. Nezapomeňte také, že uživatelům není zaručen příjem přehledných e-mailů každý den. E-maily se odesílají jenom v případě, že uživatel má k tomuto konkrétnímu dni aspoň jeden návrh, který lze akceptovat. Další informace najdete v tématu [Časté otázky k informačnímu e-mailu](https://docs.microsoft.com/briefing/be-faqs).
+Tato funkce se momentálně zakývala, takže vaše organizace nemusí dostávat e-mail briefingu, i když máte aktivovaný přehled. Upozorňujeme také, že uživatelům není zaručeno, že budou každý den dostávat e-mail briefingu. E-maily se posílají jenom v případě, že má uživatel pro tento konkrétní den aspoň jeden akční návrh. Další informace najdete v článku [Časté otázky k e-mailu přehledu](https://docs.microsoft.com/briefing/be-faqs).

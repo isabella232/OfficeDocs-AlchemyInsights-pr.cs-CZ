@@ -1,5 +1,5 @@
 ---
-title: Nastavení Bing.com výchozí domovské stránky
+title: Nastavení Bing.com jako výchozí domovské stránky
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9263"
-ms.openlocfilehash: 23229bc6d01a84684d7074e498058e9674221d36
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: afe8c68d1d5d0c9ad898d4ca90931b02449a90c4564f9fdc9abfaf6ce53aeba1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404315"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912411"
 ---
-# <a name="make-bingcom-the-default-home-page"></a>Nastavení Bing.com výchozí domovské stránky
+# <a name="make-bingcom-the-default-home-page"></a>Nastavení Bing.com jako výchozí domovské stránky
 
-Pokud chcete nastavit Bing jako výchozí domovskou stránku v Prohlížeči Microsoft Edge, Google Chrome a Internet Exploreru, postupujte podle pokynů v článku [Bing.com výchozí domovskou stránku](https://go.microsoft.com/fwlink/?linkid=2149816).
+Pokud chcete Bing domovskou stránku v aplikacích Microsoft Edge, Google Chrome a Internet Explorer nastavit jako výchozí domovskou stránku, postupujte podle pokynů v [Bing.com.](https://go.microsoft.com/fwlink/?linkid=2149816)

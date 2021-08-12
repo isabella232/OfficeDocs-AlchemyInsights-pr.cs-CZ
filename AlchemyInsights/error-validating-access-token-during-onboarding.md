@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d6b840e731eaff537d8f74f9ce0af29af13bd390e701fb2835e8718b4521158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946608"
 ---
 # <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Chyba při ověřování přístupového tokenu při desktopové analýze
 

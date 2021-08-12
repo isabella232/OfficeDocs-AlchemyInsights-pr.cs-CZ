@@ -15,12 +15,12 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: 5ebfc4b75b950473a92b6cbb25f5a9048152bad8
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: ebc8a577ec08f2114e6c8a0ace794f37b09e8684a894f93388a57656eda495e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53680615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938400"
 ---
 # <a name="activate-a-new-subscription-with-a-product-key"></a>Aktivace nového předplatného pomocí kódu Product Key
 

@@ -16,12 +16,12 @@ ms.custom:
 - "5113"
 - "9002647"
 - "5091"
-ms.openlocfilehash: 5c6355106bf53d929eaaac3286ae27ccf7d738a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 79ab97bbd788a84372a3ad7614f92f9a84a5c1cc6efbf9cc1d838858672a9ef9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929334"
 ---
 # <a name="covid-19-billing-and-license-questions"></a>Otázky k fakturaci a licencování s ohledem na COVID-19
 
