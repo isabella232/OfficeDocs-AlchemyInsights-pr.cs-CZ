@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50713476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913960"
 ---
 # <a name="device-permissions"></a>Oprávnění zařízení
 
-Pokud chcete spravovat zařízení s Windows, musíte být členem skupiny místních správců. V rámci procesu připojení ke službě Azure Active Directory (Azure AD) aktualizuje Azure AD členství v této skupině na zařízení. Aktualizaci členství můžete přizpůsobit tak, aby splňovala vaše obchodní požadavky. Aktualizace členství je například užitečná, pokud chcete, aby pracovníci technické podpory mohli provádět úkoly vyžadující práva správce na zařízení.
+Pokud chcete Windows zařízení, musíte být členem místní skupiny správců. V rámci procesu připojení Azure Active Directory (Azure AD) Azure AD aktualizuje členství v této skupině na zařízení. Aktualizaci členství můžete přizpůsobit tak, aby splňovala vaše obchodní požadavky. Aktualizace členství je například užitečná, pokud chcete zaměstnancům technické podpory povolit provádění úkolů vyžadujících práva správce na zařízení.
 
-Informace o tom, jak aktualizace členství místních správců funguje a jak ji můžete upravit během připojení ke službě Azure AD, najdete v tématu Přiřazení místních správců [zařízením.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) Obsah tohoto článku se nevztahuje na zařízení připojená k hybridní službě Azure AD.
+Informace o tom, jak funguje aktualizace členství místních správců a jak ji můžete přizpůsobit během připojení k Azure AD, najdete v tématu Přiřazení místních [správců zařízením](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Obsah tohoto článku se nevztahuje na hybridní zařízení připojená k Azure AD.

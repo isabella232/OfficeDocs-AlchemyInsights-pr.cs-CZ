@@ -1,5 +1,5 @@
 ---
-title: Řešení potíží s licencováním skupiny
+title: Poradce při potížích s licencování skupiny
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6155"
 - "9003241"
-ms.openlocfilehash: 715fe04d3930f5d88c2da2974196982c105adf08
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 308940fa3dd1c5aad80692fc30296360543854732fe2352a4f0645e6df475d99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53939300"
 ---
-# <a name="troubleshoot-group-licensing"></a>Řešení potíží s licencováním skupiny
+# <a name="troubleshoot-group-licensing"></a>Poradce při potížích s licencování skupiny
 
-Pokud chcete zjistit a vyřešit problémy s licencováním skupin ve službě Azure Active Directory (Azure AD), přečtěte si článek [identifikace a řešení problémů s přiřazováním licencí pro skupinu v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/licensing-groups-resolve-problems).
+Pokud chcete identifikovat a vyřešit problémy s licencování skupiny Azure Active Directory (Azure AD), podívejte se na informace v tématu Určení a řešení problémů s přiřazením licencí pro [skupinu v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/licensing-groups-resolve-problems).
