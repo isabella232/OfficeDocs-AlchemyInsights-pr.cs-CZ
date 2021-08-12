@@ -1,5 +1,5 @@
 ---
-title: Začínáme se SharePointem Online
+title: Začínáme s SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 241cd2616fdb1fa9d02d204655946eeb1c95691f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2eb6798456770450cb7231afc2b883ce9451eef2390955c16f9125014b41c489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800313"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910395"
 ---
-# <a name="workflows-in-sharepoint"></a>Pracovní postupy v SharePointu
+# <a name="workflows-in-sharepoint"></a>Pracovní postupy v SharePoint
 
-Pracovní postupy v SharePointu umožňují modelování a automatizaci firemních procesů. SharePoint podporuje pro vytváření pracovních postupů dvě primární prostředí pro vývoj pracovních postupů: SharePoint Designer a Visual Studio. 
+Pracovní postupy v SharePoint umožňují modelovat a automatizovat obchodní procesy. SharePoint podporuje dvě primární vývojové prostředí pracovních postupů pro vytváření pracovních postupů: SharePoint Designer a Visual Studio. 
 
-Podívejte se na článek [Vývoj pracovních postupů SharePointu v SharePoint designeru a Visia](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) nebo [Vývoj pracovních postupů SharePointu pomocí Visual studia](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) , který vyhodnotí výhody a nevýhody jednotlivých. 
+Informace [o výhodách a](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) nevýhodách jednotlivých SharePoint najdete [](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) v tématu Vývoj SharePoint pracovních postupů v SharePoint Designeru a Visio nebo Vývoj SharePoint pracovních postupů pomocí Visual Studio. 
 
-Pokud se snažíte určit, jestli jsou pracovní postupy použity v prostředí SharePointu nebo hledáte Obecné informace, podívejte se na téma [Přehled pracovních postupů v SharePointu](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).
+Pokud se snažíte zjistit, jestli jsou pracovní postupy řešením pro použití v prostředí SharePoint, nebo hledáte obecné informace o tom, jak začít, podívejte se na přehled pracovních postupů v [SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).

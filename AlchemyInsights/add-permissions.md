@@ -1,5 +1,5 @@
 ---
-title: Přidat oprávnění
+title: Přidání oprávnění
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7783"
-ms.openlocfilehash: b749278dc8e532ca723da5e6d8e4affc9a9266c7
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 02901b25ca9cd373d1e158cffdffb820b9ba7bb55c90a56aae57807a2e932192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935726"
 ---
-# <a name="add-permissions"></a>Přidat oprávnění
+# <a name="add-permissions"></a>Přidání oprávnění
 
-1. Pomocí koncového bodu souhlasu správce [nakonfigurujte seznam statických požadovaných oprávnění pro aplikaci](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application).
-1. K dispozici jsou dvě oprávnění pro udělení možnosti vytvářet registrace aplikací, každou s různým chováním. Další informace najdete v článku [oprávnění k registraci aplikací pro vlastní role v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions).
-1. [Oprávnění rolí](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions): tabulky, které popisují specifická oprávnění v Azure Active Directory přidělená jednotlivým rolím Některé role můžou mít další oprávnění ve službách Microsoftu mimo Azure Active Directory.
+1. Pomocí koncového bodu souhlasu správce [nakonfigurujte seznam staticky požadovaných oprávnění pro aplikaci](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#to-configure-the-list-of-statically-requested-permissions-for-an-application).
+1. Pro udělení možnosti vytvářet registrace aplikací jsou k dispozici dvě oprávnění, z nichž každá má jiné chování. Další informace najdete v tématu [Oprávnění k registraci aplikací pro vlastní role v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/custom-available-permissions).
+1. [Oprávnění rolí:](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference#role-permissions)Tabulky, které popisují určitá oprávnění v Azure Active Directory jednotlivým rolím. Některé role mohou mít další oprávnění služby Microsoft mimo Azure Active Directory.

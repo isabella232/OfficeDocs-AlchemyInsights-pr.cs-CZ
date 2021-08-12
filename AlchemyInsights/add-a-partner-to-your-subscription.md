@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001683"
 - "5066"
-ms.openlocfilehash: 22f22016e266d0b99efe8fa225a19f689f4a71fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ddd749863061e7a3a302794e874bc1e6d2588d9d589912ccc32eb37cd953d406
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936482"
 ---
 # <a name="add-a-partner-to-your-subscription"></a>Přidání partnera k předplatnému
 

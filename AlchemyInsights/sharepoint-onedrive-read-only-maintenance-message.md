@@ -1,5 +1,5 @@
 ---
-title: Zpráva o údržbě určená jen pro čtení při pokusu o použití SharePointu nebo OneDrivu
+title: Read-Only k údržbě při pokusu o použití SharePoint nebo OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910539"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Zpráva o údržbě určená jen pro čtení při pokusu o použití SharePointu nebo OneDrivu
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only k údržbě při pokusu o použití SharePoint nebo OneDrive
 
-Při pokusu o použití SharePointu nebo OneDrivu pro některý z následujících scénářů se uživatelům může zobrazit zpráva o **údržbě jen pro čtení** . 
+Při **pokusu** o použití SharePoint nebo OneDrive pro jeden z následujících scénářů se uživatelům může zobrazit zpráva Jen pro čtení pro údržbu. 
 
--   Plánovaná nebo aktivní aktivita údržby.  Podívejte se na ně tak, že přejdete do [centra zpráv](https://portal.office.com/adminportal/home#/messagecenter).
--   S vysokou prioritou aktivní servisní události, ke které může dojít. Podívejte se na všechny informační zpravodaje/incidenty – přejděte na [stav služby](https://portal.office.com/adminportal/home#/servicehealth).
--   Nepatrný automatický způsob obnovení, který může nastat kvůli neočekávaným událostem na serverech, které by mohly trvat méně než 30 min. 
+-   Plánovaná nebo aktivní údržba.  Zkontrolujte je tak, že přejdete do [Centra zpráv](https://portal.office.com/adminportal/home#/messagecenter).
+-   Může dojít k incidentu s vysokou prioritou a aktivní službou. Všechny poradce nebo incidenty můžete zkontrolovat tak, že přejdete na [Stav služby](https://portal.office.com/adminportal/home#/servicehealth).
+-   Menší scénář automatického obnovení, ke kterému může dojít v důsledku neočekávaných událostí na serverech, které můžou trvat méně než 30 minut. 
     
-    U těchto menších obnovení nejsou k dispozici žádná centra zpráv nebo služby stavu služeb, ale měli byste být zpátky na normální.
+    U těchto menších obnovení nejsou žádné příspěvky v Centru zpráv ani Stav služby, ale měli byste se velmi brzy vrátit k normálu.
 
-Na krátkou chvíli jsme narazili na to, že jedna ze tří uvedených scénářů byla příčina, a služba byla obnovena, ale mezipaměť prohlížeče uživatelů nebyla smazána.
+Při několika málo příležitostech jsme si poznamenali, že příčinou je jeden ze tří výše uvedených scénářů a služba byla obnovena, ale mezipaměť prohlížeče uživatelů nebyla vymazána.
 
-Než přejdete na web, zkuste vymazat mezipaměť prohlížeče.
+Než přejdete na web, zkuste mezipaměť prohlížeče vymazat.
 
-1. V prohlížeči Microsoft Edge vyberte **Nastavení**a pak vyberte **Ochrana osobních údajů a zabezpečení**.
-2. V části **Vymazat procházení**vyberte **zvolit, co chcete vymazat**.
-3. Vyberte **soubory cookie a data uloženého webu**a vyberte **Vymazat**.
-
->[!Note] 
-> Tento postup se může lišit při používání jiných prohlížečů, jako je Mozilla Firefox nebo Google Chrome.
+1. V Microsoft Edge prohlížeči vyberte **Nastavení** a pak vyberte **Ochrana osobních údajů** a zabezpečení .
+2. V **části Vymazat procházení** vyberte **Zvolit, co chcete vymazat.**
+3. Vyberte **Soubory cookie a uložená data webu** a vyberte **Vymazat**.
 
 >[!Note] 
-> Další možností je otevřít SharePointový web nebo OneDrive v novém okně InPrivate.
+> Tyto kroky se mohou lišit při používání jiných prohlížečů, jako je Mozilla Firefox nebo Google Chrome.
+
+>[!Note] 
+> Další možností by bylo otevřít váš SharePoint nebo OneDrive v novém okně InPrivate.

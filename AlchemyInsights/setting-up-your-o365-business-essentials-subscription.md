@@ -1,5 +1,5 @@
 ---
-title: Nastavení předplatného Office 365 pro Essentials
+title: Nastavení předplatného O365 Business Essentials
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: fc17d73ccdddab7e1c9e7693f6715b38efef7f56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 63a435c63019a421ca440dc7eeb58ccb3a90a5786118eb96a081f60a10e7d0b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740108"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910611"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavení předplatného Office 365 pro Essentials
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavení předplatného O365 Business Essentials
 
-Vytvoření účtů Microsoft 365 a přidání domény
+Vytvoření Microsoft 365 účtů a přidání domény
   
-- V tomto kroku vytvoříte pomocí Průvodce nastavením účty Microsoft 365 pro uživatele a přidáte vlastní doménu. Průvodce vám umožní přizpůsobit uživatelské ID a e-mail pro vaši firmu, třeba [Rob@contoso.com](mailto:rob@contoso.com).
+- V tomto kroku použijete průvodce nastavením k vytvoření Microsoft 365 účtů pro uživatele a přidání vlastní domény. Průvodce vám umožní přizpůsobit ID uživatele a e-mail všech uživatelů pro vaši firmu, například [rob@contoso.com.](mailto:rob@contoso.com)
     
-- Přejděte do [centra pro správu Microsoft 365](https://login.partner.microsoftonline.cn/).
+- Přejděte na [Centrum pro správu Microsoftu 365](https://login.partner.microsoftonline.cn/).
     
 - Průvodce spustíte tak, že zvolíte **Přejít do nastavení**. Další informace najdete v tématu [Přidání domény do Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Import e-mailu
   
-- Přesuňte stávající e-maily a kontakty z jiných e-mailových systémů do poštovní schránky Microsoft 365, abyste je všechny viděli na jednom místě. Možnosti migrace: [migrace e-mailů a kontaktů do Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin)
+- Přesuňte stávající e-maily a kontakty z jiných e-mailových systémů do Microsoft 365 poštovní schránky, abyste je mohli vidět na jednom místě. Možnosti migrace: Migrace [e-mailů a kontaktů do Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
-- Připojení e-mailových účtů
+- Připojení e-mailové účty
     
-  - Kromě správy e-mailu v Outlooku můžete taky připojit další e-mailové účty k Outlooku, jako jsou třeba účty Gmail a Yahoo. Můžete tak spravovat všechny své e-maily na jednom místě. K Outlooku můžete připojit až 5 e-mailových účtů. Další podrobnosti najdete [v tématu připojení e-mailových účtů v Outlooku na webu (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Kromě správy e-mailů v Outlook můžete připojit i další e-mailové účty k Outlook, jako jsou vaše účty Gmail a Yahoo. Můžete tak spravovat všechny své e-maily na jednom místě. K Outlooku můžete připojit až 5 e-mailových účtů. Další [Připojení najdete v Outlook na webu (Microsoft 365) e-mailových](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) účtů. 
     
 Instalace Skypu pro firmy
   
@@ -40,8 +40,8 @@ Instalace Skypu pro firmy
     
 Ukládání souborů online
   
-- Pokud chcete zjistit, která umístění úložišť jsou pro vaši firmu nejvhodnější, podívejte se na článek [kde můžete ukládat soubory v Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Všichni automaticky získá místo cloudového úložiště **OneDrive** , když pro ně vytvoříte účty Microsoft 365. Díky OneDrivu můžete mít ke svým souborům přístup ze všech svých počítačů, telefonů a tabletů. 
+- Informace o tom, která umístění úložiště jsou pro vaši firmu nejlepší, najdete v článku Kde můžete ukládat [soubory Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Každý získá automaticky **OneDrive** cloudového úložiště, když pro ně vytvoříte Microsoft 365 účty. Díky OneDrivu můžete mít ke svým souborům přístup ze všech svých počítačů, telefonů a tabletů. 
     
-Podrobné pokyny pro nastavení najdete v [tomto článku](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
+Podrobný postup nastavení najdete v [tomto článku.](https://docs.microsoft.com/microsoft-365/admin/setup/setup)
   
 

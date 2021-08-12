@@ -1,5 +1,5 @@
 ---
-title: Nezobrazují se popisky citlivosti
+title: Popisky citlivosti se nezobrazují
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 824824257fee4aaaab1f2dd32597b4cdc858d035fabd357af90cf054dd35c9c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061425"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Nezobrazují se popisky citlivosti
+# <a name="sensitivity-labels-not-appearing"></a>Popisky citlivosti se nezobrazují
 
-Popisky citlivosti umožňují klasifikovat a chránit váš citlivý obsah. Lze je vytvořit v centru dodržování předpisů v systému Microsoft 365, v centru zabezpečení Microsoft 365 nebo v centru & zabezpečení Microsoft 365 pod nadpisy > hodnocení. Další informace o této funkci najdete v tématu [Přehled popisů citlivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Popisky citlivosti umožňují klasifikovat a chránit váš citlivý obsah. Můžete je vytvořit v centru Centrum dodržování předpisů Microsoftu 365, Microsoft 365 zabezpečení nebo v centru Microsoft 365 zabezpečení & v části Klasifikační > citlivosti. Další informace o této funkci najdete v tématu [Přehled popisků citlivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Pokud jste své popisky citlivosti nakonfigurovali, ale nevidíte v aplikacích Microsoft 365, podívejte se na tyto skutečnosti:
+Pokud jste nakonfigurovali popisky citlivosti, ale nezobrazují se v Microsoft 365 aplikacích, zkontrolujte následující:
 
-- Ověřte, že popisek citlivosti [publikovaný](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) pro požadované uživatele a skupiny.
+- Ověřte, že popisek citlivosti byl [publikovaný](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) pro uživatele a skupiny, které chcete.
 
-- Potvrďte, že uživatel používá aplikaci, která podporuje popisky citlivosti – Podívejte [se na popisky citlivosti v dokumentu](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
+- Ověřte, že uživatel používá aplikaci, která podporuje popisky citlivosti – viz [popisky](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)citlivosti v dokumentu .
 
-- Pokud [migrujete štítky ochrany informací Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), uvědomte si, jaké jsou [tu tady](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Pokud migrujete [popisky Azure Information Protection,](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)uvědomte si důležité informace uvedené [tady.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)
 
-- Podpora ochrany před únikem informací: v zásadách ochrany před úniky v současné době mohou být použity pouze štítky pro uchovávání informací.  Podpora štítků s citlivostí v zásadách ochrany před úniky ještě není k dispozici, ale pracujeme na tom.
+- Podpora ochrany před únikem informací o ztrátě dat: V současné době se jako podmínku v zásadách ochrany před únikem informací používejte jenom popisky uchovávání informací.  Podpora popisků citlivosti v zásadách ochrany před únikem informací zatím není dostupná, ale pracujeme na tom.
 
-- Pokud je šifrování na štítku zapnuté, můžete zvolit některou z těchto možností:
-    - Přiřazovat oprávnění nyní
-    - Povolit uživatelům přiřazovat oprávnění
+- Pokud je u popisku citlivosti povolené šifrování, můžete zvolit, jestli chcete:
+    - Přiřazení oprávnění
+    - Povolení uživatelům přiřazovat oprávnění
 
 
-Další informace o možných problémech najdete v článku [známé problémy s popisky citlivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Další informace o možných problémech najdete v tématu [Známé problémy s popisky citlivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

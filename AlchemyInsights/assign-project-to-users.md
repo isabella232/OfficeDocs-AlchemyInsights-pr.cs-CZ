@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: nicholak, micurn
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: 6547a70b4208f362fb995afad656a2bae9c3f37452ee73b9808c29f60be44513
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d1cea417d9c119a4d67ad704837622c6077e056d4abd28d2bf89e71f4edefee1
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54019645"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54499577"
 ---
 # <a name="assign-project-to-users"></a>Přiřazení Projectu uživatelům
 

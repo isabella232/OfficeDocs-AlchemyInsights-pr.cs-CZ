@@ -13,12 +13,12 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
-ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
+ms.openlocfilehash: a280059907e0f72c9cd5ae9a1940d14ac723a4e88b6ae703f74f8163244bdd17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52689851"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910431"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Správa úložiště SharePoint Online
 
