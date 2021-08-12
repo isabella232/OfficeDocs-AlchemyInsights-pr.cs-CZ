@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007063"
 - "11926"
-ms.openlocfilehash: 6a1da198d8672b382eddb0a3b0e4830307b1721c
-ms.sourcegitcommit: 270a1ca9c35b50b8be6b06f432c9c90e4090fb57
+ms.openlocfilehash: 12bd9e75a8623fd0c0f93b803c3d78d26acf131f831e8032651461fe80914c57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53381597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914032"
 ---
 # <a name="deploy-sharepoint-in-microsoft-365"></a>Nasazení SharePoint v Microsoft 365
 

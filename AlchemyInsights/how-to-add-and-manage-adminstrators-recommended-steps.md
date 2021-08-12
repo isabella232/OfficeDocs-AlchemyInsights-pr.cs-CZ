@@ -1,5 +1,5 @@
 ---
-title: Přidání a Správa správců – doporučené kroky
+title: Přidání a správa správců – doporučené kroky
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,71 +13,71 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963780"
 ---
-# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Přidání a Správa správců – doporučené kroky
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Přidání a správa správců – doporučené kroky
 
-Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
+Na základě popisu vašeho problému jsme pro vás našli řešení. Většina zákazníků dokázala vyřešit svůj problém sami po provedení naší dokumentace.
 
-**Úprava Správce předplatného nebo spolusprávce**
+**Úprava správce předplatného nebo spoluspravovate správce**
 
-- Správce účtu může upravovat obě role, zatímco Správce předplatného může změnit jenom spolusprávce na [portálu Azure](https://ms.portal.azure.com/#home).
+- Správce účtu může upravovat obě role, zatímco správce předplatného může měnit jenom spoluspravovatelé na [portálu Azure Portal](https://ms.portal.azure.com/#home).
 - [Přidání nebo změna správců předplatného Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Aktualizace předplatného správce nebo Co-Administrator pro interní (AIRS) předplatná**
+**Aktualizace předplatných správce předplatného nebo Co-Administrator pro interní předplatná (AIRS)**
 
-Správce služby nebo spolusprávce může tuto akci sám využít následujícími kroky:
+Správce služby nebo spoluse správce může tuto akci samoobslužně provést pomocí následujících kroků:
 
-1. Přihlaste se k [portálu Azure](https://ms.portal.azure.com/#home) a v levém okně klikněte na **Správa nákladů + fakturace** .
-2. Klikněte na položku řádku s předplatným. Otevře se přehled předplatného.
-3. V okně  předplatná klikněte na **vlastnosti**. 
-4. Klikněte na tlačítko **Správce služby** .
-5. Zadejte e-mail uživatele, kterého chcete nastavit jako správce služby, a klikněte na **OK**.
+1. Přihlaste se k [portálu Azure Portal a](https://ms.portal.azure.com/#home) v levém okně klikněte na Správa nákladů **+** fakturace.
+2. Klikněte na řádkovou položku s předplatným. Tím se otevře přehled vašeho předplatného.
+3. V okně **Předplatné** klikněte na **Vlastnosti**. 
+4. Klikněte na **tlačítko Správce** služby.
+5. Zadejte e-mail uživatele, kterého chcete nastavit jako správce služeb, a klikněte na **OK.**
 
-**Přidání, změna nebo odebrání spolusprávce**
+**Add/Change/Remove Co-administrator**
 
-1. Přihlaste se k [portálu Azure](https://ms.portal.azure.com/#home) jako správce služby.
-2. Otevřete [předplatná](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) a vyberte předplatné. (Spolusprávce lze přiřadit pouze v oboru předplatného.)
-3. Přechod na **ovládací panel pro správu Accessu (IAM)**  >  **klasické správce**  >  **přidá**  >  možnost **Přidat spolusprávce** , aby otevřela podokno **Přidat** spolusprávce (Pokud je možnost Přidat spolusprávce zakázaná).
-4. Vyberte uživatele, kterého chcete přidat, a klikněte na **Přidat**.
+1. Přihlaste se k [portálu Azure portal](https://ms.portal.azure.com/#home) jako správce služby.
+2. Otevřete [Předplatná](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) a vyberte předplatné. (Spoluspisovatelé používejte jenom v oboru předplatného.)
+3. Přejděte na **ovládací prvek Accessu (IAM)** Klasické správci: Přidáním spolus správce otevřete podokno Přidat spolus správce (Pokud je možnost Přidat spolus správce zakázaná, znamená to, že nemáte  >    >    >   oprávnění). 
+4. Vyberte uživatele, kterého chcete přidat, a klikněte na **Přidat.**
 
 **Víc se uč:**
-- [Přidání spolusprávce](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Odebrání spolusprávce](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Změna správce služeb](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Přidání spolusou správce](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Odebrání spolusou správce](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Změna správce služby](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Zobrazení správce účtu](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Správa Accessu pomocí RBAC a Azure Portal](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+- [Správa přístupu pomocí RBAC a portálu Azure Portal](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Přidání nebo odebrání uživatelů pomocí služby Azure Active Directory (AD)**
+**Přidání nebo odstranění uživatelů pomocí Azure Active Directory (AD)**
 
-Do služby Azure Active Directory (Azure AD) můžete přidat nové uživatele nebo odstranit stávající uživatele:
+Můžete přidat nové uživatele nebo odstranit stávající uživatele z vaší Azure Active Directory (Azure AD):
 
-1. Pokud chcete přidat nového uživatele, přihlaste se k [portálu Azure](https://ms.portal.azure.com/#home) jako správce uživatelů pro organizaci.
-2. Vyberte **Azure Active Directory**, vyberte **Uživatelé** a klikněte na **Nový uživatel**.
-3. Na stránce **uživatel** vyplňte požadované informace. Klikněte na **vytvořit**. Uživatel se vytvoří a přidá do tenanta Azure AD.
+1. Pokud chcete přidat nového uživatele, přihlaste se na [portál Azure portal](https://ms.portal.azure.com/#home) jako správce uživatele organizace.
+2. Vyberte **Azure Active Directory**, vyberte **Uživatelé a** potom klikněte na Nový **uživatel**.
+3. Na **stránce Uživatel** vyplňte požadované informace. Klikněte **na Vytvořit.** Uživatel se vytvoří a přidá do vašeho tenanta Azure AD.
 
-**Další informace**:
+**Další informace:**
 
 - [Přidání nového uživatele](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Odstranění uživatele](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Přidání nebo aktualizace informací o profilu uživatele pomocí služby Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Přidání nebo aktualizace informací o profilu uživatele pomocí Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Doporučené dokumenty**
 
 - [Co je řízení přístupu založené na rolích (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-- [Pochopení různých rolí v Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
+- [Principy různých rolí v Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
 - [Oprávnění role správce v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Kurz: udělení přístupu pro uživatele pomocí RBAC a Azure Portal](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
-- [Řešení problémů v Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [Uspořádání zdrojů do skupin Azure Management](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [Kurz: Udělení přístupu uživateli pomocí RBAC a portálu Azure Portal](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [Řešení potíží s RBAC v Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
+- [Uspořádání zdrojů pomocí skupin pro správu Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
 - [Jak požádat o kopii faktury Azure e-mailem](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
-- [Jak přidat, aktualizovat nebo odebrat kredit nebo debetní kartu z Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
-- [Správa předplatného (opětovné aktivace/zrušení/přepnutí)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
+- [Přidání, aktualizace nebo odebrání platební nebo debetní karty z Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Správa předplatného (opětovná aktivace/zrušení/přepnutí)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 
 
