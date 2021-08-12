@@ -1,5 +1,5 @@
 ---
-title: Teams povolují nebo zakažují IP video
+title: Teams povolit nebo zakázat IP video
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ad60225e5deee4a37831a3145d37916c9ce849f9f4cf475dce4c9a6210f83af9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940632"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Teams povolují nebo zakažují IP video
+# <a name="teams-allow-or-disable-ip-video"></a>Teams povolit nebo zakázat IP video
 
 **Změna nebo vytvoření zásady schůzky**
 
-Pokud chcete změnit nebo vytvořit zásady schůzky, přejděte do Centra pro správu Microsoft Teams a > **schůzky > schůzek.** Ze seznamu vyberte zásady nebo klikněte na **Přidat**. Jestliže vytváříte nové zásady, pojmenujte je a přidejte popis. Název nesmí obsahovat speciální znaky ani mít víc než 64 znaků. Zvolte požadovaná nastavení a potom klikněte na **Uložit**.
+Pokud chcete změnit nebo vytvořit zásadu schůzky, přejděte do Centra pro správu Microsoft Teams > schůzky a **> schůzek.** Ze seznamu vyberte zásady nebo klikněte na **Přidat**. Jestliže vytváříte nové zásady, pojmenujte je a přidejte popis. Název nesmí obsahovat speciální znaky ani mít víc než 64 znaků. Zvolte požadovaná nastavení a potom klikněte na **Uložit**.
 
 Řekněme třeba, že máte hodně uživatelů a chcete omezit šířku pásma, kterou by jejich schůzka vyžadovala. Vytvoříte nové vlastní zásady nazvané Omezená šířka pásma a zakážete následující nastavení:
 

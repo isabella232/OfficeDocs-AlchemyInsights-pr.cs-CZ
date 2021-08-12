@@ -1,5 +1,5 @@
 ---
-title: 1314 duplicitní náprava objektu
+title: 1314 Odstranění duplicitních objektů
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: 5c071e1a161cd2885b10d082f3c78eb5ac65b0b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1901dd13291cc1e4b811d243a670b8d6c2998e712a8d1744effe7e3832c156da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964662"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Chyby synchronizace duplicitních objektů
+# <a name="duplicate-object-synchronization-errors"></a>Duplicitní chyby synchronizace objektů
 
-Pokud se během synchronizace zobrazí některá z následujících chyb:
+Pokud se během synchronizace zobrazí jedna z následujících chyb:
 
-- Synchronizovaný objekt se stejnou proxy adresou už v adresáři služeb Microsoft Online Services existuje.
+- Synchronizovaný objekt se stejnou adresou proxy serveru už v adresáři služeb Microsoft Online Services existuje.
 
 - Podobná zpráva pro UserPrincipalName.
 
-K řešení chyb duplicitních objektů použijte nové diagnostické AADConnect stavu. Další informace najdete v článku [Diagnostika a náprava chyb synchronizace duplicitních atributů](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+K vyřešení chyb duplicitních objektů použijte novou diagnostiku stavu AADConnect. Další informace najdete v tématu [Diagnostika a náprava](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)duplicitních chyb synchronizace atributů .

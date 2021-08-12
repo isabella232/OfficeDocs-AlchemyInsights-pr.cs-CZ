@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: caa23df4aa0847a8c31fc015e8c18859132a5a2c1ff7fe6d3dd98357671c3435
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51797318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920208"
 ---
 # <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Do externě orientovaného formuláře se nedaří přidat přílohu.
 

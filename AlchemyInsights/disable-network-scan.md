@@ -1,5 +1,5 @@
 ---
-title: Zakázat kontrolu sítě
+title: Zakázání kontroly v síti
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001464"
 - "3492"
-ms.openlocfilehash: 7b0f5c21a7e6afda0ee3000e75ee725cbadcedb7
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 7e67a45b6f4d4b18f47ce55a0fde20f826498c5d25c4a6dec4311d8fe4c3735f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928542"
 ---
-# <a name="disable-network-scan"></a>Zakázat kontrolu sítě
+# <a name="disable-network-scan"></a>Zakázání kontroly v síti
 
-Může to mít vliv na skenování sdílené síťové složky.  Pokud chcete zajistit, aby klient ve výchozím nastavení neprohledl sdílené síťové složky nebo soubory, nakonfigurujte v aplikaci Windows Defender následující nastavení na **Pravdivé:**
+Kontroly sdílené síťové složky mohou mít vliv na výkon.  Pokud chcete zajistit, aby klient ve výchozím nastavení neskenuje sdílené síťové složky nebo soubory, nakonfigurujte následující nastavení v Windows Defender na **True**:
 
-- DisableScanningMappedNetworkDrivesForFullNetwork
+- DisableScanningMappedNetworkDrivesForFullScan
 - DisableScanningNetworkFiles
