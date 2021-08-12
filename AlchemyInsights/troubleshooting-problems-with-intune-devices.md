@@ -1,5 +1,5 @@
 ---
-title: Řešení potíží s zařízení Intune
+title: Řešení problémů se zařízeními Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003834"
 - "6851"
-ms.openlocfilehash: 80d09a9ccb9f76d35a12e5cc70903aa03ca0819e
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: bd00f075f52227cfc44655b86c99a6668360bcbb840f8261ea777a78c21a2494
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807311"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920892"
 ---
-# <a name="troubleshooting-problems-with-intune-devices"></a>Řešení potíží s zařízení Intune
+# <a name="troubleshooting-problems-with-intune-devices"></a>Řešení problémů se zařízeními Intune
 
-Pokud se na zařízení s Intune nachází nějaké problémy, nejdřív si přečtěte dokumentaci [Správa zařízení s Intune](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) a potvrďte základní konfiguraci a ověřte stav zařízení.
+Pokud se na zařízení spravovaném v Intune dochází k problémům, nejdřív si prohlédněte dokumentaci Správa zařízení pomocí [Intune,](https://docs.microsoft.com/mem/intune/protect/endpoint-security-manage-devices) abyste potvrdili základní konfiguraci a ověřili stav zařízení.
 
-Problémy, jako například chybějící nebo opožděné zásady, nesprávné zásady, neočekávaný přístup nebo nedostatečná přístupová oprávnění mohou být způsobeny tím, že se zařízení nesynchronizuje s Intune. Další informace najdete v dokumentaci k [synchronizaci zařízení](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) .
+Problémy, jako jsou chybějící nebo zpožděné zásady, nesprávné zásady, neočekávaný přístup nebo nedostatečný přístup, dají být způsobeny tím, že se zařízení nesynchronuje s Intune. Další informace [najdete v dokumentaci k](https://docs.microsoft.com/mem/intune/remote-actions/device-sync) synchronizaci zařízení.
 
-Běžné problémy týkající se vracení se změnami zařízení, synchronizace zásad a konfigurace zařízení najdete v části [Nejčastější dotazy a odpovědi](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) nebo dokumentaci pro [řešení potíží](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune) .
+Běžné problémy související se check-inem zařízení, synchronizací zásad [](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot) a konfigurací zařízení najdete v dokumentaci Běžné otázky a odpovědi nebo Řešení potíží [se zásadou.](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)

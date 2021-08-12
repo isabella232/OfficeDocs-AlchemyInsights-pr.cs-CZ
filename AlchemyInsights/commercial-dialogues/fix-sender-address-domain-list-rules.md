@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a57016ce0b5e8ed741889a50e3858c68578c6713
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744848"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930018"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Oprava pravidel pro adresu odesílatele nebo seznam domén
 
 Tato zpráva se týká zásady ochrany proti spamu ve vašem tenantovi. Odesílatel zprávy byl nalezen v seznamu Povolit nebo Blokovat. Pokud chcete zásady zkontrolovat, proveďte toto:
 
-1. Přejděte do [Centra zabezpečení Office 365 & Dodržování](https://go.microsoft.com/fwlink/p/?linkid=2077143)předpisů a pak přejděte na Zásady správy hrozeb   >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
+1. Přejděte na [Centrum Office 365 zabezpečení &](https://go.microsoft.com/fwlink/p/?linkid=2077143)dodržování předpisů a pak přejděte na Zásady správy hrozeb   >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
 2. Pokud je **na kartě** Standardní **povolené** standardní nastavení, zaškrtněte políčko Povolit **seznamy** a **Blokovat seznamy**.
 3. Pokud je **na** kartě  Vlastní povolené vlastní nastavení,  zkontrolujte zásady tak, že vyberete Upravit zásadu a zašepíšete **seznamy Povolit** a **Blokovat seznamy**.
 

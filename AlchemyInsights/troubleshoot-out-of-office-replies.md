@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 7f71d9dca45fab5f63faf6cb4b6286f8ac57176a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 9792f6dbd1ec1c02665a572c23afceb9f37afdae1604455227ebddb1fb8c51a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920964"
 ---
 # <a name="troubleshooting-out-of-office-automatic-replies"></a>Řešení potíží s Office odpovědí
 
