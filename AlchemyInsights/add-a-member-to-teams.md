@@ -11,12 +11,12 @@ ms.custom:
 - "9002256"
 - "4359"
 ms.assetid: ''
-ms.openlocfilehash: e195622b79d77582d7b5856e77c94749af25b508
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4d65e0d12bd730b841ae61fd12c73aa9b60ff5431df8b3aadc9c5cead6d71f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688651"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936518"
 ---
 # <a name="add-a-member-to-teams"></a>Přidání člena do Teams
 

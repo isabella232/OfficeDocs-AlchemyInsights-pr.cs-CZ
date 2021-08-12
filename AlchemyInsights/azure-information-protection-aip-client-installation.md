@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: 97316befa65bad54d5de603aae804a22af7688c6
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f4c260ecdae40125e1fcdb3b15c2ba0ce4c67fa019350fba7413d9db9b53d070
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917668"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>Azure Information Protection: instalace klienta AIP
 

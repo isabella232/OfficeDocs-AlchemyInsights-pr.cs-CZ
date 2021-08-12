@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6813"
-ms.openlocfilehash: 3366603742560817eb722bd90c04fba2935bb110
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: e5a0719aecc34dd3cbf0368ba3df3eed312997a392a87b220fbafc8b21b19aa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820711"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917596"
 ---
 # <a name="change-payment-information-in-azure"></a>Změna platebních údajů v Azure
 

@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "1790"
 - "9000214"
-ms.openlocfilehash: 10b37b2ffda50dc77396039a9e0e443ad81aef72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9310e8685a922207be8d5672d7929e19313cbb57e0fa6d25de149106692e811f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728280"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944124"
 ---
 # <a name="problems-using-the-intune-admin-console"></a>Problémy s používáním konzoly pro správu Intune
 
-**Při navigaci na portálu pro správu Intune se zobrazí zpráva Access denied (přístup odepřen).**
+**"Přístup odepřen" při navigaci na portálu pro správu Intune.**
 
-- Pokud jste členem vlastní role Intune, ujistěte se, že k vašemu účtu je přiřazená licence EMS (Intune nebo Enterprise mobility).
-- Pokud ke správě zařízení používáte nástroj Configuration Manager, ověřte, že nejste součástí Intune User Collection pro MDM Configuration Manager.
-- Zkontrolujte, jestli máte v okně role Intune přiřazená oprávnění řízení správy založené na rolích (RBAC).
-- Ověřte, že použitá skupina není distribuční seznam. Intune na Azure Portal podporuje jenom uživatelské účty patřící do skupin zabezpečení Azure Active Directory. Prohlédněte si skupiny v Azure Portalu > skupiny **Intune**  >  **Groups**nebo v Azure Portal > **Azure Active Directory**.
+- Pokud jste členem vlastní role Intune, ujistěte se, že je k vašemu účtu přiřazená licence Intune nebo Enterprise Mobility Suite (EMS).
+- Pokud ke správě zařízení Správce konfigurace, ověřte, že nejste součástí kolekce uživatelů Intune pro Správce konfigurace MDM.
+- Ověřte, že jste v okně Role Intune přiřadili příslušná oprávnění řízení správy (RBAC) na základě rolí.
+- Ověřte, že použitá skupina není distribuční seznam. Intune na portálu Azure portal podporuje jenom uživatelské účty, které patří do Azure Active Directory skupin zabezpečení. Zkontrolujte své skupiny na webu Azure Portal > **Intune** Groups nebo na  >  webu Azure Portal > **Azure Active Directory**.
 
-**Uživatel má příliš mnoho oprávnění k přiřazené roli Intune.**
+**Uživatel má příliš mnoho oprávnění pro přiřazenou roli Intune.**
 
-Informujte uživatele, aby přešel na **Intune**  >  **Intune roles**Intune  >  **My permissions**  >  **Export**
+Doporučíte uživateli, aby šel do **rolí Intune** Intune Moje oprávnění Exportovat a zkontrolovat  >    >    >   udělená oprávnění.
 
-**Do role přidal (a) skupinu oborů, ale uživatelé v dané roli pořád uvidí další uživatele nebo zařízení.**
+**Přidal(a) jsem skupinu oborů do role, ale uživatelé v této roli pořád vidí další uživatele nebo zařízení.**
 
-Skupiny oborů nefiltrují uživatele nebo zařízení. Skupiny oborů:
+Skupiny oborů nevyfiltruje uživatele ani zařízení. Skupiny oborů:
 
-- Omezte počet uživatelů, kteří můžou přiřazovat zásady nebo aplikace.
-- Povolte spouštění vzdálených úloh na zařízeních pouze konkrétním uživatelům.
+- Omezte uživatele, kterým mohou přiřazovat zásady nebo aplikace.
+- Povolte spouštění vzdálených úkolů jenom konkrétním uživatelům na zařízeních.
 
-Další informace o skupinách oborů najdete v tématu  [řízení přístupu založeném na rolích (RBAC) v Microsoft Intune](https://docs.microsoft.com/intune/role-based-access-control).
+Další informace o skupinách oborů najdete v tématu Řízení přístupu založené na rolích [(RBAC) s Microsoft Intune](https://docs.microsoft.com/intune/role-based-access-control).
 
-**Do role Intune jsem přidal (a), ale pořád má úplný přístup ke konzole správce Intune.**
+**Přidal(a) jsem uživatele do role Intune, ale pořád mají úplný přístup ke konzole pro správu Intune.**
 
-Přejděte na Intune > **uživatele** na portálu Azure a ověřte, jestli uživatel nemá přiřazenou žádnou z následujících rolí na portálu Azure:
+Přejděte na Intune > **uživatelé** na portálu Azure Portal a ověřte, že uživatel není přiřazen k žádné z následujících rolí na portálu Azure Portal:
 
 - Globální správce
-- Intune – Správce služby
+- Správce služby Intune
 - Správce SharePointu
 
-Další informace najdete v tématu [řízení přístupu založeném na rolích (RBAC) v Microsoft Intune](https://docs.microsoft.com/intune/role-based-access-control).
+Další informace najdete v tématu Řízení přístupu založené [na rolích (RBAC) s Microsoft Intune](https://docs.microsoft.com/intune/role-based-access-control).
 
 **Problémy s přístupem**
 
-Další informace najdete v článku [nemůžete se přihlásit k Office 365, Azure nebo Intune](https://support.microsoft.com/help/2412085/you-can-t-sign-in-to-office-365-azure-or-intune).
+Další informace najdete v tématu Nemůžete se přihlásit k [Office 365, Azure](https://support.microsoft.com/help/2412085/you-can-t-sign-in-to-office-365-azure-or-intune)nebo Intune .

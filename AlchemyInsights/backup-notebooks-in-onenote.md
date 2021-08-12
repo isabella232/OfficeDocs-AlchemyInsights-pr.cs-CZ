@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000567"
 - "4500"
-ms.openlocfilehash: fa45fbaca4727d3e14cc28b62bcd4c3b20824283
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: b4b0d4d9e7d33cfc02a239c96b621fd6ee9404f4839438b3f2b194ceda54658c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917524"
 ---
 # <a name="backup-notebooks-in-onenote"></a>Záloha poznámkových bloků ve OneNotu
 
