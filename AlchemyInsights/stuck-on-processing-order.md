@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002358"
 - "4584"
-ms.openlocfilehash: 501901be400844cc61e265abc06e529e090934b8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7178f321614c5190217b1d00aabbcd95e2c0911bd140a2d8ad455665ac5b73b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828037"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940848"
 ---
 # <a name="stuck-on-processing-order"></a>Váznoucí zpracovávání objednávky
 

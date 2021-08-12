@@ -1,5 +1,5 @@
 ---
-title: Řešení problémů s bezproblémovým jednotným přihlašováním (SSO) na základě odkazů
+title: Řešení problémů s bezproblémovým jednotným přihlašováním (SSO) založenými na odkazech
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972853"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Řešení problémů s bezproblémovým jednotným přihlašováním (SSO) na základě odkazů
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Řešení problémů s bezproblémovým jednotným přihlašováním (SSO) založenými na odkazech
 
-Většina uživatelů dokáže problém bezproblémového jednotného přihlašování (SSO) založeného na odkazech vyřešit pomocí následujících kroků:
+Většina uživatelů dokáže vyřešit svůj problém s bezproblémovým jednotným přihlašováním založeným na odkazech pomocí následujících kroků:
 
-**Další informace o propojeném jednotném** [přihlašování:](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) Principy propojeného přihlašování – Možnost Propojená umožňuje konfigurovat cílové umístění, když uživatel vybere aplikaci na portálu Moje aplikace nebo Office 365 vaší organizace. Podrobnější informace o propojené možnosti najdete v tomto článku.
+Další informace o **propojeném jednotném** [přihlašování:](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) Principy propojeného přihlašování – Možnost Odkaz umožňuje nakonfigurovat cílové umístění, když uživatel vybere aplikaci na portálu Moje aplikace nebo Office 365 vaší organizace. Tento článek obsahuje podrobnější informace o propojené možnosti.
 
 **Konfigurace propojeného jednotného přihlašování:** [Konfigurace odkazu](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Získejte nápovědu:** [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) – odešlete žádosti o funkce a technické otázky týkající se jednotného přihlašování založeného na odkazu ve vývoji služby Azure Active Directory & web.
+**Získat pomoc:** Microsoft [Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) – odesílání žádostí o funkce a technických otázek týkajících se jednotného přihlašování založeného na odkazech (SSO) Azure Active Directory & vývoji.

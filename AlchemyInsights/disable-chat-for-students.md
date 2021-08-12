@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6143"
 - "9003097"
-ms.openlocfilehash: 983fc15c3a43ebbf0643e5268baa783be64cca5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa5e62d0419df20b1c2b09add0b16670767fb24f5b50fcc0f5246fa48299f07b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929118"
 ---
 # <a name="disable-chat-for-students"></a>Zakázání chatu pro studenty
 
-Doporučujeme správcům vzdělávacích organizací zvážit používání balíčků zásad pro bezpečnost studentů a vyučující. Další informace najdete v článcích:
+Doporučujeme správcům vzdělávacích organizací zvážit použití balíčků zásad pro bezpečnost studentů a vyučovatelů. Další informace najdete v článcích:
 
 - [Balíčky zásad v Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)
-- [Zásady, které by měly být přiřazeny pro zabezpečení studentů](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
-- [Zásady, které by měly být přiřazeny pro pedagogy](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators) 
+- [Zásady, které by měly být přiřazeny pro bezpečnost studentů](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
+- [Zásady, které by měly být přiřazeny vyučovatelům](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators) 
 
-Pokud chcete chat pro studenta zakázat, přečtěte si možnosti pro povolení chatu ve schůzkách a povolení chatování 1:1 v rámci [zásad týmů a balíčků zásad pro vzdělávací](https://docs.microsoft.com/microsoftteams/policy-packages-edu)organizace.
+Pokud chcete zakázat chat pro studenta, podívejte se na možnosti pro povolení chatu na schůzkách a povolení chatu 1:1 v Teams zásad a balíčků zásad pro [vzdělávání](https://docs.microsoft.com/microsoftteams/policy-packages-edu).

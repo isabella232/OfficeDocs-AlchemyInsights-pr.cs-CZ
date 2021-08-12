@@ -1,5 +1,5 @@
 ---
-title: Výměna klasického kořenového webu s moderním webem
+title: Výměna klasického kořenového webu pomocí moderního webu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,28 +13,28 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 10e8e4bf5e0def9a8256066e1a3c39b9923d31b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940812"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Výměna klasického kořenového webu s moderním webem
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Výměna klasického kořenového webu pomocí moderního webu
 
-Pokud je vaše prostředí nastavené před duben 2019, můžete svůj kořenový web změnit na moderní web pomocí Microsoft PowerShellu:
+Pokud jste prostředí nastavili před dubnem 2019, můžete svůj kořenový web změnit na moderní web pomocí Microsoft PowerShellu:
 
-- Pokud máte jiný web, který chcete použít jako kořenový web, můžete [tento kořenový web nahradit (zaměňovat)](https://docs.microsoft.com/sharepoint/modern-root-site) . 
-    - Pomocí metody [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) zaměníte umístění webu s jiným webem při archivaci původního webu. K dispozici pro týmový web (nepřipojený ke skupině) a komunikační Web. 
+- Pokud máte jiný web, který chcete použít jako kořenový web, můžete ho nahradit [(zaměnit).](https://docs.microsoft.com/sharepoint/modern-root-site) 
+    - Funkce [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) slouží k výměně umístění webu s jiným webem při archivaci původního webu. K dispozici pro týmový web (není připojený ke skupině) i pro komunikační web. 
 
-- Brzy budou zavedeny další možnosti, které vám umožní používat obsah na webu, ale převést existující web na komunikační Web. 
+- Brzy budou zavedeny další funkce, které vám umožní dál používat obsah na webu, ale stávající web převést na komunikační web. 
 >[!Important]
->Tyto možnosti budou postupně shrnuty. Pokračujte v kontrole centra zpráv pro aktualizace. 
+>Tyto funkce se budou postupně rozšiřovat. Pokračujte v kontrole aktualizací v Centru zpráv. 
 
-## <a name="known-issues-with-swapping-sites"></a>Známé problémy při záměně webů
+## <a name="known-issues-with-swapping-sites"></a>Známé problémy s vyměňování webů
 
-- Cílový web může vrátit chybu "not found" (HTTP 404) po krátkou dobu.
-- Abyste mohli aktualizovat index vyhledávání, bude potřeba obsah znovu projít. Není nutný žádný ruční krok – provede se to automaticky.
-- Vše závislé na "statických" odkazech (například synchronizace souborů a soubory OneNotu) bude nutné ručně opravit.
-- Pokud byl zdrojový web webem organizace – příspěvky, aktualizujte adresu URL.Získejte seznam všech organizačních webů.
-- Weby Project serveru bude pravděpodobně nutné ověřit, abyste se ujistili, že jsou pořád správně přidružené.
+- Cílový web může krátkou dobu vrátit chybu "nenal." (HTTP 404).
+- Aby se index hledání aktualizovat, bude potřeba obsah znovu prohledat. Není nutný žádný ruční krok – tento krok se provádí automaticky.
+- Všechno, co závisí na "statických" odkazech (například Synchronizace souborů a OneNote souborů), bude muset být ručně opraveno.
+- Pokud byl zdrojový web zpravodajský web organizace, aktualizujte adresu URL. Získejte seznam všech zpravodajských webů organizace.
+- Project Serverové weby je možná potřeba ověřit, aby se zajistilo, že jsou pořád správně spojené.

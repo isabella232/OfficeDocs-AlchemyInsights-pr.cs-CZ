@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1799"
 - "9000201"
-ms.openlocfilehash: be1ebb680a99c1a91fa6c9a4272ec28786c87bda
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8a6f8925d89582942c05596ea0431eee3fc71c9e8c15fdc555dbbeaa7790d976
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965202"
 ---
 # <a name="does-visio-work-on-a-mac"></a>Funguje Visio na Macu?
 
-Desktopová aplikace Visio pro Mac není k dispozici. Pokud ale uživatel, který potřebuje aplikaci, má [přiřazenou licenci Visia online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users), může [zobrazovat, vytvářet a upravovat diagramy ve Visiu online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) ve webovém prohlížeči.
+Desktopová aplikace Visio pro Mac není k dispozici. Pokud ale uživatel, který aplikaci potřebuje, má přiřazenou [licenci Visio Online,](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)může ve webovém prohlížeči prohlížet, vytvářet a upravovat diagramy v [Visio Online.](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799)
   
   
