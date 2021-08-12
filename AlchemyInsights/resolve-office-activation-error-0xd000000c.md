@@ -14,12 +14,12 @@ ms.custom:
 - "4487"
 - "3496"
 - "2000021"
-ms.openlocfilehash: 15286a34e6118ca5f379b52b2db26e4d6a4d3925
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c10caf49bb2937ff80f403bd7ff3d57a47205dc11d8e295b2a34ddacf0eacfad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959235"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>Řešení chyby při aktivaci Office 0xD000000C
 

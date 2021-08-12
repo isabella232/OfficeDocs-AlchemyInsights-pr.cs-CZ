@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4fad0a513f7c6d2f0337019488a4055c25e1650d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 96579b28923e392a0fa05c56833fed1b45eb118437ac7e8333c610ed69126f8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744537"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916408"
 ---
 # <a name="configure-and-validate-exclusions-for-mdatp-on-a-linux-machine"></a>Konfigurace a ověření vyloučení pro MDATP na počítači s Linuxem
 
@@ -26,4 +26,4 @@ Některé soubory, složky, procesy a soubory otevřené procesem můžete z kon
 Další informace najdete v tématu Konfigurace a [ověření vyloučení pro MDATP pro Linux](https://go.microsoft.com/fwlink/?linkid=2144517).
 
 > [!IMPORTANT]
-> Vyloučení popsaná v tomto článku se nevztahují na jiné funkce MDATP pro Linux, včetně zjišťování koncových bodů a odpovědi (EDR). Soubory, které vyloučíte pomocí metod popsaných v tomto článku, mohou pořád aktivovat upozornění EDR a další možnosti zjišťování.
+> Vyloučení popsaná v tomto článku se nevztahují na jiné funkce MDATP pro Linux, včetně detekce a reakce u koncových bodů (EDR). Soubory, které vyloučíte pomocí metod popsaných v tomto článku, EDR upozornění a další možnosti zjišťování.

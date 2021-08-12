@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6df196fc0bde37c962e3aa84dd602ee414dad3d329addfd16cb6e3dcc40fc2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809432"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943368"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Obnovení odstraněné veřejné složky
 
 **Obnovení odstraněných položek z veřejné složky**:
 
-- Další informace najdete v článku Odstraněné položky v [Outlooku 2016](https://aka.ms/pfrec)se neschová z veřejné složky, která není poštovní.
+- Další informace najdete v článku Odstraněné položky se neschová z veřejné složky, která není v [Outlook 2016.](https://aka.ms/pfrec)
  
 **Obnovení odstraněné veřejné složky (libovolného typu):** 
 

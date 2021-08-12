@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 89c848b1aad331c2ba4cbf2596da48020e7b9cc2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 036a6b5d9188bf40607d186bfb0b31b3182116abb597ab96cfad48f9b3026936
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966678"
 ---
 # <a name="skip-redirecting-email-to-new-address"></a>Přeskočit přesměrování e-mailu na novou adresu
 
-Pokud máte vlastní záznamy DNS, přeskočte krok přesměrování e-mailu na novou adresu. Potom můžete přidat záznamy, které potřebujete později. Některé služby Office 365 nemusí být dostupné, dokud záznamy ručně nepřidáte u svého registrátora.
+Pokud máte vlastní záznamy DNS, přeskočte krok přesměrování e-mailu na novou adresu. Potom můžete přidat záznamy, které potřebujete později. Některé Office 365 služby nemusí být dostupné, dokud záznamy ručně nepřidáte u svého registrátora.
 
 Pokud chcete přesměrovat e-maily na novou adresu, zvolte Přeskočit **tento krok > Ověřit**.

@@ -14,18 +14,18 @@ ms.custom:
 - "9000571"
 - "9000725"
 - "2656"
-ms.openlocfilehash: bb7c3a773a242e2359736c864ecedebbc95ee155
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f3c3e60a5a2ab0ee2cb9a7b58794ab1ad7faf677c7350b309d968a282db43772
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51799046"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943404"
 ---
-# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Opakované výzvy k přihlášení v aplikacích Microsoft 365
+# <a name="repeated-sign-in-prompts-in-microsoft-365-apps"></a>Opakované výzvy k přihlášení v Microsoft 365 aplikacích
 
-Pokud chcete vyřešit potíže s opakovanými výzvami k přihlášení v aplikacích Microsoft 365, podívejte se na toto:
+Pokud chcete vyřešit potíže s opakovanými výzvami k přihlášení Microsoft 365 aplikacích, podívejte se na:
 
-- [Řešení potíží s aplikacemi bez prohlížeče, které se neschytá přihlásit k Microsoftu 365, Azure nebo Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
-- [Při připojování k Microsoftu 365 se opakovaně zobrazí výzva k zadání přihlašovacích údajů](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
-- [Federovaný uživatel se opakovaně zobrazí výzva k zadání přihlašovacích údajů během přihlášení k Microsoftu 365, Azure nebo Intune.](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
+- [Řešení potíží s aplikacemi mimo prohlížeč, které se neschytá přihlásit k Microsoft 365, Azure nebo Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1)
+- ["Access Denied" (Přístup byl odepřen) nebo se uživatel opakovaně zobrazí výzva k zadání přihlašovacích údajů při připojování k Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/security/access-denied-when-connect-to-office-365)
+- [Federovaný uživatel se opakovaně zobrazí výzva k zadání přihlašovacích údajů během přihlašování Microsoft 365, Azure nebo Intune.](https://docs.microsoft.com/office365/troubleshoot/authentication/federated-user-repeatedly-prompted-for-credentials)
 

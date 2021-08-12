@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002447"
 - "5526"
-ms.openlocfilehash: 209cb0a1ee7b804f9e0161cec6501a8c4dbe1465
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 8cb430a214ac22890d509a25a0f0f735cbe492be1b56ec4d3ddfbb3f15ff476d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800423"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943584"
 ---
 # <a name="purchase-domestic-calling-plans"></a>Zakoupení plánů pro vnitrostátní hovory
 

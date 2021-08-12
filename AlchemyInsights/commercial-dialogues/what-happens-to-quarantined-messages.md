@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: de7ea8011af792cd01963c44f8a60915747c3c11
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 222df14754501e54b9a551f705f95ee9cce853ef6479ac21dad4b01bdc5a96f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966570"
 ---
 # <a name="what-happens-to-quarantined-messages"></a>Co se stane se zprávami v karanténě?
 
-Pokud se rozhodnete nic udělat, Office 365 zprávu po vypršení platnosti automaticky odstraní. Všimněte si následujícího:
+Pokud se rozhodnete nic udělat, zpráva se po vypršení platnosti Office 365 automaticky odstraní. Všimněte si následujícího:
 
 1. Spam, hromadné zprávy, malware a phishingové zprávy se ve výchozím nastavení uchovávají v karanténě po dobu 15 dnů.
 2. Zpráva v karanténě, která odpovídá pravidlu toku pošty, je uložená v karanténě po dobu 7 dnů (tuto možnost nemůžete přizpůsobit).
-3. Když Office 365 odstraní zprávu z karantény, nemůžete ji vrátit zpátky.
+3. Když Office 365 zprávu z karantény, nemůžete ji vrátit zpátky.
 4. Pokud chcete, můžete změnit dobu uchovávání zpráv v karanténě pomocí nastavení Zachovat spam pro (dny) v zásadách filtru obsahu.
