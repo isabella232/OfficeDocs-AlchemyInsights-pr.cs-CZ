@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916156"
 ---
 # <a name="overview-of-advanced-ediscovery"></a>Přehled Advanced eDiscovery
 
 Advanced eDiscovery umožňuje analyzovat nestrukturovaná data a pomáhá snižovat náklady na eDiscovery. Můžete použít analýzu textu, strojové učení a relevanci nebo prediktivní kódování. Tady je několik tipů:
 
-- Funkce Advanced eDiscovery vyžaduje předplatné E5 pro vaši organizaci nebo předplatné Office 365 E3 s doplňkem Advanced Compliance.
-- Pokud chcete vytvořit nový případ Advanced eDiscovery, přejděte do Centra zabezpečení & dodržování předpisů a vyberte **eDiscovery** Advanced [](https://go.microsoft.com/fwlink/p/?linkid=2077143)  >  **eDiscovery.**
-- Další informace najdete v přehledu [o Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2101588)
-- Informace o krocích potřebných k nastavení Advanced eDiscovery najdete v tématu Nastavení [Microsoftu 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2122672)
+- Funkce Advanced eDiscovery vyžaduje předplatné E5 pro vaši organizaci nebo předplatné Office 365 E3 s doplňkem Rozšířené dodržování předpisů.
+- Pokud chcete vytvořit nový Advanced eDiscovery, přejděte na [Centrum](https://go.microsoft.com/fwlink/p/?linkid=2077143) dodržování předpisů & zabezpečení a vyberte **eDiscovery**  >  **Advanced eDiscovery**.
+- Další informace najdete v tématu [Přehled Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101588).
+- Informace o potřebných krocích pro nastavení Advanced eDiscovery najdete v tématu [Nastavení Microsoft 365 Advanced eDiscovery](https://go.microsoft.com/fwlink/?linkid=2122672).

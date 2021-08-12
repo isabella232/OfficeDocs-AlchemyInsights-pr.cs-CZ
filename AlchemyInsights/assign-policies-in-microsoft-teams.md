@@ -15,12 +15,12 @@ ms.custom:
 - "9000734"
 - "9466"
 - "10006"
-ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
-ms.translationtype: HT
+ms.openlocfilehash: 478aa282735c496afbd83f0ddc128a311e078a81e8fd639648b90a815b14c79c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950802"
 ---
 # <a name="assign-policies-in-microsoft-teams"></a>Přiřazení zásad v Microsoft Teams
 

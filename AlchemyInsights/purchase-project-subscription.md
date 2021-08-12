@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "4708"
-ms.openlocfilehash: db6ae70d77ed487314168aa14c91bc1c10262472
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6c3e777a8444a81a74a0bc4a0194fc9579525f04cd66c44424147cbd1454d196
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51800387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911151"
 ---
 # <a name="purchase-project-subscription"></a>Nákup předplatného Projectu
 
-Správci si koupí předplatné Projectu pro svoji organizaci v Centru pro správu **Microsoftu 365.**
+Správci si koupí předplatné Project pro svoji organizaci z **Centrum pro správu Microsoftu 365**.
 
 1. Přejděte na stránku **Služby nákupu**  >  **[fakturace](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** a zobrazte si dostupná předplatná, která si můžete koupit pro vaši organizaci.
 

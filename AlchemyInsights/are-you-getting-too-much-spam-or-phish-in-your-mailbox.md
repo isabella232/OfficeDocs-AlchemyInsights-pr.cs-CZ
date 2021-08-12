@@ -10,12 +10,12 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 43dc770be82dd74d090303cdb6061a2686c3cecb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f98bcfa73c043b2426c38099bf80208165455bc823301fc0d296cc32200e539a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951090"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Chodí vám do poštovní schránky příliš mnoho spamu a podvodných zpráv?
 

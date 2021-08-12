@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49677107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958182"
 ---
 # <a name="set-up-azure-active-directory"></a>Nastavení Azure Active Directory
 
-[Průvodce nastavením Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) poskytuje informace, které vaší organizaci zajistí silnou bezpečnostní základ. V této příručce nastavíte počáteční funkce, jako je řízení přístupu založené na rolích Azure (Azure RBAC) pro správce, Azure AD Connect pro váš místní adresář a stav Azure AD Connect, abyste mohli sledovat stav hybridní identity během automatizované synchronizace.
+Průvodce [nastavením Azure AD poskytuje](https://go.microsoft.com/fwlink/?linkid=2134390) informace, které zajistí, že vaše organizace má silné základy zabezpečení. V této příručce nastavíte počáteční funkce, jako je řízení přístupu na základě rolí Azure (Azure RBAC) pro správce, Azure AD Připojení pro místní adresář a Azure AD Připojení Health, abyste mohli sledovat stav hybridní identity během automatických synchronizací.
 
-Zahrnuje také základní informace o povolení samoobslužných resetování hesel, podmíněného přístupu a integrované přihlašování třetích stran, včetně volitelné ochrany identity a automatizace pro zřizování uživatelů.
+Obsahuje také základní informace o povolení samoobslužných resetování hesel, podmíněném přístupu a integrovaném přihlašování třetích stran, včetně volitelné rozšířené ochrany identity a automatizace zřizování uživatelů.

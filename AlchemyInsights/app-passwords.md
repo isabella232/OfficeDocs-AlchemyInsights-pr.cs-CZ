@@ -1,5 +1,5 @@
 ---
-title: hesla aplikací 500
+title: 500 hesel aplikací
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717030"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931946"
 ---
 # <a name="app-passwords"></a>Hesla aplikací
 
-Heslo aplikace je kód, který umožňuje aplikaci nebo zařízení získat přístup k pracovnímu nebo školnímu účtu Microsoft. Pokud váš účet vyžaduje vícefaktorové ověřování (MFA) a aplikace se připojí k vašemu účtu, musíte vytvořit heslo aplikace, aby se aplikace mohla připojit k Microsoftu. Outlook 2016 a starší verze Outlooku vyžadují heslo aplikace.
+Heslo aplikace je kód, který poskytuje aplikaci nebo zařízení oprávnění k přístupu k vašemu pracovnímu nebo školnímu účtu Microsoft. Pokud váš účet vyžaduje vícefaktorové ověřování (MFA) a aplikace se připojí k vašemu účtu, musíte vygenerovat heslo aplikace, aby se aplikace mohl připojit k Microsoftu. Například Outlook 2016 a starší Outlook vyžadují heslo aplikace.
 
- **Poznámka**: před provedením následujících kroků ověřte u správce Microsoft 365, že pro váš účet je vyžadován MFA. Pokud ne, možnosti popsané v těchto krocích vám nebudou k dispozici.
+ **Poznámka:** Než zkusíte provést následující kroky, ověřte u svého správce Microsoft 365, jestli je pro váš účet vyžadována MFA. Pokud tomu tak není, nebudou vám dostupné možnosti popsané v těchto krocích.
 
-1. Přihlaste se pomocí svého pracovního nebo školního účtu a hesla.
+1. Přihlaste se pomocí pracovního nebo školního účtu a hesla.
 
-2. Zvolte **nastavit hned**.
+2. Zvolte **Nastavit hned**.
 
 3. Vyberte metodu ověřování a postupujte podle pokynů.
 
 4. Po ověření alternativní metody kontaktu zvolte **Další**.
 
-5. Dostanete heslo aplikace, které můžete používat s Outlookem, Apple mailem a dalšími aplikacemi, které ho vyžadují. Zvolte **Kopírovat** a zkopírujte heslo, abyste ho mohli vložit jinam (nemusíte ho Memorize).
+5. Dostanete heslo aplikace, které můžete použít s Outlook, Apple Mailem a dalšími aplikacemi, které je vyžadují. Zvolte **Kopírovat** a zkopírujte heslo, abyste ho mohli vložit jinam (nemusíte si ho zapamatovat).
