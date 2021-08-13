@@ -14,19 +14,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 015912482c29766789bb23ae18a1a36353915746
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 662870da708a37d4e39fd0c783b580737a9d4c5cc5bb443322d517023bd938d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780844"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913276"
 ---
 # <a name="change-your-language"></a>Změna jazyka
 
-1. Pokud chcete jazyk v Outlooku Chang, přejděte na nastavení [**jazyka a času**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Nastavení** \> **zobrazí všechna všechna nastavení Outlooku**  >  **obecný**  >  **jazyk a čas**).
+1. Pokud chcete změnit jazyk v Outlook, [](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) přejděte na Nastavení jazyka a času (**Nastavení** Zobrazení všech Outlook nastavení Obecný jazyk a \>   >    >  **čas**).
 
-2. Zvolte svůj jazyk.
+2. Zvolte jazyk.
 
 3. Vyberte **Uložit**.
 
-Další informace najdete v článku [Změna nastavení časového pásma a jazyka v Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Další informace najdete v tématu Změna nastavení časového pásma a jazyka na [Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=873132)

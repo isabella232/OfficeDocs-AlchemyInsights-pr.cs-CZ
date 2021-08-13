@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 0c15f7f3771c6abd69f3489d46910f43f6afb904
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cb645d58f41e095def09dbbe61bd6264f621b82c0f42c428a5a88e702c0c950b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804950"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918568"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Změna oprávnění u poštovní schránky
 
@@ -26,5 +26,5 @@ Pokud uživatelé potřebují přístup k jiným poštovním schránkám, než j
     
 - Sdílená poštovní schránka – viz [Konfigurace nastavení sdílené poštovní schránky](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-Pokud oprávnění po provedení výše uvedených kroků nefungují správně, přejděte do Centra pro správu Exchange a zkuste oprávnění nastavit odtud (viz Správa oprávnění [pro příjemce).](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)
+Pokud oprávnění po provedení výše uvedených kroků nefungují správně, přejděte do Centra pro správu Exchange a zkuste oprávnění nastavit odtud (viz Správa oprávnění pro [příjemce).](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)
   

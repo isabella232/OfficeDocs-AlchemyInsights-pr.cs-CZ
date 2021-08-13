@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: 96457eded837e68a79226c32632ea8632cde56c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a8730116b58bfa2eb8b6bdf118a9d316b01f74c18383652c3c58bda5be15a7b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958758"
 ---
 # <a name="restore-a-deleted-yammer-group"></a>Obnovení odstraněné Yammer skupiny
 
-[Skupiny připojené k Office 365 v Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) můžete obnovit do 30 dnů po odstranění podle pokynů k obnovení odstraněné skupiny [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group).
-V některých případech Yammer skupina nemusí být připojená ke skupině Microsoft 365. V [takovém](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) případě není možné skupinu automaticky obnovit, ale může být možné získat přístup k odstraněná data v [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) exportu dat Yammer, pokud je zásada uchovávání dat v síti nastavená na Možnost měkkého *odstranění*. Obraťte se [na ověřeného správce](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) pro Yammer a zkontrolujte zásady uchovávání dat nebo proveďte export dat.
+[Office 365 připojených](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) skupin v Yammer můžete obnovit do 30 dnů od odstranění podle pokynů k obnovení [odstraněné Microsoft 365 skupiny.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
+V některých případech Yammer skupina nemusí být připojená ke Microsoft 365 skupině. V [takovém](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) případě není možné skupinu automaticky obnovit, ale může být možné získat přístup k odstraněná data v [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) exportu dat Yammer, pokud je zásada uchovávání dat v síti nastavená na Možnost měkkého *odstranění*. Obraťte se [na ověřeného správce](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) pro Yammer a zkontrolujte zásady uchovávání dat nebo proveďte export dat.

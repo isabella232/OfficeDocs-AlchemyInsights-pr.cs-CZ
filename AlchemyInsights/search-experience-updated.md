@@ -1,5 +1,5 @@
 ---
-title: 414 možnosti vyhledávání
+title: 414 Aktualizované možnosti vyhledávání
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -14,13 +14,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 66f42725118b078bd833ae6a143f89825e1627aa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c0386b821e16226a50e49410fdbd23a8da02ac74b4967adf7409f93c49d8068
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958542"
 ---
-# <a name="search-experience-updated"></a>Aktualizovaný způsob vyhledávání
+# <a name="search-experience-updated"></a>Aktualizováno prostředí hledání
 
-Hledání je teď v dolní části aplikace. Když na ni klepnete, budete mít přímý přístup k vašim nejvyšším kontaktům, nadcházejícím cestovním Itineraries, dodávkám balíčků a posledním přílohám. Můžete vyhledávat e-mailové zprávy, soubory a kontakty z jednoho z vašich účtů v jednom vyhledávacím poli nebo pomocí našich nových filtrů zúžit vyhledávání.
+Hledání se teď nachází v dolní části aplikace. Klepnutím na něj získáte přímý přístup ke svým špičkovým kontaktům, nadcházejícím cestovním itinerářům, zásilkám a nedávným přílohám. V jednom vyhledávacím poli můžete hledat e-mailové zprávy, soubory a kontakty z jednoho vyhledávacího pole nebo pomocí nových filtrů hledání zúžit.

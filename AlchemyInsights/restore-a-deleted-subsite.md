@@ -1,5 +1,5 @@
 ---
-title: Obnovení odstraněného podřízeného webu
+title: Obnovení odstraněné podřízeného webu
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 1f5db1349d2029715e9994f2872bf85cac14646b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 458cba655675f9c1f06814a71fa97128786d1d9676c29aefdfd752c2d26917d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958722"
 ---
-# <a name="restore-a-deleted-sharepoint-subsite"></a>Obnovení odstraněného podřízeného webu služby SharePoint
+# <a name="restore-a-deleted-sharepoint-subsite"></a>Obnovení odstraněné SharePoint webu
 
-Odstraněné podřízené weby budou odeslány do koše kolekce webů, kde jsou uchovány pro 93 dnů. Obnovení odstraněného podřízeného webu:
+Odstraněné podřízené weby se posílají do koše kolekce webů, kde jsou uloženy po dobu 93 dnů. Obnovení odstraněných podřízených webů:
   
-1. V novém centru pro správu SharePointu Najděte web, ze kterého byl podřízený web odstraněný, a ujistěte se, že jste správce kolekce webů. 
+1. V novém SharePoint správce najděte web, ze kterého byl podřízený web odstraněn, a ujistěte se, že jste správce kolekce webů. 
     
-2. Přejděte na web. V levém podokně klikněte na **Koš** . (Pokud Koš nevidíte, klikněte na ikonu nastavení a potom na **obsah webu**. Odpadkový koš je úplně vpravo na panelu příkazů nahoře.)
+2. Přejděte na web. V **levém podokně klikněte** na Koš. (Pokud koš nevidíte, klikněte na ikonu Nastavení a potom klikněte na **Obsah webu.** Koš je na pravé straně panelu příkazů nahoře.)
     
-3. V dolní části stránky klikněte na **Koš druhé fáze**.
+3. V dolní části stránky klikněte na Koš druhé **fáze**.
     
-4. Klikněte nalevo od podřízeného webu a potom klikněte na **obnovit**.
+4. Klikněte vlevo od podřízeného webu a potom klikněte na **Obnovit.**
     
 

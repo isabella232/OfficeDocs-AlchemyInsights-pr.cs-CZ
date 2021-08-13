@@ -1,5 +1,5 @@
 ---
-title: Omezení SharePointu Online na klasický režim
+title: Omezení SharePoint Online na klasický režim
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958794"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Omezení SharePointu Online na klasický režim
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Omezení SharePoint Online na klasický režim
 
-Některé organizace ještě vyžadují klasický režim. Přestože neplánujete odebrání klasického režimu na podrobné úrovni, není už možné omezit celou organizaci (tenanta) na klasický režim pro seznamy a knihovny.
+Některé organizace pořád vyžadují klasické režimové prostředí. I když neexistují žádné plány na odebrání klasického režimu na granulární úrovni, už není možné omezit celou organizaci (tenanta) na klasický režim pro seznamy a knihovny.
 
-Správce bude mít následující možnosti pro správu jednotlivých seznamů a knihoven v klasickém režimu pomocí podrobných přepínačů pro výslovný nesouhlas, které poskytujeme na následujících úrovních:
+Správce bude mít následující možnosti pro správu jednotlivých seznamů a knihoven v klasickém režimu pomocí granulovaných přepínačů výslovného odhlášení, které poskytujeme na následujících úrovních:
 
-- kolekce webů
-- návštěvníků
-- výpis
-- knihovny
+- Kolekce webů
+- web
+- seznam
+- knihovna
 
-Navíc seznamy, které používají určité funkce a přizpůsobení, se pořád budou automaticky přepínat do klasického režimu.
+Seznamy, které používají určité funkce a přizpůsobení, které moderní technologie nepodporují, se navíc automaticky přepne do klasického režimu.
 
-Zahájení 1. dubna 2019 se proces zakázání výslovného souhlasu na úrovni tenanta mimo moderní seznam a knihovny zahájí a pokračuje do 31 2019.  Seznamy a knihovny, které jsou v klasickém režimu jako výsledek výslovného souhlasu tenanta, se automaticky posunou na moderní.
+Od 1. dubna 2019 začne proces zakázání odhlášení z moderního seznamu a knihoven na úrovni tenanta a bude pokračovat do 31. května 2019.  Seznamy a knihovny, které jsou v klasickém režimu v důsledku odhlášení tenanta, se automaticky přesunou na moderní.
 
-Pokud vyžadujete klasický režim, podívejte se na [tady další informace a](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) pokyny k PNP PowerShellu, které popisují možnosti a [nástroje, které](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) můžete používat dnes k používání klasického režimu.
+Pokud potřebujete klasický režim, [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) přečtěte si tady další [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) informace a pokyny k powershellu PnP, které popisují možnosti a nástroje, které můžete dnes použít k použití klasického režimu.
