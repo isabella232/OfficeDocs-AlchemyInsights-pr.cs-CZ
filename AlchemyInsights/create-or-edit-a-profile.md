@@ -1,5 +1,5 @@
 ---
-title: 1800001 vytvoření nebo úprava profilu
+title: 1800001 Vytvoření nebo úprava profilu
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732420"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965382"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Vytvoření nebo úprava profilu aplikace Outlook
+# <a name="create-or-edit-an-outlook-profile"></a>Vytvoření nebo úprava Outlook profilu
 
-Pokud chcete vytvořit nový profil Outlooku, upravit profil nebo přejmenovat profil, postupujte takto:
+Pokud chcete vytvořit nový Outlook, upravit profil nebo přejmenovat profil, použijte následující postup.
   
-1. V Outlooku vyberte **File** \> **Nastavení účtu** souboru \> **Spravovat profily**.
+1. V Outlook vyberte **Účet** \> **souboru Nastavení** Spravovat \> **profily**.
     
-2. V dialogovém okně **Nastavení pošty** vyberte **Zobrazit profily**.
+2. V dialogovém **okně Nastavení** pošty vyberte **Zobrazit profily**.
     
 3. Udělejte jedno z následujícího:
     
   - Pokud chcete vytvořit nový profil, vyberte **Přidat**.
     
-  - Pokud chcete upravit nebo přejmenovat profil, vyberte **vlastnosti**.
+  - Pokud chcete upravit nebo přejmenovat profil, vyberte **Vlastnosti**.
     
-Pokud máte problémy s vytvářením nebo úpravou profilu Outlooku, můžete v příslušném počítači spustit [Nástroj Outlook Profile](https://aka.ms/SaRA-OutlookSetupProfile) . Provede některé kontroly a až budete připraveni, vytvoří v e-mailové adrese profil Outlooku. 
+Pokud máte problémy s vytvořením nebo úpravou Outlook, můžete spustit nástroj [Outlook profil](https://aka.ms/SaRA-OutlookSetupProfile) na příslušném počítači. Provede některé kontroly a až budete připravení, vytvoří Outlook s vaší e-mailovou adresou. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: 305 zvětšení archivní poštovní schránky
+title: 305 Zvětšení velikosti archivační poštovní schránky
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,26 +10,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 6bebc17eafd8615a6ffa95dbdf16f60768204aa7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc968aba32645fd4433616618d096231ce4899e9e93335e802af5c05524a79
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926376"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>Zvětšení velikosti archivní poštovní schránky
+# <a name="increase-the-archive-mailbox-size"></a>Zvětšení velikosti archivační poštovní schránky
 
 
-Pokud chcete, abychom mohli spustit automatizované kontroly pro níže uvedené nastavení, klikněte na tlačítko zpět <--v horní části této stránky a zadejte e-mailovou adresu uživatele, který potřebuje velikost archivní poštovní schránky zvýšenou.
+Pokud chcete, abychom spouštěli automatické kontroly nastavení uvedených níže, vyberte tlačítko Zpět <– v horní části této stránky a potom zadejte e-mailovou adresu uživatele, který potřebuje zvýšit velikost archivační poštovní schránky.
 
-Microsoft 365 [omezuje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) velikost archivovaných poštovních schránek na základě licence, která je uživatelskému účtu přiřazena. Když poštovní schránka dosáhne 90% jeho povolené velikosti, uživatel obdrží e-mailové oznámení. Když poštovní schránka dosáhne limitu velikosti, nemůže uživatel přesunout další položky do archivní poštovní schránky. Microsoft 365 po dosažení limitu velikosti nezvýší velikost poštovní schránky. K uvolnění místa v archivované poštovní schránce mohou uživatelé provádět následující akce:
+Microsoft 365 [omezuje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) velikost archivních poštovních schránek na základě licence, která je přiřazená k uživatelskému účtu. Když archivační poštovní schránka dosáhne 90 % povolené velikosti, uživatel dostane e-mailové oznámení. Když archivační poštovní schránka dosáhne svého limitu velikosti, uživatel nemůže do archivační poštovní schránky přesunout víc položek. Microsoft 365 se velikost archivační poštovní schránky po dosažení limitu velikosti nezvětšuje. Místo toho mohou uživatelé v archivační poštovní schránce udělat následující akce:
 
-- Exportujte položky do souboru. PST pomocí Outlooku.
+- Export položek do souboru .pst pomocí Outlook.
 
-- Odstraňte položky z archivní poštovní schránky.
+- Odstraňte položky z archivační poštovní schránky.
 
-Microsoft 365 poskytuje **neomezené archivace** pro Office 365 Enterprise E3 a E5 licence. Před dosažením maximální velikosti poštovní schránky musí správce tuto funkci povolit. Pokud je povolené neomezené archivace, může trvat až 30 dnů, než se do archivované poštovní schránky přidá volné místo. Doporučuje se tedy, aby správci ověřili volné místo v poštovní schránce archivu, což uživateli umožňuje pokračovat v převádění poštovní schránky. Další informace najdete v tématech [Přehled neomezené archivace v microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) a [Povolení neomezené archivace v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
+Microsoft 365 poskytuje **neomezenou archivaci** licencí Office 365 Enterprise E3 a E5. Správce musí tuto funkci povolit, než archivační poštovní schránka dosáhne maximální velikosti. Pokud je povolená neomezená archivace, může trvat až 30 dní, než se do archivační poštovní schránky přidá volné místo. Proto doporučujeme správcům ověřit volné místo v archivační poštovní schránce, což uživateli umožňuje dál používat archivační poštovní schránku, zatímco se rozšiřuje. Další informace najdete v tématu Přehled neomezené [archivace](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving) v Microsoft 365 a Povolení neomezené [archivace v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
 
-Další informace o přístupu k poštovní schránce z Outlooku najdete v článku [požadavky na Outlook pro přístup k položkám v automaticky rozbaleném archivu](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Informace o konfiguraci zásad uchovávání informací, které automaticky přesouvá položky do archivní poštovní schránky, najdete v tématu [nastavení zásad archivace a odstraňování poštovních schránek v organizaci Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+Další informace o přístupu k archivační poštovní schránce z Outlook najdete v Outlook pro přístup k položkám v [automaticky rozbaleném archivu](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). Informace o konfiguraci zásad uchovávání informací, které automaticky přesouvá položky do archivační poštovní schránky, najdete v tématu Nastavení zásad archivace a odstranění poštovních schránek ve [vaší Microsoft 365 organizaci.](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
 
-**Poznámka**: automatické rozbalování nejsou podporované pro primární poštovní schránky na Exchange 2010.
+**Poznámka:** Automatické rozbalování archivů není podporováno u primárních poštovních schránek Exchange 2010.

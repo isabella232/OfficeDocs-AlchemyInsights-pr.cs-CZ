@@ -1,5 +1,5 @@
 ---
-title: Identifikační řetězec prohlížeče Microsoft Edge (plocha)
+title: Microsoft Edge řetězec uživatelského agenta (Desktop)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975994"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Identifikační řetězec prohlížeče Microsoft Edge (plocha)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge řetězec uživatelského agenta (Desktop)
 
-Pomocí řetězců User Agent (UA) můžete zjistit, jaká verze konkrétního prohlížeče se používá v určitém operačním systému. Podobně jako jiné prohlížeče Microsoft Edge tyto informace začleňuje do hlavičky User-Agent "HTTP, kdykoli to vytvoří žádost na web. Informace o verzi do prohlížeče mohou být přístupné prostřednictvím JavaScriptu pomocí dotazu na hodnotu "Navigator. userAgent".
+Řetězce uživatelského agenta (UA) můžete použít ke zjištění, jakou verzi konkrétního prohlížeče se používá v určitém operačním systému. Stejně jako v jiných prohlížečích Microsoft Edge tyto informace do záhlaví HTTP "User-Agent" při každém požadavku na web. K informacím o verzi prohlížeče se také dostanete pomocí JavaScriptu dotazem na hodnotu "navigator.userAgent".
 
-Doporučujeme, aby vývojáři webu používali zjišťování funkcí všude, kde je to možné, ke zlepšení udržení kódu, omezení nezávisle na kódu a eliminace rizika v případě v budoucích aktualizacích řetězců systému UA.
+Doporučujeme webovým vývojářům používat zjišťování funkcí, kdykoli je to možné ke zlepšení udržovatelnosti kódu, snížení nestability kódu a k odstranění rizika přerušení kódu v případě budoucích aktualizací řetězce UA.
 
-Další informace najdete v tématu [Microsoft Edge-identifikační řetězec (Desktop)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+Další informace najdete v [tématu Microsoft Edge User Agent String (Desktop) .](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string)

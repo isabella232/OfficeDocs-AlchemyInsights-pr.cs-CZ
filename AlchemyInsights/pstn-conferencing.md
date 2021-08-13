@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943620"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Volání do veřejné telefonní sítě pomocí Online Skypu pro firmy
+# <a name="pstn-calling-with-skype-for-business-online"></a>Volání do veřejné telefonní sítě s Skype pro firmy Online
 
-K volání do veřejné telefonní sítě v Microsoftu 365 potřebujete plán volání [microsoftu 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) nebo připojení k místní telefonní infrastruktuře veřejné telefonní sítě. Chcete-li se dozvědět více informací, podívejte se na následující zdroje: 
+Pokud chcete volat do veřejné telefonní sítě [](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) Microsoft 365 veřejné telefonní sítě, potřebujete Microsoft 365 volání nebo připojení k místní telefonní infrastruktuře veřejné telefonní sítě. Chcete-li se dozvědět více informací, podívejte se na následující zdroje: 
 
-- [Dostupnost zemí a oblastí pro audiokonference a plány volání do Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Dostupnost zemí a oblastí pro audiokonference a Microsoft Teams volání](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
 - [Časté otázky týkající se audiokonferencí](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Přidání finančních prostředků a správa komunikačních kreditů](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Volající ve veřejné telefonní síti se nemůže připojit ke konferenčnímu hovoru vytáčeného přes Skype pro firmy](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Volající ve veřejné telefonní síti se nemůže připojit Skype pro firmy konferenčního hovoru](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
