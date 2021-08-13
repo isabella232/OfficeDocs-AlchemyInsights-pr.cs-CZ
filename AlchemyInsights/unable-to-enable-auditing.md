@@ -1,5 +1,5 @@
 ---
-title: 2419 – nelze povolit – auditování
+title: 2419-unable-to-enable-auditing
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007783"
 ---
-# <a name="unable-to-enable-unified-auditing"></a>Nelze povolit jednotné auditování.
+# <a name="unable-to-enable-unified-auditing"></a>Jednotné auditování se nedaří povolit.
 
-Když se pokusíte povolit jednotné auditování pro vaši organizaci, může se zobrazit chybová zpráva podobná této:
+Když se pokusíte povolit jednotné auditování pro vaši organizaci, může se zobrazit chybová zpráva podobná následující:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
@@ -29,7 +29,7 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 Tento problém vyřešíte takto:
 
-1. [Připojení k PowerShellu služby Exchange Online](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)
+1. [Připojení k Exchange Online PowerShellu](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
 2. Spusťte následující rutinu:
 
@@ -37,9 +37,9 @@ Tento problém vyřešíte takto:
    Enable-OrganizationCustomization
    ```
 
-3. Počkejte, až 60 minut, než se předchozí nastavení projeví.
+3. Počkejte 60 minut, než se projeví předchozí nastavení.
 
-4. Spusťte následující příkaz v online Exchangi PowerShellu:
+4. Spusťte následující příkaz v Exchange Online PowerShellu:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
@@ -47,6 +47,6 @@ Tento problém vyřešíte takto:
 
 Další informace najdete v následujících článcích:
 
-- [Připojení k PowerShellu Exchange Online pomocí vícefaktorového ověřování](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Připojení k Exchange Online PowerShellu pomocí vícefaktorového ověřování](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [Zapnutí nebo vypnutí hledání v protokolu auditování](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
+-  [Zapnutí nebo vypnutí vyhledávání v protokolu auditování](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
