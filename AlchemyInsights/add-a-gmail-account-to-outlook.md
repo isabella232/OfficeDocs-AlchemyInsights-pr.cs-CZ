@@ -1,5 +1,5 @@
 ---
-title: Přidání účtu Gmail do Outlooku
+title: Přidání účtu Gmail do Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 18d9b44e06e62b2b1af30a53efe5fa47163ef4c6
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: 0b642db4eee780d6010549c77de5777d2344d34a27c90994a1c7759bdd9ffc07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936986"
 ---
-# <a name="add-a-gmail-account-to-outlook"></a>Přidání účtu Gmail do Outlooku
+# <a name="add-a-gmail-account-to-outlook"></a>Přidání účtu Gmail do Outlook
 
-Postup je stejný, ať jste do Outlooku přidali první účet Gmail nebo další účty gmail.
+Postup je stejný, ať už přidáváte svůj první účet Gmail nebo další účty Gmail do Outlook.
 
-1. Vyberte   >  **Přidat účet**.
-1. Zadejte svoji e-mailovou adresu a klikněte na **připojit**. Outlook otevře okno Gmail s výzvou k zadání hesla. 
-1. Zadejte heslo a vyberte **Přihlásit** se.
+1. Vyberte **Přidat**  >  **účet souboru**.
+1. Zadejte svou e-mailovou adresu a klikněte **na Připojení**. Outlook otevře okno Gmailu s dotazem na vaše heslo. 
+1. Zadejte heslo a vyberte **Přihlásit se**.
 > [!IMPORTANT]
-> Po připojení účtu Gmail do Outlooku se může ve složce Doručená pošta Gmail zobrazit upozornění, že bylo zjištěno nové přihlášení k aplikaci Internet Explorer. Toto je očekávané chování.
-4. Pokud jste dříve povolili 2-Factor Authentication pro Gmail, zobrazí se výzva k zadání kódu odeslaného do mobilního zařízení. Pokud jste nepovolili dvojúrovňové ověřování, přejděte ke kroku 6.
-1. Zobrazí se okno oprávnění účtu Google. Klikněte na **Povolit**.
-1. Po dokončení přidání účtu Gmail můžete přidat další e-mailový účet nebo vybrat možnost **Hotovo**.
+> Po připojení účtu Gmail k Outlook se může ve složce Doručená pošta Gmailu zobrazit zpráva s upozorněním, že se zjistilo nové přihlášení z Internet Exploreru. Toto je očekávané chování.
+4. Pokud jste v Gmailu už dříve povolili dvoufaktorové ověřování, zobrazí se výzva k zadání kódu odeslaného na mobilní zařízení. Pokud jste nepou ít dvoufaktorové ověřování, přejděte ke kroku 6.
+1. Zobrazí se okno oprávnění účtu Google. Klikněte **na Povolit.**
+1. Po Outlook přidání účtu Gmail můžete přidat další e-mailový účet nebo vybrat **Hotovo**.
 > [!TIP]
-- > Pokud zaškrtnete políčko pro nastavení Outlooku Mobile na telefonu, budete přesměrováni na web, na kterém můžete zadat číslo svého mobilního telefonu a dostanete odkaz na stažení Outlooku pro iOS nebo Outlook pro Android. Instalace Outlooku Mobile je skvělý způsob, jak si můžete zůstat na cestách.
-- Pokud potřebujete pokyny k přidání e-mailového účtu pomocí upřesňujících nastavení, přečtěte si článek [použití upřesňujícího nastavení k přidání e-mailového účtu POP nebo IMAP v Outlooku pro PC](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced).
+- > Pokud zaškrtáte políčko Nastavení Outlook Mobile na mém telefonu, dostanete se na web, na kterém můžete zadat číslo svého mobilního telefonu, a dostanete odkaz ke stažení Outlook pro iOS nebo Outlook pro Android. Instalace Outlook Mobile je skvělý způsob, jak zůstat aktuální na cesty.
+- Pokud potřebujete pokyny pro přidání e-mailového účtu pomocí upřesňujících nastavení, přečtěte si informace v tématu Použití rozšířeného nastavení k přidání e-mailového účtu POP nebo [IMAP Outlook pro POČÍTAČ](https://support.microsoft.com/office/change-or-update-email-account-settings-in-outlook-for-windows-560a9065-3c3a-4ec5-a24f-cdb9a8d622a2#bkmk_advanced).

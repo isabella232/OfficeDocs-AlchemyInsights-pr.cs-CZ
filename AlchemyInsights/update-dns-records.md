@@ -12,16 +12,16 @@ ms.custom:
 - "39"
 - "41"
 - "100001"
-ms.openlocfilehash: de163d4385249e49db76de8997a7f8f3fb3cd198
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3528176b79400ae40ae25935d554666696751fcbce688a9f4edcb926e777fb7f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007531"
 ---
 # <a name="update-dns-records"></a>Aktualizace záznamů DNS
 
-Nastavení záznamů DNS je důležité pro získání vašeho předplatného s vlastním názvem domény. K přidání nebo aktualizaci záznamů DNS použijte následující odkazy.
+Nastavení záznamů DNS je důležité pro to, aby vaše předplatné pracovalo s vaším vlastním názvem domény. K přidání nebo aktualizaci záznamů DNS použijte následující odkazy.
   
 - [Vytvoření záznamů DNS u kteréhokoliv poskytovatele hostingu DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
 - [Přidání nebo úprava vlastních záznamů DNS](https://docs.microsoft.com/microsoft-365/admin/dns/add-or-edit-custom-dns-records)

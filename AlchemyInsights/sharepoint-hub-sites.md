@@ -1,5 +1,5 @@
 ---
-title: Přehled SharePointových webů
+title: SharePoint centrální weby – přehled
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
 ms.custom:
 - "1591"
 - "5300012"
-ms.openlocfilehash: 99e4cc09df3e7e687e192069c09af229202b55af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d95c282ef6b6fb33736cce1bd8112476639cb0ecacc04a99e06869bf3feb830f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093697"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>Přehled SharePointových webů
+# <a name="sharepoint-hub-sites-overview"></a>SharePoint centrální weby – přehled
 
-Weby centra SharePointu vám pomůžou vyhovět potřebám vaší organizace připojením a uspořádáním webů na základě projektu, oddělení, divize, oblasti atd., která usnadňuje:
+SharePoint centrální weby vám pomůžou splňovat potřeby vaší organizace tím, že propojují a organizují weby založené na projektech, odděleních, divizi, oblasti atd., což usnadňuje:
 
-- Podívejte se na související obsah, jako jsou novinky a další aktivity webu.
+- Objevte související obsah, jako jsou zprávy a další aktivity na webu.
 
-- Použití běžné navigace a brandingu ve všech přidružených webech 
+- Použití běžné navigace a brandingu na přidružených webech 
 
-- Hledání na všech přidružených webech
+- Hledejte na všech přidružených webech.
 
-Další informace o centrálních webech najdete v následujících tématech:
-- [Vytvoření centrálního webu v SharePointu Online](https://docs.microsoft.com/sharepoint/create-hub-site): Naučte se vytvořit centrální web z nového centra pro správu nebo PowerShellu.
+Další informace o centrálních webech najdete v následujících informacích:
+- [Vytvoření centrálního webu v SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Zjistěte, jak vytvořit centrální web z nového Centra pro správu nebo PowerShellu.
 
-- [Přidružení sharepointového webu k centrálnímu webu](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): Přečtěte si informace o tom, jak přidružit existující weby k centrálnímu webu z nového centra pro správu nebo PowerShellu.
+- [Přidružení SharePoint webu k](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05)centrálnímu webu: Informace o přidružení existujících webů k centrálnímu webu z nového Centra pro správu nebo PowerShellu.
 
-- [Odebrání centrálního webu](https://docs.microsoft.com/sharepoint/remove-hub-site): Zjistěte, jak odebrat existující centrum v novém centru pro správu nebo v PowerShellu.
+- [Odebrání centrálního webu:](https://docs.microsoft.com/sharepoint/remove-hub-site)Zjistěte, jak odebrat existující centrální web v novém Centru pro správu nebo v PowerShellu.
 
