@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712654"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914896"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Vytvoření a použití sdílené poštovní schránky
 
-Sdílená poštovní schránka umožňuje více osobám posílat a přijímat e-maily, jako je třeba sales@contoso.com, aniž by bylo potřeba přidělit jinou licenci.
+Sdílená poštovní schránka umožňuje více než jednomu uživateli odesílat a přijímat e-maily pro alias, jako je sales@contoso.com, bez přiřazení jiné licence.
   
-- Abyste mohli začít, [postupujte podle těchto kroků](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) v centru pro správu Microsoftu 365. 
+- [Postupujte podle těchto](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) pokynů v Centrum pro správu Microsoftu 365, abyste začali. 
 
-Můžete si také přečíst článek [Vytvoření sdíleného poštovního schránky](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , který vám sdělí všechno, co potřebujete vědět o sdílených poštovních schránkách, včetně toho, jak je používat.
+Můžete si také přečíst článek [Vytvoření](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) sdílené poštovní schránky, který vám řekne všechno, co potřebujete vědět o sdílených poštovních schránkách, včetně toho, jak je používat.
   

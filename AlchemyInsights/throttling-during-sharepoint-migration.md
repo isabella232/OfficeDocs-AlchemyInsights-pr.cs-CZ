@@ -13,15 +13,15 @@ ms.custom:
 - "9000136"
 - "2968"
 ms.assetid: ''
-ms.openlocfilehash: 600ad6e9c8eb55d33885eed4d80afd0b4fc35099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eba2a11701decdfaad2460807f36fc9d5afc533329a24074dcf28b4fd6cd4ac9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956148"
 ---
-# <a name="sharepoint-migration-throttling"></a>Omezení migrace SharePointu
+# <a name="sharepoint-migration-throttling"></a>SharePoint migrace
 
-SharePoint Online využívá omezování k zajištění optimálního výkonu a spolehlivosti svých služeb. Omezování limituje počet akcí uživatelů nebo současných volání (podle skriptů nebo kódu), aby nedocházelo k nadměrnému využití prostředků. Další informace najdete v těchto tématech:
+SharePoint Online využívá omezování k zajištění optimálního výkonu a spolehlivosti svých služeb. Omezování limituje počet akcí uživatelů nebo současných volání (podle skriptů nebo kódu), aby nedocházelo k nadměrnému využití prostředků. Další informace najdete v těchto informacích:
 
 - [Během migrace dochází ke snížení výkonu nebo omezování](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)

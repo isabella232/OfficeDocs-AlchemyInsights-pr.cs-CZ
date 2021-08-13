@@ -1,5 +1,5 @@
 ---
-title: Migrace kontaktů Gmail nebo Google calendars do Office 365 nebo Outlooku
+title: Migrace kontaktů z Gmailu nebo kalendářů Google Office 365 nebo Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964293"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migrace kontaktů Gmail nebo Google calendars do Office 365 nebo Outlooku
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Migrace kontaktů z Gmailu nebo kalendářů Google Office 365 nebo Outlook
 
-Nejsnazší způsob, jak importovat kontakty a kalendář Gmail do Office, je použít kontakty pro kontakty a kalendář gmail.
+Nejjednodušší způsob, jak importovat kontakty a kalendář z Gmailu do Office, je použít kontakty a poradce pro kalendář v Gmailu.
 
-[Kontakty a Poradce pro zprávy Gmail](https://go.microsoft.com/fwlink/?linkid=2134386) vám ukáže, jak synchronizovat kontakty a položky kalendáře Gmail s Office 365 pomocí různých způsobů importu a exportu.
+Poradce [pro kontakty a kalendář](https://go.microsoft.com/fwlink/?linkid=2134386) v Gmailu vám ukáže, jak synchronizovat kontakty a položky kalendáře v Gmailu Office 365 pomocí různých způsobů importu a exportu.
 
-Pokud jste svůj e-mail ještě nemigrovali, poskytne [Poradce pro nastavení e-mailu](https://go.microsoft.com/fwlink/?linkid=2133951) podrobné pokyny k dokončení migrace poštovní schránky.
+Pokud jste e-mail ještě nemigrovali, poradce pro nastavení e-mailu obsahuje podrobné pokyny k dokončení migrace poštovní schránky. [](https://go.microsoft.com/fwlink/?linkid=2133951)
 
-Informace o tom, jak v Outlooku Zobrazit kalendář Google, [najdete v článku zobrazení kalendáře Google v Outlooku](https://go.microsoft.com/fwlink/?linkid=2083939).
+Informace o tom, jak zobrazit kalendář Google v Outlook, najdete v tématu Zobrazení kalendáře [Google v Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).

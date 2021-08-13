@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: 90ecb6f7656e5f4f0a8c3da3692f0892f4829d10
-ms.sourcegitcommit: c9021d873950e378c927e39e179b5da4ff17b880
+ms.openlocfilehash: e3efbb37e28737c1cf1932abdf03b14f7b7bc295037ca0acc9602d8864b4a8ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955446"
 ---
 # <a name="about-universal-print"></a>O univerzálním tisku
 
-Univerzální tisk je součástí komerčních a vzdělávacích předplatných Microsoft 365 a Windows 10, ale můžete si ho také koupit jako samostatné předplatné.
+Univerzální tisk je součástí komerčních a vzdělávacích Microsoft 365 a Windows 10 předplatných, ale můžete si ho také koupit jako samostatné předplatné.
 
 Další informace najdete v článku Licenční univerzální tisk [| Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).
 
