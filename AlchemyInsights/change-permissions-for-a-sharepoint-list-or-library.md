@@ -1,5 +1,5 @@
 ---
-title: Změna oprávnění pro SharePointový seznam nebo knihovnu
+title: Změna oprávnění pro SharePoint nebo knihovnu
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b012606e5dadd0ea71eb68de9bc278faea41adbc99e662bfa3eea6653548c1a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979450"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Změna oprávnění pro SharePointový seznam nebo knihovnu
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Změna oprávnění pro SharePoint nebo knihovnu
 
-1. Přejděte na SharePointový web ve webovém prohlížeči a otevřete seznam nebo knihovnu.
+1. Přejděte na web SharePoint webovém prohlížeči a otevřete seznam nebo knihovnu.
     
-2. V pravém horním rohu klikněte na ikonu nastavení a potom klikněte na **Nastavení knihovny** nebo **Nastavení seznamu**. (Pokud tento příkaz nevidíte, vyberte kartu **Knihovna** nebo **seznam** a otevřete pás karet a klikněte na pásu karet na **Nastavení knihovny** nebo **Nastavení seznamu** .) 
+2. Klikněte na Nastavení v pravém horním rohu a potom klikněte na **Nastavení knihovny** nebo **Nastavení seznamu.** (Pokud tento příkaz nevidíte, otevřete  pás  karet pomocí karty Knihovna nebo  Seznam a potom klikněte na Nastavení knihovny nebo **Seznam Nastavení** na pásu karet.) 
     
-3. V části **oprávnění a Správa**klikněte na **oprávnění pro tento seznam** nebo **oprávnění pro tuto knihovnu dokumentů**.
+3. V **části Oprávnění a správa** klikněte na Oprávnění pro tento seznam **nebo** Oprávnění pro **tuto knihovnu dokumentů.**
     
-Ve výchozím nastavení dědí seznamy a knihovny SharePointu oprávnění z webu. Pokud zrušíte dědění oprávnění, zkopírují se aktuální oprávnění do seznamu nebo knihovny a do všech nich. Pokud jsou oprávnění pro web později změněna, změny se neprojeví u seznamu nebo knihovny a u položek v ní.
+Upozorňujeme, že ve SharePoint a knihoven dědí jejich oprávnění z webu. Pokud přerušíte dědičnost oprávnění, aktuální oprávnění se zkopírují do seznamu nebo knihovny a do všech v ní. Pokud se oprávnění pro web později změní, změny se nebudou u seznamu nebo knihovny a položek v ní použít.
   
 

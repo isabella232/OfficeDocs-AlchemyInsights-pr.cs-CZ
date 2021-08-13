@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 7800a447c5dfcc8397121e1149921916ff7944ac
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: acb343553bfb7e100c03d0e7046ed5cbdd6b739b9a61e3faf17768bd8aadff34
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819073"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995615"
 ---
 # <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>Změna e-mailové adresy skupiny Microsoftu 365 nebo Microsoft Teams
 

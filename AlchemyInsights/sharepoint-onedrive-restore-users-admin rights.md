@@ -1,5 +1,5 @@
 ---
-title: Poradce při potížích s odepřením přístupu na weby OneDrivu pro firmy
+title: Řešení potíží s accessem zamítl zprávy OneDrive pro firmy weby
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9001cf0b7d9f1f05a2ecedca2c3137dd1b8a1c38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc4a2bd7dcc74f5f05e8b709e4bc3eac6ed445d6e2ea9ede698abbc8667723ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670609"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957786"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Poradce při potížích s odepřením přístupu na weby OneDrivu pro firmy
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Řešení potíží s accessem zamítl zprávy OneDrive pro firmy weby
 
-K tomuto problému dochází často, když se uživatel odstraní a znovu vytvoří se stejným hlavním názvem uživatele (UPN). Nový účet je vytvořen pomocí jiného identifikátoru PUID (kód účtu služby Passport). Když se uživatel pokusí získat přístup ke kolekci webů nebo k OneDrivu, má nesprávný PUID. Druhý scénář zahrnuje synchronizaci adresářů s organizační jednotkou služby Active Directory. Pokud se uživatelé už přihlásili k SharePointu a pak jsou přesunuti na jinou organizační jednotku a znovu se synchronizují se SharePointem, může dojít k těmto potížím.
+K tomuto problému nejčastěji dochází, když se uživatel odstraní a znovu vytvoří se stejným hlavním názvem uživatele( UPN). Nový účet se vytvoří pomocí jiné hodnoty PUID (Passport Unique ID). Když se uživatel pokusí získat přístup k kolekci webů nebo OneDrive, má uživatel nesprávný KÓD PUID. Druhý scénář zahrnuje synchronizaci adresářů s organizační jednotkou služby Active Directory (OU). Pokud se uživatelé už přihlásili k SharePoint a pak se přesunou do jiné OU a znovu se synchronizuje s SharePoint, může docházet k tomuto problému.
 
-1. Tento problém vyřešíte tak, že obnovíte původní název UPN pomocí kroků v článku [obnovení uživatele v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
-2. Pokud původního uživatele obnovit nemůžete, odeberte ho z webu OneDrivu tímto postupem tak, že [odeberete uživatele ze seznamu informace o uživateli](). 
-3. Po dokončení této akce můžete ověřit, jestli má uživatel práva správce na web OneDrivu podle pokynů pro [Přidání správce na OneDrivu pro uživatele](https://docs.microsoft.com/sharepoint/manage-user-profiles) .
+1. Chcete-li tento problém vyřešit, měli byste obnovit původní hlavní název uživatele pomocí kroků v článku Obnovení [uživatele v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+2. Pokud nemůžete obnovit původního uživatele, měli byste odebrat starého uživatele z OneDrive pomocí těchto kroků, odeberte uživatele [ze seznamu informací o uživateli](). 
+3. Až to bude hotové, můžete ověřit, že má uživatel práva správce k webu OneDrive, a to podle pokynů v článku Přidání správce pro uživatele [OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 
-Další informace o úrovních oprávnění najdete v článku [Principy úrovní oprávnění v SharePointu](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Další informace o úrovních oprávnění najdete v článku [Principy](https://docs.microsoft.com/sharepoint/understanding-permission-levels)úrovní oprávnění v SharePoint .

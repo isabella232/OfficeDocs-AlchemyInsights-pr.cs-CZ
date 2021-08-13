@@ -14,12 +14,12 @@ ms.custom:
 - "4992"
 - "9002628"
 - "5047"
-ms.openlocfilehash: f7321067edb3c0ce41dedaa00324dcae42ec7ec9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 4545a578154edac69acac6097d4a259299c5303a5a0b254c7fe0c57869b7bcab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830062"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945069"
 ---
 # <a name="mc207028---notifications-in-outlook-to-obtain-outlook-for-ios-and-android-on-mobile-devices"></a>MC207028 – oznámení v Outlooku o získání služby Outlook pro iOS a Android na mobilních zařízeních
 

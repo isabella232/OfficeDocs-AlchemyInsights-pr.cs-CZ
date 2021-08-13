@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
-ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
+ms.openlocfilehash: d72e3de6da9f51ebd5dd8a4eb06e94d7bc5cca81f86bd61902a9587b00f7b7b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49724147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995470"
 ---
 # <a name="comments-on-list-items"></a>Komentáře k položkám seznamu
 
-Uživatelé mohou zobrazit všechny komentáře k položce seznamu a filtrovat je mezi zobrazeními, která zobrazují komentáře nebo aktivity související s položkou.
+Uživatelé mohou zobrazit všechny komentáře k položce seznamu a filtrovat mezi zobrazeními, která zobrazují komentáře nebo aktivity související s položkou.
 
-Abyste mohli přidávat a odstraňovat komentáře, musí si uživatelé všimnout následujících informací:
+Uživatelé si musí před přidáním a odstraněním komentářů poznamenat následující:
 
-- Komentáře sledují nastavení oprávnění, které jsou součástí SharePointu.
-- Klasické seznamy, které ještě nejsou vytvořené pro zobrazení v moderních uživatelských rozhraních, jako jsou seznamy úkolů, tuto funkci komentáře nemají.
-- Komentáře k seznamům v aplikaci Teams nejsou k dispozici v této verzi.
-- Komentáře nejsou indexovány pomocí vyhledávání.
+- Komentáře dodržují nastavení oprávnění, která jsou součástí SharePoint.
+- Klasické seznamy, které ještě nejsou vytvořené tak, aby se v moderních uživatelských rozhraních, jako jsou seznamy úkolů, nebudou mít tuto funkci komentáře.
+- Komentáře k seznamům v Teams v této verzi nejsou k dispozici.
+- Hledání komentáře neindexuje.
 
-Správci můžou tuto funkci na úrovni organizace zakázat změnou parametru **CommentsOnListItemsDisabled** v rutině **set-SPOTenant** PowerShellu.
+Správci mohou tuto funkci zakázat na úrovni organizace změnou parametru **CommentsOnListItemsDisabled** v **rutině PowerShellu Set-SPOTenant.**
 
-V tuto chvíli není možné zakázat komentáře na úrovni webu nebo seznamu. Doufáme, že máte tyto kontroly v pozdější aktualizaci, což je pravděpodobné v prvním čtvrtletí 2021.
+V současné době není možné zakázat přidávání komentářů na úrovni webu nebo seznamu. Doufáme, že tyto ovládací prvky budeme mít v pozdější aktualizaci, pravděpodobně v prvním čtvrtletí 2021.
