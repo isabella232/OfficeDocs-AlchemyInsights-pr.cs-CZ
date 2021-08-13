@@ -1,5 +1,5 @@
 ---
-title: Použití pravidel složky Doručená pošta v Outlook.com
+title: Použití pravidel doručené pošty na Outlook.com
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6433"
 - "9003531"
-ms.openlocfilehash: d41c4a77bf8874f462a0a20f0d86806f1d6fc85b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f6c0f9877b945d6ad6a397ae053509d5edc90c20b72c6567e867268ee1eda04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53971692"
 ---
-# <a name="use-inbox-rules-in-outlookcom"></a>Použití pravidel složky Doručená pošta v Outlook.com
+# <a name="use-inbox-rules-in-outlookcom"></a>Použití pravidel doručené pošty na Outlook.com
 
-Ve složce Doručená pošta můžete pomocí pravidel automaticky provádět v e-mailech určité akce.
+Pravidla můžete použít k automatickému provádění konkrétních akcí u e-mailů ve složce Doručená pošta.
 
-- Chcete-li vytvořit pravidlo, které přesune všechny e-maily od určitého odesílatele do složky, klikněte pravým tlačítkem na zprávu v seznamu zpráv, pro kterou chcete vytvořit pravidlo, a vyberte  **vytvořit pravidlo**.
-- Pokud chcete vytvořit zcela nové pravidlo nebo upravit nebo odstranit stávající pravidlo, otevřete [pravidla Outlook.com](https://go.microsoft.com/fwlink/?linkid=2118142).
-- Všimněte si, že pravidla fungují jenom na e-maily, které přijde do složky Doručená pošta, a nefungují v jiných složkách.
+- Pokud chcete vytvořit pravidlo, které přesune všechny e-maily od určitého odesílatele do složky, klikněte pravým tlačítkem myši na zprávu v seznamu zpráv, pro kterou chcete vytvořit pravidlo, a vyberte  **Vytvořit pravidlo**.
+- Pokud chcete vytvořit úplně nové pravidlo nebo upravit nebo odstranit existující pravidlo, otevřete pravidla [Outlook.com](https://go.microsoft.com/fwlink/?linkid=2118142).
+- Upozorňujeme, že pravidla fungují jenom u e-mailů, které dorazí do složky Doručená pošta, a nefungují v jiných složkách.

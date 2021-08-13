@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: ecf4926bf1fb8f698388b63b1597c2ea90e5d542
-ms.sourcegitcommit: 8242a824491f64be48dfe81da09766920fbd7feb
+ms.openlocfilehash: 0fd0eab942a07fdf4e01eb5b4a45dd1035b490bb4ef265e57c28701e93eb3c11
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52783383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937886"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivace nebo opětovná aktivace předplatného
 

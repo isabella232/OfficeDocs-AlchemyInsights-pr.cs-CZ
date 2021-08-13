@@ -1,5 +1,5 @@
 ---
-title: Připojení sharepointového webu ke skupině
+title: Připojení SharePoint webu skupiny
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817057"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915400"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Připojení sharepointového webu ke skupině
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Připojení SharePoint webu skupiny
 
-Pomocí průvodce připojením ke skupině můžete připojit sharepointový web ke skupině Microsoft 365.
+Průvodce připojením skupiny slouží k připojení SharePoint k Microsoft 365 skupiny.
 
 1. Na webu, který chcete připojit ke skupině, vyberte **Nastavení (ikona ozubeného kola).**
-2. Vyberte **Připojit k nové skupině Microsoft 365.**
+2. Vyberte **Připojení nové Microsoft 365 skupiny**.
 3. Připojení dokončete podle průvodce.
 
-**Poznámka:**  Pokud připojení k nové skupině Microsoft 365 není dostupné, web nepodporuje připojení skupiny.
+**Poznámka:**  Pokud Připojení nové Microsoft 365 skupiny není k dispozici, web nepodporuje připojení skupiny.
 
-Další informace najdete v tématu  [Připojení ke skupině Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+Další informace najdete v tématu [Připojení do Office 365 skupiny](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).

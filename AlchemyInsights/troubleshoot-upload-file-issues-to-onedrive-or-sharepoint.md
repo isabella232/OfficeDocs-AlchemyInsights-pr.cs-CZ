@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: f53002cfd8c8437cefe181e48e644cc55f76b568
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 4bf0e1c568fe3524b6b3f1d4f98a152b3f22fdbf211d6075caf594c56d3b25e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007855"
 ---
 # <a name="troubleshoot-upload-file-issues-to-onedrive-or-sharepoint"></a>Poradce při potížích s nahráváním souborů na OneDrive nebo SharePoint
 

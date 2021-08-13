@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3484"
 - "9001418"
-ms.openlocfilehash: d9a0808c2b56e6676e239e129aaf32a1a80ecbba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c97e54e41394b00d505dc51a4b44623a481070036fe371c66c4bba5afd362663
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823096"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937814"
 ---
-# <a name="reactivating-windows-10-after-a-hardware-change"></a>Opětovná aktivace Windows 10 po změně hardwaru
+# <a name="reactivating-windows-10-after-a-hardware-change"></a>Opětovné aktivace Windows 10 po změně hardwaru
 
-Pokud jste v zařízení udělali významnou hardwarovou změnu, například výměnu základní desky, nemusí být systém Windows aktivovaný. Zkuste znovu aktivovat Windows 10 pomocí Poradce při potížích s aktivací:
+Pokud jste v zařízení udělali významnou hardwarovou změnu, například výměnu základní desky, Windows už nemusí být aktivovaná. Zkuste pomocí poradce při potížích s aktivací znovu aktivovat Windows 10:
 
-Přejděte na **Start**  >  **Settings**  >  **Update & security** Activation  >  (Aktivace **zabezpečení)** a pak vyberte **Troubleshoot (Poradce při potížích).** Pokud chcete poradce při potížích používat, musíte být přihlášení jako správce.
+Přejděte na **Start Nastavení** Update & security Activation (Aktivace zabezpečení) a  >    >    >  pak vyberte Troubleshoot (Poradce při **potížích).** Pokud chcete poradce při potížích používat, musíte být přihlášení jako správce.
 
-**Poznámka:** Pokud spuštění poradce při potížích nepomůže nebo nevidíte tlačítko Poradce při potížích, budete si muset promluvit s někým, kdo vám pomůže s aktivací vaší kopie Windows.  (Klikněte na **tlačítko Kontaktujte** nás v levém dolním rohu této aplikace.)
+**Poznámka:** Pokud spuštění poradce při potížích nepomůže nebo nevidíte tlačítko Poradce při potížích, budete si muset promluvit s někým, kdo vám pomůže s aktivací kopie Windows.  (Klikněte na **tlačítko Kontaktujte** nás v levém dolním rohu této aplikace.)
 
-[Další informace o aktivaci ve Windows 10](https://support.microsoft.com/help/12440/windows-10-activate)
+[Další informace o aktivaci v Windows 10](https://support.microsoft.com/help/12440/windows-10-activate)
