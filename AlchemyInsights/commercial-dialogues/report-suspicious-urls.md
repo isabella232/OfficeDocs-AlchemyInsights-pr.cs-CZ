@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 858a80886321394a5f3acc813e1f95b6f88cad8f
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d42d7eb55062b729b3156dc02562c83800c786d34f6de05152e7e09fa88ab71b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915688"
 ---
 # <a name="report-suspicious-urls"></a>Nahlášení podezřelých adres URL
 

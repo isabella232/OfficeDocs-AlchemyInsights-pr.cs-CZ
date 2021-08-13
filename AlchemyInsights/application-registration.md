@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004352"
 - "7780"
-ms.openlocfilehash: 75e7b57d279e508971f3a846c2ad3ede927e9c2f
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: d21f6ee8206c9bf0f02dbe147333b9d714aa43895812888e28d564e37f56dca1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969604"
 ---
 # <a name="application-registration"></a>Registrace aplikace
 
-1. [Registrace aplikace v Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): Tento kurz popisuje, jak zaregistrovat aplikaci v Azure Active Directory, která umožňuje uživateli s uživatelským účtem Power Apps připojit se k jejich prostředí Microsoft datawordu z externích klientských aplikací pomocí ověřování OAuth.
-1. [Registrace aplikace v platformě Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app): v tomto rychlým automatu zaregistrujete aplikaci na Azure Portal, aby platforma Microsoft Identity mohla poskytovat služby ověřování a autorizace pro vaši aplikaci a její uživatele.
+1. Registrace aplikace pomocí [Azure Active Directory](https://docs.microsoft.com/powerapps/developer/data-platform/walkthrough-register-app-azure-active-directory): Tento kurz popisuje, jak zaregistrovat aplikaci u Azure Active Directory Power Apps, která umožňuje uživateli s uživatelským účtem připojit se ke svému prostředí Microsoft Dataverse z externích klientských aplikací pomocí ověřování OAuth.
+1. [Registrace aplikace pomocí](https://docs.microsoft.com/azure/active-directory/develop/quickstart-register-app)Microsoft identity platform: V tomto rychlém startu zaregistrujete aplikaci na portálu Azure Portal, aby Microsoft identity platform mohl poskytovat ověřovací a autorizační služby pro vaši aplikaci a její uživatele.
