@@ -1,5 +1,5 @@
 ---
-title: Jak uložím kontakty z Outlooku do aplikace kontakty v iOSu?
+title: Jak si uložím svoje Outlook kontakty do aplikace kontakty v iOSu?
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 955c381d59b85150979efd1177d3f75802726bcfa7550cafee7eb0fb8e7381d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811125"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927210"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Jak uložím kontakty z Outlooku do aplikace kontakty v iOSu?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Jak si uložím svoje Outlook kontakty do aplikace kontakty v iOSu?
 
-Uložení kontaktů Outlooku do nativního adresáře:
+Pokud chcete Outlook kontakty do nativního adresáře:
  
-1. Přejděte na **Kontakty nastavení**  >  **zařízení** a potvrďte, že **je výchozí účet** nastavený na **iCloud**. Toto nastavení je dostupné jenom v případě, že máte do zařízení přidaný víc účtů. Pokud k zařízení není připojený žádný účet, kontakty Outlooku se uloží místně, ale nebudou se synchronizovat s jinými zařízeními.
+1. Přejděte na **Zařízení Nastavení** Kontakty a potvrďte, že  >   je výchozí **účet** nastavený na **iCloud**. Toto nastavení je dostupné jenom v případě, že máte do zařízení přidaný víc účtů. Pokud k zařízení není připojený žádný účet, Outlook kontakty se uloží místně, ale nebudou se synchronizovat s jinými zařízeními.
  
-2. Otevřete Outlook pro iOS a v levém navigačním panelu vyberte ozubené kolo Nastavení, zvolte Vybrat **svůj** účet a zapněte **přepínač Uložit** kontakty.
+2. Otevřete Outlook pro iOS a v levém navigačním panelu vyberte Nastavení, zvolte Vybrat svůj  účet a zapněte přepínač Uložit kontakty.
  
 Uložené kontakty se přidávají pod kontakty ve vašem účtu iCloud. Tyto kontakty se synchronizují se všemi zařízeními, která jsou přihlášená pomocí stejného účtu iCloud. Kontakty můžete exportovat jenom z jednoho zařízení najednou.
  
-Pokud má uživatel zapnutý export kontaktů, bude muset být iPad i iPhone vypnutý, aby se předešlo konfliktům. Opětovné souhodnotání může trvat 24 hodin.
+Pokud má uživatel zapnutou možnost exportu kontaktů, bude iPad i iPhone, aby se zabránilo konfliktům. Opětovné souhodnotání může trvat 24 hodin.

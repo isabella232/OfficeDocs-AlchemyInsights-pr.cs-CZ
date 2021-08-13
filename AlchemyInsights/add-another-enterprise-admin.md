@@ -1,5 +1,5 @@
 ---
-title: Přidání dalšího správce rozlehlé sítě – doporučené kroky
+title: Přidání dalšího podnikového správce – doporučené kroky
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954664"
 ---
-# <a name="add-another-enterprise-administrator---recommended-steps"></a>Přidání dalšího správce rozlehlé sítě – doporučené kroky
+# <a name="add-another-enterprise-administrator---recommended-steps"></a>Přidání dalšího podnikového správce – doporučené kroky
 
-Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
+Na základě popisu vašeho problému jsme pro vás našli řešení. Většina zákazníků dokázala vyřešit svůj problém sami po provedení naší dokumentace.
 
-V podnikovém zápisu můžete mít několik správců rozlehlé sítě.
+V podnikové registraci můžete mít několik podnikových správců.
 
-**Přidání dalšího správce rozlehlé sítě:**
+**Přidání dalšího podnikového správce:**
 
-1. Přihlaste se ke [službě Azure Enterprise Portal](https://ea.azure.com/).
-1. Přejděte na podrobnosti o **správě**  >  **zápisu**.
-1. Klikněte na **+ přidat správce** v pravém horním rohu.
-1. Chcete-li získat přístup jen pro čtení, nastavte možnost Read-Only na **hodnotu Ano** a pak vyberte **Přidat**.
+1. Přihlaste se k [portálu Azure Enterprise Portal](https://ea.azure.com/).
+1. Přejděte na **Spravovat**  >  **podrobnosti registrace.**
+1. Klikněte **na + Přidat správce** v pravém horním rohu.
+1. Pro přístup jen pro čtení nastavte možnost Read-Only na **Ano** a pak vyberte **Přidat.**
 
-Zkontrolujte, jestli máte e-mailovou adresu uživatele a preferovanou metodu ověřování, třeba pracovní, školní nebo účet Microsoft. Pokud nejste podnikovým správcem, kontaktujte správce rozlehlé sítě a požádejte ho, aby vás přidal do zápisu. Noví správci jsou přidaní pouze pro existující správce. Po přidání do zápisu získáte aktivační e-mail.
+Ujistěte se, že máte e-mailovou adresu a upřednostňovanou metodu ověřování, jako je pracovní, školní nebo účet Microsoft. Pokud nejste podnikový správce, kontaktujte podnikového správce a požádejte ho, aby vás přidá do registrace. Nové správce přidávají jenom stávající správci. Po přidání do registrace dostanete aktivační e-mail.
 
 **Přidání správce oddělení:**
 
-Po vytvoření oddělení správcem s příponou Azure EA může správce Azure Enterprise přidat správce oddělení a každý z nich přidružit k oddělení. Každý Podnikový zápis může mít několik správců oddělení.
+Jakmile správce Azure EA vytvoří oddělení, může správce azure Enterprise přidat správce oddělení a přidružit je k oddělení. Pro každý podnikový zápis můžete mít několik správců oddělení.
 
-1. Přihlaste se ke [službě Azure Enterprise Portal](https://ea.azure.com/).
-1. Přejděte na kartu **Spravovat**  >  **oddělení** a vyberte požadované oddělení.
-1. Vyberte **+ přidat správce** a přidejte požadované informace.
-1. Chcete-li získat přístup jen pro čtení, nastavte možnost Read-Only na **hodnotu Ano** a pak vyberte **Přidat**.
+1. Přihlaste se k [portálu Azure Enterprise Portal](https://ea.azure.com/).
+1. Přejděte na **kartu Spravovat** oddělení a  >   vyberte oddělení.
+1. Vyberte **+ Přidat správce** a přidejte požadované informace.
+1. Pro přístup jen pro čtení nastavte možnost Read-Only na **Ano** a pak vyberte **Přidat.**
 
 **Aktualizace nebo odebrání správce:**
 
-1. Najeďte myší na správce EA, který chcete odebrat, a klikněte na modrou ikonu **X** .
-1. Potvrďte, že je vybraný požadovaný správce, a klikněte na **Ano**.
+1. Najeďte myší na správce EA, který chcete odebrat, a klikněte na modrou **ikonu X.**
+1. Potvrďte, že je vybraný požadovaný správce, a klikněte na **Ano.**
 
 **Doporučené dokumenty**
 
-- [Principy rolí správy Azure Enterprise Agreement v Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
-- [Správa portálu EA pro Azure](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)
+- [Principy rolí smlouva Enterprise v Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
+- [Správa portálu Azure EA](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)

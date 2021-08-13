@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808340"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919596"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Upgrade na plnou verzi Microsoft Teams
 
-Potřebujete upgradovat z celé verze Microsoft Teams? Viz [upgrade Microsoft Teams zdarma na verzi předplatného systému microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Potřebujete upgradovat z bezplatné verze na plnou verzi Microsoft Teams? Podívejte [se na Microsoft Teams bezplatného upgradu Microsoft 365 předplatného](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
-Musíte splnit tyto požadavky:
+Budete muset splňovat tyto požadavky:
 
-- Jste osoba, která si zaregistrovala aktuální bezplatnou verzi Teams.
-- Pokud máte vlastní doménu, nemůžete už být přidružená ke službě Azure Active Directory.
-- Chcete-li při upgradu přenést data, musíte se přihlásit k odběru. Pokud jste si koupili předplatné mimo proces upgradu, nemůžete přenášet data.
+- Jste osoba, která se zaregistrovala k aktuální bezplatné verzi Teams.
+- Pokud máte vlastní doménu, nemůže být přidružená k Azure Active Directory.
+- Pokud chcete při upgradu přenést data, musíte se přihlásit k odběru během procesu upgradu. Pokud jste si předplatné koupili mimo proces upgradu, nemůžete data přenést.

@@ -1,5 +1,5 @@
 ---
-title: PayNow/uskutečnit platbu okamžitě
+title: PayNow/Provést platbu okamžitě
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 822f098967fbce4a80b96b232ae3e3c7ce5470b00e0a77737c090798ca6945fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755684"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944412"
 ---
-# <a name="paynowmake-payment-immediately"></a>PayNow/uskutečnit platbu okamžitě
+# <a name="paynowmake-payment-immediately"></a>PayNow/Provést platbu okamžitě
 
-Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
+Na základě popisu vašeho problému jsme pro vás našli řešení. Většina zákazníků dokázala vyřešit svůj problém sami po provedení naší dokumentace.
 
-U předplatného Azure Enterprise Agreement se nepodporuje metoda Add/Update/Change pro platby. Pokud chcete změnit adresu na existující faktuře, obraťte se na zástupce Microsoftu.
+U předplatného Azure Enterprise Agreement není způsob platby Add/Update/Change of payment podporován. Pokud chcete změnit adresu na existující faktuře, kontaktujte prosím svého zástupce Microsoftu.
 
-Pokud chcete použít zálohu Azure k vyrovnání faktur pro spotřebu a/nebo nákupy Azure, kontaktujte podporu. Mějte na paměti, že poplatky účtované odděleně a služby tržiště se nedají vyrovnat se zálohou Azure. U nepřímého zápisu zajistěte, aby byli vaši partneři informováni o potenciálním dopadu na faktury. V případě přímých zákazníků můžete chtít zachovat Bill-To kontaktu.
+Pokud chcete použít zálohu Azure k vyrovnání faktur za spotřebu a/nebo nákupy Azure, kontaktujte podporu. Všimněte si, že poplatky fakturované samostatně a služby Marketplace nelze kompenzovat s předplatnou Azure. Při nepřímé registraci zajistěte, aby byli vaši partneři informovaní o potenciálním dopadu na faktury. Pro přímé zákazníky můžete chtít, aby byl váš Bill-To informovaný.
 
 **Doporučené dokumenty**
 
-- [Plaťte svou nadplatnou zálohou Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)
+- [Platba za přeplatek s předplatnou Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-enrollment-invoices#pay-your-overage-with-your-azure-prepayment)

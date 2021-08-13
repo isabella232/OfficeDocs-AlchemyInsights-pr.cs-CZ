@@ -1,5 +1,5 @@
 ---
-title: Trvalé odstranění e-mailu v Outlooku
+title: Trvalé odstranění e-mailu v Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0aa1c016f229399f451655f691486c4618fce55d2952ea677edb902349dd270
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836092"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944376"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>Trvalé odstranění e-mailu v Outlooku
+# <a name="permanently-delete-an-email-in-outlook"></a>Trvalé odstranění e-mailu v Outlook
 
 - V zobrazení doručené pošty dlouho stiskněte zprávu a uvidíte ikonu koše. Klepnutím na tuto ikonu zprávu odstraníte.
 

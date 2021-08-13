@@ -1,5 +1,5 @@
 ---
-title: Zachování a odstranění OneDrivu
+title: OneDrive a odstranění
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985354"
 ---
-# <a name="onedrive-retention-and-deletion"></a>Zachování a odstranění OneDrivu
+# <a name="onedrive-retention-and-deletion"></a>OneDrive a odstranění
 
-- [Odstraněné uživatele](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) si můžete sami obnovit. Jsou v koši za 93 dnů.
+- Odstraněné [uživatele můžete obnovit OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sami. Jsou v koši po dobu 93 dnů.
 
-- V [tomto článku](https://docs.microsoft.com/onedrive/retention-and-deletion) najdete:
-    - Poskytnutí přístupu jiného uživatele k OneDrivu odstraněného uživatele
-    - Co se stane s OneDrivem uživatele při odstranění účtu Microsoft 365 uživatele pro vaši organizaci.
-    - Jak nakonfigurovat automatickou delegování přístupu.
-    - Jak funguje odstraňování OneDrivu.
+- Další [informace najdete v](https://docs.microsoft.com/onedrive/retention-and-deletion) tomto článku:
+    - Jak dát jinému uživateli přístup k odstraněné uživatelské OneDrive.
+    - Co se stane s uživatelským účtem OneDrive když odstraníte účet uživatele Microsoft 365 vaší organizace.
+    - Jak nakonfigurovat automatické delegování přístupu.
+    - Jak OneDrive odstranění funguje.
 
-- Informace o obnovení položek z koše na OneDrivu najdete v článku [obnovení odstraněných souborů nebo složek](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Informace o obnovení položek z koše v OneDrive najdete v tématu Obnovení [odstraněných souborů nebo složek](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
-- Zajímání a podržení centra zabezpečení a dodržování předpisů?
-    - [Zásady uchovávání informací pro SharePointové weby](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [blokování eDiscovery pro weby OneDrivu a SharePointu](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Zajímá vás uchovávání a blokování Centra zabezpečení a dodržování předpisů?
+    - [Zásady uchovávání informací pro OneDrive a SharePoint weby](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [Blokování eDiscovery pro OneDrive a SharePoint weby](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

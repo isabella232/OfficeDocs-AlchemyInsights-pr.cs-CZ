@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954546"
 ---
 # <a name="add-contacts-to-speed-dial"></a>Přidání kontaktů do rychlého vytáčení
 
-1. V  **telefonech**přejděte na  **Kontakty**.
-2. Pokud vidíte kartu osoby, kterou chcete přidat do číselníku pro Rychlé vytáčení, vyberte na kartě  **Další možnosti**  (tři tečky) a vyberte  **Přidat do číselníku**.
+1. V  **části Hovory** přejděte na  **Kontakty**.
+2. Pokud se zobrazí karta osoby, kterou chcete přidat do rychlého vytáčení, vyberte na kartě Další možnosti  **(tři**  tečky) a vyberte Přidat do  **rychlého vytáčení**.
 
-Pokud tuto osobu nevidíte, vyberte  **Přidat telefonní číselník**  v pravém horním rohu obrazovky, začněte psát jejich jméno, vyberte osobu a pak vyberte  **Přidat**.
+Pokud osobu nevidíte, vyberte  Přidat rychlé vytáčení v pravém horním rohu obrazovky, začněte psát jeho jméno, vyberte osobu a pak vyberte **Přidat**.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1263662184948ed1e77e3abacd17babf4aa033ed1ecec29b4c4afc26d6da56f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822628"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954657"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>Proč je tlačítko Přidat rozpočet pro mě zakázané?
 
@@ -27,7 +27,7 @@ Pokud chcete vytvořit rozpočet, potřebujete jedno z následujících oprávn�
 - Přispěvatel správy nákladů
 - Vlastník
 - Přispěvatel
-- Pouze podnikový zákazník: Registrace, oddělení, obory účtů
+- Enterprise Pouze zákazník: Registrace, oddělení, obory účtů
 - Správce registrace (nastavte rozpočet na obor Registrace)
 - Správce oddělení (nastavit rozpočet na obor oddělení)
 - Vlastník účtu (nastavit rozpočet na rozsah účtu)

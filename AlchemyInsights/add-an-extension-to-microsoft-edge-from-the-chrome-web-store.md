@@ -15,18 +15,18 @@ ms.custom:
 - "6922"
 - "8312"
 - "9004621"
-ms.openlocfilehash: 0b393d548ab8cf408c26c1548f29e02e61bd8695
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 2ee9a388025b0cdccb16452f5b8610dfc4d3d25bc49fed71f1e1b1789b4d4827
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954726"
 ---
 # <a name="add-an-extension-to-microsoft-edge-from-the-chrome-web-store"></a>Přidání rozšíření do Microsoft Edge z webového úložiště Chrome
 
-Pokud chcete do Microsoft Edge přidat rozšíření z webového úložiště Chrome, postupujte takto:
+Pokud chcete přidat rozšíření do Microsoft Edge z webového úložiště Chrome, postupujte takto:
 
-1. Přejděte do Webového obchodu Chrome.
+1. Přejděte na Internetový obchod Chrome.
 2. V nápisu v horní části stránky vyberte Povolit **rozšíření z jiných obchodů**.
 3. Vyberte rozšíření, které chcete přidat, a potom klikněte na **Přidat do Chromu.**
 4. V potvrzovacím dialogovém okně pečlivě zkontrolujte změny, které může rozšíření provést, a potom klikněte na **Přidat rozšíření.**
