@@ -15,28 +15,28 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922202"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Odebrání dat a utírání zařízení z Intune
 
-Pomocí vzdálených akcí Vyřazení zařízení a Vymazání zařízení můžete odebrat data společnosti spravovaných Intune nebo obnovit tovární nastavení a vrátit zařízení do výchozího nastavení.
+Vzdálené akce Vyřazení zařízení a Vymazání zařízení můžete použít k odebrání firemních dat spravovaných Intune nebo k obnovení továrního nastavení a k návratu zařízení do výchozího nastavení.
 
-1. Přihlaste se ke Správě zařízení Microsoft 365 a přejděte na **Zařízení**  >  **všechna zařízení.**
+1. Přihlaste se Microsoft 365 správy zařízení a přejděte na **Zařízení**  >  **všechna zařízení**.
 2. Vyberte zařízení, které chcete vymazat.
-3. Vyberte typ vzdáleného vymazání, které chcete udělat. Vyřazení odstraní jenom informace organizace, zatímco úplné vymazání obnoví zařízení do továrního nastavení.
-4. Výběrem **možnosti Ano** potvrďte. Dokud se vymazání nedokončí, zobrazí se stav akce Zařízení jako Čeká na *vyřazení.*
-    Po dokončení akce se už mobilní zařízení v seznamu spravovaného zařízení nebude zobrazit.
+3. Vyberte typ vzdáleného vymazání, které chcete udělat. Vyřazení odstraní jenom informace o organizaci, zatímco úplné vymazání zařízení obnoví do továrního nastavení.
+4. Potvrďte **výběrem** možnosti Ano. Dokud se vymazání nedokončí, zobrazí se stav akce Zařízení jako *Čeká na vyřazení.*
+    Po dokončení akce se už mobilní zařízení v seznamu spravovaných zařízení neuvidí.
 
 > [!NOTE]
-> Ze zařízení PŘIPOJENÝch k Azure AD nelze odebrat data společnosti. 
+> Data společnosti nelze odebrat ze zařízení JOINED do Azure AD. 
 
-Úplné podrobnosti o efektu akcí Vyřazení a vymazání, včetně toho, co se zachová a co se odstraní, najdete v následující dokumentaci:
+Úplné podrobnosti o účinku akcí Vyřazení a vymazání, včetně toho, co je zachované a co se odstraní, najdete v následující dokumentaci:
 
-- [Zařízení odeberte vymazáním, vyřazením nebo](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe)ručním zrušení registrace zařízení.
-- [Jak vymazat jenom podniková data z aplikací spravovaných přes Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
-- [Vymažte všechna data ze zařízení s macOS.](https://docs.microsoft.com/mem/intune/remote-actions/device-erase)
+- [Odeberte zařízení pomocí vymazání, vyřazení](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe)nebo ručního zrušení registrace zařízení .
+- [Jak vymazat jenom podniková data z aplikací spravovaných Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Vymažte všechna data ze zařízení s macOS](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).

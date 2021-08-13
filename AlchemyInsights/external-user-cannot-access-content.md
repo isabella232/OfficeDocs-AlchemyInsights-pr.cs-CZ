@@ -1,5 +1,5 @@
 ---
-title: Externí uživatel nemá přístup k obsahu
+title: Externí uživatel nemůže získat přístup k obsahu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 70ae38749bde631000d373a981de2bd1be50084b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6868d8238aa376cace020950490de22ea0fc26d05b8308bfc4d9e5f1fc992bf2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977650"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Externí uživatel nemá přístup k obsahu SharePointu nebo OneDrivu
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>Externí uživatel nemůže získat přístup SharePoint nebo OneDrive obsahu
 
-Pokud je externí uživatel přizván a nemá přístup k obsahu, zkuste navštívit níže uvedené odkazy:
+Pokud byl externí uživatel pozván a nemůže získat přístup k obsahu, zkuste prosím navštívit následující odkazy:
 
-- [Externí uživatelé při přístupu k webu přijímají chyby oprávnění](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [Chyba při sdílení položky nebo webu v SharePointu Online nebo OneDrivu pro firmy neumožňuje zásadám vaší organizace sdílení s těmito uživateli chybu](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Při sdílení z SharePointu Online nebo OneDrivu se možnosti sdílení zobrazuje šedě](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Externí uživatelé dostávají chyby oprávnění při přístupu k webu.](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [Chyba "Zásady vaší organizace neumožňují sdílet s těmito uživateli" při sdílení položky nebo webu v SharePoint Online nebo OneDrive pro firmy](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Možnosti sdílení jsou při sdílení z SharePoint Online nebo OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

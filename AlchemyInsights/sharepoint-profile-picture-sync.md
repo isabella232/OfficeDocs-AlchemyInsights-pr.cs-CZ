@@ -11,24 +11,24 @@ ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
 ms.custom:
 - "1828"
 - "9000231"
-ms.openlocfilehash: 9ee728fa9eefc882d220d8484c8c92d4d8c9af4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d07d8e9206b4b7d0756277409d48b0cd299e5cf0fd7261e6c0ad75dfe8648f1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957426"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kdy se synchronizace profilu změní do aplikace profilů uživatelů SharePointu?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kdy se změny profilu synchronizují s aplikací SharePoint profilu uživatele?
 
-Synchronizace obrázků s profilem v SharePointu Online vyžaduje pro zahájení synchronizace své fotky akci uživatele. SharePointu Online neumožňuje automatickou synchronizaci fotek. SharePoint Online synchronizuje pouze fotky z Exchange Online, ne služby Azure Active Directory.
+Synchronizace obrázků profilu v SharePoint Online vyžaduje, aby uživatel zahájil synchronizaci své fotky. Neexistuje žádná automatická synchronizace fotek pro SharePoint Online. SharePoint Online synchronizuje jenom fotky z Exchange Online, ne Azure Active Directory.
 
-Pokud uživatel nikdy neprováděl akci, která by zobrazila výzvu k synchronizaci nebo aktualizovala svůj profilový obrázek, a nový se v SharePointu Online nezobrazí, může se stát, že si ho bude muset vyzvat k synchronizaci. Tady je postup, jak to můžou udělat:
+Pokud uživatel nikdy neprojeví akci, která by vyzvat k synchronizaci nebo aktualizovala svůj profilový obrázek a nový obrázek se nezobrazuje v SharePoint Online, bude ho možná muset vyzvat k synchronizaci. Tady je postup, jak to udělat:
 
-1. Otevřete webový prohlížeč v soukromé nebo Prohlížečinové relaci a [přejděte na Office.com](https://www.office.com/).
+1. Otevřete webový prohlížeč v relaci In-Private inkognito a [přejděte na Office.com.](https://www.office.com/)
 
-2. Přihlaste se pomocí svého pracovního nebo školního účtu a klikněte na OneDrive nebo na dlaždici SharePointu.
+2. Přihlaste se pomocí svého pracovního nebo školního účtu a klikněte na OneDrive nebo SharePoint dlaždici.
 
-3. [Přidejte si profilovou fotku do Microsoft 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+3. [Přidejte profilové fotky do Microsoft 365.](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-[Informace o synchronizaci obrázků v profilu v Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
+[Informace o synchronizaci profilové fotky v Microsoft 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

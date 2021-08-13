@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: f20d0ff5e724ceab17a6d3d965534d63b00bbee7
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 4a0a195f702b68f061954e025b3e4a4b1b49f60573ecb48fbbaaa6920a58f3f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918244"
 ---
 # <a name="trying-to-remove-your-domain"></a>Pokoušíte se odebrat doménu?
 

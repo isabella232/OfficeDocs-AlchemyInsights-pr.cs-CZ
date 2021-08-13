@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "7438"
-ms.openlocfilehash: 1867556cc85a0f7ed0c7cdb22061a63d559fbb4b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 7437a9b1ffd483244222c7bda192e25e76efc8088f3bf92facfb27ee5bf0e503
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948202"
 ---
 # <a name="delete-a-user-and-remove-licenses"></a>Odstranění uživatele a odebrání licencí
 
-Odstraněním uživatele se taky zruší přiřazení uživatelských licencí a zpřístupnění pro ostatní uživatele. 
-1. V centru pro správu přejděte na **uživatelé** > aktivní uživatelé.
-1. Vyberte uživatele, které chcete odstranit, a klikněte na **Odstranit uživatele**.
+Odstraněním uživatele se také uživatelské licence nepřiřazení, takže budou dostupné pro ostatní uživatele. 
+1. V Centru pro správu přejděte na **Uživatelé a** > Aktivní uživatelé.
+1. Vyberte uživatele nebo uživatele, které chcete odstranit, a klikněte **na Odstranit uživatele.**
 
-Další informace najdete v článku [odstranění uživatele z vaší organizace](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). 
+Další informace najdete v tématu [Odstranění uživatele z vaší organizace](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). 

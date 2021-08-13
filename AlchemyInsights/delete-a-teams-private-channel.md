@@ -1,5 +1,5 @@
 ---
-title: Odstranění soukromého kanálu Teams
+title: Odstranění Teams kanálu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3781"
 - "9001223"
-ms.openlocfilehash: 56021a335c64810700913cf08519b95f24a7a17d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33bf8a5cdc3a8e8da78c9d02e11387a778a7acce483e4485f595d9e05b344433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948264"
 ---
-# <a name="delete-a-teams-private-channel"></a>Odstranění soukromého kanálu Teams
+# <a name="delete-a-teams-private-channel"></a>Odstranění Teams kanálu
 
-Společnost Microsoft si uvědomila problém s odstraněním soukromého kanálu teams, pokud jsou u základního webu SharePointu povolené zásady uchovávání SharePointu. Microsoft pracuje na opravě. Do té doby můžete pomocí následujících zástupných řešení odstranit soukromý kanál.
+Microsoft ví o problému s odstraněním Teams kanálu, pokud máte SharePoint zásady uchovávání informací povolené pro základní SharePoint webu. Microsoft pracuje na opravě. Mezitím můžete k odstranění soukromého kanálu použít následující alternativní řešení.
 
-**Vyloučení týmu/webu ze zásad uchovávání SharePointu**
+**Vyloučí kolekci tým/web ze zásad uchovávání informací služby Sharepoint.**
 
-1. Přejděte na portál pro správu Office 365 a v levém navigačním podokně vyberte **Zobrazit vše** .
-2. V části **centra pro správu**přejděte na zásady ochrany před únikem dat **dodržování předpisů &**  >  **Data Loss Prevention**  >  **Policy**.
-3. Identifikujte zásady, které platí pro sharepointové weby, a upravte zásadu tak, aby se sharepointový web obsahující privátní kanál nezahrnul do zásad uchovávání informací.
+1. Přejděte na Office 365 správce a **v** levém navigačním podokně vyberte Zobrazit vše.
+2. V **části Centra pro správu** přejděte na Zásady ochrany & **dodržování** předpisů  >  **proti ztrátě dat**  >  .
+3. Určete všechny zásady, které se vztahují na sharepointové weby, a upravte zásady tak, aby sharepointový web týmu obsahujícího soukromý kanál nebyl zahrnutý do zásad uchovávání informací.
 4. Uložte zásadu.
-    Nastavení zásad může trvat až 24 hodin.
+    Může trvat až 24 hodin, než se nastavení zásad projeví.
     Po vyloučení webu můžete soukromý kanál odstranit.  
     
-Na zařízení s Androidem  ***můžete soukromý*** kanál odstranit pomocí Microsoft Teams. 
+Soukromý ***kanál*** můžete odstranit pomocí Microsoft Teams zařízení s Androidem. 
 
-Informace o souvisejících SharePointu najdete [v článku nemůžete odstranit položky v SharePointu Online nebo OneDrivu pro firmy](https://docs.microsoft.com/alchemyinsights/retention-policy-ediscovery-hold).
+Související informace SharePoint najdete v tématu Nelze odstranit položky [v SharePoint Online nebo OneDrive pro firmy](https://docs.microsoft.com/alchemyinsights/retention-policy-ediscovery-hold).
