@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 340d25a3b9cfb12df367f9836928c608fcd7fa4d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b51a0365e60d467bdea1af460c0282ee9b9c41608f16cc9821e90f5372c3d928
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956580"
 ---
 # <a name="microsoft-teams-meetings-and-dial-in"></a>Schůzky Microsoft Teams a vytáčení
 

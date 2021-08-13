@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "8000"
-ms.openlocfilehash: 97a08f74c85d48746c04bcaf31c1265384941487
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 073d6508109d02938e684870c79a5b41d7a621fb10d5b131f0d9103901fce460
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51793025"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986182"
 ---
 # <a name="mover-troubleshooting"></a>Řešení potíží s moverem
 

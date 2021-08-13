@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 81941d84127a096c3bd588dafc61b492ab6d6458
-ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
+ms.openlocfilehash: 9a33b7880aff6016ef6df88960d6f59ac9dd50382c7e99d72ca36bc3c9f344ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53928362"
 ---
 # <a name="unable-to-activate-office"></a>Nelze aktivovat Office
 

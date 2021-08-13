@@ -1,5 +1,5 @@
 ---
-title: Offboard Windows 10 devices from Microsoft Defender Advanced Threat Protection
+title: Offboard Windows 10 zařízení od Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 560e6772e810d9ef0d8aa9b17cf14cb6f4fe9ed8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 31c772ba868cf793093b22a29971d63d8bd3ff3370f70834319a86691d62597e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967650"
 ---
-# <a name="offboard-windows-10-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboard Windows 10 devices from Microsoft Defender Advanced Threat Protection
+# <a name="offboard-windows-10-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboard Windows 10 zařízení od Microsoft Defender Advanced Threat Protection
 
 Podívejte se na následující:
 
 - [Offboard devices using a local script](https://go.microsoft.com/fwlink/?linkid=2143465)
 - [Offboard devices using Zásady skupiny](https://go.microsoft.com/fwlink/?linkid=2143632)
 - [Offboard devices using Mobile Device Management tools](https://go.microsoft.com/fwlink/?linkid=2143633)
-- [Offboardová zařízení s Windows 10](https://go.microsoft.com/fwlink/?linkid=2143629)
+- [Offboardová Windows 10 zařízení](https://go.microsoft.com/fwlink/?linkid=2143629)
