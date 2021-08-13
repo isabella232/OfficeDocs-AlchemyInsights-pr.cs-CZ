@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665639"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960864"
 ---
 # <a name="enable-password-sync"></a>Povolení synchronizace hesel
 
-1.  Na domovské stránce centra pro správu Microsoft 365 zvolte **DirSync stav** . 
+1.  Na **domovské stránce** Centrum pro správu Microsoftu 365 dirsynchronizaci. 
     
-     *Můžete také **Přejít na** \> **aktivní**uživatele a na stránce aktivní uživatelé zvolit **Další** \> **synchronizace adresářů.*** 
+     *Můžete také přejít na  Uživatelé aktivní a na stránce Aktivní uživatelé zvolit Další synchronizace \>   \> **adresářů.*** 
     
-2. V podokně synchronizace adresářů zvolte **Přejít na správu DirSync**. 
+2. V podokně Synchronizace adresářů zvolte **Přejít na správu DirSync**. 
     
-3. Teď uvidíte svůj stav a provedete změny:
+3. Teď uvidíte svůj stav a proveďte změny:
     
-    **Zapnutá synchronizace hesel:** (pravda nebo NEPRAVDA) Určuje, jestli máte povolenou synchronizaci hesel mezi místními a vaším nájemcem. 
+    **Synchronizace hesel povolená:** (Pravda nebo Nepravda). Určuje, jestli máte povolenou synchronizaci hesel mezi místním a vaším tenantem. 
     
-    **Poslední synchronizace hesel:** (poslední synchronizace hesel byla spuštěna). Pokud poslední synchronizace proběhla před více než třemi dny, zobrazí se upozornění a odkaz na nástroj pro řešení problémů. 
+    **Poslední synchronizace hesel:** (Naposledy proběhla synchronizace hesel). Zobrazí se upozornění a odkaz na nástroj pro řešení potíží, pokud poslední synchronizace byla před více než třemi dny. 
     
 

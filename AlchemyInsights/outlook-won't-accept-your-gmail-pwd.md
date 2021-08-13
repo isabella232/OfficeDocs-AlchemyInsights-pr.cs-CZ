@@ -1,5 +1,5 @@
 ---
-title: Outlook nepřijme vaše heslo pro Gmail
+title: Outlook Nepřijme vaše heslo k Gmailu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924648"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook nepřijme vaše heslo pro Gmail
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook nepřijme vaše heslo k Gmailu
 
-Doporučujeme zapnout dvojúrovňové ověřování a používat heslo aplikace.
+Doporučujeme za zapnutí dvoufaktorového ověřování a použití hesla aplikace.
 
-Pokud chcete zapnout dvojúrovňové ověřování a získat heslo aplikace, postupujte takto:
+Pokud chcete zapnout dvoufaktorové ověřování a získat heslo aplikace, použijte následující postup.
 
-1. V prohlížeči přejděte do Gmail a v pravém horním rohu obrazovky klikněte na ikona **Google Apps** (oblíbené aplikace).
-1. Na levé straně klikněte na **zabezpečení**.
-1. V části přihlášení do Google, pokud je ve **dvou krocích ověřování** **vypnuté**, kliknutím na tlačítko **>** vedle možnosti **vypnuto** zapněte.  Jinak přejděte ke kroku 4.
-1. Na první obrazovce klikněte na **pokračovat**.
-1. Pokud se zobrazí výzva, zadejte heslo Gmail a klikněte na **Další**.
-1. Zadejte svoje telefonní číslo a vyberte, jestli chcete přijímat ověřovací kódy pomocí textových zpráv nebo telefonních hovorů.
-1. Klikněte na **Další**.
-1. Zadejte kód, který jste dostali, a klikněte na **Další**.
-1. Kliknutím na **zapnout** dokončíte nastavení dvoustupňové ověření.
-1. Vraťte se na předchozí obrazovku kliknutím na šipku vlevo v horní části obrazovky vedle možnosti **dvoustupňové ověření**.
-1. Klikněte na **>** úplně vpravo na řádku **hesla aplikace** .
-1. Zadejte svoje heslo Google a klikněte na **Přihlásit se**. V dolní části Další obrazovky klikněte v rozevíracích seznamech na **Pošta** a **počítač se systémem Windows** a potom klikněte na **Generovat**.
+1. V prohlížeči přejděte do Gmailu a v pravém horním rohu obrazovky klikněte na ikonu Aplikací **Google.**
+1. Vlevo klikněte na **Zabezpečení.**
+1. Pokud je v části Přihlášení do Googlu **dvoukrokové** ověření **vypnuté,** zapněte ho kliknutím na tlačítko vedle **>** možnosti **VYPNUTO.**  V opačném případě přejděte ke kroku 4.
+1. Na první obrazovce klikněte na **POKRAČOVAT.**
+1. Pokud se zobrazí výzva, zadejte heslo gmailu a klikněte na **DALŠÍ.**
+1. Zadejte své telefonní číslo a vyberte, jestli chcete ověřovací kódy dostávat pomocí textové zprávy nebo telefonního hovoru.
+1. Klikněte **na DALŠÍ.**
+1. Zadejte kód, který jste dostali, a klikněte na **DALŠÍ.**
+1. Kliknutím **na ZAPNOUT** dokončete nastavení dvoukrokové ověření.
+1. Vraťte se na předchozí obrazovku kliknutím na šipku vlevo v horní části obrazovky vedle **dvoukrokové ověření.**
+1. Vyberte **>** vpravo od řádku **Hesla** aplikací.
+1. Zadejte heslo Google a klikněte na **Přihlásit se.** V dolní části další obrazovky klikněte na Pošta a **Windows v** rozevíracích seznamech klikněte na Počítač a potom klikněte na  **Generovat.**
 Google vám zobrazí heslo aplikace. 
-13. Zkopírujte toto heslo (bez mezer) a zadejte toto heslo, až Outlook vyzve uživatele k zadání hesla.
+13. Zkopírujte toto heslo (bez mezer) a toto heslo zadejte, Outlook vás vyzve k zadání hesla.
 
-Další informace najdete v článku [Přidání účtu Gmail do Outlooku – Outlooku (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Další informace najdete v tématu Přidání účtu Gmail do [Outlook – Outlook (microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).

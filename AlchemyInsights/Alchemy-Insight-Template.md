@@ -1,5 +1,5 @@
 ---
-title: nejvhodnější je název souboru.
+title: nejlepší je název souboru
 ms.author: pebaum
 author: pebaum
 manager: jackiesm
@@ -12,30 +12,30 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 113d01e0fc92cc9845e585919ab05f386d6892bb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b915ab18d10948b8588dc6e2ef6af9891524861a924e2193dd73c2c77ffe6da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664127"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918888"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Povinné záhlaví Alchemy H1, H2's nefunguje."
-Doporučené postupy a pokyny pro vytváření Alchemy:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Required Alchemy Header H1, H2's don't work".
+Doporučené postupy a pokyny pro vytváření alchymií:
 
-1. **Do složek nevnořit Alchemy přehledy**– toto přeruší strukturu adres URL. Pracujeme na vyřešení tohoto řešení.
-1. Soubory ve složce **AlchemyInsights** by měly obsahovat názvy souborů s malými písmeny s pomlčkami pro mezery. ***postupy – povolení-soudní spory***
-    1. Do pole MS. Custom zadejte ID pravidla nebo ID bloku z [portálu Alchemy partnera](https://alchemyportal.azurewebsites.net) . Příklad. ***MS. vlastní: 100021***
-1. V horní části tohoto souboru použijte zbývající metadata jako šablonu.
-1. Na [portálu Alchemy partnera](https://alchemyportal.azurewebsites.net)přejděte na téma popis **zákazníka – přehled:** a použijte ho jako výchozí bod pro váš název H1 pro přehled. 
+1. **Ne vnořovat Alchemy Přehledy do složek**– tím se struktura adresy URL přeruší. Hledáme řešení tohoto řešení.
+1. Soubory ve **složce AlchemyInsights** by měly mít malé názvy souborů s pomlčkami pro mezery ex. **_how-to-enable-litigation-hold_**.
+    1. Do pole ms.custom zadejte ID pravidla nebo ID bucketu z [portálu Alchemy Partner](https://alchemyportal.azurewebsites.net) Portal. ex. ***ms.custom: 100021***
+1. Jako šablonu použijte zbytek metadat v horní části tohoto souboru.
+1. Na portálu [Alchemy Partner přejděte](https://alchemyportal.azurewebsites.net)dolů do oddílu Customer Insight Title (Název customer **insightu):** a použijte ho jako výchozí bod pro název H1 pro přehled. 
     > [!NOTE]
-    > Alchemy přehledy musí mít v horní části jenom jeden H1 nebo se budou přerušit ve výrobě. H2s nevykreslují, takže nepoužívejte k označení samostatných oddílů **tučné** nebo jiné zvyklosti.
-1. Potom vyplňte základní text pomocí konceptu materiál v části zákaznické přehledy na stránce pravidlo Alchemy.
-    1. Seznamy s odrážkami jsou přesné
-    1. Číslované seznamy
-    1. **Tučné písmo** a *kurzíva* jsou a – OK
-    1. Odkazy by měly vždy být **"odkazy na web"/External** nebo **hluboké odkazy na prvky uživatelského rozhraní**, ne interní odkazy.
-    1. Obrázky nejsou v současné době oficiálně podporovány, ale je to v plánu.
+    > Alchemy Přehledy musí mít nahoře jenom jeden H1, nebo se přeruší v produkčním prostředí. H2s se nevykreslují, takže k označení samostatných oddílů použijte tučné písmo nebo jiné konvence. 
+1. Potom vyplňte hlavní text pomocí konceptu v části Customer Insights stránky Alchemy Rule (Pravidlo alchymie).
+    1. Seznamy s odrážkami jsou v pořádku.
+    1. Číslování seznamů
+    1. **Tučné** písmo a *kurzíva* jsou v pořádku.
+    1. Odkazy by měly být vždy **buď "odkazy na web"/externí** nebo **odkazy na** prvky uživatelského rozhraní , ne interní odkazy.
+    1. Obrázky nejsou v tuto chvíli oficiálně podporované, ale jsou v plánu.
 
-A to je opravdu příliš dlouho. Osvědčené postupy jsou přibližně 400 znaků---------------------------------
+A už je to moc dlouho. Osvědčený postup je asi 400 znaků ---------------------------------
 
-Jakmile je váš obsah připravený, vytáhněte ho do živé větvení. Pak přejděte na [portál partnera Alchemy](https://alchemyportal.azurewebsites.net) a zadejte název souboru do pole URL. 
+Až bude obsah připravený, přetáhněte ho do živé větve. Potom přejděte na portál [Alchemy Partner a](https://alchemyportal.azurewebsites.net) zadejte název souboru do pole url. 

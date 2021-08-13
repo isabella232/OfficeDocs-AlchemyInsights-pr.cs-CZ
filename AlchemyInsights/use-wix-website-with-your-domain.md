@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: ef2e7278b1a70aedca1b2ad9c13c249bf8b09c00
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: d7df06d768eabb44bcaee4a7450d16ecdb3395da4cee4810503d3dae358736ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980170"
 ---
 # <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>Použití webu Wix s doménami koupenými nebo spravovanými přes Office 365
 
