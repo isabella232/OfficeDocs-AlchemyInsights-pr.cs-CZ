@@ -1,5 +1,5 @@
 ---
-title: Kontroly Accessu
+title: Access reviews
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014745"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938616"
 ---
-# <a name="access-reviews"></a>Kontroly Accessu
+# <a name="access-reviews"></a>Access reviews
 
-1. **Povolení recenzí Accessu**: při vytvoření nového balíčku Accessu nebo úpravě existujícího balíčku Accessu můžete povolit kontroly. [Vytvoření kontroly Accessu balíčku Accessu v Azure AD – Správa nároků](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) popisuje, jak povolit Access zkontrolovat balíčky Accessu.
+1. **Povolit accessové** recenze: Můžete povolit recenze při vytváření nového balíčku pro přístup nebo úpravách existujícího balíčku pro přístup. [Vytvoření přehledu přístupu k balíčku pro](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) přístup ve správě oprávnění Azure AD popisuje, jak povolit přístup k balíčkům přístupu.
 
-1. **Kontrola přístupu**: Správa oprávnění Azure AD zjednodušuje způsob, jakým podniky spravují přístup ke skupinám, aplikacím a sharepointovým webům. [Kontrola přístupu k balíčku Accessu v Azure AD managementu](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) : popisuje, jak udělat kontroly Accessu pro další uživatele, kteří jsou přiřazeni k balíčku Accessu jako vyhrazený revidující.
+1. **Kontrola přístupu:** Správa nároků Azure AD zjednodušuje způsob, jakým podniky spravují přístup ke skupinám, aplikacím a SharePoint webům. [Kontrola přístupu k balíčku pro](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) přístup ve správě oprávnění Azure AD popisuje, jak provádět revize přístupu pro ostatní uživatele, kteří jsou přiřazeni k balíčku pro přístup jako určený revidující.
 
-1. **Zkontrolujte přístup sami**: [vlastní kontrola balíčku Accessu v Azure AD – Správa nároků](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) popisuje, jak uživatel provede vlastní kontrolu přiřazených balíčků pro Access.
+1. **Kontrola Přístupu pro sebe:** Vlastní kontrola balíčku přístupu ve správě oprávnění [Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) popisuje, jak uživatel automaticky proše ví, jak se mají přiřazené přístupové balíčku zkontrolovat.
 
-1. Ve většině případů budou koncoví uživatelé hledat, dokud nečekají na odpověď na **panelu přístupu**. Tento postup platí jenom pro recenze skupin a aplikací, ne na role. U všech přístupových přehledů rolí musí koncoví uživatelé provést revizi přechodem na správu privilegované identity Azure AD.
+1. Ve většině případů koncoví uživatelé na accessových panelech najdou recenzi čekající na **odpověď.** To platí jenom pro recenze skupin a aplikací, ne pro role. U všech přístupových recenzí rolí musí koncoví uživatelé přejít na Azure AD Privileged Identity Management (PIM), aby dokončili svou recenzi.
 
-    1. Přihlaste se k portálu Azure.
+    1. Přihlaste se k portálu Azure Portal.
     2. Přejděte na Azure AD PIM.
-    3. V levém navigačním podokně vyberte možnost **úkoly**-  >  **Kontrola přístupu**.
+    3. V levém navigačním podokně vyberte **Úkoly**  >  **Zkontrolovat přístup**.
     
 Další informace najdete tady:
 
-- [Provedení kontroly přístupu mých rolí adresáře služby Azure AD v PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
-- [Provedení kontroly přístupu mých rolí zdrojů Azure v PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
+- [Provedení revize přístupu k mým rolím adresáře Azure AD v pim ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
+- [Provedení access review of my Azure resource roles in PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)

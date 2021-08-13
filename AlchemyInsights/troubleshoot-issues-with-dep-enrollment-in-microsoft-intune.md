@@ -13,12 +13,12 @@ ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
 ms.custom:
 - "783"
 - "6200002"
-ms.openlocfilehash: 27abeafba5588ca74569ba6bebc5d940b767ea3f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e77295f0395919a723dcec1a313ca03154ae59b1bea22bf791f3a0f923cab60d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824500"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008251"
 ---
 # <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>Řešení problémů s registrací funkce Zabránění spuštění dat v Microsoft Intune
 

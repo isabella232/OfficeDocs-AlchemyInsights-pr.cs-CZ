@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938652"
 ---
 # <a name="access-services"></a>Access Services
 
-Služba Access Services v SharePointu Online se už neprovádí. Už se nedají vytvářet nové webové aplikace a webové databáze založené na Accessu a stávající webové aplikace a webové databáze se vypnou do dubna 2018. V desktopových databázích Accessu (. accdb) se tato změna neprojeví. Doporučujeme Microsoft PowerApps jako alternativu k webovým aplikacím a webovým databázím. 
+Funkce Access Services v SharePoint Online je vyřazena. Nové webové aplikace a webové databáze založené na Accessu už nelze vytvářet a stávající webové aplikace a webové databáze budou do dubna 2018 vypnuté. Tato změna nemá vliv na desktopové databáze Accessu (.accdb). Doporučujeme Microsoft PowerApps jako alternativu k webovým aplikacím a webovým databázím pro Access. 
   
 [Další informace o Microsoft PowerApps](https://powerapps.microsoft.com/)
   

@@ -1,5 +1,5 @@
 ---
-title: Nastavení vytáčených audiokonferencí ve Skypu pro firmy Online
+title: Nastavení vytáčených audiokonferencí ve veřejné telefonní síti v Skype pro firmy Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f88489850f30efd31af5f9ccb67edb309f45cb8e123c94befc70fdd72ee98450
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094383"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Nastavení vytáčených audiokonferencí ve Skypu pro firmy Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Nastavení vytáčených audiokonferencí ve veřejné telefonní síti v Skype pro firmy Online
 
-Pokud chcete nastavit audiokonference pro Online Skype pro firmy, budete muset udělat několik věcí. 
+Pokud chcete nastavit audiokonference pro Skype pro firmy Online, budete muset udělat několik věcí. 
 
 - Zjistěte, jestli je zvuková konference dostupná ve vaší zemi/oblasti.
 
