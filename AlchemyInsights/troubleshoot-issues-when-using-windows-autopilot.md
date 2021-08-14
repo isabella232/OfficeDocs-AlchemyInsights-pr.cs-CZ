@@ -1,5 +1,5 @@
 ---
-title: Poradce při potížích s používáním autopilota Windows
+title: Řešení problémů při používání Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008323"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Poradce při potížích s používáním autopilota Windows
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>Řešení problémů při používání Windows AutoPilot
 
-Pokud máte problémy s autopilotem, podívejte se na stránky [řešení potíží s autopilotem](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) a [známé problémy](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
+Pokud máte problém s AutoPilotem, podívejte se na stránky Řešení potíží [s autopilotem](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) a [známé](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) problémy.
 
-Pokud máte problém se zastavením automatického pilotního nasazení systému Windows během fáze zápisu o registraci (ESP), přečtěte si následující dokument, kde najdete tipy k řešení vašeho problému. [Vysvětlení a řešení potíží se stránkou stavu registrace](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+Pokud máte potíže s Windows autopilota během fáze registrace stavové stránky (ESP), přečtěte si prosím následující dokument, kde najdete tipy k řešení vašeho problému. [Principy a řešení potíží se stránkou Stavu registrace](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-Pokud se snažíte vyzkoušet autopilota se zařízeními HoloLens 2, zkontrolujte prosím, že máte přehlednou dokumentaci "[Windows autopilot for HoloLens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) . To vám pomůže pochopit předpoklady a doporučené kroky pro registraci HoloLens 2 pomocí autopilota  
+Pokud hledáte vyzkoušet Autopilota se zařízeními Hololens 2, zkontrolujte prosím dokumentaci k Windows Autopilot HoloLens[2.](https://docs.microsoft.com/hololens/hololens2-autopilot) Pomůže vám to pochopit předpoklady a doporučené kroky pro registraci Hololens 2 pomocí Autopilota.  
 
-Další informace o nastavení automatických pilotů pro Windows najdete v článku o [registraci zařízení Windows v Intune pomocí autopilota Windows](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+Další informace o nastavení Windows Autopilota najdete v tématu Registrace Windows zařízení v [Intune pomocí Windows Autopilota.](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)

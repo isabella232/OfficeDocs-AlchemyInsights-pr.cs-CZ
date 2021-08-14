@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002953"
 - "5655"
-ms.openlocfilehash: 95b68cee58f88d04f02e29477b139f7f583dc0b1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 82d41844de1eafdf7e0cc38f91416f3b71868e3d5d1b3eb8be0f10abd701ddc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790541"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973300"
 ---
 # <a name="power-or-battery-icon-missing-in-windows-10"></a>Ikona napájení nebo baterie chybí ve Windows 10
 
