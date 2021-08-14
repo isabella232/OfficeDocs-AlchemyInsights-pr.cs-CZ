@@ -14,12 +14,12 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: c4fc2f27afd623218ad413d8738ba9d9ea8d6115
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: e21845680b384ee2255fc612db35e3344d1b877418063cb86721964104239ac3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819613"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931262"
 ---
 # <a name="cancel-subscription"></a>Zrušit předplatné
 

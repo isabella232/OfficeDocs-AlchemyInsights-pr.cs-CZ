@@ -1,5 +1,5 @@
 ---
-title: Prázdná stránka archivu nebo se nenačítá v rámci zásad správného řízení informací
+title: Stránka archivu prázdná nebo nenačítá se v části Správa informací
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243310"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997343"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Prázdná stránka archivu nebo se nenačítá v rámci zásad správného řízení informací
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Stránka archivu prázdná nebo nenačítá se v části Správa informací
 
-Pokud je **stránka Archivovat** v části Řízení informací v Centru zabezpečení  a dodržování předpisů prázdná nebo se nenačte, použijte možnost Archivovat v novém Centru dodržování předpisů M365.
+Pokud je **stránka Archivovat** v části Správa informací v Centru zabezpečení  a dodržování předpisů prázdná nebo se nenačte, použijte místo toho možnost Archiv v novém Centru dodržování předpisů M365.
 
 1. Přejít na [https://compliance.microsoft.com](https://compliance.microsoft.com/)
-1. Výběr zásad správného řízení informací
-1. Pak klikněte **na možnost Archivovat.**
+1. Vyberte Správa informací.
+1. Potom klikněte na **možnost Archivovat.**
 
 Nebo postupujte podle této adresy URL: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)

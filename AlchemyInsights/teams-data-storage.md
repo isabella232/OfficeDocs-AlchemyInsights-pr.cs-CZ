@@ -11,12 +11,12 @@ ms.custom:
 - "9002239"
 - "4348"
 ms.assetid: ''
-ms.openlocfilehash: be4bdfe5374407a8ccecec5be8a5273d3b825414
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ede1dbb09f4fe47751bfe00e33e0ea8ded8dff8f3f8b044bc00234c51084c199
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981718"
 ---
 # <a name="teams-data-storage"></a>Ukládání dat v Teams
 

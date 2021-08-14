@@ -1,5 +1,5 @@
 ---
-title: Zobrazení Wi-Fi síťového hesla ve Windows 10
+title: Zobrazení Wi-Fi síťového hesla v Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 91fa09c3d90db6d313a811c2b78a2feda4b001f48f7914c0d6e2b81627400fbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51807371"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990095"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Zobrazení Wi-Fi síťového hesla ve Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Zobrazení Wi-Fi síťového hesla v Windows 10
 
-1. Zkontrolujte, jestli je počítač s Windows 10 připojený k Wi-Fi sítě.
+1. Zkontrolujte, jestli Windows 10 počítač připojený k Wi-Fi síti.
 
-2. Přejděte na **Nastavení > Network & Internet > Status**(Stav internetu) nebo klikněte nebo klepněte sem, abychom vás tam teď dovezli.) [](ms-settings:network?activationSource=GetHelp)
+2. Přejděte na **Nastavení > Network & Internet > Status**(Stav internetu) [](ms-settings:network?activationSource=GetHelp) nebo klikněte nebo klepněte sem, abychom vás tam teď vzali.)
 
 3. Klikněte **na Centrum sítí a sdílení.**
 

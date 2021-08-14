@@ -1,5 +1,5 @@
 ---
-title: Do chatu Teams nejde nahrát obrázek
+title: Do chatu se Teams.
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49949735"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930794"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Do chatu Teams nejde nahrát obrázek
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Do chatu se Teams.
 
-Návrhy na řešení potíží:
+Návrhy řešení potíží:
 
-- Pokud na webu používáte týmy, vyzkoušejte jiný prohlížeč. Seznam podporovaných prohlížečů najdete v části prohlížeče [omezení a specifikace pro Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Zkontrolujte kompatibilitu hardwaru a operačního systému. Další informace najdete v článku [hardwarové požadavky pro Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Zkontrolujte, jestli máte nejnovější verzi Teams. Další informace najdete v tématu [aktualizace pro Teams](https://docs.microsoft.com/microsoftteams/teams-client-update) – podrobnosti.
+- Pokud používáte Teams na webu, zkuste jiný prohlížeč. Seznam podporovaných prohlížečů najdete v části Prohlížeče v části Limity a specifikace pro [Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
+- Zkontrolujte kompatibilitu hardwaru a operačního systému. Další informace najdete v tématu [Hardwarové požadavky pro Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
+- Zkontrolujte, jestli máte nejnovější Teams verzi. Další informace najdete v [Teams procesu](https://docs.microsoft.com/microsoftteams/teams-client-update) aktualizace.
