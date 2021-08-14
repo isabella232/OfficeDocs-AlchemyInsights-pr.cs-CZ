@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002635"
 - "5068"
-ms.openlocfilehash: 737e0f2db14a766db1c21720a936c2dd4645aef3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 69757dcc26efc0a0b988b8249ad226e33cd56f1346ff21871042ecbaee24550a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993346"
 ---
 # <a name="mail-flow-transport-rules-in-exchange-online"></a>Pravidla toku pošty (přenosová pravidla) v Exchangi Online
 

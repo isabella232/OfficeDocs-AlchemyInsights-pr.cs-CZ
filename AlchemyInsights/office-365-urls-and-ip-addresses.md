@@ -1,5 +1,5 @@
 ---
-title: Adresy URL a IP adresy Microsoft 365
+title: Microsoft 365 Adresy URL a IP adresy
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,16 +15,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 9f16418ca2aa9c21e320b4263987621a0b1cfb50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 89611ac0a3f39e7317df9719d1ea4a0ab2b9fe13da0ec634bb83190870fe5874
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51802592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985498"
 ---
-# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Adresy URL a rozsahy IP adres v Microsoftu 365
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a>Microsoft 365 Adresy URL a rozsahy IP adres
 
-Microsoft 365 vyžaduje připojení k internetu prostřednictvím určitých IP adres, které se nazývají *koncové body*.
-Seznam koncových bodů, které musí být dosažitelné, najdete v tématu Adresy URL a rozsahy IP adres v [Microsoftu 365.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+Microsoft 365 vyžaduje připojení k internetu přes konkrétní IP adresy, které se nazývají *koncové body*.
+Seznam koncových bodů, které musí být dosažitelné, najdete v tématu Microsoft 365 adresy URL a [rozsahy IP adres.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-Webová adresa IP a webová adresa URL microsoftu 365 vám pomůže lépe identifikovat a odlišit síťový provoz Microsoftu 365, což usnadňuje vyhodnocování, konfiguraci a aktuální informace o změnách. Podívejte se na webovou službu IP adresa a [adresa URL Microsoftu 365.](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service)
+Webová Microsoft 365 IP adresa Microsoft 365 webová služba URL vám pomůže lépe identifikovat Microsoft 365 odlišit síťový provoz Microsoft 365 usnadňuje vyhodnocování, konfiguraci Microsoft 365 aktuální informace o změnách. Viz [Microsoft 365 IP adresa a webová služba URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

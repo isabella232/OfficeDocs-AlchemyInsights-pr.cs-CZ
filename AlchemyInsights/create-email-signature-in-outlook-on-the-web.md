@@ -1,5 +1,5 @@
 ---
-title: Vytvoření podpisu e-mailu v Outlooku na webu
+title: Vytvoření podpisu e-mailu v Outlook na webu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8198"
-ms.openlocfilehash: e0df3bb3ed1ca61b34133814332f643c280a2251
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 88ee2793e926cb8704a730e18a3c44fe89853d16142f1163707149d8b01be5d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965526"
 ---
-# <a name="create-email-signature-in-outlook-on-the-web"></a>Vytvoření podpisu e-mailu v Outlooku na webu
+# <a name="create-email-signature-in-outlook-on-the-web"></a>Vytvoření podpisu e-mailu v Outlook na webu
 
 1. Přihlaste se k Outlooku na webu.
-2. Na horním navigačním panelu zvolte **Nastavení**  >  **pošty.**
-3. Na panelu **Možnosti** v části **Pošta** zvolte **Rozložení** podpisu  >  **e-mailu.**
-4. Do textového pole zadejte svůj podpis a pomocí dostupných možností formátování změňte jeho vzhled.
+2. Na horním navigačním panelu zvolte **Nastavení**  >  **Pošta**.
+3. Na panelu **Možnosti** v části **Pošta** zvolte **Podpis e-mailu**  >  **rozložení**.
+4. Do textového pole zadejte podpis a pomocí dostupných možností formátování změňte jeho vzhled.
 
     > [!TIP]
-    > Vložení souboru s obrázkem (například ve formátu GIF nebo JPG) pro podpis není podporované, ale obrázek můžete zkopírovat z webové stránky a vložit ho do pole podpisu.
+    > Vložení souboru obrázku (například ve formátu .gif nebo .jpg) pro podpis není podporované, ale můžete zkopírovat obrázek z webové stránky a vložit ho do pole podpisu.
 
-5. Pokud chcete, aby se podpis zobrazuje na konci všech odchozích zpráv, včetně odpovědí a přeposílání, vyberte Automaticky přidat můj podpis do nových zpráv, které **vytvořím.**
+5. Pokud chcete, aby se váš podpis zobrazuje v dolní části všech odchozích e-mailových zpráv, včetně odpovědí a přeposílání, vyberte Automaticky zahrnout můj podpis do nových zpráv, které **vytvořím.**
 6. Klikněte na **Uložit**.

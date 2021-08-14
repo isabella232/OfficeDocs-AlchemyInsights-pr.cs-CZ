@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7592"
 - "1200022"
-ms.openlocfilehash: accb0057c1955cf5fdf24fcd71df186697a572f7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7780df35c4ec46b509b123005a4c3cf25fa9251798550e39b5edeb384068ba60
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822268"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953250"
 ---
 # <a name="how-to-add-a-user"></a>Jak přidat uživatele
 

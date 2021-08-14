@@ -12,57 +12,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004116"
 - "7196"
-ms.openlocfilehash: d6744484fe42f09f03de562a00fd56712607d418
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 89217922b8b51f2548f9fff53bf80364c0e897b1d9b34bfb7016f0b0f197cf17
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940031"
 ---
 # <a name="transfer-services---move-all-rdfe-services-to-another-subscription"></a>Přenos služeb – přesunutí všech služeb RDFE do jiného předplatného
 
 **Přesunutí zdrojů**
 
-Prostředky Azure se dají přesunout do jiného předplatného Azure nebo skupiny prostředků pod stejným předplatným pomocí Azure Portal, Azure PowerShellu, Azure CLI nebo REST API pro přesouvání prostředků.
+Prostředky Azure můžete přesunout do jiného předplatného Azure nebo skupiny prostředků v rámci stejného předplatného pomocí portálu Azure Portal, Azure PowerShell, Rozhraní příkazového řádku Azure nebo rozhraní REST API k přesunutí prostředků.
 
-Než budete moct přesunout zdroje, přečtěte si téma:
+Než budete moci přesunout zdroje, podívejte se na:
 
 - [Kontrolní seznam před přesunutím zdrojů](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#checklist-before-moving-resources)
-- [Služby, které lze přesunout](https://docs.microsoft.com/azure/azure-resource-manager/move-support-resources?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Služby, které je možné přesunout](https://docs.microsoft.com/azure/azure-resource-manager/move-support-resources?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Jak ověřit přesunutí](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#validate-move)
-- [Přesunutí pokynů pro služby](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Pokyny k přesunutí služeb](https://docs.microsoft.com/azure/azure-resource-manager/move-limitations/app-service-move-limitations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Pokud chcete přesunout existující zdroje do jiné skupiny zdrojů nebo předplatného, můžete použít:
+Pokud chcete přesunout existující zdroje do jiné skupiny prostředků nebo předplatného, můžete použít:
 
 - [Portál Azure](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-the-portal)
 - [Azure PowerShell](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-powershell)
 - [Azure CLI](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-azure-cli)
 - [REST API](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources?WT.mc_id=Portal-Microsoft_Azure_Support#use-rest-api)
 
-Kurz: [přesunutí zdrojů Azure do jiné skupiny zdrojů nebo předplatného](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
+Kurz: [Přesunutí prostředků Azure do jiné skupiny prostředků nebo předplatného](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-tutorial-move-resources)
 
-**Poradce při potížích se správcem prostředků Azure**
+**Poradce při potížích s Azure Resource Managerem**
 
-Informace o některých běžných chybách nasazení Azure a získávání informací pro jejich řešení najdete v článcích níže. Pokud kód chyby chyby nasazení nemůžete najít, přečtěte si téma [vyhledání kódu chyby](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code).
+V následujících článcích se dozvíte o některých běžných chybách nasazení Azure a obdržíte informace, které je vyřeší. Pokud nemůžete najít kód chyby pro chybu nasazení, podívejte se na informace v [tématu Vyhledání kódu chyby](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors?WT.mc_id=Portal-Microsoft_Azure_Support#find-error-code).
 
-- [Řešení chyb nasazení](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
-- [Řešení potíží při přesouvání prostředků Azure do nové skupiny zdrojů nebo předplatného](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
+- [Poradce při potížích s nasazením](https://docs.microsoft.com/azure/azure-resource-manager/resource-manager-common-deployment-errors)
+- [Řešení potíží s přesunutím prostředků Azure do nové skupiny prostředků nebo předplatného](https://docs.microsoft.com/azure/azure-resource-manager/troubleshoot-move)
 
-Uvědomte si, že pokud si přejete upgradovat předplatné Azure, třeba přepnout z bezplatného na to-to-do, budete muset předplatné převést.
+Upozorňujeme, že pokud chcete upgradovat předplatné Azure, například přejít z bezplatného předplatného na placené, budete muset předplatné převést.
 
-- Pokud chcete upgradovat bezplatnou zkušební verzi, přečtěte si článek [upgrade bezplatného zkušebního předplatného společnosti Microsoft](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription)a vyzkoušejte si předplatné Azure.
-- Pokud chcete změnit účet s účtem s účtem, přečtěte si článek [Změna předplatného služby Azure Pay-as-to-go na jinou nápovědu](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer).
+- Pokud chcete upgradovat bezplatnou zkušební verzi, podívejte se na článek Upgrade bezplatné zkušební verze nebo [předplatné Microsoft Imagine Azure na Pay-As-You-Go](https://docs.microsoft.com/azure/billing/billing-upgrade-azure-subscription).
+- Informace o změně účtu placených služeb najdete v tématu Změna předplatného [Azure Pay-As-You-Go na jinou nabídku](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer).
 
-**Přidání nebo přidružení předplatného Azure ke svému tenantovi Azure Active Directory:**
+**Přidání nebo přidružení předplatného Azure ke svému Azure Active Directory tenantovi:**
 
-1. Přihlaste se a vyberte předplatné, které chcete použít na [stránce Předplatná na portálu Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Vyberte **změnit adresář**.
-3. Zkontrolujte všechna zobrazená upozornění a pak vyberte **změnit**.
-4. U předplatného se změní adresář a zobrazí se zpráva o úspěšném dokončení.
-5. Pomocí přepínače *adresáře* přejděte do nového adresáře. Zobrazení obsahu může trvat až 10 minut.
+1. Přihlaste se a vyberte předplatné, které chcete použít, na stránce [Předplatná na portálu Azure Portal.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. Vyberte **Změnit adresář**.
+3. Zkontrolujte upozornění, která se zobrazí, a pak vyberte **Změnit**.
+4. Adresář se u předplatného změní a zobrazí se zpráva o úspěchu.
+5. K *přechodu* do nového adresáře použijte přepínač Adresář. Může to trvat až 10 minut, než se všechno správně zobrazí.
 
 **Doporučené dokumenty**
 
-- [Převod vlastnictví předplatného Azure](https://docs.microsoft.com/azure/billing-subscription-transfer)
-- [Přesunutí zdrojů do nové skupiny zdrojů nebo do nového předplatného](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
-- [Správa zdrojů pomocí Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)
+- [Převedení vlastnictví předplatného Azure](https://docs.microsoft.com/azure/billing-subscription-transfer)
+- [Přesunutí zdrojů do nové skupiny prostředků nebo předplatného](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-move-resources)
+- [Správa prostředků pomocí portálu Azure Portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal)
