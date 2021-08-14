@@ -12,19 +12,19 @@ ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 0b44d1e8f7f8c3674666b3ff6a8b515d2f2d66b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 964285715720ee852ddb537ddfbaf1c6fb6bd3363eec83ffadc881b741035cad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958110"
 ---
 # <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Nastavení přeposílání na více e-mailových adres
 
-Pokud potřebujete nastavit přeposílání e-mailů skupině uživatelů, vytvořte distribuční seznam, přidejte do něj víc uživatelů a pak nakonfigurujte přesměrování na tento seznam. Nejdřív v centru pro správu přejděte do **Groups**  >  [skupiny](https://portal.office.com/adminportal/home#/groups)skupiny.
+Pokud potřebujete nastavit přeposílání e-mailů skupině uživatelů, vytvořte distribuční seznam, přidejte do něj víc uživatelů a nakonfigurujte přeposílání do tohoto seznamu. Nejdřív v Centru pro správu přejděte na **Skupiny**  >  [skupin](https://portal.office.com/adminportal/home#/groups).
   
-1. Vytvořte skupinu.
+1. Vytvoření skupiny
 
-2. Přidejte do ní více uživatelů.
+2. Přidejte do něj víc uživatelů.
 
-3. Nakonfigurujte pro tuto skupinu přesměrování poštovní schránky.
+3. Nakonfigurujte přeposílání poštovní schránky do této skupiny.

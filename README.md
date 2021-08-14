@@ -1,2 +1,3 @@
-## <a name="microsoft-open-source-code-of-conduct"></a>Otevřít Microsoft zdrojový kód chování
-Tento projekt přijal [Microsoft otevřete zdrojový kodex chování](https://opensource.microsoft.com/codeofconduct/). Další informace naleznete v tématu [Kód chování FAQ](https://opensource.microsoft.com/codeofconduct/faq/) nebo se obraťte na [opencode@microsoft.com](mailto:opencode@microsoft.com) s jakékoli další dotazy nebo připomínky.
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source Code of Conduct
+Tento projekt přijal etický [kodex microsoftového open source kódu](https://opensource.microsoft.com/codeofconduct/).
+Další informace najdete v [častých otázkách týkajících](https://opensource.microsoft.com/codeofconduct/faq/) se kodexu chování [nebo](mailto:opencode@microsoft.com) opencode@microsoft.com s dalšími dotazy nebo komentáři.

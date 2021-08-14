@@ -1,5 +1,5 @@
 ---
-title: Jak přidat nebo odebrat delegáta na Macu
+title: Přidání nebo odebrání delegáta na Macu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583217"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945366"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Jak přidat nebo odebrat delegáta na Macu
+# <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Přidání nebo odebrání delegáta na Macu
 
-Pokud chcete přidat nebo odebrat delegáta na Macu, postupujte takto:
+Pokud chcete přidat nebo odebrat delegáta na Macu, proveďte toto:
 
-**Přidání delegáta na Macu**:
+**Jak přidat delegáta na Macu:**
 
-1. V nabídce **nástroje** vyberte **účty**.
-1. Vyberte účet Exchange, který budete používat pro přístup k delegovaným položkám, klikněte na **Upřesnit** a potom na **Delegáti**.
-1. V části osoby, pro které jsem **delegátem**, klikněte na **Přidat**. .
+1. V nabídce **Nástroje** vyberte **Účty**.
+1. Vyberte účet Exchange, který budete používat pro přístup k delegovaných položkám, klikněte na **Upřesnit** a potom klikněte na **Delegáti.**
+1. V **části Lidé, pro které jsem delegátem,** klikněte na **Přidat.** .
 1. Zadejte jméno osoby, která vás přidala jako delegáta.
-1. Vyberte jméno osoby ve výsledcích hledání a klikněte na **Přidat**.
+1. Ve výsledcích hledání vyberte jméno osoby a klikněte na **Přidat.**
  
-**Jak odebrat delegáta na Macu**:
+**Jak odebrat delegáta v Macu**:
 
-1. V nabídce **nástroje** vyberte **účty**.
-1. Vyberte účet Exchange, který chcete změnit, klikněte na **Upřesnit** a potom na * * * * karta Delegáti.
-1. V části osoby, pro které jsem **delegátem**, vyberte osobu, pro kterou chcete zastavit delegáta, a klikněte na **Odebrat**.
+1. V nabídce **Nástroje** vyberte **Účty**.
+1. Vyberte účet Exchange, který chcete změnit, klikněte na **Upřesnit** a potom klikněte na kartu ****Delegáti.
+1. V **části Lidé, pro** které jsem delegátem, vyberte osobu, pro kterou chcete přestat být delegátem, a potom klikněte na **Odebrat.**

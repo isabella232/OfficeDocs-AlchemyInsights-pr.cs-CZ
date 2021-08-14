@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5ddaaed361f6ec934cfffb00cc62a9df2d1a04e8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988828"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>Automatické šifrování určitých e-mailových zpráv z Office 365
 
-1. V Centru [pro správu Exchange](https://outlook.office365.com/ecp/)zvolte **tok pošty > pravidla**. 
-2. Klikněte na **ikonu Nový (+)** a potom klikněte na Použít šifrování zpráv **Office 365** a ochranu práv u zpráv.
+1. V Centru [Exchange správy](https://outlook.office365.com/ecp/)zvolte **tok pošty a > pravidla**. 
+2. Klikněte na **ikonu Nový (+)** a potom klikněte na Použít Šifrování zpráv Office 365 a ochranu **práv u zpráv**.
 3. Do **pole** Název zadejte název pravidla, například *Zašifrovat všechny zprávy*.
 4. V **části Použít toto pravidlo, pokud** zvolte **[Použít u všech zpráv]**. 
 5. Vedle pole **Do the following (Provést následující)** klikněte na Select one **(Vybrat jednu).** 
@@ -36,5 +36,5 @@ ms.locfileid: "50744585"
 > [!IMPORTANT]
 > Toto pravidlo se můžete vrátit a toto pravidlo upravit později.
 
-Další informace o vytváření pravidel pro šifrování najdete v článku Definování pravidel toku pošty pro šifrování e-mailových zpráv [v Office 365.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Další informace o vytváření pravidel pro šifrování najdete v tématu Definování pravidel toku pošty pro šifrování e-mailových zpráv [v Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 

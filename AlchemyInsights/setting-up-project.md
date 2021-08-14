@@ -1,5 +1,5 @@
 ---
-title: Nastavení Projectu
+title: Nastavení Project
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "33"
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
-description: Pro článek není cíl více než 500 slov.
-ms.openlocfilehash: 4d3ca7c415227b8f299e4ae280c7e35c24a5e7db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Zaměřte na článek více než 500 slov.
+ms.openlocfilehash: 1dc306a480cdc920b9f756090f972a844b434a3ba475e40a1fbb08c89f625c51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798765"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958002"
 ---
-# <a name="setting-up-project"></a>Nastavení Projectu
+# <a name="setting-up-project"></a>Nastavení Project
 
- Pokud chcete nastavit Microsoft Project, postupujte podle kroků v [tomto článku](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
+ Pokud chcete Microsoft Project, postupujte podle pokynů v [tomto článku](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
 
-**Upozornění pro uživatele Mac:** Produkt projektu není v tuto chvíli dostupný pro MacOS. 
+**Upozornění pro uživatele Počítačů Mac:** Tento Project není pro MacOS v tuto chvíli dostupný. 
   
-Pokud při instalaci dochází k chybám, [nainstalujte Project pomocí nástroje Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario).
+Pokud během instalace dochází k chybám, [nainstalujte Project pomocí Support and Recovery Assistant](https://aka.ms/SaRA-ProjectSetupScenario).

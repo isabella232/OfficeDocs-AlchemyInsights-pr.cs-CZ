@@ -1,5 +1,5 @@
 ---
-title: 8000068 – přidání účtu – španělština
+title: 8000068 - Outlook.com add account - SPANISH
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1141"
 - "8000068"
-ms.openlocfilehash: 715051dcfe141dc3feec4f05372e84a3568f8738
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 217c156beedc1bb95b2296c7915d69f018a405e572e59ac2eb6b78f3519258d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944484"
 ---
-# <a name="agregar-sus-otras-cuentas-de-correo-electrnico"></a>Agregar SUS otras Cuentas de correo electrónico
+# <a name="agregar-sus-otras-cuentas-de-correo-electrnico"></a>Agregar sus otras cuentas de correo electroónico
 
-Cuando agregue otras Cuentas de correo electrónico a Outlook.com, puede usar Outlook.com para enviar y Leer Mensajes de correo electrónico de estas Cuentas Sin Salir de Outlook.com. Cada cuenta, agrega a Outlook.com se denomina UNA cuenta conectada. También puede [crear un alias de correo electrónico](https://support.office.com/es-es/article/agregar-o-quitar-un-alias-de-correo-electrónico-en-outlook-com-459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy) nevyužívám se La misma Bandeja Entrada de enviar, Elementos, Lista y Contactos de Como cuenta Su Outlook.com de.
+Cuando agregue otras cuentas de correo electronico a Outlook.com, puede usar Outlook.com para enviar y leer mensajes de correo electroónico de estas cuentas sin salir de Outlook.com. Cada cuenta que se agrega a Outlook.com se denomina una cuenta conectada. También puede [crear un alias de correo electroónico](https://support.office.com/es-es/article/agregar-o-quitar-un-alias-de-correo-electrónico-en-outlook-com-459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy) que utiliza la misma Bandeja de entrada, enviar, elementos y lista de contactos como su cuenta de Outlook.com existente.
 
-[Lea Cómo agregar SUS otras Cuentas de correo electrónico a Outlook.com.](https://support.office.com/es-es/article/agregar-sus-otras-cuentas-de-correo-electrónico-a-outlook-com-c5224df4-5885-4e79-91ba-523aa743f0ba?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[Lea cómo agregar sus otras cuentas de correo electroónico a Outlook.com.](https://support.office.com/es-es/article/agregar-sus-otras-cuentas-de-correo-electrónico-a-outlook-com-c5224df4-5885-4e79-91ba-523aa743f0ba?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
