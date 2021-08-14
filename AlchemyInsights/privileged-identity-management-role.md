@@ -1,5 +1,5 @@
 ---
-title: Role správy privilegované identity
+title: Privileged Identity Management role
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "6825"
-ms.openlocfilehash: 726511d016462f56c48a4272b57abc3e9f0cbc3d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 358e446192e6b58ace81afa06e0d65ae3a207282351ffc3ec9975a24779951fb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973222"
 ---
-# <a name="privileged-identity-managementpim-role"></a>Role správce privilegované identity
+# <a name="privileged-identity-managementpim-role"></a>Privileged Identity Management(PIM)
 
-**Po aktivaci role nejsou udělována oprávnění**
+**Oprávnění se neudělí po aktivaci role.**
 
-Když aktivujete roli ve správě privilegované identity služby Azure AD (PIM), nemusí se aktivace okamžitě šířit na všechny portály, které vyžadují privilegovanou roli. Někdy se může stát, že se neprojeví změna, a to i v případě, že se změna šíří, ale ukládání do mezipaměti na portálu se nezmění.
+Když aktivujete roli v Azure AD Privileged Identity Management (PIM), nemusí se aktivace okamžitě rozšířit na všechny portály, které vyžadují privilegované role. Někdy může dojít k tomu, že i když se změna rozšíří, může dojít k tomu, že ukládání do mezipaměti webu na portálu se okamžitě projeví.
 
-Pokud je aktivace opožděná, postupujte takto:
+Pokud je vaše aktivace zpožděná, postupujte takto:
 
-1. Odhlaste se z portálu Azure a pak se znovu přihlaste. Když aktivujete roli Azure AD nebo roli prostředku Azure, uvidíte fáze aktivace. Po dokončení všech fází uvidíte odkaz odhlásit se. K odhlášení můžete použít tento odkaz. Tato akce vyřeší většinu případů pro zpoždění aktivace.
-2. Ve PIM ověřte, že jste uvedeni jako člen role.
-3. Pokud aktivujete roli správce Exchange, ujistěte se, že se odhlásíte a zase se přihlásíte. Pokud problém přetrvává, otevřete lístek podpory a vyvolejte ho jako problém. Pokud k centru zabezpečení a dodržování předpisů používáte roli správce Exchange, podívejte se na další krok.
-4. Pokud aktivujete roli pro přístup k centru zabezpečení a dodržování předpisů nebo Pokud aktivujete roli správce SharePointu, dojde k některému zpoždění pro aktivaci až pár minut. Jedná se o známý problém a my aktivně pracujeme na řešení tohoto problému s těmito týmy.
+1. Odhlásit se z portálu Azure Portal a pak se znovu přihlásit. Když aktivujete roli Azure AD nebo roli prostředků Azure, uvidíte fáze aktivace. Po dokončení všech fází se zobrazí odkaz Odhlásit se. Pomocí tohoto odkazu se můžete odhlásit. Ve většině případů se tím vyřeší zpoždění aktivace.
+2. V aplikaci PIM ověřte, že jste uvedeni jako člen role.
+3. Pokud aktivujete roli správce Exchange, ujistěte se, že se odhlásit a znovu přihlásit. Pokud problém potrvá, otevřete lístek podpory a vyděste ho jako problém. Pokud používáte roli správce Exchange přístup k Centru zabezpečení a dodržování předpisů, podívejte se na další krok.
+4. Pokud aktivujete roli pro přístup k Centru zabezpečení a dodržování předpisů nebo pokud aktivujete roli správce SharePoint, dojde k nějakému zpoždění aktivace od několika minut až po několik hodin. Jedná se o známý problém a aktivně spolupracujeme s těmito týmy, aby tento problém co nejdříve vyřešili.
 
 Další informace najdete tady:
 
-- [Aktivace mých rolí služby Azure AD v PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
-- [Aktivace mých rolí zdrojů Azure v PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
+- [Aktivace rolí Azure AD v pim](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-activate-role?wt.mc_id=portal-microsoft_azure_support")
+- [Aktivace rolí prostředků Azure v pim](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?WT.mc_id=Portal-Microsoft_Azure_Support "https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-activate-your-roles?wt.mc_id=portal-microsoft_azure_support")
 
-**Po deaktivaci role nebo vypršení platnosti aktivace role nejsou oprávnění odebrána**
+**Oprávnění se odebrané po deaktivaci role nebo vypršení platnosti aktivace role**
 
-Když deaktivujete roli ve správě privilegované identity služby Azure AD nebo když vyprší lhůta pro její aktivaci, může dojít k prodlevě, po jejímž uplynutí budete mít přístup.
+Když deaktivujete roli ve službě Azure AD Privileged Identity Management nebo když vyprší doba aktivace role, může to být zpoždění, kdy budete mít dál přístup.
 
-Pokud je deaktivace opožděná, postupujte takto:
+Pokud je deaktivace zpožděná, postupujte takto:
 
-1. Pokud jste deaktivaci role správce Exchange nebo uplynutím lhůty pro její aktivaci vyprší významné zpoždění před odebráním oprávnění, otevřete lístek podpory a sdělte pracovníkovi podpory, aby vám pomohli poznat lístek s privilegovanou správou přístupu (PAM) v Office o tomto problému.
-2. Pokud vypršela lhůta pro aktivaci, ale máte pořád otevřenou relaci prohlížeče, zavřete prohlížeč. Roli můžete dál používat, dokud tuto relaci nezavřete. Jedná se o známý problém a my prohlížíme možnou opravu aktivně odvolat, jakmile vypršela platnost aktivace.
+1. Pokud deaktivujete roli správce Exchange nebo vyprší doba aktivace role a všimnete si významného zpoždění před odebráním oprávnění, otevřete lístek podpory a řekněte technickému týmu podpory, aby vám pomohl se souborem lístku s týmem správy privilegovaného přístupu (PAM) uvnitř Office o tomto problému.
+2. Pokud vypršela doba aktivace, ale pořád máte otevřenou relaci prohlížeče, zavřete prohlížeč. Roli můžete dál používat, dokud relaci nezadáte. Jedná se o známý problém a po vypršení platnosti aktivace se podíváme na potenciální opravu, která by aktivně odebrala jednotlivé relace.
 
-Pokud se vaše zpoždění liší od těchto dvou scénářů, otevřete lístek podpory.
+Pokud se zpoždění liší od těchto dvou scénářů, otevřete lístek podpory.
