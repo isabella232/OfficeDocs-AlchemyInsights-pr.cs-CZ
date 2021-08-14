@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 40aaa485ea38d471922699a9d0dd4fd1085571b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 82d66d8f3d5cc016a88715ee72c329b2d8a72039571f5025d267339e9f3126a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949668"
 ---
 # <a name="common-issues-with-tables"></a>Běžné problémy s tabulkami 
 
@@ -31,4 +31,4 @@ Informace [o opravě poškozené](https://support.office.com/article/47df9d48-21
 
 [Seřazení obsahu tabulky](https://support.office.com/article/F8392477-4613-49CD-ABA6-7C2E48F1D91F)
 
-Pokud chcete vytvořit graf, podívejte se na stránku Přidání grafu do dokumentu [ve Wordu](https://support.office.com/article/ff48e3eb-5e04-4368-a39e-20df7c798932) nebo [Vytvoření excelového grafu ve Wordu](https://support.office.com/article/11A7D2F0-4487-4A9B-BBC6-D50916CD4A57).
+Pokud chcete vytvořit graf, podívejte se na informace v tématu Přidání grafu do dokumentu ve [Wordu](https://support.office.com/article/ff48e3eb-5e04-4368-a39e-20df7c798932) nebo Vytvoření [Excel grafu ve Wordu](https://support.office.com/article/11A7D2F0-4487-4A9B-BBC6-D50916CD4A57).

@@ -1,5 +1,5 @@
 ---
-title: Obnovení odstraněných e-mailů v Outlook.com
+title: Obnovení odstraněných e-mailů Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,23 +14,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: c24980ff28d0400faadfa413eacfba37401068a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922a793fa37a3b02502d8d7368e30f4e9335144b4b39e61ea956ea708cebf07f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095349"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Obnovení odstraněných e-mailových Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Obnovení odstraněných e-mailů Outlook.com
 
 1. V levém podokně vyberte **Odstraněná pošta**.
-2. Vyberte položku, kterou chcete obnovit, a vyberte **obnovit**.
-3. Pokud zpráva není v odstraněných položkách, vyberte v horní části okna **obnovit položky odstraněné z této složky** .
+2. Vyberte položku, kterou chcete obnovit, a vyberte **Obnovit**.
+3. Pokud zpráva není v části Odstraněná pošta, vyberte **v** horní části okna obnovit položky odstraněné z této složky.
 
  **Důležité informace o odstraněných položkách:**
   
-- Položky odebrané ze složky Odstraněná pošta se dají obnovit po dobu 30 dnů.
-- Pokud jste se ke svému účtu nepřipojili po dobu 365 dnů, e-mail se odstraní a nebude možné ho obnovit.
-- Nelze obnovit e-maily odstraněné z podřízených účtů.
+- Položky odebrané ze složky Odstraněná pošta jsou obnovitelné po dobu 30 dnů.
+- Pokud jste se ke svému účtu ještě 365 dní ne přihlásili, e-mail se odstraní a nebude možné ho obnovit.
+- Není možné obnovit e-maily odstraněné z dětských účtů.
 
-Další informace najdete v článku [obnovení odstraněných e-mailových zpráv na Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
+Další informace najdete v tématu [Obnovení odstraněných e-mailových zpráv na Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
