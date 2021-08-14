@@ -1,5 +1,5 @@
 ---
-title: Automatické vyčištění zastaralých zařízení v Intune
+title: Automatické čištění zastaralých zařízení v Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "1285"
 - "6700008"
-ms.openlocfilehash: 49a15132253c59189e343aeaa1c11d450b344896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 905881f08ace7afae871ac48fa30ed1a0f15d13972cdff299a6694ca2eafc9cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715014"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997057"
 ---
-# <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Automatické vyčištění zastaralých zařízení v Intune
+# <a name="automatic-cleanup-of-stale-devices-in-intune"></a>Automatické čištění zastaralých zařízení v Intune
 
-Intune umožňuje správci nakonfigurovat časový interval mezi 90 a 270 dny, po kterém se zastaralá zařízení odeberou ze služby. Toto nastavení je celé v organizaci a jakmile se aktivuje okamžitě. Všechna zařízení, která nejsou vrácená do serveru Intune po dobu, po kterou se nastavení trvale odstraní.
+Intune umožňuje správci nakonfigurovat časový interval mezi 90 a 270 dny, po kterém se ze služby odebrala zastaralá zařízení. Toto nastavení je pro celou organizaci a jakmile je aktivované, okamžitě se projeví. Všechna zařízení, která nejsou na serveru Intune zaškrtnutá po dobu přesahující toto nastavení, se trvale odstraní.
 
-**Poznámka:** Pro tuto akci čištění jsou způsobilé pouze objekty zařízení MDM. Pouze objekty zařízení EAS jsou vyloučeny.
+**Poznámka:** Pro tuto akci čištění mají nárok jenom objekty zařízení MDM. Objekty zařízení EAS jsou vyloučené.
 
-Další informace o tom, kdy se zařízení stane opravňujícím k odstranění na základě nastavení čištění zařízení a jeho stavu:
+Další informace o tom, kdy má zařízení nárok na odstranění na základě nastavení čištění zařízení a jeho stavu:
 
-Nastavení: **odstranění zařízení po posledním vrácení se změnami: Ano (určitá hodnota (N) v zadaných dnech)**
+Nastavení: Odstranění zařízení po datu posledního **check-inu: Ano (některá hodnota (N) v zadaných dnech)**
 
-- V závislosti na hodnotě (N), která je v nastavení nakonfigurovaná, služba Intune odstraní zařízení v zadaných dnech od posledního úspěšného ověření.
+- Na základě hodnoty (N) nakonfigurované v nastavení odstraní služba Intune zařízení v určených dnech po jeho posledním úspěšném vrácení se službou.
 
-Nastavení:  **odstranění zařízení po posledním vrácení se změnami: ne**
+Nastavení:  **Odstranění zařízení po posledním datu rezervace: Ne**
 
-- 180 dnů po vypršení platnosti certifikátu zařízení se odstraní.
+- 180 dní po vypršení platnosti certifikátu zařízení a jeho prodloužení se zařízení odstraní.
 
-**Poznámka:** V obou případech je nutné zařízení úspěšně zaregistrovat v Intune. Registrace proběhne v průběhu prvního vrácení se změnami zařízení se službou Intune.
+**Poznámka:** V obou případech musí být zařízení úspěšně zaregistrované v Intune. Registrace probíhá během prvního přihlášení zařízení ke službě Intune.
 
-Pokud se zařízení úspěšně zaregistruje do Intune, ale nezobrazuje se jako registrace, odstraní se zařízení 270 dní po zápisu. (90 dnů pro označení zařízení jako odvolaného a další 180 dní, než se záznam odstraní.)
+Pokud se zařízení úspěšně zaregistruje do Intune, ale neregistruje se, zařízení se odstraní 270 dní po registraci. (90 dní k označení zařízení jako zrušené a pak dalších 180 dnů k odstranění záznamu.)
 
-V konzole Intune momentálně neexistuje žádný mechanismus pro určení data vypršení platnosti certifikace zařízení pro dané zařízení.
+V konzole Intune v současné době neexistuje žádný mechanismus, který by pro dané zařízení vytvořil datum vypršení platnosti certifikace zařízení.

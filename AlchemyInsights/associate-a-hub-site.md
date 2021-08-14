@@ -1,5 +1,5 @@
 ---
-title: Spojení centrálního webu
+title: Přidružení centrálního webu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989620"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Spojení stávajícího webu s centrálním webem
+# <a name="associate-existing-site-with-a-hub-site"></a>Přidružení existujícího webu k centrálnímu webu
 
-Pokud chcete existující web přidružit ke svému rozbočovači, postupujte takto:
+Pokud chcete přidružit existující web k vašemu centrálnímu webu, proveďte toto:
   
-1. Na webu vyberte **Nastavení** (ikona ozubeného kola v pravém horním rohu) a pak vyberte **informace o webu**.
+1. Na webu vyberte **Nastavení** (ikona ozubeného kola v pravém horním rohu) a pak vyberte **Informace o webu**.
 
-2. Na panelu **Upravit informace o webu** v nabídce **přidružení webu centra** – vyberte centrální lokalitu, kterou chcete spojit s webem, a klikněte na **Uložit**. Vzhled webu se změní podle toho, co se bude shodovat s webem centrální lokality a navigačním panelem centrálního webu.
+2. Na **panelu Upravit informace** o  webu v nabídce Přidružení centrálního webu vyberte centrální web, který chcete přidružit k webu, a potom klikněte na **Uložit.** Vzhled webu se změní tak, aby odpovídal centrálnímu webu, a v horní části se zobrazí navigační panel centrálního webu.
 
->**Podívejte**
+>**Poznámka:**
 >
->Pokud možnost přidružení webu centra není k dispozici nebo tam nejsou uvedené žádné weby, nemusí být povolené weby centrální lokality nebo nemáte oprávnění k přiřazování webů s centrálním webem. Další informace získáte od správce.
+>Pokud možnost Přidružení centrálního webu není k dispozici nebo tam nejsou uvedené žádné weby, nemusí být povolené centrální weby nebo nemáte oprávnění přidružit weby k centrálnímu webu. Další informace získáte od správce.
 >
->Počet webů, které se dají přidružit k centrální lokalitě, není nijak omezený.
+>Neexistuje žádný limit počtu webů, které mohou být přidružené k centrálnímu webu.
   

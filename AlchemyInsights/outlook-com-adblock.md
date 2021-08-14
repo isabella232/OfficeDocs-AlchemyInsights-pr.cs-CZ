@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Adblockem
+title: Outlook.com AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 864e08c3dd9e424b7c59772274321249f2bad9f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15082cbce2d7ff041842fc7506d611bee419a003646e56d1e7488981dd4d7020
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962664"
 ---
-# <a name="adblock"></a>Adblockem
+# <a name="adblock"></a>AdBlock
 
-Některým uživatelům v současné době dochází k problémům při čtení nebo psaní e-mailů při používání Google Chrome s Adblockem příponou. Řešení tohoto problému:
+Někteří uživatelé mají v současné době problémy při čtení nebo psaní e-mailů při používání Prohlížeče Google Chrome s rozšířením AdBlock. Tento problém můžete vyřešit takhle:
 
-1. Použijte [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge)   nebo jiný webový prohlížeč.
-1. Vylučte Outlook.com z nastavení Adblockem.V pravém horním rohu Google Chrome vyberte **adblockem**   a pak vyberte **nespouštět na stránkách v této doméně**.Aktualizujte si prohlížeč a načtěte Outlook.com znovu.
+1. Použijte [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) nebo jiný webový prohlížeč.
+1. Vyloučíte Outlook.com z nastavení AdBlocku. V pravém horním rohu Google Chromu vyberte **AdBlock** a pak vyberte Nespouštět na stránkách **této domény**. Aktualizujte prohlížeč a znovu Outlook.com.

@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717714"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932744"
 ---
 # <a name="anonymous-sharing"></a>Anonymní sdílení
 
- **Povolit anonymní přístup**
+ **Povolení anonymního přístupu**
   
-V novém centru pro správu SharePointu klikněte v levém podokně na **sdílení** . 
+V novém SharePoint klikněte **v** levém podokně na sdílení. 
   
-- Vyberte následující: **povolte sdílení s ověřenými externími uživateli a pomocí anonymního přístupu.**
+- Vyberte následující možnosti: **Povolit sdílení ověřeným externím uživatelům a používat anonymní přístup.**
   
-(Volitelně můžete nastavit vypršení platnosti odkazů na určitý počet dnů a vybrat, jak můžou příjemci odkazy používat.)
+(Volitelně můžete nastavit vypršení platnosti odkazů v určitém počtu dní a vybrat, jak příjemci budou tyto odkazy používat.)
     
  **Anonymní sdílení souboru nebo složky**
   
-- Vyberte soubor nebo složku, které chcete sdílet, a klikněte na **sdílet**. 
+- Vyberte soubor nebo složku, které chcete sdílet, a potom klikněte na **Sdílet.** 
     
-- Na koho chcete použít tento odkaz? klikněte na **kdokoli.**
+- Kdo chcete, aby tento odkaz fungoval? klikněte na **Kdokoliv.**
   
- **Poznámka**: **kdokoli** vytvoří odkaz, který může kdokoli použít pro přístup k dokumentu nebo složce, i když nejsou přihlášeni k aplikaci Microsoft 365 nebo OneDrive. Tuto funkci použijte ke sdílení s kýmkoli, uvnitř nebo mimo vaši společnost. Tento odkaz můžete také předat komukoli. 
+ **Poznámka:** **Každý vytvoří** odkaz, který může každý použít pro přístup k dokumentu nebo složce, i když není přihlášený k Microsoft 365 nebo OneDrive. Tento nástroj můžete použít ke sdílení s kýmkoli, uvnitř nebo mimo vaši společnost. Tento odkaz můžete taky přepošla komukoli. 
     
 
