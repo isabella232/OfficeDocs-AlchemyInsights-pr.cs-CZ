@@ -1,5 +1,5 @@
 ---
-title: Stáhnout data o používání
+title: Stažení dat o využití
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "7604"
-ms.openlocfilehash: 86ea8c21aa92685ef008693376f4e5fe6c768011
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: d883bdfd0d59d91eba4770f23e18e49449299e22e75dc78ef63eaf5001c03419
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884901"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004255"
 ---
-# <a name="download-usage-data"></a>Stáhnout data o používání
+# <a name="download-usage-data"></a>Stažení dat o využití
 
-Vybrali jste předplatné spojené se službou Azure Enterprise.
+Vybrali jste předplatné přidružené ke smlouvě Azure Enterprise.
 
-Chcete-li zobrazit a stáhnout data o používání služby Enterprise Azure (EA), postupujte takto:
+Pokud chcete zobrazit a stáhnout data o využití Enterprise zákazníka Azure (EA), postupujte takto:
 
 > [!NOTE]
-> Abyste mohli povolit zásady zobrazit poplatky, musíte být správcem rozlehlé sítě, vlastníkem účtu nebo správcem oddělení. 
+> Musíte být podnikový správce, vlastník účtu nebo správce oddělení, který má povolenou zásadu poplatků za zobrazení. 
 
-1. Přihlaste se na Azure Portal a vyhledejte **správu nákladů + fakturace**.
-2. Vyberte fakturační profil a klikněte na **používání + poplatky**.
-3. Na obrazovce, která se zobrazí, zvolte měsíc, pro který potřebujete sestavu a klikněte na **Stáhnout**.
+1. Přihlaste se na portál Azure Portal a vyhledejte **náklady na správu a fakturaci.**
+2. Vyberte fakturační profil a klikněte na **Využití + poplatky**.
+3. Na obrazovce, která se zobrazí, zvolte měsíc, pro který potřebujete sestavu, a klikněte na **Stáhnout.**
 
-Pokud je třeba kopie faktury, obraťte se na partnera pro licencování společnosti Microsoft (partner nebo softwarový poradce). Vyvolají nástroj Call-Logging (CLT) na oblastní centrum operací (ROC) až Explore.ms.
+Pokud potřebujete kopii faktury, kontaktujte svého licenčního partnera microsoftu (partnera nebo softwarového poradce). Pozvedou nástroj Call-Logging (CLT) do Regionálního operačního centra (ROC) prostřednictvím Explore.ms.
 
 **Aktualizace – listopad 2020**
 
-Pro vybrané přímé obchodní zákazníky z ROZŠÍŘENÉHO subsystému jsme na portálu Azure spustili funkci (soukromý náhled) pro funkci **Stažení faktury** . Pokud chcete fakturu stáhnout jako součást funkce **soukromého náhledu** , postupujte takto:
+Pro vybrané zákazníky EA Direct Commercial jsme na  portálu Azure Portal spustili funkci pro stažení faktur (private preview). Pokud si chcete fakturu stáhnout jako součást funkce **private preview,** postupujte takto:
 
-1. Přihlaste se k portálu Azure pomocí adresy URL: https://portal.azure.com/?EaInvoice=true 
-2. Hledat **Řízení nákladů + fakturace**. 
-3. Klikněte na **používání + poplatky**. 
-4. Na obrazovce, která se zobrazí, zvolte měsíc, pro který potřebujete sestavu a klikněte na **Stáhnout**.
+1. Přihlaste se k webu Azure Portal pomocí adresy URL: https://portal.azure.com/?EaInvoice=true 
+2. Vyhledejte položku **Správa nákladů + fakturace**. 
+3. Klikněte **na Využití + poplatky**. 
+4. Na obrazovce, která se zobrazí, zvolte měsíc, pro který potřebujete sestavu, a klikněte na **Stáhnout.**

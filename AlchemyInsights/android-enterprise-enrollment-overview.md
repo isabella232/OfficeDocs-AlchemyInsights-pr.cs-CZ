@@ -1,5 +1,5 @@
 ---
-title: Systém Android Enterprise – přehled
+title: Registrace Enterprise Androidu – přehled
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9561496aa8c28fe729b048561241ec39612fb42a66626eb5c83c73fdbe61d904
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932882"
 ---
-# <a name="android-enterprise-enrollment---overview"></a>Systém Android Enterprise – přehled
+# <a name="android-enterprise-enrollment---overview"></a>Registrace Enterprise Androidu – přehled
 
-Abyste mohli v organizaci používat registraci Android Enterprise, musíte nejdřív [připojit svůj účet Intune ke spravovanému účtu Google Play](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
+Pokud chcete používat androidový Enterprise registraci ve vaší organizaci, musíte nejdřív [Připojení svému](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise)účtu Intune na spravovaný účet Google Play . 
 
-Po úspěšném připojení můžete zvolit vhodné kroky pro typ zápisu systému Android, který mají vaši uživatelé sledovat:
+Po úspěšném připojení můžete zvolit příslušný postup pro typ registrace Androidu, který mají vaši uživatelé dodržovat:
 
-- [Nastavení registrace zařízení pro podnikové profily pro Android](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- [Nastavení registrace podnikových zařízení s Androidem pro Android](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- [Nastavení přihlášení v systému Android Enterprise s plně spravovanými zařízeními](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- [Nastavení registrace zařízení s Enterprise pracovním profilem](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- [Nastavení registrace Intune pro zařízení s Androidem Enterprise vyhrazená zařízení](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- [Nastavení registrace Intune pro zařízení s Androidem Enterprise plně spravovaná zařízení](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-Informace o pracovním postupu pro nastavení a registraci podnikových zařízení s Androidem spolu s kontrolou častých dotazů najdete [v článku Konfigurace a odstraňování potíží s Androidem Enterprise zařízení v Microsoft Intune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
+Pracovní postup nastavení a registrace zařízení s Androidem Enterprise s přehledem častých otázek najdete v tématu Konfigurace a řešení potíží s Enterprise zařízení [s Androidem v Microsoft Intune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
 
-Informace o řešení potíží s registrací zařízení obecně a s některými chybami zápisu pro Android najdete v článku [řešení potíží s registrací zařízení v Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Informace o řešení potíží s registrací zařízení obecně a některých chybách při registraci zařízení s Androidem najdete v tématu Řešení potíží s registrací zařízení [v Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
 
-Pokud máte zájem o registraci kódu QR menthod pro zařízení COSU, podívejte se na [Tento blog](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+Pokud vás zajímá menthod registrace QR kódu pro zařízení COSU, podívejte se [na tento blog.](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184)
 
-Pomocí [obsahu, který popisuje řešení potíží Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , můžete zjistit, které problémy s registrem uživatelé nastávají.
+Můžete taky použít obsah, který popisuje okno Řešení potíží [s Intune,](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) abyste mohli zjistit, jaké problémy s registrací mají vaši uživatelé.

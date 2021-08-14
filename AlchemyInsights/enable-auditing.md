@@ -1,5 +1,5 @@
 ---
-title: Povolit a vyhledávat protokol auditování
+title: Povolení a hledání v protokolu auditování
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003624"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Povolení a hledání v protokolu auditování
 
 **Microsoft 365**
 
-Pokud chcete prohledat protokol auditování Microsoft 365, [postupujte takto:](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
+Pokud chcete prohledat Microsoft 365 auditování, [postupujte takto.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- Aktivity správce Exchange se ukládají ve výchozím nastavení.
+- Exchange jsou ve výchozím nastavení auditované aktivity správce.
 
-- Auditování poštovní schránky je ve výchozím nastavení systému Microsoft 365 povoleno. Další informace najdete v  [tomto článku](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
+- Auditování poštovní schránky je ve výchozím nastavení v Microsoft 365. Další informace najdete v  [tomto článku](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
-- Poštovní schránky skupin Microsoft 365 a poštovní schránky veřejných složek v Exchangi Online nepodporují protokolování auditování.
+- Microsoft 365 Seskupit poštovní schránky a poštovní schránky veřejných složek v Exchange Online nepodporují protokolování auditování.
 
 **SharePoint a OneDrive**
 
-- Pro povolení auditování pro SharePoint a OneDrive není potřeba žádná další konfigurace.
+- K povolení auditování pro SharePoint a OneDrive není potřeba žádná další konfigurace.
 
-- Podpora SharePointu a OneDrivu: auditování:
+- SharePoint a OneDrive podporují auditování následujících typů aktivit:
 
-    - Aktivity souboru, složky a stránky
-    - Aktivity sdílení a žádostí o přístup
+    - Aktivity v oblasti souborů, složek a stránek
+    - Sdílení a přístup k žádostem o aktivity
     - Aktivity správy webu
     - Aktivity synchronizace souborů
 
-- Informace o auditovaných aktivitách v jiných službách najdete v  [tabulce v tomto článku](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Informace o auditovaných aktivitách v jiných službách najdete [v tabulce v tomto článku.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- Tady je seznam [často kladených otázek,](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) které se týkají prohledávání protokolu auditování.
+- Tady je seznam častých otázek [k vyhledávání](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) v protokolu auditování.

@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1127"
 - "6700007"
-ms.openlocfilehash: a147983e4ac5ee5c1bc0a6b5932e00557e8d6c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4b0248bdf39e083ddac2cfa84648c16a174147d97ede29e9b62e65ffd33d9f5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004399"
 ---
 # <a name="download-and-share-updates"></a>Stažení a sdílení aktualizací
 
-Místo stahování aktualizací jednotlivě umožňuje režim stahování optimalizací doručení sdílení mezi více počítači. Další informace najdete v tématu [optimalizace doručování aktualizací pro Windows 10](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization).  
+Místo stahování aktualizací jednotlivě umožňuje režim stahování Optimalizace doručení sdílení mezi více počítači. Další informace najdete v tématu [Optimalizace doručení pro Windows 10 aktualizace.](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)  
 
 Dostupné režimy stahování:  
 - Jenom HTTP  
-- SÍTÍCH  
+- SÍŤ LAN  
 - Skupina  
-- Síť  
+- Internet  
 - Jednoduchá  
-- Serverů
+- Obejít

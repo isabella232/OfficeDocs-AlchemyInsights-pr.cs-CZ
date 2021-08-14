@@ -1,5 +1,5 @@
 ---
-title: E-mail – faktura – starší verze
+title: E-mailová faktura – starší verze
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 13ce920c7203c89d6bb4c671198eba89c98aeb0f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564425"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003607"
 ---
-# <a name="e-mail-invoice---legacy"></a>E-mail – faktura – starší verze
+# <a name="e-mail-invoice---legacy"></a>E-mailová faktura – starší verze
 
-**Přihlaste se a přijímání předplatných faktur e-mailem**
+**Přihlášení k odběru faktur předplatného e-mailem**
 
-Abyste mohli přijmout svou fakturu e-mailem, musíte mít v předplatném roli správce účtu nebo plán podpory. E-mailové faktury jsou dostupné jenom pro plány předplatného a podpory, ne pro rezervace nebo nákupy v Azure Marketplace. Jakmile se rozhodnete, že jste přihlášeni, můžete přidat další příjemce, kteří obdrží fakturu e-mailem.
+Pokud chcete dostávat fakturu e-mailem, musíte mít u předplatného nebo u plánu podpory roli správce účtu. E-mailové faktury jsou k dispozici jenom pro předplatná a plány podpory, ne pro rezervace nebo nákupy z Azure Marketplace. Po přihlášení můžete přidat další příjemce, kteří dostanou fakturu e-mailem.
 
-Pomocí těchto kroků můžete získat faktury s předplatným e-mailem:
+Pokud chcete faktury předplatného získat e-mailem, postupujte takto:
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/).
-2. Vyhledejte **správu nákladů + fakturace**.
-3. V možnostech vlevo vyberte **faktury** .
-4. Vyberte svoje předplatné Azure nebo plán podpory a pak vyberte **Přijmout fakturu e-mailem**.
-5. Klikněte na možnost **e-mailová faktura** a přijmout podmínky.
-6. Faktura se odešle na váš upřednostňovaný komunikační e-mail. Pokud chcete e-mail aktualizovat, vyberte **aktualizovat profil** .
+1. Přihlaste se na [portál Microsoft Azure](https://portal.azure.com/).
+2. Vyhledejte položku **Správa nákladů + fakturace**.
+3. V **možnostech** vlevo vyberte Faktury.
+4. Vyberte předplatné Azure nebo předplatné plánu podpory a pak vyberte **Poslat fakturu na e-mail**.
+5. Klikněte na možnost **Poslat fakturu e-mailem** a přijměte podmínky.
+6. Faktura se pošle na váš upřednostňovaný e-mail. Pro aktualizaci e-mailové adresy vyberte možnost **Aktualizovat profil**.
 
 **Přidání dalších příjemců pro příjem faktur**
 
-Pokud chcete sdílet faktury pro předplatné a plán podpory každý měsíc s účetním týmem nebo si je pošlete do jiné e-mailové adresy:
+Pokud chcete faktury za předplatné a plán podpory sdílet každý měsíc se svým účetním týmem nebo je poslat na jednu z vašich dalších e-mailových adres:
 
-1. Chcete-li nejprve povolit fakturu e-mailem a pak vyberte **Konfigurovat příjemce** , postupujte podle výše uvedených kroků.
-2. Zadejte e-mailovou adresu a pak vyberte **Přidat příjemce**. Můžete přidat několik e-mailových adres.
-3. Jakmile přidáte všechny e-mailové adresy, vyberte **v** dolní části obrazovky.
+1. Podle výše uvedených kroků nejdřív povolte fakturu e-mailem a pak vyberte **Konfigurovat příjemce.**
+2. Zadejte e-mailovou adresu a pak vyberte **Přidat příjemce**. Můžete přidat víc e-mailových adres.
+3. Po přidání všech e-mailových adres v dolní části obrazovky vyberte **Hotovo**.
 
-**Povolení stahování předplatného ostatním uživatelům**
+**Povolení ostatním stahovat vaši fakturu za předplatné**
 
-Pokud chcete uživatelům nebo skupinám s přístupem na úrovni předplatného povolit stažení vaší faktury:
+Pokud chcete uživatelům/skupinám s přístupem na úrovni předplatného povolit stažení faktury:
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/) jako správce účtu pro předplatné.
-2. Vyhledejte **správu nákladů + fakturace**.
-3. V možnostech vlevo vyberte **faktury** .
-4. Vyberte svoje předplatné Azure a klikněte na **Povolit ostatním stáhnout fakturu**.
-5. Vyberte **zapnout** a potom **Uložit** v horní části stránky.
+1. Přihlaste se na [portál Microsoft Azure](https://portal.azure.com/) jako správce účtu pro předplatné.
+2. Vyhledejte položku **Správa nákladů + fakturace**.
+3. V **možnostech** vlevo vyberte Faktury.
+4. Vyberte své předplatné Azure a klikněte na **Povolit ostatním stahování faktur**.
+5. Nahoře na stránce vyberte **Povolit** a pak **Uložit**.
 
 > [!NOTE]
-Pokud nejste správce účtu, obraťte se na správce účtu a požádejte ho, aby se mohl přihlásit, přidat příjemce nebo povolit ostatním uživatelům stažení faktury.
+Pokud nejste správcem účtu, obraťte se na správce účtu a postupujte podle výše uvedených pokynů a požádejte o přihlášení, přidání příjemců nebo povolení dalších uživatelů ke stažení faktury.
