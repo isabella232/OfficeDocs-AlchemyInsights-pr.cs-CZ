@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3abd45230360c61ecb62e4b7a39d1b0b547271fc
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a67305ed92e181f0ddfc5a929e8fe9631ceefdc99dea34118bc99975461f3868
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005803"
 ---
 # <a name="check-for-forwarding-addresses-on-mailboxes"></a>Kontrola přeposílání adres v poštovních schránkách
 
@@ -26,5 +26,5 @@ Někdy hackeři přeposílání e-mailových zpráv uživatelů sami sobě, tak�
 
 1. Vyberte **Uživatelé**  >  **aktivní uživatelé**.
 1. Vyberte uživatele, jehož účet byl ohrožen.
-1. V plovoucím seznamu, který se zobrazí, rozbalte **Nastavení pošty** a potom klikněte **na Upravit** pro přeposílání **e-mailů.**
+1. V plovoucím seznamu, který se zobrazí, rozbalte **Mail Nastavení** a potom klikněte **na Upravit** pro **přeposílání e-mailů.**
 1. Odeberte všechny adresy pro přeposílání, které nepoznáváte.

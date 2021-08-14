@@ -1,5 +1,5 @@
 ---
-title: Máte problémy s automatickým resetem hesla (SSPR)?
+title: Máte problémy s samoobslužnou resetováním hesla(SSPR)?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945843"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Máte problémy s automatickým resetem hesla (SSPR)?
+# <a name="having-self-service-password-reset-sspr-problems"></a>Máte problémy s samoobslužnou resetováním hesla(SSPR)?
 
-Běžné problémy s automatickým obnovením hesla (SSPR) v hybridním cloudu a místních prostředích jsou:
+Běžné samoobslužné problémy s resetováním hesla (SSPR) v hybridním cloudu a místním prostředí jsou:
 
-- [SSPR zpětný zápis hesla není povolený](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Licence Azure AD Premium nebyla přiřazena](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- [Problémy se službou AD Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) nebo [problémy se sítí](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
-- [SSPR neregistrovaných metod ověřování](https://mysignins.microsoft.com/security-info)
-- [Nepodporované scénáře zpětného zápisu](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) , například centrum pro správu Microsoft 365 nebo správci používající SSPR
+- [Zpětný zápis hesla SSPR není povolený.](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Licence Azure AD Premium není přiřazená.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- [Azure AD Připojení problémy nebo](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) problémy se [sítí](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
+- [Metody ověřování SSPR nejsou zaregistrované](https://mysignins.microsoft.com/security-info)
+- [Nepodporované scénáře zpětného](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) zápisu, jako Správa Microsoftu 365 center nebo Správci používající SSPR
 
 
 Další informace najdete tady:
 
-- [Poradce při potížích s automatickým obnovením hesla](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Poradce při potížích s automatickým zápisem nového hesla v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Poradce při potížích s samoobslužné resetování hesla](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [Poradce při potížích se zpětným zápisem samoobslužné resetování hesla v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)

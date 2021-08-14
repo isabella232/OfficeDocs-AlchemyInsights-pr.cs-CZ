@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1a4843f43e1f5a261b06a0beca1231380a25c302605a2a82ef7143791f2964e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991611"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Obnovení položek v SharePointu Online
+# <a name="restore-items-in-sharepoint-online"></a>Obnovení položek v SharePoint Online
 
-Když odstraníte položky v SharePointu Online, zůstanou zachované po dobu 93 dnů. Zůstanou v koši webu po celou dobu, dokud ho nevyprázdníte nebo z něj nevymaníte položky. V takovém případě položky zůstávají v koši kolekce webů, kde zůstávají po zbytek 93 dnů. Na konci této doby se položky trvale odstraní. Obnovení odstraněných položek z koše webu:
+Když odstraníte položky v SharePoint Online, zachovají se celkem 93 dní. Zůstanou v koši webu po celou dobu, pokud je nevysycháte nebo z něj nevysycháte položky. V takovém případě položky půjdou do koše kolekce webů, kde zůstanou po zbytek 93 dnů. Na konci času se položky trvale odstraní. Obnovení odstraněných položek z koše webu:
   
-1. Přejděte na web a v **levém podokně** klikněte na Koš. 
+1. Přejděte na web a **v** levém podokně klikněte na Koš. 
     
-    Pokud odpadkové koše **v** levém podokně nevidíte, klikněte na ikonu Nastavení v pravém horním rohu a potom klikněte na **Obsah webu.** Odpadkové koše jsou na pravé straně panelu příkazů nahoře.
+    Pokud koš v  levém podokně nevidíte, klikněte na ikonu Nastavení v pravém horním rohu a potom klikněte na **Obsah webu**. Koš je na pravé straně panelu příkazů nahoře.
     
-2. Na stránce **Koše vyberte** položky, které chcete obnovit . Přejděte na ně a klikněte na ikonu zaškrtnutí, která se zobrazí. 
+2. Na stránce **Koš vyberte** položky, které chcete obnovit, tak, že na ně nasoudíte a kliknete na ikonu zaškrtnutí, která se zobrazí. 
     
 3. Klikněte na **Obnovit**.
     

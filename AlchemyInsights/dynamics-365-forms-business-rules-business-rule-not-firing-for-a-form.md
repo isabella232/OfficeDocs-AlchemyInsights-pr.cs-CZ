@@ -1,5 +1,5 @@
 ---
-title: Business Rules aplikace Dynamics 365 – firemní pravidlo pro formulář se neaktivují
+title: Obchodní pravidla dynamics 365 Forms – obchodní pravidlo není pro formulář vypouštěné
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947220"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>Firemní pravidlo pro formulář nefunguje
+# <a name="business-rule-not-firing-for-a-form"></a>Obchodní pravidlo, které nespouštěl formulář
 
-Obchodní pravidlo nemusí být spuštěno, protože pole odkazované v obchodním pravidlu není zahrnuto ve formuláři. Další informace najdete v tématu [je vaše firemní pravidlo pro formulář](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form)nepoužívané?.
+Obchodní pravidlo se nemusí spustit, protože pole odkazované v obchodním pravidle není součástí formuláře. Další informace najdete v článku [Nevypaluje vaše obchodní pravidlo pro formulář?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

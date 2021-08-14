@@ -12,14 +12,14 @@ ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 91bb74e9bcc53217e698afd523f0affd71157ebf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e315638fdf51d12044e6d47b9bbad72e2a4ff343d7da549da63496f6c8b065f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701492"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991601"
 ---
 # <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Odebrání domény GoDaddy z Microsoft 365
 
-Vaši doménu GoDaddy nemůžete z Microsoft 365 odebrat. Požádejte o pomoc [služby zákazníkům GoDaddy](https://aka.ms/contact-godaddy) .
+Vaši doménu GoDaddy nemůžeme z Microsoft 365 odebrat. Pokud chcete [pomoct, zavolejte na zákaznický servis GoDaddy.](https://aka.ms/contact-godaddy)
   

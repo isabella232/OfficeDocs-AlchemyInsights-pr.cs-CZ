@@ -1,5 +1,5 @@
 ---
-title: Řešení problémů se synchronizací OneDrivu
+title: Řešení synchronizační aplikace OneDrivu problémů
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.custom:
 - "9002286"
 - "4415"
 - "4416"
-ms.openlocfilehash: 5e92e15dcbcb39ac702d91ed2a20dac2cf16c0ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f85c3df5c4004c2c4024d48e5bb3bfa0930f719fd403cd40eb9b09a13ca0d208
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945879"
 ---
-# <a name="fix-onedrive-sync-issues"></a>Řešení problémů se synchronizací OneDrivu
+# <a name="fix-onedrive-sync-issues"></a>Řešení synchronizační aplikace OneDrivu problémů
 
-Další informace o problémech se synchronizací OneDrivu a jejich řešení najdete ve Windows nebo [Macu.](https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2)
+Pokud Windows nebo Mac, přečtěte si další informace o synchronizační aplikace OneDrivu a [jejich řešení.](https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2)

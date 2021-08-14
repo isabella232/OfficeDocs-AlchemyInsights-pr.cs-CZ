@@ -17,12 +17,12 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 6f54052d42bc385d087bdd81bbcb8b4dbad9e76d
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 0dcb9eae3241ae76850e9c5149b4c813b6967c70a431c3bea38fba1843967a95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959460"
 ---
 # <a name="reactivate-your-subscription"></a>Opětovná aktivace předplatného
 

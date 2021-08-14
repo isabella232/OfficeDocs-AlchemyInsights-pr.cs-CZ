@@ -1,5 +1,5 @@
 ---
-title: Obchodní pravidlo Dynamics 365 Forms s použitím pole FullName nefunguje
+title: Dynamics 365 Forms Business Rule Using Fullname Field Not Firing
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947400"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Pole pro celé jméno není podporované pro jednotné aplikace inteface.
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Pole Celé jméno není podporované v jednotných aplikacích inteface
 
-V aplikacích založených na jednotném rozhraní nejsou podporované akce nebo podmínky, které používají pole **celé jméno** (FullName). Můžete také použít akce nebo podmínky s poli **křestní jméno** (jméno) a **příjmení** (příjmení).
+Akce nebo podmínky, které používají pole **Úplné** jméno (fullname), nejsou v aplikacích založené na jednotném rozhraní podporované. Můžete také použít akce nebo  podmínky s poli Jméno (jméno) a Příjmení **(příjmení).**
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

@@ -1,5 +1,5 @@
 ---
-title: Obnovení odstraněných videí Streamu z koše
+title: Obnovení odstraněných streamovaných videí z koše
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959424"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Obnovení odstraněných videí Streamu z koše
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Obnovení odstraněných streamovaných videí z koše
 
 Když se videa odstraní v Microsoft Streamu, přenesou se do 30denního koše.
 
-Koš videa umožňuje obnovit videa v případě, že byla omylem odstraněná nebo trvale odstranila videa, která už jsou v koši před limitem 30 dnů.
+Koš videa umožňuje obnovit videa, pokud byla omylem odstraněna, nebo trvale odstranit videa, která už jsou v koši před 30denním limitem.
 
 Další informace najdete tady:
 
