@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951666"
 ---
 # <a name="app-permission-policies"></a>Zásady oprávnění aplikací
 
-Pomocí [zásad oprávnění aplikací](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)můžete postupovat takto:
-- Jako správce můžete spravovat zásady nastavení aplikací v [centru pro správu Microsoft Teams](https://admin.teams.microsoft.com/policies/app-permission).
-- Můžete určit, jaké aplikace jsou dostupné uživatelům Microsoft Teams ve vaší organizaci, pomocí globálních zásad nebo [vytvářet a přiřazovat vlastní zásady](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) pro přizpůsobení a řízení přístupu uživatelů k aplikacím. 
+Se [zásadami oprávnění aplikací](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)můžete udělat toto:
+- Jako správce můžete spravovat zásady nastavení aplikací v Centru [Microsoft Teams pro správu](https://admin.teams.microsoft.com/policies/app-permission).
+- Můžete řídit, jaké aplikace jsou dostupné Microsoft Teams uživatelům ve [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) vaší organizaci pomocí globálních zásad nebo vytvářet a přiřazovat vlastní zásady pro přizpůsobení a řízení přístupu uživatelů k aplikacím. 
 > [!NOTE]
-> Nastavení aplikace pro celou organizaci přepíše globální zásady a všechny vlastní zásady, které vytvoříte a přiřadíte uživatelům.
-- [Zásady nastavení aplikací](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) můžete použít k přizpůsobení Microsoft teams, abyste zvýraznili aplikace, které jsou pro vaše uživatele nejdůležitější. 
+> Nastavení aplikací pro celou organizace přepíše globální zásady a všechny vlastní zásady, které vytvoříte a přiřadíte uživatelům.
+- Zásady nastavení [aplikací můžete použít k](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) přizpůsobení Microsoft Teams zvýraznit aplikace, které jsou pro vaše uživatele nejdůležitější. 
 
 
-Další informace o vytváření zásad aplikací pro tenanta najdete v těchto tématech:
-- [Správa aplikací v centru pro správu Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Správa zásad oprávnění k aplikacím v Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Správa zásad a nastavení vlastních aplikací v Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Další informace o vytváření zásad aplikací pro vašeho tenanta najdete v těchto článku:
+- [Správa aplikací v Centru Microsoft Teams pro správu](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Správa zásad oprávnění aplikací v Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Správa vlastních zásad a nastavení aplikací v Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

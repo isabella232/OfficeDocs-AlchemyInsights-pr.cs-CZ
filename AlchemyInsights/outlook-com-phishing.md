@@ -1,5 +1,5 @@
 ---
-title: Práce s útoky phishing ve Outlook.com
+title: Řešení phishingu na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecd2b35824b6ef5c3655ff88a9c93ab2abe03084c891b10a40c5dacd02818d57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095895"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>Řešení podvodné e-mailové zprávy
+# <a name="how-to-deal-with-a-phishing-email"></a>Jak se vypořádat s phishingovým e-mailem
 
-Podvodným zprávám phishing je e-mail, který vypadá jako legitimní, ale ve skutečnosti se pokouší ukrást vaše osobní údaje nebo peníze. Podvodníkům může také pomocí techniky s názvem falšování, která se zobrazí jako kdybyste dostali e-maily od sebe.
+Phishingový podvod je e-mail, který se zdá legitimní, ale ve skutečnosti se pokouší ukrást vaše osobní údaje nebo peníze. Podvodníci taky dají použít techniku, která se nazývá falšování falšování, aby se zjevil, jako kdybyste dostali e-mail od sebe.
 
-Pokud dostanete e-mail, který vypadá jako nevyžádaná podvodná pošta, můžete zprávu ohlásit výběrem zprávy a pak výběrem **nevyžádané pošty**  >  **Phishing**.
+Pokud dostanete e-mail, který vypadá jako útok phishing, můžete ho nahlásit tak, že zprávu vyberete a pak **vyberete Nevyžádaná**  >  **phishingová zpráva**.
 
-*Poznámka:* Pokud označíte zprávu jako phishing, bude odesílateli pouze zpráva.Neblokuje odesílatele, aby vám poslal zprávy v budoucnu. Pokud chcete odesílatele zablokovat, musíte přidat odesílatele do seznamu blokovaných odesílatelů. Další informace najdete v tématech [blokování odesílatelů nebo odblokování odesílatelů v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*Poznámka:* Když zprávu označíte jako phishingovou, zobrazí se jenom odesílatel. Nezablokuje to, aby vám odesílatel v budoucnu posílal zprávy. Pokud chcete odesílatele blokovat, musíte ho přidat do seznamu blokovaných odesílatelů. Další informace najdete v článku Blokování odesílatelů nebo odblokování odesílatelů na [Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Zjistěte [, jak řešit zneužití, útoky phishing nebo falšování identity v Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) a [pokročilém Outlook.com zabezpečení pro předplatitele Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+Přečtěte si o tom, jak se vypořádat s zneužitím, útokem phishing nebo falšováním falšování na [Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) a pokročilé zabezpečení [Outlook.com pro Microsoft 365 předplatitele](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).

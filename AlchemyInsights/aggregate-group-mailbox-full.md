@@ -1,5 +1,5 @@
 ---
-title: AggregateGroupMailbox byla přijata úplná nedoručená zpráva pro e-mail odeslaný do skupiny Microsoft 365.
+title: AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 9de09ab4cbd2f09648305b11da6273ed990907cf
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 6655bbe9482400eeb3cfdf0b91bdc595e3d98fbff0f6d9244db8bb4dd958305e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721782"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951846"
 ---
-# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox byla přijata úplná nedoručená zpráva pro e-mail odeslaný do skupiny Microsoft 365.
+# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group
 
-Pomocí následujícího příkazu EXO Shell vytvoříte pravidlo přenosu Exchange pro tiché vyřazení e-mailů odeslaných do agregované poštovní schránky skupiny:
+Pomocí následujícího příkazu PROSTŘEDÍ EXO můžete vytvořit pravidlo přenosu Exchange, aby se e-maily odeslané do agregované poštovní schránky skupiny bezobslužně přemisťují:
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
 > [!NOTE]
-> Nahraďte adresu SMTP v **-SentTo** pomocí adresy SMTP agregované poštovní schránky skupiny ve vašem tenantovi. Adresu SMTP agregované poštovní schránky skupiny můžete získat z doručené pošty.
+> Nahraďte adresu SMTP v **části -SentTo** adresou SMTP agregační poštovní schránky skupiny ve vašem tenantovi. Adresu SMTP agregované poštovní schránky skupiny můžete získat z přijatého oznámení o nedoručení.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Graf znázorňuje různý počet záznamů v tabulce.
+title: Graf zobrazuje jiný počet záznamů v mřížce.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5611"
 - "9002930"
-ms.openlocfilehash: e499a439e7cf7e9ecbb6566f9f089f3b7b82f48e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68ba6caf602a5cf60e2c96c80703f19dd07c3b6430c2a66f40fea4a2f3d06e75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793751"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950073"
 ---
-# <a name="chart-shows-different-number-of-records-in-grid"></a>Graf znázorňuje různý počet záznamů v tabulce.
+# <a name="chart-shows-different-number-of-records-in-grid"></a>Graf zobrazuje jiný počet záznamů v mřížce.
 
 **Příznak**
 
-Na stránce graf na řídicím panelu, když kliknete na graf "..." a kliknutím na možnost zobrazit záznamy přejdete na stránku mřížka, kde zobrazíte všechny záznamy. Někdy se počet záznamů změní.
+U grafu na stránce řídicího panelu po kliknutí na graf "..." a klikněte na "Zobrazit záznamy", přejdete na stránku mřížky a zobrazíte všechny záznamy. Někdy se změní počet záznamů.
 
-Tato část obsahuje přehledné informace o problému a osobě, která ho má odstranit. Na obrázku vidíte tři základní strany v transakci e-mailu Office 365 - odesílatele, Office 365 a příjemce. Červeně označená oblast je oblast, ve které je obvykle potřeba problém odstranit.
+**Příčina**
 
-Důvodem je rozdíl mezi zobrazeními mezi grafem na původní stránce řídicího panelu a grafem na domovské stránce mřížky.  
+Je to způsobeno rozdílem zobrazení mezi grafem na původní stránce řídicího panelu a grafem na domovské stránce mřížky.  
 
 **Řešení**
 
-1. Zkontrolujte zobrazení z původní stránky a zobrazení v mřížce, jestli se liší.
+1. Zkontrolujte zobrazení z původní stránky a zobrazení v mřížce a zkontrolujte, jestli se liší.
 2. Změňte zobrazení v mřížce tak, aby odpovídalo zobrazení na původní stránce.
-3. Pokud nejde najít správné zobrazení, obvykle to znamená, že zobrazení není v Návrháři aplikací povolené.
-4. Přejděte na Návrhář aplikací určité aplikace, zvolte entitu a její zobrazení, zaškrtněte zobrazení, které chcete povolit, uložit, publikovat a zavřít.
+3. Pokud se správné zobrazení nenašlo, obvykle to znamená, že zobrazení není v návrháři aplikací povolené.
+4. Přejděte na návrháře aplikace konkrétní aplikace, zvolte entitu a její zobrazení, zkontrolujte zobrazení, které chcete povolit, uložit, publikovat a zavřít.
 5. Aktualizujte stránku.

@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 17e9882a-2341-459f-86d8-6ad8df3bef7e
-ms.openlocfilehash: 55d2b25747fe0f6239c1bf9feb4ca79ada49c54a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c22e08676272b3db7da0d7bfab64e6f5bfc979303b2a8e74958cd24c7007443
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009781"
 ---
 # <a name="profile-property-synchronization"></a>Synchronizace vlastností profilu
 
-Nelze mapovat další vlastnosti služby AD Import pro synchronizaci z Azure Active Directory do aplikace profilů uživatelů. Import služby AD je omezen na přednastavenou sadu vlastností, aby byl zajištěn konzistentní výkon úlohy časovače.
+Není možné namapovat další vlastnosti pro import ad pro synchronizaci z Azure Active Directory do aplikace profilů uživatelů. Import služby AD je omezen na předem nakonfigurovanou sadu vlastností, která zaručuje konzistentní výkon úlohy časovače.
   
-[Přečtěte si další informace o vlastnostech profilu, které se synchronizují.](https://go.microsoft.com/fwlink/?linkid=875671)
+[Další informace o vlastnostech profilu, které se synchronizují](https://go.microsoft.com/fwlink/?linkid=875671)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Outlook.com odešle e-mail jménem uživatele e-mailové adresy
+title: Outlook.com pošle e-mail jménem mé e-mailové adresy.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "812"
 - "8000048"
 ms.assetid: fe180c8c-d9e5-4a8c-af54-3fe8fa4a4331
-ms.openlocfilehash: 2ccc76ee6631ec976fcfa7d61fbc55d1b0866022
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2c11a39bcaa54b0d3e449c7a11e63ee05ea23d59d113a0c6767b4ddd6c988f5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722772"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063765"
 ---
-# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com odešle e-mail "za uživatele" Moje e-mailová adresa
+# <a name="outlookcom-sends-email-on-behalf-of-my-email-address"></a>Outlook.com pošle e-mail "jménem" mé e-mailové adresy.
 
-E-mailem odeslaným z připojeného účtu se zobrazí zpráva, která je odeslaná jménem účtu Microsoft. Jedná se o známý problém a bude opraven v budoucí verzi. Do té doby můžete adresu odesílatele změnit tak, aby byla shodná s vaším primárním aliasem účtu Microsoft.
+E-mail odeslaný z připojeného účtu se zobrazuje jako posílání "jménem" vašeho účtu Microsoft. Tento problém je známý a bude opravený v budoucí verzi. Do té doby můžete změnit adresu Od tak, aby byla stejná jako váš primární alias účtu Microsoft.
   
-Další informace najdete v tématu [Outlook.com poslání e-mailové adresy jménem uživatele](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).
+Další informace najdete v článku [Outlook.com posílání e-mailu jménem mé e-mailové adresy](https://support.office.com/article/2c2b4d9f-0203-42c6-b2d2-b8aba1386e75?wt.mc_id=Office_Outlook_com_Alchemy).
