@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9abbff56570e27b2ad7308860be32ad6586cf4f7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 296ff78d6e285ed31f1fd3268b9078a2ffffc3515a59f367685d054fc76bcc4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821368"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932198"
 ---
 # <a name="banned-sending-ip"></a>Zakázané odesílání IP adres
 
-Při odesílání příjemci Office 365 může odesílatel zaznamenat tuto chybu. Odesílatel musí navštívit portál [delistování IP adres Office 365 Anti-Spam a](https://sender.office.com/) poskytnout jeho e-mailovou adresu a IP adresu, které je potřeba zlikvovat. Pokud z portálu neobdrží ověřovací e-mail, zkontrolujte složku spamu a zkuste to s jinou e-mailovou adresou. 
+Při odesílání Office 365 odesílateli může dojít k této chybě. Odesílatel musí navštívit Office 365 [antispamové IP delistování](https://sender.office.com/) a poskytnout e-mailovou adresu a IP adresu, kterou je potřeba zablokovat. Pokud z portálu neobdrží ověřovací e-mail, zkontrolujte složku spamu a zkuste to s jinou e-mailovou adresou. 
 
 - Podrobné pokyny najdete v článku Použití delistovaného portálu k odebrání sami sebe [ze seznamu blokovaných odesílatelů](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).
