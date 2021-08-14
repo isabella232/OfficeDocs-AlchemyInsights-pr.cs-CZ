@@ -1,5 +1,5 @@
 ---
-title: Pravidlo ochrany před únikem číslo bankovního účtu USA nefunguje
+title: Pravidlo DLP pro americké číslo bankovního účtu nefunguje
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005011"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>Problémy s DLP s čísly bankovních účtů USA
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>Problémy SLP s čísly bankovních účtů v USA
 
 **Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
-**Problémy s DLP s čísly bankovních účtů USA**
+**Problémy SLP s čísly bankovních účtů v USA**
 
-Máte problémy s funkcí ochrany před únikem informací **(DLP)** , která nefunguje u obsahu obsahujícího **číslo bankovního účtu USA** při používání informačního typu s citlivými informacemi o DLP v O365? Pokud ano, ujistěte se, že váš obsah obsahuje potřebné informace o tom, co zásada ochrany před úniky hledá při vyhodnocování.
+Máte problémy s prevencí ztráty dat **(DLP)**  nefunguje u obsahu obsahujícího číslo bankovního účtu USA při použití typu citlivých informací DLP v O365? Pokud ano, ujistěte se, že váš obsah obsahuje potřebné informace o tom, co zásady ochrany před únikem informací hledají při jeho vyhodnocení.
   
-Například pro zásady **bankovního účtu US** , která je nakonfigurovaná s úrovní spolehlivosti 85%, se vyhodnocuje následující hodnota, která se má pro pravidlo aktivovat:
+Například u zásad čísla bankovního účtu v USA nakonfigurovaných s úrovní spolehlivosti 85 % se vyhodnocují následující položky **a** pravidlo musí být detekováno, aby se pravidlo spouštěl takto:
   
 - **[Formát:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 číslic
 
-- **[Vzor:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 po sobě jdoucích číslic.
+- **[Vzor:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8–17 po sobě jdoucích číslic.
 
-- **[Kontrolní součet:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ne, kontrolní součet neexistuje
+- **[Kontrolní součet:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ne, není k dispozici kontrolní součet.
 
-- **[Definice:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Zásada ochrany před únikem informací je 75%, že se tento typ citlivých informací zjistil, pokud v blízkosti 300 znaků:
+- **[Definice:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** Zásada ochrany před únikem informací je 75 % přesvědčená o tom, že tento typ citlivých informací zjistil, pokud v blízkosti 300 znaků:
 
-  - Regulární výraz Regex_usa_bank_account_number najde obsah, který odpovídá vzoru
+  - Funkce regulárního výrazu Regex_usa_bank_account_number najde obsah, který odpovídá vzoru.
 
-  - Najde se klíčové slovo z Keyword_usa_Bank_Account.
+  - Klíčové slovo Keyword_usa_Bank_Account nalezené.
 
-    Například následující ukázka by aktivovala zásady **bankovního účtu USA** : kontrola účtu 78344011
+    Například následující ukázka by se spouštěl pro zásadu **Číslo** bankovního účtu USA: Kontrola 78344011
 
-Další informace o tom, co je potřeba pro zjištění **čísla bankovního účtu US** pro váš obsah, najdete v tomto článku v následující části: [co citlivé typy informací hledají číslo bankovního účtu USA](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number) .
+Další informace o tom,  co je potřeba pro zjištění čísla bankovního účtu USA pro váš obsah, najdete v následující části v tomto článku: Jak vypadají typy citlivých informací pro americké číslo bankovního [účtu.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-Pomocí jiného integrovaného typu citlivých informací najdete v následujícím článku informace o tom, co je potřeba pro jiné typy: [Jaké mají citlivé typy informací](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Informace o tom, co je potřeba pro jiné typy informací, najdete v následujícím článku s použitím jiného typu citlivých [informací:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) Co tyto typy citlivých informací vypadají
   

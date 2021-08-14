@@ -1,5 +1,5 @@
 ---
-title: Pravidlo ochrany před únikem čísla kreditní karty nefunguje
+title: Pravidlo DLP pro číslo platební karty nefunguje
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,48 +13,48 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679434"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005083"
 ---
-# <a name="dlp-issues-with-credit-card-numbers"></a>Potíže s DLP s čísly kreditních karet
+# <a name="dlp-issues-with-credit-card-numbers"></a>Problémy s DLP s čísly kreditních karet
 
 **Důležité**: V této mimořádné době přijímáme opatření, aby služby SharePointu Online a OneDrivu zůstaly vysoce dostupné. Další informace najdete v článku zaměřeném na [dočasné úpravy funkcí SharePointu Online](https://aka.ms/ODSPAdjustments).
 
-**Potíže s DLP s čísly kreditních karet**
+**Problémy s DLP s čísly kreditních karet**
 
-Máte potíže s **zabráněním ztrátových dat (DLP)** , které nefungují u obsahu obsahujícího **číslo kreditní karty** v O365? Pokud ano, ujistěte se, že obsah obsahuje potřebné informace pro aktivaci zásady ochrany před únikem informací při vyhodnocování. Například pro **zásady platební karty** , které jsou nakonfigurovány s úrovní spolehlivosti 85%, jsou vyhodnoceny následující vyhodnocení a musí být rozpoznáno, aby pravidlo aktivovalo:
+Máte problémy s prevencí ztráty dat **(DLP)**  nefunguje pro obsah obsahující číslo platební karty při použití typu citlivých informací DLP v O365? Pokud ano, ujistěte se, že váš obsah obsahuje potřebné informace k aktivaci zásady ochrany před únikem informací při jejich vyhodnocení. Například u zásad platební karty nakonfigurovaných s úrovní spolehlivosti 85 % se vyhodnocují následující položky **a** musí být detekovány, aby pravidlo bylo možné aktivovat:
   
-- **[Formát:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 číslic, které je možné formátovat nebo Neformátovat (dddddddddddddddd) a které musí projít testem Luhn.
+- **[Formát:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 číslic, které je možné formátovat nebo neformátovat (ddddddddddd) a musí projít luhnovou zkouškou.
 
-- **[Vzor:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Velmi složité a robustní vzorky, které zjišťují karty všech hlavních značek po celém světě, včetně VISA, MasterCard, karty Discover, JCB, American Express, dárkových poukazů a Diner karet.
+- **[Vzor:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Velmi složitý a robustní vzor, který detekuje karty od všech hlavních značek po celém světě, včetně karet Visa, MasterCard, Discover Card, JCB, American Express, dárkových karet a přání hosta.
 
 - **[Kontrolní součet:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Ano, kontrolní součet Luhn
 
-- **[Definice:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Zásada ochrany před únikem informací je 85%, že se tento typ citlivých informací zjistil, pokud v blízkosti 300 znaků:
+- **[Definice:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Zásada ochrany před únikem informací je z 85 % přesvědčená, že tento typ citlivých informací zjistila, pokud v blízkosti 300 znaků:
 
   - Funkce Func_credit_card najde obsah, který odpovídá vzoru.
 
-  - Je to pravda:
+  - Platí jedna z těchto podmínek:
 
-  - Najde se klíčové slovo z Keyword_cc_verification.
+  - Klíčové slovo z Keyword_cc_verification nalezené.
 
-  - Najde se klíčové slovo z Keyword_cc_name
+  - Klíčové slovo z Keyword_cc_name nalezené
 
   - Funkce Func_expiration_date najde datum ve správném formátu data.
 
-  - Provedená kontrolní součty
+  - Kontrolní součet projde
 
-    Například následující ukázka by mohla vyvolat zásadu pro nastavení čísel kreditní karty pro DLP:
+    Například následující ukázka by se spouštěl pro zásady číslování platební karty DLP:
 
   - Visa: 4485 3647 3952 7352
   
-  - Platnost vyprší: 2/2009
+  - Vyprší: 2.2.2009
 
-Další informace o tom, co je potřeba pro zjištění **čísla kreditní karty** pro váš obsah, najdete v tomto článku v této části: [co citlivé typy informací vyhledají pro číslo kreditní karty #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Další informace o tom,  co je potřeba pro zjištění čísla platební karty pro váš obsah, najdete v následující části v tomto článku: Co vypadají typy citlivých informací pro platební [kartu#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Pomocí jiného integrovaného typu citlivých informací najdete v následujícím článku informace o tom, co je potřeba pro jiné typy: [Jaké mají citlivé typy informací](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Informace o tom, co je potřeba pro jiné typy informací, najdete v následujícím článku s použitím jiného typu citlivých [informací:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions) Co tyto typy citlivých informací vypadají
   
