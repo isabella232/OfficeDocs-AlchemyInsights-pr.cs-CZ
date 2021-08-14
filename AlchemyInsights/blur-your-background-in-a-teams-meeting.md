@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3815"
 - "9001720"
-ms.openlocfilehash: 4d708e4c71ca9fb18f04121056007041e49fb7e5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7b553d5d0342382af3cbabb8e9c42583c404f88b28f3eea33642baef2863dcd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820063"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931334"
 ---
 # <a name="blur-your-background-in-a-teams-meeting"></a>Rozostření pozadí během schůzky v Teams
 

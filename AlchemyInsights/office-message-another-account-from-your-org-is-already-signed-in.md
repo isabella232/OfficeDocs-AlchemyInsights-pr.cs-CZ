@@ -1,5 +1,5 @@
 ---
-title: Zpráva o aplikacích Microsoft 365 – Omlouváme se, ale už je přihlášený další účet z vaší organizace.
+title: Microsoft 365 aplikace – Je nám líto, ale už je přihlášený další účet z vaší organizace.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3271471c6421e892066cea2f0007cd81dc10783ecdd5bd8349bbe298a31990ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836236"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53974338"
 ---
-# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Zpráva o aplikacích Microsoft 365 – Omlouváme se, ale už je přihlášený další účet z vaší organizace.
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Microsoft 365 aplikace – Je nám líto, ale už je přihlášený další účet z vaší organizace.
 
 Pokud chcete tuto chybu vyřešit, vyzkoušejte následující:
 
@@ -33,7 +33,7 @@ Pokud chcete tuto chybu vyřešit, vyzkoušejte následující:
 
 - Spusťte aplikaci Office a v případě potřeby se znovu přihlaste. 
 
-**Tip** Na počítačích s Windows můžeme diagnostikovat a automaticky vyřešit několik běžných problémů s přihlášením k Office. Stáhněte a spusťte  **[Pomocníka pro podporu](https://aka.ms/SaRA-OfficeSignInScenario)** a obnovení microsoftu a použijte náš automatizovaný nástroj.
+**Tip** Na Windows počítačích můžeme diagnostikovat a automaticky opravit několik běžných problémů Office přihlášení. Stáhněte si a spusťte **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** a použijte náš automatizovaný nástroj.
 
 Pokud potíže potrvají, vyzkoušejte následující krok: 
 

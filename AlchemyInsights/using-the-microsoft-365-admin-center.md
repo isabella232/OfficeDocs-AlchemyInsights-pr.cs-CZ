@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002613"
 - "5042"
-ms.openlocfilehash: a2d9ded3f2d3a2006e0cd3b698cf40c36ab4df45
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd1636034ae727b7eacae7d2fb35a617dbb68bce89daa227339143b735f2a884
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990448"
 ---
 # <a name="using-the-microsoft-365-admin-center"></a>Použití centra pro správu Microsoftu 365
 

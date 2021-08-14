@@ -1,5 +1,5 @@
 ---
-title: Chyby aplikací
+title: Chyby aplikace
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,62 +13,62 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: ce4c89da79112726ed4fb25527edc8d082bd37f239595b9eab7279abeeecfd7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984517"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931442"
 ---
-# <a name="application-errors"></a>Chyby aplikací
+# <a name="application-errors"></a>Chyby aplikace
 
-Hledáte informace o **kódech chyb AADSTS** , které se vracejí ze služby tokenů zabezpečení Azure Active Directory (STS)? Čtením [kódů chyb ověřování a autorizace Azure AD](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) najdete AADSTS Popis chyb, opravy a některá navrhovaná řešení.
+Hledáte informace o kódech **chyb AADSTS** vrácených ze služby tokenů zabezpečení (STS) Azure Active Directory (Azure AD)? Přečtěte [si kódy chyb ověřování](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) a autorizace Azure AD a vyhledejte popisy chyb AADSTS, opravy a některá navrhovaná alternativní řešení.
 
-Chyby autorizace můžou být výsledkem několika různých problémů, z nichž většinu generuje chybu 401 nebo 403. V následujícím příkladu mohou všechny vést k chybám autorizace:
+Chyby autorizace mohou být výsledkem několika různých problémů, z nichž většina vygeneruje chybu 401 nebo 403. K chybám autorizace může například vést následující:
 
-- Nesprávné [toky získání přístupových tokenů](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
-- Špatně nakonfigurované [obory oprávnění](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
-- Nedostatek [souhlasu](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
+- Nesprávné [toky akvizice přístupového tokenu](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
+- Špatně nakonfigurované [rozsahy oprávnění](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
+- Chybějící [souhlas](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-Pokud chcete vyřešit běžné chyby autorizace, vyzkoušejte následující kroky, které se nejvíce shodují s chybou, kterou jste dostali. Můžete použít více než jednu.
+Pokud chcete vyřešit běžné chyby autorizace, vyzkoušejte níže uvedené kroky, které nejvíce odpovídají chybě, kterou dostáváte. Může se použít více než jedna.
 
-**401 neoprávněná Chyba: je váš token platný?**
+**401 Unauthorized error: Is your token valid?** (401 Chyba autorizace: Máte platný token?)
 
-Ujistěte se, že aplikace v rámci žádosti prezentuje v aplikaci Microsoft Graph platný přístupový token. Tato chyba často znamená, že přístupový token možná v záhlaví žádosti HTTP Authenticate chybí nebo že je neplatný nebo vypršela jeho platnost. Důrazně doporučujeme, abyste pro získání accessového tokenu použili [knihovnu Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) . K této chybě může navíc dojít, pokud se pokusíte použít delegovaný přístupový token udělený osobnímu účtu Microsoft pro přístup k rozhraní API, které podporuje jenom pracovní nebo školní účty (organizační účty).
+Ujistěte se, že vaše aplikace prezentuje platný přístupový token pro Microsoft Graph jako součást žádosti. Tato chyba často znamená, že v záhlaví žádosti o ověření protokolu HTTP chybí přístupový token, že je token neplatný nebo že vypršela jeho platnost. Důrazně doporučujeme použít knihovnu [MSAL (Microsoft Authentication Library)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) pro získání přístupových tokenů. K této chybě může dojít také v případě, že se pokusíte použít delegovaný přístupový token udělený osobnímu účtu Microsoft pro přístup k rozhraní API, které podporuje jenom pracovní nebo školní účty (účty organizace).
 
-**403, chyba: zvolili jste správnou sadu oprávnění?**
+**403 Forbidden error: Have you chosen the right set of permissions?** (chyba 403 Zakázáno: Vybrali jste správnou sadu oprávnění?)
 
-Zkontrolujte, jestli jste požadovali správnou sadu oprávnění založenou na rozhraních API Microsoft graphu pro hovory. Doporučená nejméně privilegovaná oprávnění jsou k dispozici ve všech tématech referenční metody rozhraní Microsoft Graph API. Kromě toho musí být tato oprávnění přidělena uživateli nebo správcem. K udělení oprávnění obvykle dochází prostřednictvím stránky souhlasu nebo udělením oprávnění pomocí registračního panelu aplikace Azure Portal. V okně **Nastavení** aplikace klikněte na **požadovaná oprávnění** a potom na **udělit oprávnění**.
+Zkontrolujte, jestli jste požádali o správnou sadu oprávnění na základě rozhraní Microsoft Graph api pro volání aplikací. Doporučená nejméně privilegovaná oprávnění jsou k dispozici ve všech tématech referenční metody rozhraní Microsoft Graph API. Tato oprávnění musí navíc aplikaci udělit uživatel nebo správce. Udělení oprávnění obvykle probíhá prostřednictvím stránky souhlasu nebo udělením oprávnění pomocí okna registrace aplikace Azure Portal. V okně **Nastavení** aplikace klikněte na **Povinná oprávnění** a potom na **Udělit oprávnění**.
 
-- [Oprávnění pro Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 
-- [Principy oprávnění a souhlasu služby Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- [Oprávnění Microsoft Graphu](https://docs.microsoft.com/graph/permissions-reference) 
+- [Principy oprávnění a souhlasu v Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
 
-**403 zakázaná Chyba: aplikace získala token pro přiřazení zvolených oprávnění?**
+**403 Forbidden error: Did your app acquire a token to match chosen permissions?** (chyba 403 Zakázáno: Získala vaše aplikace token odpovídající vybraným oprávněním?)
 
-Ujistěte se, že typ požadovaného nebo přiděleného oprávnění odpovídá typu přístupového tokenu, který aplikace získává. Je možné, že budete požádáni o oprávnění a udělujete oprávnění k aplikacím, ale místo tokenů toku přihlašovacích údajů klienta nebo při požadování a udělování delegovaných oprávnění, ale pomocí tokenů toku kódu, ale s využitím tokenů toku kódu.
+Ujistěte se, že typ požadovaných nebo udělených oprávnění odpovídá typu přístupového tokenu, který vaše aplikace získá. Možná požadujete a udělujíte oprávnění aplikací, ale místo tokenů toku klientských přihlašovacích údajů používáte delegované tokeny toku interaktivního kódu nebo požadujete a udělují delegovaná oprávnění, ale místo tokenů toku delegovaného kódu používáte tokeny toku přihlašovacích údajů klienta.
 
-- [Získání přístupu pro uživatele a delegovaná oprávnění](https://docs.microsoft.com/graph/auth_v2_user) 
-- [Azure AD v 2.0 – tok autorizačního kódu OAuth 2,0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Získání přístupu bez uživatele (služby démon) a oprávnění aplikace](https://docs.microsoft.com/graph/auth_v2_service) 
-- [Azure AD v 2.0 – tok přihlašovacích údajů klienta OAuth 2,0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
+- [Získání přístupu jménem uživatelů a delegovaná oprávnění](https://docs.microsoft.com/graph/auth_v2_user) 
+- [Azure AD v2.0 – tok autorizačního kódu OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Získání přístupu bez oprávnění pro uživatele (služba proces démona) a aplikace](https://docs.microsoft.com/graph/auth_v2_service) 
+- [Azure AD v2.0 – tok přihlašovacích údajů klienta OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
 
-**403, chyba: resetování hesla**
+**403 Forbidden error: Resetting password** (chyba 403 Zakázáno: Resetování hesla)
 
-Aktuálně nejsou k dispozici žádná oprávnění služby typu démon oprávnění aplikace, která povolují Resetování uživatelských hesel. Tato rozhraní API jsou podporovaná jenom pomocí interaktivního toku kódu delegovaného pomocí přihlášeného správce.
+V současné době neexistují žádná oprávnění typu služba-služba pro oprávnění aplikací procesu démona, která by umožnila resetování uživatelských hesel. Tato rozhraní API jsou podporovaná jenom přes delegované interaktivní toky kódu s přihlášeným správcem.
 
-- [Oprávnění pro Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference)
+- [Oprávnění Microsoft Graphu](https://docs.microsoft.com/graph/permissions-reference)
 
-**403 zakázáno: uživatel má přístup a mají licenci?**
+**403 Forbidden: Does the user have access and are they licensed?** (403 Zakázáno: Má uživatel přístup a licenci?)
 
-V případě toků delegovaných kódů Microsoft Graph vyhodnotí, jestli je žádost povolená na základě oprávnění udělených aplikaci a oprávnění, která má přihlášený uživatel. Tato chyba obecně znamená, že uživatel nemá dostatečná oprávnění k provádění žádosti nebo jestli uživatel nemá licenci na data, ke kterým přistupuje. Žádost se můžou úspěšně uskutečnit jenom uživatelé s požadovanými oprávněními nebo licencemi.
+U toků delegovaného kódu microsoft Graph, jestli je žádost povolená na základě oprávnění udělených aplikaci a oprávnění, která má přihlášený uživatel. Tato chyba obecně znamená, že uživatel nemá dostatečná oprávnění k provedení žádosti nebo nemá licenci pro přístup k požadovaným datům. Žádost můžou úspěšně provést jenom uživatelé s požadovanými oprávněními nebo licencemi.
 
-**403 zakázáno: vybrali jste správné rozhraní API prostředku?**
+**403 Forbidden: Did you select the correct resource API?** (403 Zakázáno: Vybrali jste správné rozhraní API prostředku?)
 
-Služby API (jako je Microsoft Graph): Zkontrolujte, že AUD deklarace (cílová skupina) v přijatém přístupovém tokenu odpovídá hodnotě, kterou očekává pro sebe, a pokud ne, bude výsledkem Chyba 403 Forbidden. Běžná chyba, která je výsledkem této chyby, se pokouší použít token získaný pro rozhraní API Azure AD, rozhraní API aplikace Outlook nebo rozhraní API SharePointu nebo OneDrivu pro volání do Microsoft graphu (nebo naopak). Ujistěte se, že prostředek (nebo obor) aplikace získává token pro odpovídající rozhraní API, na které aplikace volá.
+Služby ROZHRANÍ API, jako je Microsoft Graph, kontrolují, že deklarace aud (cílová skupina) v přijatém přístupového tokenu odpovídá hodnotě, kterou očekává sama o sobě, a pokud ne, výsledkem je chyba 403 Zakázáno. Běžný omyl, který vede k této chybě, je použití tokenu získaného pro rozhraní API Azure AD Graphu, rozhraní API Outlooku nebo rozhraní API SharePointu/OneDrivu k volání Microsoft Graphu (nebo naopak). Ujistěte se, že prostředek (nebo obor), pro který vaše aplikace získává token, odpovídá rozhraní API, které aplikace volá.
 
-**400 nesprávný požadavek nebo 403 zakázáno: uživatel dodržuje zásady pro podmíněné přístup k organizaci (CÚ)?**
+**400 Bad Request / 403 Forbidden: Does the user comply with their organization's conditional access (CA) policies?** (400 Nesprávná žádost / 403 Zakázáno: Splňuje uživatel zásady podmíněného přístupu organizace (CA)?)
 
-Na základě zásad certifikačního úřadu organizace může být uživatel, který přistupuje k prostředkům Microsoft graphu prostřednictvím aplikace, požádán o další informace, které se nenacházejí v přístupovém tokenu, který aplikace původně získala. V tomto případě vám aplikace obdrží 400 s chybou *interaction_required* během získávání accessového tokenu nebo 403 s chybou *insufficient_claims* při volání do Microsoft graphu. V obou případech odpověď na chybu obsahuje další informace, které se dají uživateli dát k dispozici koncovému bodu autorizace, aby mohl uživatele pověřit další informace (jako je třeba vícefaktorové ověřování nebo registrace zařízení).
+Na základě zásad certifikační autority organizace může být uživatel, který přistupuje k prostředkům Microsoft Graph prostřednictvím vaší aplikace, zpochybněn kvůli dalším informacím, které nejsou v přístupovém tokenu, který vaše aplikace původně získala. V takovém případě se při akvizici přístupového tokenu zobrazí chyba 400 se zprávou *interaction_required* nebo se při volání Microsoft Graphu zobrazí chyba403 se zprávou *insufficient_claims*. V obou případech obsahuje odpověď na chybu další informace, které lze prezentovat autorizačnímu koncovému bodu a vyzvat uživatele k dalším informacím (jako je vícefaktorové ověřování nebo registrace zařízení).
 
-- [Zpracování výzev k podmíněnému přístupu pomocí MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
-- [Návod pro vývojáře pro podmíněný přístup k Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
+- [Řešení problémů s podmíněným přístupem pomocí funkce MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [Pokyny pro vývojáře k podmíněnému přístupu k Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
