@@ -1,5 +1,5 @@
 ---
-title: Přepnout na platbu fakturou (Kontrola/vedení převodu)
+title: Přechod na platbu fakturou (šek/bankovní převod)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 09f4f4787e634e28e31b02533319853b51f41e5bc37553be6615c2389063818c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009061"
 ---
-# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Přepnout na platbu fakturou (Kontrola/vedení převodu)
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Přechod na platbu fakturou (šek/bankovní převod)
 
-Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
+Na základě popisu vašeho problému jsme pro vás našli řešení. Většina zákazníků dokázala vyřešit svůj problém sami po provedení naší dokumentace.
 
-Pokud přepnete na platbu fakturou, znamená to, že budete účtovat do 30 dnů od data faktury. Chcete-li získat nárok zaplatit za vaše předplatné Azure pomocí faktury, odešlete žádost o podporu Azure. Po schválení žádosti můžete na portálu Azure změnit předplatné na fakturovatelné platby.
+Pokud přepnete na platbu fakturou, znamená to, že fakturu budete platit do 30 dnů od data faktury. Pokud se chcete stát oprávněným platit za předplatné Azure fakturou, odešlete žádost na podporu Azure. Po schválení žádosti můžete předplatné přepnout na platbu fakturou na portálu Azure Portal.
 
-**Než budete pokračovat, přečtěte si následující požadavky/omezení při žádosti o platbu na fakturu:**
+**Než budete pokračovat dál, projděte si následující požadavky/omezení týkající se způsobu platby fakturou:**
 
-- Přihlaste se k [portálu Azure Portal](https://portal.azure.com/), přejděte na způsoby plateb a zkontrolujte, jestli jste už předem schválení platby za fakturu.
-- Faktura platí jenom pro firemní účty, ne pro osobní účty.
-- Před přechodem na platbu faktury musíte zaplatit všechny zbývající poplatky.
-- Tým podpory zkontroluje účet a zjistí, jestli je způsobilý pro platební režim.
-- Po přepnutí na fakturu za platbu se nemůžete vrátit k platbám kreditních nebo debetních karet.
+- Přihlaste se na [portál Azure Portal,](https://portal.azure.com/)přejděte na způsoby platby a zkontrolujte, jestli už máte předschválené platby fakturou.
+- Platba fakturou je dostupná jenom pro firemní účty, ne pro osobní účty.
+- Před přechodem na platbu fakturou musíte zaplatit všechny nevyřízené poplatky.
+- Tým podpory bude účet zkontrolovat a zjistit, jestli má nárok na způsob platby na faktuře.
+- Jakmile přepnete na platbu fakturou, nemůžete přejít zpátky na platbu platební kartou nebo debetní kartou.
 
-Jakmile budete schváleni za platbu fakturou, můžete předplatné Azure přepnout na fakturu pomocí kontroly nebo přenosu na služby [Azure Portal](https://portal.azure.com/).
-Postup:
+Po schválení platby fakturou můžete předplatné Azure na platbu na faktuře přepnout šekem nebo bankovním převodem na [portálu Azure Portal.](https://portal.azure.com/)
+To můžete udělat takhle:
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/)   jako správce účtu. Vyhledejte a vyberte **Správa nákladů + fakturace**.
-2. V nabídce zvolte **profily faktur**.
-3. Vyberte profil fakturace.
-4. V nabídce *profil fakturace* vyberte **způsob platby**.
-5. Vyberte nápis, který vám říká, že máte nárok na platbu šekem (šekem).
+1. Přihlaste se k [portálu Azure portal](https://portal.azure.com/)jako správce   účtu. Vyhledejte a vyberte **Správa nákladů + Fakturace**.
+2. V nabídce zvolte **Fakturační profily**.
+3. Vyberte fakturační profil.
+4. V nabídce *Fakturační profil* vyberte **Způsoby platby**.
+5. Vyberte banner s nápisem, že máte nárok na platbu šekem nebo bankovním převodem.
 
 **Doporučené dokumenty**
 
-- [Žádost, stáhnout nebo zobrazit fakturační data faktur a využití Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Jak odeslat faktury Azure přímo do složky Doručená pošta](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Vyžádání/stažení/zobrazení fakturační faktury a údajů o využití Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Jak poslat faktury Azure e-mailem přímo do složky Doručená pošta](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
 - [Platba fakturou](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
-- [Vysvětlení termínů na faktuře](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Porozumění podmínkám na faktuře](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)

@@ -1,5 +1,5 @@
 ---
-title: Synchronizace SharePointového kalendáře s Outlookem
+title: Synchronizace SharePoint kalendáře Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008872"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problémy s synchronizací kalendáře se zařízeními
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>Problémy se synchronizací kalendáře se zařízeními
 
-SharePointové kalendáře jsou klasické typy seznamů, které se někdy v kalendářích skupiny Microsoft 365 občas Zaměňujte.
+SharePoint Kalendáře jsou klasické typy seznamu, které jsou někdy zaměňovány Microsoft 365 kalendářů skupiny.
 
-Pokud chcete synchronizovat SharePointový kalendář s Outlookem, postupujte takto:
+Pokud chcete synchronizovat SharePoint kalendář Outlook, postupujte takto:
 
-1. Klikněte na ikonu **Nastavení** ozubeného kola a potom na **obsah webu**.
-2. Otevřete Kalendář, který chcete synchronizovat (což je typ seznamu událostí).
-3. V klasické nabídce pásu karet klikněte na **Kalendář**a potom na **připojit k Outlooku**.
-4. V místní nabídce s výzvou k potvrzení synchronizace klikněte na **Povolit**.
+1. Klikněte na **Nastavení** ozubeného kola a potom klikněte na **Obsah webu.**
+2. Otevřete kalendář, který chcete synchronizovat (což je typ seznamu Události).
+3. V nabídce klasického pásu karet klikněte na **Kalendář** a potom **klikněte Připojení na Outlook.**
+4. V místní nabídce s žádostí o potvrzení synchronizace klikněte na **Povolit.**
 
 >[!Note]
-> Když uděláte změnu v synchronizovaném kalendáři Outlooku, zobrazí se v SharePointovém kalendáři a naopak.
+> Když v synchronizované kalendáři změníte Outlook, zobrazí se v kalendáři SharePoint a naopak.
 
 Další informace o skupinách Microsoft 365 najdete v tomto [článku](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

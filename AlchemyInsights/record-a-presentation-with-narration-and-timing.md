@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001698"
 - "5473"
-ms.openlocfilehash: f962afa92388ac27c786c4750b9e8e29ce219640
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d3f9be5cd50abc2c06934933ceb1ea1c685409386b9e52533cde3d55a4042e37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095031"
 ---
 # <a name="record-a-presentation-with-narration-and-timing"></a>Nahrání prezentace s mluveným komentářem a časováním
 

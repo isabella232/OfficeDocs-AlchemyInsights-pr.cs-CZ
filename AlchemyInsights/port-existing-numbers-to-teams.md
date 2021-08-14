@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 127a7f8f00843e5e6d6a833a7f3e39d8b73da7f2
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 89fc424c9e958971f1f51d43a52790bbe12b464f088895d152bfd00f41dd3561
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53688319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973654"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Přenos existujících čísel do Teams
 

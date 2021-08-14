@@ -1,5 +1,5 @@
 ---
-title: Převedení webu na centrální Web
+title: Převedení webu na centrální web
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,23 +12,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: e3011b8af2271761c96d8e9bcecd317682c096d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bc8728583a547e2407e2c91bf777adb23c221015c63d325df33db6c691f98e71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929802"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Vytvoření webu centra SharePointu
+# <a name="create-a-sharepoint-hub-site"></a>Vytvoření centrálního SharePoint webu
 
-1. V novém centru pro správu SharePointu klikněte v části **weby**na **aktivní weby**.
+1. V novém centru SharePoint klikněte v části **Weby** na **Aktivní weby**.
 
-2. Vyberte web, který chcete představovat jako centrální web, klikněte na **centrální lokalitu**a potom klikněte na **registrovat jako centrální web**.
+2. Vyberte web, který chcete být centrálním webem, klikněte na **Centrální web** a potom klikněte na **Zaregistrovat jako centrální web.**
 
-3. Zadejte zobrazovaný název centrální lokality a určete jednotlivé uživatele nebo skupiny zabezpečení, kterým chcete povolit přidružení webů s rozbočovačem.
+3. Zadejte zobrazovaný název centrálního webu a zadejte jednotlivé uživatele nebo skupiny zabezpečení, které chcete povolit přidružení webů k centru.
 
     > [!NOTE]
-    >  Doporučujeme, abyste vybrali komunikační web nebo týmový web, který používá novou šablonu. Pokud používáte klasický týmový web, navigace na rozbočovači se zobrazí jenom na moderních stránkách a nastavení centrální lokality se zobrazí jenom na moderních stránkách. Weby, které jsou už přidružené k jinému rozbočovači, se nedají registrovat jako centrální Web.
+    >  Doporučujeme vybrat komunikační web nebo týmový web, který používá novou šablonu. Pokud používáte klasický týmový web, zobrazí se navigace v centru jenom na moderních stránkách a nastavení centrálního webu se zobrazí jenom na moderních stránkách. Weby, které už jsou přidružené k jinému centru, se ne chytou zaregistrovat jako centrální web.
   
 [Další informace o centrálních webech](https://go.microsoft.com/fwlink/?linkid=869149)
   

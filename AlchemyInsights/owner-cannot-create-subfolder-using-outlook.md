@@ -1,5 +1,5 @@
 ---
-title: Vlastník nemůže vytvořit podsadu pomocí Outlooku.
+title: Vlastník nemůže vytvořit podsadu pomocí Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60190727e75c120ad3915da8b563b7f6b1a3238b46bb6e14cbf956365e1a84e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836128"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063117"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlastník nemůže vytvořit podsadu pomocí Outlooku.
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Vlastník nemůže vytvořit podsadu pomocí Outlook
 
-**Při vytváření podsložek pomocí Outlooku dochází k probíhajícímu problému s vlastníky veřejných složek. Problém bude brzy opravený.**
+**Dochází k probíhajícímu problému s vytvářením podsložek pomocí Outlook. Problém bude brzy opravený.**
 
 Mezitím použijte jedno z následujících alternativních řešení:
 
-1. Vytvoření podsložky v Outlooku pro MAC se týká jenom Outlooku pro desktopová okna (všechny verze).
+1. Použití Outlook pro MAC k vytvoření podsložky, protože problém se týká jenom Outlook pro desktopová okna (všechny verze)
 2. Vytvoření podsložky správcem pomocí prostředí EXO Shell nebo EAC
 3. Změna DefaultPublicFolderMailbox/EffectivePublicFolderMailbox u uživatele na jinou poštovní schránku než poštovní schránku obsahu pro složku způsobující problém  
     - *Set-Mailbox User1 DefaultPublikaceMailbox PubMBX3*
