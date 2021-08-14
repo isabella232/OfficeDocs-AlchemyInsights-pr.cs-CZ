@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: e397f9cb39f289b96f20a9d69b8ff9e8efe5f40c
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53687419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009169"
 ---
 # <a name="subscription-expired"></a>Vypršela platnost předplatného
 

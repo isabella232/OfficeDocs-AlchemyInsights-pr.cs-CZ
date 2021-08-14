@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 6a0ee90b71f54b9b440cdac227243eb64e2b3d1b
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: da2e8b3376cf4c12d64f3db5b9a0f0d93904137f08fd6c4f54468954cec3ceda
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009313"
 ---
 # <a name="new-feature-to-help-diagnose-eop-and-microsoft-defender-for-office-365"></a>Nová funkce, která pomáhá diagnostikovat EOP a Microsoft Defender pro Office 365
 

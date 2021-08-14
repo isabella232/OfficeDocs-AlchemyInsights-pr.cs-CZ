@@ -4,7 +4,7 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: ''
-ms.reviewer: jmueller, tugu
+ms.reviewer: tugu, jmueller
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,17 +15,17 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: a2a9b189ba8228cd6487c2f268c9d71affaa3519
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: acf3231c198a611d0975fffc4ef68ac28a901488f93a695de5d8f19bebf80f25
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686303"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57868375"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Jak přidat nebo upravit ID dph
 
 > [!NOTE]
-> Pokud jste v zemi, která používá daň z přidané hodnoty (DPH), jako je Spojené království, vypočítá microsoftová fakturace DPH za vás a použije částku na vaše faktury. Další informace najdete v článku [Právní omezení VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) publikovaná Evropskou komisí.
+> Pokud jste v zemi, která používá daň z přidané hodnoty (DPH), například Spojené království, vypočítá microsoftová fakturace DPH za vás a použije částku na vaše faktury. Další informace najdete v článku [Právní omezení VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) publikovaná Evropskou komisí.
 
 **Přidání nebo úprava ID dph**
 
@@ -34,4 +34,4 @@ ms.locfileid: "53686303"
 3. Na stránce s podrobnostmi předplatného vyberte v části **Adresa využití služby** možnost Upravit adresu využití **služby.**
 4. V podokně **Upravit adresu využití služby** zadejte do  pole DIČ DIČ a pak vyberte **Uložit**. Až to budete dělat, nebude vám dph naúčtována na další fakturu.
 
-Další informace najdete v článku Jakou daň se mi bude účtovat [za Microsoft 365?](/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).
+Další informace najdete v článku Jakou daň se mi bude účtovat [za Microsoft 365?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information#what-tax-will-i-be-charged).

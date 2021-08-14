@@ -1,5 +1,5 @@
 ---
-title: Stav Outlook.com se vždy zobrazuje jako dostupný
+title: Outlook.com se vždy zobrazuje jako Dostupný
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6b19c87862d205fd4351a51331fd666d9c93ce98d48088629f054fe22b68c53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095139"
 ---
-# <a name="my-status-always-shows-as-available"></a>Můj stav je vždycky zobrazený jako dostupný
+# <a name="my-status-always-shows-as-available"></a>Můj stav se vždycky zobrazuje jako Dostupný.
 
-Při každém přihlášení k Outlook.com se Váš účet obnoví na dostupný. Můžete zabránit změnám stavu, protože se nemusíte odhlásit z Outlook.com. Pokud chcete zůstat přihlášeni při zavírání prohlížeče, zaškrtněte políčko **zůstat přihlášení** na přihlašovací stránce Outlook.com.
+Při každém přihlášení k Outlook.com se stav vašeho účtu resetuje na Dostupný. Můžete zabránit tomu, aby se váš stav měnil, a to tak, že se od Outlook.com od Outlook. Pokud chcete zůstat přihlášení při zavírání prohlížeče, zaškrtněte na přihlašovací stránce Outlook.com políčko Zůstat přihlášení. 
