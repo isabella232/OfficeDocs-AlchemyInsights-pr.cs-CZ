@@ -1,5 +1,5 @@
 ---
-title: Aktualizace nastavení ochrany osobních údajů fotoaparátu
+title: Aktualizace ochrany osobních údajů fotoaparátu Nastavení
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: e9ee56355bf77f18b0e078e8536525f8c51f17aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d1b5a08ac612b548fb196cf8deaa20fa23218bd94ee9440024d7b1b7561c7b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53990736"
 ---
-# <a name="update-your-cameras-privacy-settings"></a>Aktualizace nastavení ochrany osobních údajů fotoaparátu
+# <a name="update-your-cameras-privacy-settings"></a>Aktualizace ochrany osobních údajů fotoaparátu Nastavení
 
 Tento kód chyby znamená, že nastavení ochrany osobních údajů fotoaparátu má vliv na aplikaci. Pokud chcete aktualizovat nastavení ochrany osobních údajů fotoaparátu, postupujte takto:
 
-- Otevřete **tlačítko Start > nastavení > ochrana > fotoaparátu**.
+- Otevřete **tlačítko Start > Nastavení > ochrana osobních > fotoaparátu**.
 - V **části Povolit přístup k fotoaparátu na tomto zařízení** vyberte **Změnit**. Ujistěte se, že je přepínač **zapnutý**.
 - Potom v **části Povolit aplikacím přístup k fotoaparátu** zkontrolujte, že je přepínač **zapnutý**.
 - Potom v části **Zvolte, které aplikace** mají přístup k fotoaparátu, zkontrolujte, jestli je přepínač vedle požadované aplikace taky zapnutý.

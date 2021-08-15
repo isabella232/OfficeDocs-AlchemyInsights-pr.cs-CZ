@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002551"
 - "4925"
-ms.openlocfilehash: 80d3b132e463e7c31fbb657a9ca70f3004cc31f7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 053c2ce3999adbf66ce46a7953ae299a6e57919c549e53899c83840dfb5922cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025855"
 ---
 # <a name="multilingual-publishing-for-modern-sharepoint"></a>Vícejazyčné publikování pro moderní SharePoint
 

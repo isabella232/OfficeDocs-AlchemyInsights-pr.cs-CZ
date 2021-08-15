@@ -1,5 +1,5 @@
 ---
-title: Platební faktura v Azure Portal – doporučené kroky
+title: Platba faktury na portálu Azure Portal – doporučené kroky
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 71be9bd2d69129cde16827371b71881ddb1284b19534ca48eb7079e761bdcff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755612"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010357"
 ---
-# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Platební faktura v Azure Portal – doporučené kroky
+# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Platba faktury na portálu Azure Portal – doporučené kroky
 
-Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
+Na základě popisu vašeho problému jsme pro vás našli řešení. Většina zákazníků dokázala vyřešit svůj problém sami po provedení naší dokumentace.
 
-K placení faktur na Azure Portal musíte být správcem fakturačního účtu. Správce fakturačního účtu je uživatel, který původně zaregistroval účet pro smlouvy o zákaznících Microsoftu. 
+Pokud chcete platit faktury na portálu Azure Portal, musíte být správcem fakturačního účtu. Správce fakturačního účtu je uživatel, který se původně zaregistroval k účtu Microsoft Customer Agreement. 
 
-Platbu vaší faktury na portálu Azure: 
+Platba faktury na portálu Azure Portal: 
 
-1. Přihlaste se k [portálu Azure](https://portal.azure.com/).
-1. Hledat na **Správa ceny + fakturace**.
-1. V levém podokně v části **fakturace** klikněte na **faktury**.
-1. Pokud jsou některé faktury splatné nebo splatné, zobrazí se pro **ni odkaz modrý** . Klikněte na **zaplatit**.
-1. V novém okně klikněte na **Vybrat způsob platby** a zvolte si existující platební kartu nebo přidejte novou.
-1. Po výběru způsobu platby klikněte na **zaplatit**.
-Stav faktury bude aktualizován na placený v okně faktury.
+1. Přihlaste se na [portál Microsoft Azure](https://portal.azure.com/).
+1. Hledejte ve článku **Správa ceny + fakturace**.
+1. V levém podokně klikněte v části **Fakturace** na **Faktura.**
+1. Pokud máte nějaké faktury s termínem splatnosti nebo  po splatnosti, zobrazí se pro vaši fakturu modrý odkaz Zaplatit hned. Klikněte **na Zaplatit hned.**
+1. V novém okně klikněte na Vybrat způsob **platby a** zvolte existující platební kartu nebo přidejte novou.
+1. Po výběru způsobu platby klikněte na **Zaplatit hned.**
+Stav faktury se aktualizuje tak, aby se vyplácel v okně faktur.
 
 **Doporučené dokumenty**
 
 - [Jak zaplatit fakturu za Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
-- [Změnit způsob platby – časté otázky](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Změna způsobu platby pro fakturační profil](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Kontrola přístupu ke Smlouvě o zákaznících Microsoftu](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Nejčastější dotazy o změně způsobu platby](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Změna způsobu platby u fakturačního profilu](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Kontrola přístupu ke smlouvě se zákazníkem Microsoftu](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
