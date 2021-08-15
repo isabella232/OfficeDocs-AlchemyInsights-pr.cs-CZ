@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 27c08c071b2feb8458f03d2b01017a6c348111a3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: 898f1fcd189e2656dbdb9921f0c34a5d30976ac210766ca28284c455053dae50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016801"
 ---
 # <a name="learn-about-or-troubleshoot-sensitivity-labels"></a>Informace o popiscích citlivosti nebo řešení potíží s popisky citlivosti
 
@@ -26,7 +26,7 @@ Přehled popisků citlivosti najdete v tématu [Informace o popiscích citlivost
 
 Pokud jste nakonfigurovali popisky citlivosti, ale v aplikacích Office se nezobrazují, proveďte následující úkoly:
 
-- Zkontrolujte, že je přiřazená licence Office 365 E3 nebo E5.
+- Zkontrolujte, Office 365 E3 nebo E5 je přiřazená licence.
 
 - Ověřte, že popisek citlivosti byl publikovaný pro uživatele a skupiny, které chcete.
 
@@ -36,4 +36,4 @@ Pokud jste nakonfigurovali popisky citlivosti, ale v aplikacích Office se nezob
 
 - Ujistěte se, že je nainstalovaný klient Azure Information Protection. Další informace najdete v článku sjednocený klient [štítků Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history).
 
-Pokud vám výše uvedené úkoly nepomáhou vyřešit problémy s popisky citlivosti, podívejte se na články Známé problémy s popisky [citlivosti v Office](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Pokud vám výše uvedené úkoly nepomáhou vyřešit problémy s popisky citlivosti, podívejte se na články Známé problémy s popisky [citlivosti](https://support.microsoft.com/topic/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)v Office .

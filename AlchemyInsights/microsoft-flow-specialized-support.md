@@ -1,5 +1,5 @@
 ---
-title: Podpora společnosti Microsoft na podporu
+title: Microsoft Flow Specializovaná podpora
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975922"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Podpora společnosti Microsoft na podporu
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Specializovaná podpora
 
-Pro specializovanou podporu toku softwaru společnosti Microsoft přejděte do nového [centra pro správu Power Platform](https://aka.ms/flowadminsupport). Nový portál nabízí další přímou cestu k podpoře, která je optimalizovaná pro Microsoft Flow a další produkty Power Platform.
+Specializovanou Microsoft Flow najdete v novém Centru pro správu [platformy Power.](https://aka.ms/flowadminsupport) Nový portál nabízí přímou cestu k podpoře s asistencí, která je optimalizovaná pro Microsoft Flow a další produkty platformy Power.
 
-Víc se uč:
-- [Informace o licencích bezplatných ke toku Microsoftu](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Časté otázky v organizaci](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Plány Microsoft 365 a Dynamics 365, které zahrnují tok Microsoftu](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Fakturace a monitorování toku Microsoftu](https://go.microsoft.com/fwlink/?linkid=2072612)
+Další informace:
+- [Informace o Microsoft Flow licencí zdarma](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow ve vaší organizaci – časté otázky](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 a plány Dynamics 365, které zahrnují Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow fakturace a měření](https://go.microsoft.com/fwlink/?linkid=2072612)

@@ -14,22 +14,22 @@ ms.custom:
 - "541"
 - "8000024"
 ms.assetid: 46b0a31f-c4fc-4ecb-a18d-26a13a6b0aa4
-ms.openlocfilehash: 27d0698a867b9ecd5b101064b90269faed694f63
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c17819319a9d61dedffb09240fa54ebb4f60bc9a482ece81f3b72693abea3d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024919"
 ---
-# <a name="cant-sign-in-to-outlookcom"></a>Nejde se přihlásit k Outlook.com
+# <a name="cant-sign-in-to-outlookcom"></a>Nemůžete se přihlásit k Outlook.com
 
-Pokud máte problémy s přihlášením ke svému účtu, ujistěte se, že váš účet není neaktivní déle než 365 dní. Po 365 dnech nečinnosti se Váš e-mail odstraní a nebude možné ho obnovit.
+Pokud máte problémy s přihlášením ke svému účtu, ujistěte se, že váš účet nebyl neaktivní déle než 365 dní. Po 365 dnech nečinnosti se váš e-mail odstraní a nebude možné ho obnovit.
   
-Váš účet může být dočasně zablokován, protože si všiml nějaké neobvyklé aktivity přihlášení. Pokud je váš účet zablokován, přečtěte si článek o [odblokování účtu Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
+Váš účet může být dočasně zablokovaný, protože jsme zaznamenali neobvyklou přihlašovací aktivitu. Pokud je váš účet zablokovaný, přečtěte si, jak [odblokovat můj Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Pokud se domníváte, že váš účet Outlook.com byl napaden, přečtěte si článek [můj Outlook.com](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).
+Pokud máte podezření, že se váš Outlook.com [hacknul,](https://support.office.com/article/35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy)podívejte se na stránku Můj účet Outlook.com byl hackerem .
   
-Pokud jste zapomněli nebo ztratili heslo, můžete [si heslo resetovat](https://go.microsoft.com/fwlink/p/?LinkID=242804).
+Pokud jste zapomněli nebo ztratili heslo, můžete si [heslo resetovat](https://go.microsoft.com/fwlink/p/?LinkID=242804).
   
-Přečtěte si další informace, [když se nemůžete přihlásit ke svému účtu Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Přečtěte si [další informace o tom, kdy se nemůžete přihlásit ke svému účtu Microsoft.](https://go.microsoft.com/fwlink/p/?linkid=837479)
   

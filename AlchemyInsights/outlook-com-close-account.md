@@ -14,20 +14,20 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: c38a1d4dab108fee74262aa908fc237b29f1c03b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30919543e0e1c80c1bc97fc808bef2bb3029e2380fcd5f66f2995aedc4e4282f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024847"
 ---
 # <a name="close-your-outlookcom-account"></a>Zavření účtu Outlook.com
 
-1. Přejděte na stránku [Zavřít účet](https://go.microsoft.com/fwlink/p/?linkid=845493) .
-2. Podle pokynů na stránce zkontrolujte, jestli je váš účet připravený k uzavření, a vyberte **Další**.
-3. Přečtěte si seznam a zaškrtnutím políček potvrdíte, že jste si přečetli jednotlivé položky.
-4. V rozevíracím seznamu **Vyberte důvod** vyberte důvod, proč účet uzavíráte.
-5. Vyberte **označit účet pro uzavření**.
+1. Přejděte na stránku [Zavřít](https://go.microsoft.com/fwlink/p/?linkid=845493) účet.
+2. Postupujte podle pokynů na stránce, abyste se ujistili, že je váš účet připravený k zavření, a vyberte **Další.**
+3. Přečtěte si seznam a zaškrtněte políčka, abyste potvrdili, že jste si přečetli jednotlivé položky.
+4. V **rozevíracím seznamu Vybrat** důvod vyberte důvod uzavření účtu.
+5. Vyberte **Označit účet pro uzavření**.
 
-Další informace najdete v článku [zavření účtu Outlook.com](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
+Další informace najdete v tématu [Zavření účtu Outlook.com](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
   
