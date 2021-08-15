@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "2591"
-ms.openlocfilehash: 217c18ddaf12d688f61f030f4c650183aa1e2a2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a337e958ad140e15cd669441d771a2f50964069a43ec18bd537f0a105ae60b6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832591"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022345"
 ---
 # <a name="sharing-options-appear-dim-or-are-not-available"></a>Možnosti sdílení se zobrazují ztlumené nebo nejsou dostupné.
 
-Pokud některé možnosti sdílení nejsou k dispozici při pokusu o sdílení z SharePointu Online nebo OneDrivu, podívejte se na část Možnosti sdílení se při sdílení z [SharePointu Online nebo OneDrivu zobrazí šedě.](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+Pokud některé možnosti sdílení nejsou k dispozici při pokusu o sdílení z SharePoint Online nebo OneDrive, podívejte se na část Možnosti sdílení jsou při sdílení z SharePoint Online nebo [OneDrive šedě.](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

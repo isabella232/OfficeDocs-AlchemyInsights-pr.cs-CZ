@@ -1,5 +1,5 @@
 ---
-title: Tipy pro export sestavy pro vyhledávání obsahu
+title: Tipy export sestavy pro vyhledávání obsahu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: d3a93544d6ae969562bbd6e8ad9ec145421af42d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 01281897c9dfa00080f96c506b1847615e4b9d16c4580df29f36c9ba18950682
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481163"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978874"
 ---
-# <a name="tips-for-exporting-a-report-for-content-search"></a>Tipy pro export sestavy pro vyhledávání obsahu
+# <a name="tips-for-exporting-a-report-for-content-search"></a>Tipy export sestavy pro vyhledávání obsahu
 
-Je možné, že si místo exportu úplných výsledků hledání budete muset prohlédnout sestavu vyhledávání obsahu. Pokud ano, můžete exportovat jenom sestavu výsledků hledání. Tady je několik tipů:
+Možná budete muset místo exportu úplných výsledků hledání zobrazit sestavu hledání obsahu. Pokud ano, můžete exportovat jenom sestavu výsledků hledání. Tady je několik tipů:
 
-- Ujistěte se, že má váš účet přiřazenou roli správy hledání dodržování předpisů.
-- Zkontrolujte, že počítač splňuje všechny [požadavky.](https://go.microsoft.com/fwlink/?linkid=2102407) Ne všechny prohlížeče jsou podporované, třeba Chrome.
-- Zúžit výsledky exportu na méně než 20TB, aby se export nepodaří. Zkuste použít menší rozsah dat nebo míň míst hledání.
-- Export sestavy se počítá do maximálního počtu sestav, které mohou běžet ve stejnou dobu.
+- Ujistěte se, že je vašemu účtu přiřazena role správy hledání dodržování předpisů.
+- Zkontrolujte, že váš počítač splňuje všechny [předpoklady](https://go.microsoft.com/fwlink/?linkid=2102407). Nepodporuje se všechny prohlížeče, například Chrome.
+- Zúžit výsledky exportu na méně než 20TB, aby se export nepovede. Zkuste použít menší rozsah dat nebo méně umístění hledání.
+- Export sestavy se počítá s maximálním počtem sestav, které lze spustit současně.
 
-Další informace najdete v tématu [Export sestavy vyhledávání obsahu.](https://go.microsoft.com/fwlink/?linkid=2102409)
+Další informace najdete v tématu [Export sestavy hledání obsahu.](https://go.microsoft.com/fwlink/?linkid=2102409)

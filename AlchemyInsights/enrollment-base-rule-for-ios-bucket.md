@@ -1,5 +1,5 @@
 ---
-title: Pravidlo základního pravidla pro registraci pro iOS
+title: Základní pravidlo registrace pro iOS bucket
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030049"
 ---
-# <a name="intune-device-enrollment"></a>Intune – registrace zařízení
+# <a name="intune-device-enrollment"></a>Registrace zařízení Intune
 
-[Informace o zápisu zařízení pomocí Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Další informace o registraci zařízení v Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[Nastavení přihlášení zařízení iOS s Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Nastavení registrace zařízení s iOS v Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Nastavení zápisu zařízení s Androidem s Intune](https://docs.microsoft.com/intune/android-enroll)
+[Nastavení registrace zařízení s Androidem v Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Nastavení zápisu zařízení s Windows pomocí Intune](https://docs.microsoft.com/intune/windows-enroll)
+[Nastavení registrace Windows zařízení v Intune](https://docs.microsoft.com/intune/windows-enroll)
 
 Řešení potíží s registrací zařízení
 
-1. Pomocí [portálu pro řešení potíží Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   můžete diagnostikovat a vyřešit běžné chyby při registraci. Další podrobnosti najdete v [tomto dokumentu](https://docs.microsoft.com/intune/help-desk-operators) .
+1. K [diagnostice a](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) řešení běžných chyb registrace použijte Portál řešení potíží s Intune. Další [podrobnosti najdete v](https://docs.microsoft.com/intune/help-desk-operators) tomto dokumentu.
 
-2. V těchto dokumentech se podívejte na seznam běžných chyb, které zabraňují zápisu a řešení:
+2. V těchto dokumentech se můžete se seznamem běžných chyb, které brání zápisu a řešení:
     - [Průvodce odstraňováním potíží](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Řešení potíží s dokumentem](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)
+    - [Poradce při potížích s dokumentem](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune)

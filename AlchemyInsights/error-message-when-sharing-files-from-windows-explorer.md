@@ -1,5 +1,5 @@
 ---
-title: Chybová zpráva při sdílení souborů z Průzkumníka Windows
+title: Chybová zpráva při sdílení souborů z Windows Exploreru
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,20 +12,20 @@ ms.custom:
 - "1059"
 - "5800005"
 ms.assetid: b5c75a18-1db8-42e9-8b95-730913a61491
-ms.openlocfilehash: 56e25b064f0a81da2c8440156d46da150d3c0436
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 516f72930765cfc5a48ad4f9182b1e90f342d8866ecb03767772f47676911d2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030085"
 ---
-# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Chybová zpráva při sdílení souborů z Průzkumníka Windows
+# <a name="error-message-when-sharing-files-from-windows-explorer"></a>Chybová zpráva při sdílení souborů z Windows Exploreru
 
-Při pokusu o sdílení z Průzkumníka Windows se může zobrazit následující chybová zpráva:
+Při pokusu o sdílení z Windows Exploreru se může zobrazit následující chybová zpráva:
   
-"Je nám líto, ale nedaří se nám spojit se serverem. Zkuste to znovu později.
+"Je nám líto, ale teď se nám nedaří dostat se na server. Zkuste to prosím znovu později.
   
-Pokud chcete vyřešit chybovou zprávu, přejděte v Internet Exploreru na **nástroje** \> **Možnosti Internetu** \> , klikněte na kartu **Upřesnit** a potom zrušte zaškrtnutí políčka **Neukládat šifrované stránky na disk**.
+Pokud chcete vyřešit chybovou zprávu, přejděte z Internet Exploreru na **Nástroje** Možnosti internetu klikněte na kartu Upřesnit a zrušte zaškrtnutí políčka Neukládejte zašifrované stránky \>  \> na  **disk**.
   
- **Poznámka**: nastavení se projeví až po restartování prohlížeče. Další informace najdete v článku [chybová zpráva "nelze se připojit k serveru", když se sdílí soubory](https://go.microsoft.com/fwlink/?linkid=2022914).
+ **Poznámka:** Aby se nastavení projeví, bude možná potřeba restartovat prohlížeč. Další informace najdete v chybové zprávě o tom, že se právě nedaří dostat na [server při sdílení souborů.](https://go.microsoft.com/fwlink/?linkid=2022914)
   

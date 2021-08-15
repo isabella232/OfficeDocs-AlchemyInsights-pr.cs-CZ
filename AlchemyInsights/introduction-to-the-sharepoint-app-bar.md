@@ -1,5 +1,5 @@
 ---
-title: Úvod do panelu aplikací SharePointu
+title: Úvod k SharePoint App Bar
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004628"
 - "8343"
-ms.openlocfilehash: 660bbd53820a5c70709af85bbaa82446c7bf1cd3
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 673d8189eb5121b55468985822c487562f74d05f5dfdbbf892b2ac8ab40d3e84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427068"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001429"
 ---
-# <a name="introduction-to-the-sharepoint-app-bar"></a>Úvod do panelu aplikací SharePointu
+# <a name="introduction-to-the-sharepoint-app-bar"></a>Úvod k SharePoint App Bar
 
-Panel aplikace je navržen tak, aby vylepšl globální způsob vyhledávání při dynamickém zobrazování individuálního obsahu. Panel aplikace bude ve výchozím nastavení **aktivní** a můžete ho dočasně zakázat **(Set-SPOTemporarilyDisableAppBar $true)** v nejnovější verzi PowerShellu. Panel aplikace může být zakázán do konce října a v tomto okamžiku bude automaticky znovu povolený.
+Panel aplikací je navržený tak, aby zlepšil globální způsob hledání prostředí při dynamickém zobrazování přizpůsobeného obsahu. Panel aplikací bude ve výchozím **nastavení** aktivní a může být dočasně zakázaný (**Set-SPOTemporarilyDisableAppBar $true**) pomocí nejnovější verze PowerShellu. Panel aplikací je možné zakázat do konce října, kdy se automaticky znovu povolí.
 
 Další informace najdete tady:
 
-- [Úvod do panelu aplikace SharePoint](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
+- [Úvod k SharePoint panelu aplikací](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
 - [Nastavení domovského webu pro vaši organizaci](https://docs.microsoft.com/sharepoint/home-site)
-- [Použití panelu aplikace SharePoint](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)
+- [Použití panelu SharePoint aplikací](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)
