@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5479"
-ms.openlocfilehash: d4cfecf90fbc255bbd7ce396accdf8698f17b12f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d10fc7cb850811628b7440778edf874e7544f2e64c08ec8171ab99642ab0fa6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963996"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>Poskytnutá lhůta pro bezplatnou zkušební verzi Microsoftu 365
 

@@ -1,5 +1,5 @@
 ---
-title: Správa oprávnění delegáta pro více typů položek v Outlooku pro Mac
+title: Správa oprávnění delegáta pro více typů položek v Outlook pro Mac
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 4c965ba7909fa78dea38bdd78907dcfdd9152ef7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962880"
 ---
-# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Správa oprávnění delegáta pro více typů položek v Outlooku pro Mac
+# <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Správa oprávnění delegáta pro více typů položek v Outlook pro Mac
 
-1. V nabídce **nástroje** vyberte **účty** a vyberte účet, u kterého chcete změnit oprávnění.
-2. Klikněte na **Upřesnit** a potom na **Delegáti**.
-3. V části **Delegáti**, která zobrazuje seznam delegátů, kteří můžou jednat jménem, vyberte delegát.
-4. Klikněte na tlačítko **Akce** , klikněte na **nastavit oprávnění** a proveďte požadované změny.
+1. V nabídce **Nástroje** vyberte **Účty** a vyberte účet, pro který chcete změnit oprávnění.
+2. Klikněte **na Upřesnit** a potom na **Delegáti**.
+3. V **části Delegáti**, která zobrazí seznam delegátů, kteří mohou jednat jménem, vyberte delegáta.
+4. Klikněte na **tlačítko Akce,** klikněte **na Nastavit oprávnění** a proveďte požadované změny.
 
 > [!NOTE]
-> Pokud nastavíte úroveň oprávnění na **žádné**, zůstane delegát v seznamu, který vám umožní později obnovit oprávnění.
+> Pokud nastavíte úroveň oprávnění na **Žádný**, zůstane delegát v seznamu, což vám umožní oprávnění obnovit později.

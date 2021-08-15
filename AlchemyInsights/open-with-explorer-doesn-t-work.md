@@ -1,5 +1,5 @@
 ---
-title: Otevření v Průzkumníkovi nefunguje
+title: Otevřít v Průzkumníkovi nefunguje
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b8f07022-69fe-4112-a2f6-d3a6cedb966c
-ms.openlocfilehash: 5bf28982533d8ca9998605cf3592f317c0ef99b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 164d5fe8c992df825d1f52f19792e1623526c35c58ff2f1e1ab601fdcf5f0f53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011329"
 ---
-# <a name="open-with-explorer-isnt-working"></a>Otevření v Průzkumníkovi nefunguje
+# <a name="open-with-explorer-isnt-working"></a>Nefunguje otevřít v Průzkumníkovi
 
-Pokud **otevření v Průzkumníkovi** nebo **zobrazení v Průzkumníkovi souborů** nefunguje, zkontrolujte, jestli je služba Webový klient nastavená tak, aby **běžela** podle následujícího postupu. Může to například trvat dlouhou dobu, když budete chtít otevřít SharePoint nebo knihovnu OneDrive, když služba není spuštěná. 
+Pokud **funkce Otevřít v Průzkumníkovi** nebo Zobrazení v Průzkumníkovi souborů  nefunguje, zkontrolujte, jestli je služba Webový klient nastavená na Spuštěno podle následujících kroků.  Například může trvat dlouho, než otevřete knihovnu SharePoint nebo OneDrive, když služba není spuštěná. 
   
-1. Do pole Windows Search zadejte příkaz Spustit, vyberte spustit desktopovou aplikaci, zadejte Services. msc a pak vyberte **ENTER**.
+1. Do vyhledávacího Windows zadejte spustit, vyberte desktopová aplikace Spustit, zadejte services.msc a pak vyberte **Enter**.
     
-2. Posuňte se dolů ke službě Webový klient a zkontrolujte sloupec **stav** . Pokud služba Webový klient **neběží**, poklikejte na ni, klikněte na **Start**a potom klikněte na **OK**. V případě potřeby tuto službu povolte výběrem možnosti **ručně** nebo **automaticky** v poli **Typ spouštění** . 
+2. Posuňte se dolů ke službě Webový klient a zkontrolujte **sloupec** Stav. Pokud stav služby Webový klient není **spuštěný,** poklikejte na službu, klikněte na **Start** a potom klikněte na **OK.** V případě potřeby službu povolte  tak, že v poli Typ spouštění vyberete ručně nebo **automaticky.**  
     
 > [!NOTE]
-> Informace o řešení problémů s otevřením v Průzkumníkovi souborů najdete v článku [otevření v Průzkumníkovi](https://go.microsoft.com/fwlink/?linkid=871665). Prozkoumejte synchronizaci jako lepší alternativu: [synchronizace sharepointových souborů pomocí nového synchronizačního klienta OneDrivu](https://go.microsoft.com/fwlink/?linkid=871666) 
+> Pokud chcete vyřešit problémy s otevřením v Průzkumníkovi souborů, podívejte [se na článek Otevření v Průzkumníkovi](https://go.microsoft.com/fwlink/?linkid=871665). Prozkoumejte synchronizaci jako lepší alternativu: Synchronizace SharePoint souborů s novým synchronizační aplikace OneDrivu [klientem](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

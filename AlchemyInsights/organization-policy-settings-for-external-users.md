@@ -11,22 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef1eaa4e6ddd2995d5f6a970a6b7d1444b7746ea2251e94220c857b10da41d0d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011293"
 ---
 # <a name="organization-policy-settings-for-external-users"></a>Nastavení zásad organizace pro externí uživatele
 
-Když se uživatelé pokusí sdílet s externími uživateli vaší organizace, můžou zobrazit následující upozornění: 
+Když se uživatelé pokusí sdílet s externími uživateli vaší organizace, může se zobrazit tato zpráva s upozorněním: 
 
-   **Zásady vaší organizace neumožňují sdílení s těmito uživateli. V centru pro správu Microsoftu 365 přejděte na externí sdílení a povolte ho.** 
+   **Zásady vaší organizace vám neumožňují sdílet s těmito uživateli. Přejděte na Externí sdílení v Centrum pro správu Microsoftu 365 a povolte ho.** 
 
-Často se to stává při prvním pokusu o sdílení s externími uživateli nebo při sdílení s novými externími uživateli. Další informace najdete v následujícím článku:
+K tomu často dochází při prvním pokusu o sdílení s externími uživateli nebo při sdílení s novými externími uživateli. Další informace najdete v následujícím článku:
 
-[Zásady vaší organizace neumožňují sdílení s těmito uživateli.](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Zásady vaší organizace vám neumožňují sdílet s těmito uživateli](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 
