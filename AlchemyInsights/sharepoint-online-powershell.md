@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
-ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
+ms.openlocfilehash: 7b827f1c09ebf56e332b75b15ef659ff95328950030cb860da652555efe45f28
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52931004"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022903"
 ---
 # <a name="sharepoint-powershell-unable-to-connect"></a>SharePoint PowerShell se nemůže připojit
 

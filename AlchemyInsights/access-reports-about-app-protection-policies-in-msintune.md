@@ -1,5 +1,5 @@
 ---
-title: Sestavy o zásadách ochrany aplikací v Microsoft Intune
+title: Sestavy Accessu o zásadách ochrany aplikací v Microsoft Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004635"
 - "8383"
-ms.openlocfilehash: 6de9c28c7c13141d86b643eae8d53fcd40317011
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 8f8f156ebb7f6e6a6d2a82de0391577a12ab6c9ddd864a4c35f0e24c4ac638d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427119"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955050"
 ---
-# <a name="access-reports-about-app-protection-policies-in-microsoft-intune"></a>Sestavy o zásadách ochrany aplikací v Microsoft Intune
+# <a name="access-reports-about-app-protection-policies-in-microsoft-intune"></a>Sestavy Accessu o zásadách ochrany aplikací v Microsoft Intune
 
-Z Microsoft Intune můžete získat přístup k sestavám se stavem zásad ochrany aplikací a stahovat je. Snadno si můžete zobrazit takové věci, jako jsou zásady, které mají přiřazené uživatelé, jestli jsou všichni uživatelé označeni příznakem pro podezřelé činnosti nebo kteří uživatelé mají na svých zařízeních nainstalované potenciálně nebezpečné aplikace.
+K sestavám, které zobrazují stav zásad ochrany aplikací, můžete přistupovat k sestavám a stahovat je z Microsoft Intune. Můžete snadno zobrazit věci, jako jsou například zásady, které mají přiřazené uživatele, jestli jsou uživatelé označeni příznakem podezřelé aktivity nebo kteří uživatelé mají na svých zařízeních nainstalované potenciálně škodlivé aplikace.
 
-1. Přejděte do Centra [pro správu Microsoft Endpoint Manageru.](https://go.microsoft.com/fwlink/?linkid=2109431)
-1. Vyberte **Aplikace**  >    >  **monitorovat zprávy o stavu ochrany**  >  **aplikací.**
+1. Přejděte do [Centra Microsoft Endpoint Manager pro správu](https://go.microsoft.com/fwlink/?linkid=2109431).
+1. Vyberte **Apps**  >  **Monitor**  >  App protection status Reports (Sestavy stavu aplikace  >  **monitorovat aplikace).**
 1. Vyberte sestavu, kterou chcete zobrazit, a v závislosti na sestavě vyberte uživatele nebo aplikace, na které se chcete podívat.
-1. Pokud si chcete stáhnout kopii sestavy do souboru .csv, klikněte na **Stáhnout sestavu.**
+1. Pokud chcete stáhnout kopii sestavy do souboru .csv, klikněte na **Stáhnout sestavu.**
 
-Další informace najdete v tématu [Zobrazení sestav.](https://go.microsoft.com/fwlink/?linkid=2109431)
+Další informace najdete v tématu [Zobrazení sestav](https://go.microsoft.com/fwlink/?linkid=2109431).

@@ -1,5 +1,5 @@
 ---
-title: Instalace rozšíření Microsoft Search v Bingu v Google Chromu
+title: Instalace Microsoft Search v Bing v Google Chromu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404322"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014605"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Instalace rozšíření Microsoft Search v Bingu v Google Chromu
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>Instalace Microsoft Search v Bing v Google Chromu
 
-Pokud chcete nainstalovat Microsoft Search v rozšíření Bingu v Google Chromu, proveďte toto:
+Pokud chcete Microsoft Search do Bing v Google Chromu, proveďte toto:
 
 1. Zkontrolujte, že zařízení splňuje [kritéria](https://go.microsoft.com/fwlink/?linkid=2152236) pro instalaci rozšíření.
-2. Pokud chcete mít rozšíření nainstalované, můžete se přihlásit tak, že nakonfigurujete příslušná nastavení v části **Microsoft Search** v Centru pro správu Microsoftu 365.
-3. Na zařízení uživatele nainstalujte službu na pozadí pro Microsoft Search v Bingu. Tato služba na pozadí je součástí aplikací Microsoft 365 pro podniky.
+2. Pokud chcete mít rozšíření nainstalované, můžete se přihlásit tak, že nakonfigurujete příslušná nastavení v **Microsoft Search** části Centrum pro správu Microsoftu 365.
+3. Na zařízení uživatele nainstalujte službu na pozadí pro Microsoft Search v Bing. Tato služba na pozadí je součástí Microsoft 365 Apps pro velké organizace.
 
-Další informace najdete v článku Jak se instaluje [rozšíření Microsoft Search v Bingu pro Google Chrome?](https://go.microsoft.com/fwlink/?linkid=2150992)
+Další informace najdete v článku [Jak se Microsoft Search v Bing pro Google Chrome nainstalovat?](https://go.microsoft.com/fwlink/?linkid=2150992)
