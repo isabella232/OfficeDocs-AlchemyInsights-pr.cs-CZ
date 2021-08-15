@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: 17e25e4d017f8a829c18a7987dfa332783efc0b3
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: df1903ce53295cc2845f8648615f39f3aaaf19f90b6833da83b27ba836e44d4e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52564105"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979738"
 ---
 # <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>Seznam automatického dokončování se posune mimo obrazovku v Outlook desktopové
 
