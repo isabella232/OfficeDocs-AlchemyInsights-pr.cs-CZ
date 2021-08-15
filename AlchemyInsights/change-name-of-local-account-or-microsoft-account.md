@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001440"
 - "3439"
-ms.openlocfilehash: ee233e780df0a7f686a7104551cff1f670e832a3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8c7d1d384548beef56dda7fb5793e66daf15d68fa6d27999b09a6321579dfff6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017809"
 ---
 # <a name="change-the-name-of-a-local-account-or-a-microsoft-account"></a>Změna názvu místního účtu nebo účtu Microsoft
 
-Pokud k přihlášení k Windows 10 používáte jenom uživatelské jméno a heslo, používáte místní účet. 
+Pokud k přihlášení k účtu Windows 10 používáte jenom uživatelské jméno a heslo, používáte místní účet. 
 
 **Změna názvu místního účtu:**
 
@@ -31,13 +31,13 @@ Pokud k přihlášení k Windows 10 používáte jenom uživatelské jméno a he
 
 3. Vyberte účet, který chcete změnit, klikněte na **Vlastnosti** a zadejte nové jméno uživatelského jména.
 
-4. Klikněte na tlačítko **OK**.
+4. Klikněte na **OK**.
 
 Pokud k přihlášení použijete e-mailovou adresu a heslo, používáte účet Microsoft.
 
 **Změna zobrazovaného názvu účtu Microsoft:**
 
-Zobrazované jméno použijete pokaždé, když se přihlásíte ke svému účtu. Je to taky jméno, které vidíte na zařízeních s Windows 10, a je to jméno, které lidé vidí při posílání e-mailů. Tento název se může lišit od zobrazované jméno místního účtu. Tady je postup, jak změnit zobrazované jméno:
+Zobrazované jméno použijete pokaždé, když se přihlásíte ke svému účtu. Je to taky jméno, které vidíte na svých Windows 10 zařízeních, a je to jméno, které lidé vidí při posílání e-mailů. Tento název se může lišit od zobrazované jméno místního účtu. Tady je postup, jak změnit zobrazované jméno:
 
 1. Přihlaste se na **stránku Vaše informace** na webu účtu [Microsoft](https://account.microsoft.com/).
 

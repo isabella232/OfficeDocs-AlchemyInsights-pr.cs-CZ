@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5670"
-ms.openlocfilehash: e5133f0fedbc5fe8feb25aa0e869234619bd5b94
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b242c2d011a578f2987f4722addebd34c558abfe88981387d8bcc3f7550e53b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817093"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033235"
 ---
 # <a name="configuring-migration-manager"></a>Konfigurace Správce migrace
 

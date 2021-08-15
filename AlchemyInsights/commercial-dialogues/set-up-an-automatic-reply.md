@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743537"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994930"
 ---
 # <a name="set-up-an-automatic-reply"></a>Nastavení automatické odpovědi
 
 Automatické odpovědi používejte pokaždé, když chcete, aby lidé, kteří vám poslali e-mail, věděli, že nebudete hned odpovídat na jejich zprávy. Po zapnuté automatické odpovědi se každému odesílateli jednou posílají.
 
-1. Přihlaste se k Outlook.com.
-2. Na navigačním panelu zvolte **Nastavení Nastavit**  >  **automatické odpovědi**. Pokud **se možnost Nastavit** automatické odpovědi nezobrazí, zvolte **Možnosti**  >  **nastavení** Automatické  >  **odpovědi**.
+1. Přihlaste se na Outlook.com.
+2. Na navigačním panelu **zvolte** Nastavení  >  **Nastavit automatické odpovědi**. Pokud **se možnost Nastavit** automatické odpovědi nezobrazí, zvolte **Nastavení**  >  **Možnosti**  >  **Automatické odpovědi**.
 3. Tady můžete změnit nastavení automatických odpovědí, včetně automatických odpovědí za určité časové období, odeslání odpovědi všem členům ve vaší organizaci nebo odeslání odpovědi jenom členům mimo vaši organizaci.

@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: f336ef2b84dcc7a44c6b603e2fbdb1aa08bd367d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84c377ef77e299671c0ee91838d3faa4a189d720c20a804d56d3323823b701c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793823"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018061"
 ---
-# <a name="change-intune-mdm-authority"></a>Změna oprávnění Intune MDM
+# <a name="change-intune-mdm-authority"></a>Změna autority MDM Intune
 
 Autoritu MDM můžete změnit bez otevření případu podpory. Pokyny najdete v následujících dokumentech:
   
-- [Změna samostatné autority MDM z nástroje Configuration Manager na Intune Standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Změna autority MDM z Správce konfigurace na samostatnou Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Změna autority MDM z Intune Standalone do Správce konfigurace](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [Změňte autoritu MDM ze samostatné Intune na Správce konfigurace](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- **Spolupráce úřadu MDM**
+ **Spolupráce autority MDM**
   
-- Pokud už máte povolený Office 365 MDM, ale chcete zkusit Intune MDM, můžete mít oba servery MDM aktivní.
+- Obě autority MDM můžete mít aktivní souběžně, pokud už máte Office 365 MDM, ale chcete vyzkoušet Intune MDM.
     
-- Správci, kteří už mají aktivní portál O365 MDM, můžou jednoduše označit v Azure Portalu jako aktivní jenom možnost Intune MDM.
+- Správci, kteří už mají aktivní O365 MDM, mohou intune MDM jednoduše označit jako aktivní z portálu Azure Portal.
     
-- Pokud máte v systému Office 365 MDM k dispozici verzi MDM, musíte si nejprve otevřít lístek a agentovi podpory to umožní.
+- Pokud máte Intune MDM, ale chcete používat Office 365 MDM: Otevřete prosím lístek níže a agent podpory vám to pomůže povolit.
     
 
