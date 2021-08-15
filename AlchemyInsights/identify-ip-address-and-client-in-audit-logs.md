@@ -13,12 +13,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a596dd4bed90a0d777dcf19c4c82b41c67fac812
-ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
+ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53630278"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014893"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Určení IP adresy a klienta v protokolech auditování
 

@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035106"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039239"
 ---
 # <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Řešení potíží s jednotným přihlašováním pro zařízení připojená k Azure AD
 
-Pokud máte místní prostředí Active Directory (AD) a chcete se připojit k azure AD počítačům připojeným k doméně AD, můžete to udělat pomocí hybridního připojení k Azure AD. [Postupy: Plánování implementace připojení k hybridní](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) službě Azure Active Directory vám poskytne související kroky k implementaci hybridního připojení k Azure AD ve vašem prostředí.
+Pokud máte místní prostředí Active Directory (AD) a chcete se připojit k azure AD počítačům připojeným k doméně AD, můžete to udělat pomocí hybridního připojení k Azure AD. [Postupy: Plánování implementace hybridního připojení Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) vám poskytne související kroky k implementaci hybridního připojení k Azure AD ve vašem prostředí.
 
-Další informace najdete v tématu Konfigurace zařízení připojených [ke službě Azure AD](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)pro místní Single-Sign v systému Windows Hello pro firmy .
+Další informace najdete v tématu Konfigurace zařízení připojených [ke službě Azure AD](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)pro místní Single-Sign On Windows Hello pro firmy .
 
 **Problémy s tokenem primární aktualizace (PRT)**
 
-Token primární aktualizace (PRT) je klíčový artefakt ověřování Azure AD ve Windows 10, Windows Serveru 2016 a novějších verzích, zařízeních s iOS a Androidem. Jedná se o webový token JSON (JWT), který je speciálně vydaný zprostředkovatelům tokenů první strany Microsoftu, aby umožnil jednotné přihlašování (SSO) v aplikacích používaných na těchto zařízeních. Podrobnosti o tom, jak se prt vydává, používá a chrání na zařízeních s Windows 10, najdete v tématu Co je token [primární aktualizace?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+Primární obnovovací token (PRT) je klíčový artefakt ověřování Azure AD v Windows 10, Windows Server 2016 a novějších verzích, zařízeních s iOSem a Androidem. Jedná se o webový token JSON (JWT), který je speciálně vydaný zprostředkovatelům tokenů první strany Microsoftu, aby umožnil jednotné přihlašování (SSO) v aplikacích používaných na těchto zařízeních. Podrobnosti o tom, jak se prt vydává, používá a chrání na Windows 10 zařízeních, najdete v tématu Co je token [primární aktualizace?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
 
 **WamDefaultSet: ANO a AzureADPrt: ANO**
 

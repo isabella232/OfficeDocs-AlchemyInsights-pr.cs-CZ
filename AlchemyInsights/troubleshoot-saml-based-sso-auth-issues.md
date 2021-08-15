@@ -1,5 +1,5 @@
 ---
-title: Poradce při potížích s ověřováním jednotného přihlašování založené na serveru SAML
+title: Řešení problémů s ověřováním jednotného přihlašování založeného na protokolu SAML
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "9409"
-ms.openlocfilehash: c053e252edfcc51c95214c4bff4aded2bded2e23
-ms.sourcegitcommit: 60c504f3ac187eaf1141b3ba701d9e0633bdd968
+ms.openlocfilehash: f64d668c01640c65e7c58940b54e98d6d2aa3c09ab11b55e4fd560874740e3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50693248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039383"
 ---
-# <a name="troubleshoot-saml-based-sso-authentication-issues"></a>Poradce při potížích s ověřováním jednotného přihlašování založené na serveru SAML
+# <a name="troubleshoot-saml-based-sso-authentication-issues"></a>Řešení problémů s ověřováním jednotného přihlašování založeného na protokolu SAML
 
-Většina uživatelů dokáže vyřešit problémy s ověřováním jednotného přihlašování založené na systému SAML pomocí následujících doporučených kroků:
+Většina uživatelů dokáže vyřešit problémy s ověřováním jednotného přihlašování založeného na protokolu SAML pomocí následujících doporučených kroků:
 
 **Doporučené kroky**
-1. Vyhledat aktuální [informace o kódu chyby.](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#lookup-current-error-code-information)
-1. Informace o řešení chyb ověřování najdete v tématu Ladění jednotného přihlašování založené na saml k aplikacím ve službě [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues)
-1. Sign-On Informace o požadavcích na ověřování SAML 2.0 a odpovědích, které Azure Active Directory (Azure AD) podporuje pro jednotné přihlašování ,najdete v článku protokol SAML Sign-On [SAML](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol) 2.0.
+1. Informace o [aktuálním kódu chyby vyhledávání](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes#lookup-current-error-code-information)
+1. Informace o chybách ověřování najdete v tématu Ladění jednotného přihlašování založeného [na Azure Active Directory SAML.](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues)
+1. Informace o požadavcích a odpovědích na ověřování samlu SAML 2.0, které Azure Active Directory (Azure AD) podporuje pro jednotné přihlašování, najdete v článku Single Sign-On [Sign-On SAML.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
 
 

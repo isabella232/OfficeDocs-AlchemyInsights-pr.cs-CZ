@@ -1,5 +1,5 @@
 ---
-title: Import kalendáře Google do Outlooku
+title: Import kalendáře Google do Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: d4588d2734b97ced4d369d7ad434cd88ed846f5ca7962ad5362301fea7c54114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014821"
 ---
-# <a name="import-your-google-calendar-to-outlook"></a>Import kalendáře Google do Outlooku
+# <a name="import-your-google-calendar-to-outlook"></a>Import kalendáře Google do Outlook
 
-Opakujte tento postup u všech kalendářů Google, které chcete importovat do Outlooku.
+Tento postup opakujte v každém kalendáři Google, který chcete importovat do Outlook.
 
-1. V Outlooku na počítači (Outlook 2013 nebo Outlook 2016) přejděte do **kalendáře**.
-1. Klikněte na otevřít **soubor**  >  **& export**  >  **a export**.
-1. V **Průvodci importem a exportem** vyberte **importovat soubor iCalendar (. ICS) nebo vCalendar** a pak klikněte na **Další**.
-1. Přejděte do umístění, kde je extrahovaný soubor uložený, a vyberte ten, který končí na **gmail.com** a klikněte na **OK**.
-1. Klikněte na **importovat** .
+1. V Outlook na ploše (Outlook 2013 nebo Outlook 2016) přejděte **do** kalendáře .
+1. Klikněte **na**  >  **Otevřít soubor & Exportovat**  >  **Import/export**.
+1. V **Průvodci importem** a exportem vyberte Importovat soubor **iCalendar (.ics) nebo vCalendar** a potom klikněte na **Další.**
+1. Přejděte na místo, kam jste extrahovaný soubor uložili, a zvolte ten, který končí **gmail.com** a klikněte na **OK.**
+1. Klikněte na **Importovat.**
 
 Otevřete si Outlook Kalendář. Teď byste tam měli vidět svoje události z Kalendáře Google.

@@ -1,5 +1,5 @@
 ---
-title: Provedení okamžité platby – doporučené kroky
+title: Provést okamžitou platbu – doporučené kroky
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,36 +13,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 7c25bf8f783ca067112d0d4e5d53970324376d7c435bfc22987508edc03f9e02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755792"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976750"
 ---
-# <a name="make-immediate-payment---recommended-steps"></a>Provedení okamžité platby – doporučené kroky
+# <a name="make-immediate-payment---recommended-steps"></a>Provést okamžitou platbu – doporučené kroky
 
-Na základě popisu problému jsme našli řešení. Většina zákazníků dokázala svůj problém vyřešit vlastními po vás od naší dokumentace.
+Na základě popisu vašeho problému jsme pro vás našli řešení. Většina zákazníků dokázala vyřešit svůj problém sami po provedení naší dokumentace.
 
-Chcete-li provést okamžitou platbu, zajistěte vyřešení předchozích zůstatků. Pokud vaše platba nepřišla nebo vám platba nemůžeme zpracovat, může se vám v centru účtů nebo na portálu Azure zobrazit upozornění na oznámení o zůstatku po minulosti. 
+Pokud chcete provést okamžitou platbu, zajistěte, aby se rovnováze po splatnosti vyřešily. Pokud vaše platba není přijata nebo pokud nemůžeme vaši platbu zpracovat, můžete dostat e-mail nebo se na portálu Account Center nebo Na portálu Azure zobrazit upozornění na oznámení o zůstatku po splatnosti. 
 
-Je možné, že se platba nezdařila, pokud platnost kreditní karty v souboru vypršela nebo pokud byl poplatek odmítnut bankou. Správce účtu může zobrazit a aktualizovat platební kartu v centru účtů. 
+Platbu se nepodařilo zpracovat, pokud vypršela platnost platební karty v souboru nebo pokud byla platba odmítnuta vaší bankou. Správce účtu může zkontrolovat a aktualizovat platební kartu v Centru účtů. 
 
-Vaše předplatné Azure může být zakázané, protože vypršela platnost vašeho kreditu, dosáhli jste limitu útraty, provedli jste limit vaší kreditní karty nebo protože předplatné zrušil správce účtu.  
+Vaše předplatné Azure může být zakázané, protože vypršela platnost vašeho kreditu, dosáhl(a) jste limitu útraty, máte fakturu po splatnosti, dosáhli limitu platební karty nebo proto, že předplatné správce účtu zrušil.  
 
-Pokud je na kartě nedokončená platba od odmítnutí kartou vaší finanční institucí, vyžádejte si tuto chybu finanční instituci.  
+Pokud je na kartě čekající platba, protože ji vaše finanční instituce zamítla, můžete problém vyřešit u finanční instituce.  
 
-Možná budete muset zkontrolovat, že banka uvidí:
+Možná se budete muset podívat u banky, abyste viděli:
 
-- Pokud je mezinárodní transakce umístěna na kartu. 
-- Pokud má karta limit kreditu pro vyrovnání zůstatku 
-- Pokud je na kartě povolená opakovaná platba 
+- Pokud se mezinárodní transakce umístí na kartu. 
+- Pokud má karta k vyrovnání zůstatku limit kreditu 
+- Jestli jsou na kartě povolené opakované platby 
 
-Pokud je vaše platba odmítnutá, ověřte, který platební nástroj (PI) se odmítl v případě, že máte k předplatnému přidružené více PIs. V případě potřeby změňte nebo odeberte číslo pí z předplatného. 
+Pokud je vaše platba odmítnuta, ověřte, který platební nástroj se odmítá v případě, že máte k předplatnému přidružené více platebních služeb. V případě potřeby změňte nebo odeberte pi z předplatného. 
 
 **Doporučené dokumenty** 
 
 - [Správa přístupu k fakturačním informacím pro Azure](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Stažení údajů o faktuře nebo využití z centra účtů Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Stažení údajů o faktuře nebo využití z Centra účtů Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Opětovná aktivace předplatného](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Platba fakturou za Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 

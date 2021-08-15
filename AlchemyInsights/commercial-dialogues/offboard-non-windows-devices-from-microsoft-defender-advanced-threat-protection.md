@@ -1,5 +1,5 @@
 ---
-title: Offboard non-Windows devices from Microsoft Defender Advanced Threat Protection (ATP)
+title: Offboard non-Windows zařízení od Microsoft Defender Advanced Threat Protection (ATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 435957c555cd80155a985a49bd94b041a4ada31d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744325"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967794"
 ---
-# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard non-Windows devices from Microsoft Defender Advanced Threat Protection (ATP)
+# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard non-Windows zařízení od Microsoft Defender Advanced Threat Protection (ATP)
 
 Postup:
 
 1. Podle dokumentace třetích stran odpojte řešení třetích stran od programu Microsoft Defender ATP.
-2. Z tenanta Azure Active Directory odeberte oprávnění pro řešení třetích stran:
+2. Z vašeho Azure Active Directory tenanta odeberte oprávnění pro řešení třetích stran:
 
-    1. Přihlaste se k [portálu Azure Portal.](https://go.microsoft.com/fwlink/?linkid=2125612)
-    1. Vyberte **Všechny služby** Azure Active  >  **Directory** Enterprise  >  **Applications**.
+    1. Přihlaste se na [portál Microsoft Azure](https://go.microsoft.com/fwlink/?linkid=2125612).
+    1. Vyberte **Všechny služby**  >  **Azure Active Directory** Enterprise  >  **Aplikace**.
     1. Vyberte aplikaci, kterou chcete vypnout.
     1. Vyberte **Odstranit**.
 
-Další informace najdete v tématu [Offboard zařízení, která nejsou zařízení s Windows](https://go.microsoft.com/fwlink/?linkid=2143630).
+Další informace najdete v tématu [Offboard non-Windows zařízení](https://go.microsoft.com/fwlink/?linkid=2143630).

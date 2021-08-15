@@ -1,5 +1,5 @@
 ---
-title: Aktualizace nastavení e-mailu v Outlooku pro PC
+title: Jak aktualizovat nastavení e-mailu v Outlook pro PC
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,28 +12,28 @@ localization_priority: Normal
 ms.custom:
 - "1800018"
 - "6436"
-ms.openlocfilehash: 7b98d6d7fcc3b8b59207c868c606730828d677c8
-ms.sourcegitcommit: c68aeb650c74cc790c6027a91965dcaf577f7428
+ms.openlocfilehash: e586664b1c1e8435953fb8a98b2b5b6b15fe1cfa8d74b9622a257cb1751fc799
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976966"
 ---
-# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Aktualizace nastavení e-mailu v Outlooku pro PC
+# <a name="how-to-update-email-settings-in-outlook-for-pc"></a>Jak aktualizovat nastavení e-mailu v Outlook pro PC
 
-1. Otevřete Outlook a vyberte **soubor > nastavení účtu > nastavení účtu**.
+1. Otevřete Outlook a vyberte **Soubor > Účet Nastavení > účet Nastavení**.
 
-2. Vyberte e-mailový účet, který chcete změnit, a klikněte na **změnit**. 
+2. Vyberte e-mailový účet, který chcete změnit, a potom klikněte na **Změnit.** 
 
-3. V případě potřeby aktualizujte na stránce **Nastavení** názvy serverů příchozí a odchozí pošty, vaše e-mailové adresy, vaše uživatelské jméno a heslo. Pokud potřebujete změnit nastavení SSL nebo nastavení portu, klikněte na **Další nastavení**. Nejběžnější nastavení aktualizace najdete na kartě **Server pro odchozí poštu** a na kartě **Upřesnit** .
+3. Na **Nastavení** serveru aktualizujte názvy příchozích a odchozích serverů, e-mailovou adresu, vaše jméno, uživatelské jméno a heslo. Pokud potřebujete změnit nastavení SSL nebo nastavení portu, klikněte na **Další Nastavení.** Nejběžnější nastavení, která se mají aktualizovat, jsou na kartě **Server** odchozí pošty a **na kartě** Upřesnit.
 
-4. Pokud máte problémy s posíláním e-mailů nebo zprávy o vašem odchozím serveru, zkontrolujte, jestli je zaškrtnuté políčko **Server pro odchozí poštu (SMTP) požaduje ověření** .
+4. Pokud máte problémy s odesíláním e-mailu nebo dostáváte zprávy o serveru odchozí pošty, zkontrolujte, že je zaškrtnuté políčko Server pro odchozí poštu **(SMTP)** vyžaduje ověření.
 
-5. Pokud potřebujete aktualizovat porty serveru příchozí nebo odchozí pošty nebo nastavení SSL, přejděte na kartu **Upřesnit** a proveďte požadované změny.
+5. Pokud potřebujete aktualizovat porty příchozího nebo odchozího serveru nebo nastavení SSL, přejděte na **kartu** Upřesnit a proveďte požadované změny.
 
 > [!NOTE]
-> **Zákazníci v systému AOL a Verizon**: výběr **protokolu SSL/TLS** v rozevíracím seznamu v části **připojení k serveru příchozí a odchozí pošty** umožňuje nadále odesílat a přijímat e-maily po 2017. listopadu 7.
+> **Zákazníci AOL a Verizon:** Výběrem protokolu **SSL/TLS** z rozevíracího seznamu v části Příchozí a odchozí server **šifrovaná** připojení zajistíte, že budete moci odesílat a přijímat e-maily i po 7. listopadu 2017.
 
-6. Po dokončení aktualizace nastavení klikněte na **OK**, klikněte na **Další** a potom na **Dokončit**.
+6. Až dokončíte aktualizaci nastavení, klikněte na **OK,** klikněte na **Další** a potom na **Dokončit.**
 
 
