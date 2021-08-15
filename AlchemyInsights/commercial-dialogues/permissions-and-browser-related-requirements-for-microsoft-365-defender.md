@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a4f25f5cdcfefaad91f12864dfaa2e000c357716
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c28a54bb2ebdbb95c3f33bce7bb569a76d48751168189dc23cbc37390d95613f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744302"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016585"
 ---
 # <a name="permissions-and-browser-related-requirements-for-microsoft-365-defender"></a>Oprávnění a požadavky související s prohlížečem pro Microsoft 365 Defender
 
-- Oprávnění: Pokud chcete zapnout Microsoft 365 Defender, musíte být globální správce nebo správce zabezpečení v Azure Active Directory. Seznam rolí, které používejte Microsoft 365 Defender, a informace o tom, jak je přístup k datům regulován, najdete v tématu Správa přístupu k [Microsoft 365 Defenderu.](https://go.microsoft.com/fwlink/?linkid=2143626)
+- Oprávnění: Pokud chcete Microsoft 365 Defender, musíte být globální správce nebo správce zabezpečení v Azure Active Directory. Pokud chcete zobrazit seznam rolí, které používejte Microsoft 365 Defender, a informace o tom, jak je přístup k datům regulován, najdete v tématu Správa přístupu [k Microsoft 365 Defender](https://go.microsoft.com/fwlink/?linkid=2143626).
 
-- Požadavky související s prohlížečem: Pokud chcete získat přístup k Microsoft 365 Defenderu v Centru zabezpečení Microsoft 365, použijte Microsoft Edge, Internet Explorer 11 nebo libovolný webový prohlížeč kompatibilní s HTML 5.
+- Požadavky související s prohlížečem: Pokud chcete získat přístup Microsoft 365 Defender centru zabezpečení Microsoft 365, použijte Microsoft Edge, Internet Explorer 11 nebo libovolný webový prohlížeč kompatibilní s html 5.

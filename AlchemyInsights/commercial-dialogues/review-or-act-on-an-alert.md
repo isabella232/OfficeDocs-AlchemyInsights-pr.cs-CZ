@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 986907debe21cee760485148eb971abf80041899
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016441"
 ---
 # <a name="review-or-act-on-an-alert"></a>Kontrola nebo jednání s upozorněním
 

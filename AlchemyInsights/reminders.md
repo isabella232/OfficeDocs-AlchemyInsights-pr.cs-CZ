@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3415"
 - "9001434"
-ms.openlocfilehash: 12b48e0fb15559a1efc463ab90378757a32c28a1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 62e8dc78d6a48b453654ee44f1e9012db99a250e2a718b76c0b9e966a04cace4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831367"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024127"
 ---
 # <a name="cannot-dismiss-reminders"></a>Připomenutí nelze zavřít.
 
-Informace o tom, co dělat, když nemůžete zavřít připomenutí kalendáře, najdete v tématu V Outlooku se nedaří připomenutí kalendáře úspěšně [zavřít.](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders)
+Informace o tom, co dělat, když nemůžete zavřít připomenutí kalendáře, najdete v tématu Nemůžete v aplikaci [Outlook.](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders)
 

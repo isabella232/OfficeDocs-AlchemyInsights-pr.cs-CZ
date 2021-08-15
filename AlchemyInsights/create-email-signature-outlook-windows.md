@@ -1,5 +1,5 @@
 ---
-title: Vytvoření podpisu e-mailu v Outlooku pro Windows
+title: Vytvoření podpisu e-mailu v Outlook pro Windows
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9808"
 - "9005728"
-ms.openlocfilehash: 70d3c745c251ac6a473538d991a83c3aaff730ac
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2c284e38e36658dde8d28214908865a4cb8ed3065bf571eb450ce540b9207cd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016333"
 ---
-# <a name="create-an-email-signature-in-outlook-for-windows"></a>Vytvoření podpisu e-mailu v Outlooku pro Windows
+# <a name="create-an-email-signature-in-outlook-for-windows"></a>Vytvoření podpisu e-mailu v Outlook pro Windows
 
-Podpis e-mailu pro novější verze Outlooku, jako je Outlook 2019, 2016 nebo 2013, můžete vytvořit takto:
+Podpis e-mailu pro novější verze Outlook, například Outlook 2019, 2016 nebo 2013, vytvořte takto:
 
-1. V Outlooku na **kartě Domů** vyberte **Nový e-mail** a pak vyberte **kartu** Zpráva.
+1. V Outlook na kartě **Domů** vyberte **Nový e-mail** a pak vyberte **kartu** Zpráva.
 
 1. Ve **skupině Zahrnout** vyberte **Podpis** a pak zvolte **Podpisy**.
 
@@ -36,5 +36,5 @@ Podpis e-mailu pro novější verze Outlooku, jako je Outlook 2019, 2016 nebo 20
 
 1. V **části Upravit podpis** zadejte podpis, který chcete použít, a vyberte **OK.**
 
-Informace o tom, jak vytvořit podpis e-mailu ve starších verzích Outlooku, jako je Outlook 2010 nebo 2007, najdete v tématu Vytvoření a přidání podpisu [do zpráv](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010).
+Informace o tom, jak vytvořit podpis e-mailu ve starších verzích Outlook, jako je Outlook 2010 nebo 2007, najdete v tématu Vytvoření a přidání podpisu do [zpráv](https://support.microsoft.com/office/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2#ID0EAADAAA=Office_2007_-_2010).
 

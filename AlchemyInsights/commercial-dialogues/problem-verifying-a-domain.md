@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 4506edb8ee52a89cbf690f6087ae43b0c363f323
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0dd29a577b2d7042ae63e784b9681b29ab0b431a1ab4f30f90e49aaa03c7c0ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744301"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016549"
 ---
 # <a name="problem-verifying-a-domain"></a>Problém s ověřením domény
 
-Pokud Office 365 vaši doménu během hodiny nebo dvou neověřuje, je problém.
+Pokud Office 365 vaši doménu během hodiny nebo dvou, dojde k problému.
 
 V **následujících** výzvách zvolte Ne, abyste naznačí, že jsem problém nevyřešil(a)  a pak se zobrazí možnosti pro rozhovor s člověkem.
