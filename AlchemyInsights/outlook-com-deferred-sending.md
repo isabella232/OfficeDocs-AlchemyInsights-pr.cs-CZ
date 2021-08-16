@@ -1,5 +1,5 @@
 ---
-title: Odložené odeslání v Outlook.com
+title: Odložené odeslání na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 028768348fd81b4fecc622b94b140107b58e04110127166cab8e92ce3ab33b36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752064"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041399"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Zpoždění nebo plánování odesílání e-mailových zpráv
+# <a name="delay-or-schedule-sending-email-messages"></a>Zpoždění nebo naplánování odesílání e-mailových zpráv
 
-Je nám líto, ale odesílání e-mailových zpráv v mobilní aplikaci ani ve webovém prohlížeči nemůžete odložit ani naplánovat. K tomu použijte [Outlook pro Windows nebo Outlook pro Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Je nám líto, ale odesílání e-mailových zpráv v mobilní aplikaci nebo webovém prohlížeči nemůžete odložit ani naplánovat. K tomu použijte Outlook [pro Windows nebo Outlook pro Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
 
-**Zrušení odeslání**
+**Vrácení odeslání zpět**
 
-Nastavení Outlook.com můžete změnit tak, aby bylo zpoždění posíláno do 10 sekund. Během tohoto období můžete zprávu zrušit. Pokud chcete tuto funkci zapnout, otevřete svoje nastavení pro [zrušení odeslání](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+Nastavení služby Outlook.com můžete změnit tak, aby se odeslání zprávy pozdrží až na 10 sekund. Odeslání zprávy během tohoto období můžete zrušit. Pokud chcete tuto funkci zapnout, otevřete [nastavení odesílání zpět.](https://outlook.live.com/mail/options/mail/messageContent/undoSend)
 
-Přečtěte si další informace o [navracení e-mailů do Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Přečtěte si další [informace o odvolání e-mailu na Outlook.com.](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)
