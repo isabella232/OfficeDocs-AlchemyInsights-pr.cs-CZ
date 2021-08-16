@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1699"
 - "1300022"
-ms.openlocfilehash: 877c954bea219cf8d885645cd25e41a5b7bab6fd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d58078fcabb416c418b67a2f2ce2eba679a18c6ecf3846c534bde74188d7827
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033055"
 ---
 # <a name="conflicts-with-sourceanchor-proxyaddress-userprincipalname"></a>Konflikty s SourceAnchor, ProxyAddress, UserPrincipalName
 
-Pokud během synchronizace dojde k chybám, jako je například synchronizovaný objekt se stejnou ProxyAddress nebo UserPrincipalName ve vašem adresáři, přečtěte si článek [Diagnostika a náprava chyb synchronizace duplicitních atributů](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Pokud se při synchronizaci zobrazí chyby, například "Synchronizovaný objekt se stejnou proxyadresou nebo UserPrincipalName existuje v adresáři", podívejte se na článku Diagnostika a náprava duplicitních chyb synchronizace [atributů](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
 
-Zvažte také možnost povolit odolnost duplicitních atributů. Další informace najdete v tématu [synchronizace identit a odolnost duplicitních atributů](https://aka.ms/duplicateattributeresiliency).
+Zvažte také povolení odolnosti duplicitních atributů. Další informace najdete v tématu [Synchronizace identit a odolnost duplicitních atributů](https://aka.ms/duplicateattributeresiliency).
