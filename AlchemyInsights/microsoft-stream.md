@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "3569"
-ms.openlocfilehash: 4a7fd32f2891be499e4bd764f193b6d1d6b7e9f3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3b289e64427bf3e1417e5fe5f7ce601eec81d86386273b1a4f3d3c8723f5876f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066007"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -26,7 +26,7 @@ Microsoft Stream je videoslužba pro organizace, do které můžou zaměstnanci 
 Další informace najdete tady:
 
 - [Co je Microsoft Stream?](https://docs.microsoft.com/stream/overview)
-- [Přechod Office 365 Video na Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
+- [Office 365 Přechod videa na Microsoft Stream](https://docs.microsoft.com/stream/migrate-from-office-365)
 - [Aktualizace streamování služeb](https://techcommunity.microsoft.com/t5/microsoft-stream-service-updates/bd-p/StreamAnnouncements)
 - [Skupiny a kanály v Microsoft Streamu](https://docs.microsoft.com/stream/groups-channels-organization)
 - [Živé události v Microsoft Streamu](https://docs.microsoft.com/stream/live-event-overview)

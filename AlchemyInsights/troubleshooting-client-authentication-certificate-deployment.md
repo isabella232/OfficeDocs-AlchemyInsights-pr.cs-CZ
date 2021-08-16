@@ -1,5 +1,5 @@
 ---
-title: Řešení potíží s nasazením certifikátu ověření klienta
+title: Řešení potíží s nasazením certifikátu ověřování klienta
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "1546"
 - "9000076"
-ms.openlocfilehash: cecbd091447e63f2d5012ceaf96e050c92a171e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78520b416a72a3c93a3d2e7726948d59f83e681d4f09078c2a3cefac7bf1db3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020797"
 ---
-# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Řešení potíží s nasazením certifikátu ověření klienta
+# <a name="troubleshooting-client-authentication-certificate-deployment"></a>Řešení potíží s nasazením certifikátu ověřování klienta
 
-V Intune – profily pro certifikáty klienta NDES/SCEP a PKCS/PFX se běžně používají ve spojení s jinými typy profilů, jako jsou WiFi, VPN a e-mail, aby uživatelé mohli ověřovat firemní prostředky. Pokud jsou tyto typy profilů propojené s profilem klientského certifikátu, závisejí na úspěšném nasazení tohoto profilu.
+Profily klientských certifikátů Intune NDES/SCEP a PKCS/PFX se běžně používají společně s jinými typy profilů, jako je Wifi, VPN a e-mail, aby se uživatelé mohly ověřovat na podnikové prostředky. Pokud jsou tyto typy profilů propojené s profilem klientského certifikátu, závisí na úspěšném nasazení tohoto profilu.
 
-Počáteční nastavení infrastruktury a související konfigurace profilu klientského certifikátu často vyžadují řešení potíží. Podrobný průvodce pro úspěšné nastavení NDES Connectoru a pokyny pro odstraňování potíží s nasazením certifikátů najdete v těchto tématech: 
+Počáteční nastavení infrastruktury a přidružená konfigurace profilu klientského certifikátu často vyžadují řešení potíží. Podrobný průvodce úspěšným nastavením konektoru NDES a pokyny k řešení potíží s nasazením certifikátů najdete v těchto článku: 
 
-- [Konfigurace infrastruktury pro podporu SCEP s Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
-- [Základní informace o řešení potíží s profily certifikátů SCEP přes Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
+- [Konfigurace infrastruktury pro podporu SCEP pomocí Intune](https://support.microsoft.com/help/4459540/troubleshoot-ndes-configuration-for-use-with-intune)
+- [Přehled řešení potíží s profily certifikátů SCEP pomocí Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-Pomocí odkazovaných skriptů PowerShellu můžete ověřit konfiguraci. Další informace najdete v článku [ověřovací skripty konektoru Certificate Connector](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
+K ověření konfigurace použijte odkazované skripty powershellu. Další informace najdete v článku [Ověřovací skripty konektoru certifikátu Intune](https://github.com/microsoftgraph/powershell-intune-samples/tree/master/CertificationAuthority).
 
   
 **Další běžné problémy**
 
-**Když se pokusím nainstalovat Certificate Tune na serveru NDES Connector, zobrazí se zpráva "heslo v žádosti o certifikát nelze ověřit. Pravděpodobně už byl použit. Získejte nové heslo pro odeslání s touto žádostí. "**  
+**Když se pokusím nainstalovat konektor certifikátu Intune na server konektoru NDES, zobrazí se zpráva "Heslo v žádosti o certifikát nelze ověřit. Možná už byl použit. Získejte nové heslo pro odeslání s touto žádostí."**  
 
-Tato zpráva znamená, že musíte spustit instalaci Certificate Connectoru jako správce.
+Tato zpráva znamená, že musíte spustit instalaci konektoru certifikátu jako správce.
 
-V některých prostředích se musí servery, na kterých běží certifikát Intune, použít proxy server, aby se připojil k Intune, a aby mohl Certificate Connector používat proxy server. V některých případech konektor NDES Connector ignoruje konfigurované nastavení proxy a může být potřeba ke konfiguraci nastavení proxy serveru při běhu v kontextu zabezpečení účtu LocalSystem. 
+V některých prostředích musí servery, na kterých běží certifikát Intune, používat proxy server pro připojení k Intune, a proto musí Konektor certifikátů používat proxy server. Za určitých okolností konektor NDES ignoruje nakonfigurovaná nastavení proxy serveru a může být nutné nakonfigurovat nastavení proxy serveru v kontextu zabezpečení LocalSystem. 
  
-Řešením je spustit Internet Explorer jako systém a nakonfigurovat proxy server v aplikaci IE. Po restartování služby konektoru Intune se k Intune připojí konektor NDES Connector.
+Řešením je spustit Internet Explorer jako SYSTÉM a nakonfigurovat proxy server v IE. Po restartování služby Konektor Intune se konektor NDES připojí k Intune.
 
-**Uživatelská zařízení už nepodporují certifikáty SCEP ze služby NDES.**
+**Uživatelská zařízení už od NDES nebírají certifikáty SCEP.**
 
-Je možné, že certifikát pro ověření klienta vydaný pro server NDES a zadaný během instalace NDES Connector vypršel nebo chybí. Řešení: 
+Je možné, že vypršela platnost certifikátu ověření klienta vydaného serveru NDES a zadaný během instalace konektoru služby NDES nebo chybí. Řešení: 
  
-1. Odinstalujte NDES Connector.  
-2. K vyžádání nového ověřování klienta nebo ověřovacího certifikátu serveru použijte tyto podrobnosti: 
+1. Odinstalujte konektor NDES.  
+2. Pomocí těchto podrobností můžete požádat o nové ověřování klienta nebo ověřovací certifikát serveru: 
  
-    - Název předmětu: CN = externí plně kvalifikovaný název domény  
-    - Alternativní název subjektu (vyžaduje se): DNS = externí plně kvalifikovaný název domény, DNS = vnitřní plně kvalifikovaný název domény 
+    - Název předmětu: CN=externí plně kvalifikovaný název domény  
+    - Alternativní název předmětu (oba jsou povinné): DNS=externí plně kvalifikovaný název domény, DNS=interní plně kvalifikovaný název domény 
  
-3. Znovu nainstalujte NDES Connector s novým certifikátem.
+3. Znovu nainstalujte konektor NDES s novým certifikátem.

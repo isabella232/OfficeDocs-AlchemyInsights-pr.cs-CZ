@@ -1,5 +1,5 @@
 ---
-title: Vícenásobné aktivní relace do stejné poštovní schránky
+title: Více aktivních relací ke stejné poštovní schránce
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1836"
 - "9000248"
-ms.openlocfilehash: f4ae5c5afef9972ad4ffe74144d702ed58b2f437
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 933f977a09b013778799e0dc0c40c2959824cfbe6aa766495f7d1e1aab242878
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769716"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097551"
 ---
-# <a name="multiple-active-sessions-to-the-same-mailbox"></a>Vícenásobné aktivní relace do stejné poštovní schránky
+# <a name="multiple-active-sessions-to-the-same-mailbox"></a>Více aktivních relací ke stejné poštovní schránce
 
-Za účelem řízení využití prostředků Exchange má poštovní schránka "rozpočet".
+Pokud chcete řídit Exchange prostředků, má poštovní schránka "rozpočet".
 
-Výjimku z více rozpočtů lze aktivovat, ale není omezena na tyto okolnosti:
+Nadrozpočtová výjimka může být aktivována, ale není omezena na následující okolnosti:
 
-- Ve stejné relaci Outlook Web Appu se otevírají několik karet prohlížeče.
+- Několik karet prohlížeče se otevře ve stejné Outlook Web App relace.
 
-- Několik aktivních relací Outlook Web Appu ke stejné poštovní schránce.
+- Několik aktivních Outlook Web App ke stejné poštovní schránce.
 
-- Několik dalších klientských aplikací (Outlook, Outlook Mobile, klientská aplikace třetí strany) k poštovní schránce přistupuje současně.
+- Několik dalších klientských aplikací (Outlook, Outlook Mobile, klientská aplikace třetích stran) má k poštovní schránce přístup současně.
 
-- Operace s dlouhým provozem, třeba provádění požadavků hledání, se provádějí z jiné aktivní relace poštovní schránky.
+- Dlouhé operace, například provádění žádostí o hledání, se provádějí z jiné aktivní relace poštovní schránky.
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7c97232417175178031213c1050d224fcb86e9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6ff41f9f5b890c968483718544c5b4961397b37b144bb14ea1451d7aac24ebb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017305"
 ---
 # <a name="create-an-archive-mailbox"></a>Vytvoření archivační poštovní schránky
 
@@ -27,5 +27,5 @@ Archivační poštovní schránky poskytují uživatelům další e-mailové úl
 2. Zvolte **Archiv správy**  >  **dat**.
 3. Vyberte uživatele, jehož archivační poštovní schránku chcete povolit, a potom v  podokně podrobností vpravo klikněte na **Povolit** a v okně s upozorněním klikněte na Ano.
 4. Archivační poštovní schránky můžete také hromadně povolit tak, že vyberete  víc uživatelů (pomocí **kláves Shift** nebo **Ctrl)** a v podokně podrobností kliknete na Povolit.
-5. Po několika minutách se v aplikaci Outlook vašeho uživatele zobrazí nová složka s názvem *Online archiv – <`name` >*. V Outlooku na webu se tomu říká *Archiv na místě*.
+5. Po několika minutách se v aplikaci pro Outlook uživatele zobrazí nová složka s názvem *Online archiv – <`name` >*. V Outlook na webu se tomu říká *Archiv na místě*.
 6. Řekněte uživateli, aby přetahovat e-maily do archivu.

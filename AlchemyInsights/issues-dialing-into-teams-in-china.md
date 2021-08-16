@@ -1,5 +1,5 @@
 ---
-title: Problémy s voláním do týmů v Číně
+title: Problémy s vytáčením Teams v Číně
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3787"
 - "9001707"
-ms.openlocfilehash: 42064703c997cdbda007bc07734c7453a54cbf21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfac32fb00b24fa743eae0ab1985ae9adc101c44a7dc7af2d7435c95913ce0a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013345"
 ---
-# <a name="issues-dialing-into-teams-in-china"></a>Problémy s voláním do týmů v Číně
+# <a name="issues-dialing-into-teams-in-china"></a>Problémy s vytáčením Teams v Číně
 
-Společnost Microsoft si uvědomuje, že někteří uživatelé v oblasti Číny mají problémy s voláním na ID konference Skypu pro firmy nebo týmy. Ve většině případů jsou tyto problémy pro systémy v části našeho řízení. Tento problém se často týká místních mobilních dopravců a telefonních operátorů.
+Microsoft si je vědom toho, že někteří uživatelé v oblasti Číny mají problémy s vytáčením Skype pro firmy nebo Teams ID konferencí. Ve většině případů jsou tyto problémy externí pro systémy, které máme pod kontrolou. Často se problém vyskytuje u místních mobilních a telefonních operátorů.
 
-Pokud máte problémy se zvukovou konferencí, doporučujeme:
+Pokud máte problémy se zvukovými konferencemi, doporučujeme následující:
 
--   Zeptejte se volajícího nebo organizátora schůzky na volání do veřejné telefonní sítě.
--   Připojte se k hovoru nebo schůzce z počítače nebo mobilních klientů pomocí VoIP.
+-   Požádejte volajícího nebo organizátora schůzky, aby zavolal na číslo vaší veřejné telefonní sítě nebo mobilního telefonu.
+-   Připojte se k hovoru nebo schůzce z desktopových nebo mobilních klientů pomocí VoIP.
