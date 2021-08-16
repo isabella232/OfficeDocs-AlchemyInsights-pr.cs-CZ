@@ -1,5 +1,5 @@
 ---
-title: Po aktualizaci se v řídicím panelu nezobrazují změny
+title: Řídicí panel neodráží změny po aktualizaci.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1318"
 - "2500002"
-ms.openlocfilehash: 11ce68469a095ae3f42d2231c3732e8c04051fc7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d87ebaabb83db7b95182ea5b062fdef15da4263a68f47b31d262893570c3617
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005659"
 ---
-# <a name="dashboard-doesnt-reflect-changes-after-refresh"></a>Po aktualizaci se v řídicím panelu nezobrazují změny
+# <a name="dashboard-doesnt-reflect-changes-after-refresh"></a>Řídicí panel neodráží změny po aktualizaci.
 
-Pokud se po aktualizaci neprojeví změny v řídicím panelu, počkejte asi 10-15 minut, než se aktualizace projeví na dlaždicích řídicího panelu. Pokud se ještě pořád nezobrazuje, připněte vizualizaci na řídicí panel.
+Pokud řídicí panel po aktualizaci změny neodráží, počkejte asi 10–15 minut, než se aktualizace projeví v dlaždicích řídicího panelu. Pokud se stále nezobrazuje, znovu připněte vizualizaci na řídicí panel.
 
-Další informace najdete v článku [Poradce při potížích s aktualizací](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios).
+Další informace najdete v tématu [Řešení potíží se scénáři aktualizace](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios).

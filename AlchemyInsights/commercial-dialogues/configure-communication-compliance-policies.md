@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae07f437ef50756862eb2f622cb107ccb003c9c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968118"
 ---
 # <a name="configure-communication-compliance-policies"></a>Konfigurace zásad dodržování předpisů komunikace
 
-Po vydání dodržování předpisů pro komunikaci v souladu s Microsoft 365 v únoru 2020 se funkce Dohled v Office 365 vyřazena. Zásady dohledu už nebudou k dispozici pro vytváření a zásady se po delší době přístupu jen pro čtení odstraní.
+Po vydání dodržování předpisů pro komunikaci v Microsoft 365 v únoru 2020 se dohled v Office 365 vyřazen. Zásady dohledu už nebudou k dispozici pro vytváření a zásady se po delší době přístupu jen pro čtení odstraní.
 
 > [!IMPORTANT]
 > Pokud používáte Dohled, uvědomte si, že:
@@ -30,4 +30,4 @@ Po vydání dodržování předpisů pro komunikaci v souladu s Microsoft 365 v 
 > 2. Od 31. srpna 2020 přestanou stávající zásady zachycovat nové zprávy.
 > 3. Od 26. října 2020 se odstraní stávající zásady.
 
-Aktivně doporučujeme zákazníkům, kteří v Současné době prošebí nebo používají dohled v Office 365, používat nové řešení dodržování předpisů pro komunikaci v [Microsoftu 365](https://go.microsoft.com/fwlink/?linkid=2128593) k řešení vašich požadavků na monitorování komunikace nebo regulačních předpisů s mnohem bohatšími inteligentními funkcemi.
+Aktivně doporučujeme zákazníkům, kteří v současné době prošebí nebo používají dohled v Office 365, aby v [aplikaci Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) mohli použít nové řešení dodržování předpisů pro komunikaci k řešení vašich požadavků na monitorování komunikace nebo regulačních předpisů s mnohem bohatšími inteligentními funkcemi.
