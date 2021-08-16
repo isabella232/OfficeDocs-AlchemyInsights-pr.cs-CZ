@@ -1,5 +1,5 @@
 ---
-title: Používání samoobslužného zápisu ve vaší organizaci
+title: Použití samoobslužné registrace ve vaší organizaci
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5994"
 - "9002572"
-ms.openlocfilehash: 167ae49701828f228e991e5b92fb44adbfd76fee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c33646b80821693c6ba8ac1be6ca0d481dcf08c36b5276c26c332356a250c4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748966"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037565"
 ---
-# <a name="using-self-service-sign-up-in-your-organization"></a>Používání samoobslužného zápisu ve vaší organizaci
+# <a name="using-self-service-sign-up-in-your-organization"></a>Použití samoobslužné registrace ve vaší organizaci
 
-Díky samoobslužnému přihlášení se uživatelé mohou přihlásit k používání služeb placených vaším předplatným.
+Díky samoobslužné zaregistrované službě se uživatelé mohou zaregistrovat k používání služeb placených vaším předplatným.
 
-- Pokud chcete určit, jestli se uživatelé mohou přihlásit k předplatnému, použijte rutinu [set-MsolCompanySettings](https://docs.microsoft.com/powershell/module/msonline/set-msolcompanysettings?view=azureadps-1.0) PowerShell s parametrem  **AllowAdHocSubscriptions**  . Další informace najdete v tématu [Jak můžu řídit nastavení samoobslužných služeb](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide)?
+- Pokud chcete určit, jestli se uživatelé mohou zaregistrovat k samoobslužné předplatným, použijte rutinu [Set-MsolCompanySettings](https://docs.microsoft.com/powershell/module/msonline/set-msolcompanysettings?view=azureadps-1.0) PowerShell s parametrem **AllowAdHocSubscriptions.** Další informace najdete v článku [Jak můžu řídit samoobslužná nastavení?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide)
 
-- Pokud chcete zobrazit všechny dostupné programy, podívejte se na [dostupné samoobslužné programy](https://docs.microsoft.com/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide#available-self-service-programs).
+- Pokud chcete zobrazit všechny dostupné programy, podívejte se na [informace v tématu Dostupné samoobslužné programy](https://docs.microsoft.com/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide#available-self-service-programs).
 
-Úplné informace najdete v článku [používání samoobslužného zápisu v organizaci](https://docs.microsoft.com/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide).
+Úplné informace najdete v tématu [Použití samoobslužné registrace ve vaší organizaci](https://docs.microsoft.com/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide).

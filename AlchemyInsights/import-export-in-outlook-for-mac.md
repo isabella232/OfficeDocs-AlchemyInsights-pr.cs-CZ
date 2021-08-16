@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e947c6cd5d27bdb690117b18dd100f3de64b0bcd5d5bdab7cb1eeca355ef4489
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708091"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987424"
 ---
-# <a name="importexport-in-outlook-for-mac"></a>Import nebo export v Outlooku pro Mac 
+# <a name="importexport-in-outlook-for-mac"></a>Import/export v Outlook pro Mac 
 
 Export:
-1. Na kartě **Nástroje** zvolte **Exportovat.**
+1. Na kartě **Nástroje** zvolte **Exportovat**.
 2. V poli **Uložit jako** v části **Oblíbené** zvolte složku **Stažené** soubory a vyberte **Uložit.**
-3. Až se zobrazí oznámení, že export je dokončený, vyberte **Dokončit.**
+3. Až se zobrazí oznámení o dokončení exportu, vyberte **Dokončit**.
 
 Import:
-1. Na kartě **Nástroje** zvolte **Importovat.**
-2. Vyberte **Soubor archivu Outlooku pro Windows (.pst)**  >  **Pokračovat.**
-3. Najděte soubor .pst na svém Macu a pak zvolte **Importovat.**
-4. Po dokončení importu zvolte **Dokončit.**
-5. Importované položky se zobrazí v navigačním podokně v **části Na mém počítači.**
+1. Na kartě **Nástroje** zvolte **Importovat**.
+2. Vyberte **Outlook pro Windows souboru archivu (.pst)**  >  **Pokračovat**.
+3. Na macu najděte soubor .pst a pak zvolte **Importovat**.
+4. Po dokončení importu zvolte **Dokončit**.
+5. Importované položky se zobrazí v navigačním podokně v **části Na mém počítači**.
 
-Úplnou sadu pokynů k importu a exportu pro Outlook pro Mac najdete v tématu Import a export e-mailů, kontaktů a [kalendáře Outlooku.](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac) 
+Úplnou sadu pokynů k importu a exportu Outlook pro Mac najdete v tématu Import a [export Outlook e-mailů, kontaktů](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)a kalendáře. 
 
-Pokud chcete dostávat podporu pro problémy s Outlookem pro Mac, otevřete Outlook **a vyberte Nápověda**– kontaktovat  >  **podporu.** Zadejte svou otázku a člen týmu podpory Outlooku pro Mac vás bude ve spojení. [Kontaktování podpory v Outlooku pro Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)
+Pokud chcete získat podporu v aplikaci pro Outlook pro Mac problémy, otevřete Outlook a vyberte **Nápověda**  >  **kontaktovat podporu.** Zadejte svou otázku a člen týmu podpory Outlook pro Mac se s váma dostane do kontaktu. [Kontaktujte podporu v Outlook pro Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)

@@ -1,5 +1,5 @@
 ---
-title: Obrázky se nezobrazovaly v e-mailech
+title: Obrázky, které se nezobrazují v e-mailech
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: e1dcb3e7564f4da95bff3d5c5083672030af4abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f0fc65b6510a32f7ca6f1d4dbe1de94b474ea4fa2179019ace8ec9f4e080b42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987496"
 ---
-# <a name="images-not-showing-in-emails"></a>Obrázky se nezobrazovaly v e-mailech
+# <a name="images-not-showing-in-emails"></a>Obrázky, které se nezobrazují v e-mailech
 
-Víme o problému, kdy někteří zákazníci nevidí obrázky nebo obrázky v e-mailech. Naše omluvy za nepříjemnosti.
+Víme o problému, kdy někteří zákazníci nevidí obrázky nebo obrázky v e-mailech. Omlouváme se za nepříjemnosti.

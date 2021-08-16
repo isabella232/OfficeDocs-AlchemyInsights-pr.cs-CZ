@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com kalendář beta
+title: 9000198 Outlook.com Kalendář Beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753360"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064557"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nové prostředí kalendáře přichází na Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nové možnosti kalendáře přicházející na Outlook.com
 
-Nový vzhled přináší nejlepší návrhy a naučí se využívat možnosti pošty v kalendáři.
+Nový vzhled přináší nejlepší návrhy a učení z prostředí Pošty do kalendáře.
 
-Budete si chtít vycházet z moderního designu, který vám pomůže s vizuálním zbytečným a nabízí rychlejší Možnosti navigace v kalendáři. Je také snazší najít zajímavé kalendáře pro vaše oblíbené aktivity – z televizních pořadů na sportovní týmy a události.
+Budete mít moderní design, který zmenší vizuální nepořádek a umožní vám rychlejší navigaci v kalendáři. Je také jednodušší najít zajímavé kalendáře pro vaše oblíbené aktivity – od televizních pořadů po sportovní týmy a události.
 
-Rozbalili jsme naši sbírku ikon událostí a aktualizovali vzhled a chování existujících, a proto automaticky přidáváme k událostem příslušné ikony, takže se můžete snadno podívat, co se děje.
+Rozšířili jsme naši kolekci ikon událostí a aktualizovali jsme vzhled a dojem stávajících událostí – a teď automaticky přidáme relevantní ikony k vašim událostem, abyste na první pohled snadno viděli, co se děje.
 
-Pomocí [kanálu Outlook.com Calendar UserVoice](https://go.microsoft.com/fwlink/?linkid=2103075)můžete posílat názory na nové funkce.
+Zpětnou vazbu k novým funkcím můžete poskytnout prostřednictvím [kanálu uservoice kalendáře Outlook.com.](https://go.microsoft.com/fwlink/?linkid=2103075)
