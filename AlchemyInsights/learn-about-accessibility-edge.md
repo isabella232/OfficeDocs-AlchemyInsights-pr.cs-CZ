@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8370"
 - "9004622"
-ms.openlocfilehash: 8f69111ac3fb77d90aa8ab97b7fa2a6f09b44161
-ms.sourcegitcommit: 3efd5bd034285f59495119a06df20de383234417
-ms.translationtype: MT
+ms.openlocfilehash: bebc5fb927a22d07dae016e3c44e1d87d7446593ae84b6d7da9b2354ac53a599
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/27/2021
-ms.locfileid: "52731297"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027925"
 ---
 # <a name="learn-about-accessibility-in-microsoft-edge"></a>Další informace o přístupnosti v Microsoft Edge
 

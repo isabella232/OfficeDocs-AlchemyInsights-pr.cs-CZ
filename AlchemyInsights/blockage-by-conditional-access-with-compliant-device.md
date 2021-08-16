@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9835"
 - "9003257"
-ms.openlocfilehash: 240bd25f4d62505202c8cd7ceabe4c1cd3d5c0b5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 709749b1a62f2d9cdabfb3fe4b7538c22101d7109204d9163f6059336b817bf8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019141"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>Podmíněný přístup mi zablokuje zařízení kompatibilní se standardem
 
@@ -40,9 +40,9 @@ Aby bylo možné získat přístup k prostředkům organizace, musí být zaří
 
 - Pokud chcete ověřit, jestli se zařízení připojilo k síti, postupujte podle pokynů pro registrovaná zařízení [tady](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network#to-verify-that-youre-registered) nebo pracovní [zařízení tady](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network#to-make-sure-youre-joined). Pokud chcete problém vyřešit s připojením k síti Organizace, postupujte podle následujících pokynů:
 
-    1. Přihlaste se k Windows pomocí pracovního nebo školního účtu, například pomocí alain@contoso.com.
-    2. Připojte se k síti vaší organizace přes VPN nebo DirectAccess.
-    3. Po připojení zařízení zamknete stisknutím **klávesy s logem Windows+L.**
+    1. Přihlaste se Windows pomocí pracovního nebo školního účtu, například pomocí alain@contoso.com.
+    2. Připojení do sítě vaší organizace přes VPN nebo DirectAccess.
+    3. Po připojení zařízení zamknete stisknutím **Windows klávesy s logem +L.**
     4. Odemkněte zařízení pomocí pracovního nebo školního účtu a zkuste se k problematické aplikaci nebo službě znovu dostat.
 
 Pokud se zobrazí **chybová zpráva Nemůžete** se tam znovu dostat, problém je pravděpodobně jinde.
@@ -51,7 +51,7 @@ Pokud se zobrazí **chybová zpráva Nemůžete** se tam znovu dostat, problém 
 
 Ujistěte se, že používáte podporovanou verzi operačního systému, včetně těchto:
 
-- **Klient Windows**: Windows 7 nebo novější
+- **Windows Klient:** Windows 7 nebo novější
 
 - **Windows Server:** Windows Server 2008 R2 nebo novější
 
@@ -61,16 +61,16 @@ Ujistěte se, že používáte podporovanou verzi operačního systému, včetn�
 
 4. **Webový prohlížeč není podporovaný:**
 
-Níže najdete podporované prohlížeče. Pro podporu Chromu ve Windows 1703 nebo novějších verzích je potřeba rozšíření Účtů Windows 10. U Edge 85+ musí být uživatel přihlášený, aby správně předal informace o dodržování předpisů zařízení. Další podrobnosti najdete [tady.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support)
+Níže najdete podporované prohlížeče. Pro podporu Chromu Windows 1703 nebo novějších verzích je Windows 10 rozšíření Účty. U Edge 85+ musí být uživatel přihlášený, aby správně předal informace o dodržování předpisů zařízení. Další podrobnosti najdete [tady.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support)
 
-- **Windows 10**: Microsoft Edge, Internet Explorer, Chrome
+- **Windows 10:** Microsoft Edge, Internet Explorer, Chrome
 - **Windows 8 / 8.1**: Internet Explorer, Chrome
-- **Windows 7:** Internet Explorer, Chrome
-- **iOS:** Microsoft Edge, prohlížeč spravovaný Intune, Safari
-- **Android**: **Microsoft Edge**: Prohlížeč spravovaný Intune, Chrome
-- **Windows Phone**: Microsoft Edge, Internet Explorer
+- **Windows 7**: Internet Explorer, Chrome
+- **iOS**: Microsoft Edge, Intune Managed Browser, Safari
+- **Android**: **Microsoft Edge**: Intune Managed Browser, Chrome
+- **Windows Phone:** Microsoft Edge, Internet Explorer
 - **Windows Server 2019**: Microsoft Edge, Internet Explorer, Chrome
-- **Windows Server 2016**: Internet Explorer
+- **Windows Server 2016:** Internet Explorer
 - **Windows Server 2012 R2:** Internet Explorer
 - **Windows Server 2008 R2**: Internet Explorer
 - **macOS**: Chrome, Safari

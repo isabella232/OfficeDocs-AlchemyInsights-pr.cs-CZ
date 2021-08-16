@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027889"
 ---
 # <a name="issues-with-certificates"></a>Problémy s certifikáty
 
 Pokyny k řešení problémů souvisejících s certifikáty najdete v následujících článcích:
 
-- [Začínáme s ověřováním založeným na certifikátech v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started)  : Postup konfigurace a využití ověřování na základě certifikátů pro uživatele klientů v Office 365 Enterprise, Business, vzdělávacím a USA.
+- [Začínáme s ověřováním](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) založeným na certifikátech v Azure Active Directory – postup konfigurace a využití ověřování na základě certifikátů pro uživatele tenantů v plánech Office 365 Enterprise, Business, Education a US Government.
 
-- [Řešení potíží s ověřováním Azure AD Certificate-Based](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – informace, které vám pomůžou řešit problémy s ověřováním na základě certifikátů.
+- [Řešení problémů s ověřováním Certificate-Based Azure AD](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – informace, které vám pomůžou vyřešit problémy s ověřováním na základě certifikátů.
 
-- [Správa certifikátů pro federované jednotné přihlašování v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  – běžné otázky a informace, které souvisejí s certifikáty, které Azure Active Directory (Azure AD) vytvoří v softwaru jako aplikace (SaaS) federované jednotné přihlašování.
+- Správa certifikátů pro [federované](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) jednotné přihlašování v Azure Active Directory – časté otázky a informace týkající se certifikátů, které Azure Active Directory (Azure AD) vytváří za účelem vytvoření federovaného jednotného přihlašování (SSO) k vašemu softwaru jako aplikacím služby (SaaS).
 
-- [Rozšířené možnosti podepisování certifikátů v tokenu SAML pro aplikace Galerie v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  – Přečtěte si informace o třech možnostech podepisování certifikátu v Azure AD.
+- [Rozšířené možnosti podepisování](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) certifikátů v tokenu SAML pro aplikace galerie v Azure Active Directory – Přečtěte si o třech možnostech podepisování certifikátů Azure AD.

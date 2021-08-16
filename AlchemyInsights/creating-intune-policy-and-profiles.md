@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704635"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994174"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>Vytváření zásad a profilů Intune
 
 V Intune můžete vytvářet zásady a profily, které dělají různé věci.
 
-- **Profily prováděcích** registrací: Předkonfigurování zařízení podle platformy, povolení spřažení uživatelů, použití vícefaktorového ověřování a další.
+- **Profily registrace:** Předkonfigurovat vaše zařízení podle platformy, povolit spřažení uživatelů, používat vícefaktorové ověřování a další.
 
-  [Co je registrace zařízení a](https://docs.microsoft.com/intune/device-enrollment)jak vytvářet registrační profily pro [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)a [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) jsou dobré zdroje.
+  [Co je registrace zařízení](https://docs.microsoft.com/intune/device-enrollment)a vytváření profilů registrace pro [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll)a [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) jsou dobré zdroje informací.
 
-- **Zásady dodržování** předpisů: Definujte pravidla a nastavení, která musí zařízení dodržovat, aby byla kompatibilní. Pomocí zásad dodržování předpisů můžete taky sledovat zařízení a upozorňovat uživatele na porušení předpisů.
+- **Zásady dodržování** předpisů: Definujte pravidla a nastavení, která musí zařízení dodržovat, aby byla kompatibilní. Pomocí zásad dodržování předpisů můžete také monitorovat zařízení a informovat uživatele o nedodržování předpisů.
 
-  Začínáme se [zásadami dodržování předpisů zařízením](https://docs.microsoft.com/intune/device-compliance-get-started)
-- **Zásady podmíněného přístupu:** Pomáhá zabezpečit prostředky organizace v závislosti na podmínkách, které zadáte. Například u zařízení, která nejsou kompatibilní, použijte podmíněný přístup k omezení přístupu k e-mailu a SharePointu.
+  Začínáme se [zásadami dodržování předpisů zařízení.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Zásady podmíněného přístupu:** Pomozte zabezpečit prostředky organizace v závislosti na podmínkách, které zadáte. Například u zařízení, která nejsou kompatibilní, použijte podmíněný přístup k omezení přístupu k e-mailu a SharePoint.
 
-  [Vhodné zdroje informací pro zahájení](https://docs.microsoft.com/intune/conditional-access) práce jsou [podmíněný](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) přístup a běžné způsoby použití podmíněného přístupu.
+  [Co je podmíněný přístup](https://docs.microsoft.com/intune/conditional-access) a běžné způsoby [použití podmíněného přístupu,](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) jsou dobré zdroje, jak začít.
 
-- **Profily konfigurace:** Správa funkcí a nastavení na zařízeních, včetně nastavení e-mailu, přidání sítě WiFi, použití předdefinových šablon, řízení funkcí zařízení s iOS a macOS a dalších.
+- **Profily konfigurace:** Spravujte funkce a nastavení na zařízeních, včetně nastavení e-mailu, přidejte wi-fi síť, používejte integrované šablony, ovládate funkce zařízení s iOS a macOS a další.
 
-  Začínáme s profily [konfigurace zařízení.](https://docs.microsoft.com/intune/device-profiles)
+  Začínáme s [profily konfigurace zařízení](https://docs.microsoft.com/intune/device-profiles).
 
 Užitečné odkazy:
 
-- [Časté otázky, problémy a řešení v zásadách zařízení a profilech v Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Časté otázky, problémy a řešení se zásadami a profily zařízení v Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Odstraňování potíží se zásadami a profily v Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Poradce při potížích se zásadami a profily v Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)

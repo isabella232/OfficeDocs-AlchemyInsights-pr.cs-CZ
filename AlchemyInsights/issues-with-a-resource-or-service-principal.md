@@ -1,5 +1,5 @@
 ---
-title: Problémy s hlavním zdrojem nebo hlavním objektem služby
+title: Problémy se zdrojem nebo hlavním objektem služby
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004336"
 - "7741"
-ms.openlocfilehash: 9c37ad8e4dfecdb59a37d767f8eb4a5d99be7fa1
-ms.sourcegitcommit: d13f23fb7994871d4e0e6e3e43672a101bd779e8
+ms.openlocfilehash: 52b9b2e950d66c2f4105b76c4e2c70ed51320e4a57eb0008c353a9587fcc6510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50713446"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028069"
 ---
-# <a name="issues-with-a-resource-or-service-principal"></a>Problémy s hlavním zdrojem nebo hlavním objektem služby
+# <a name="issues-with-a-resource-or-service-principal"></a>Problémy se zdrojem nebo hlavním objektem služby
 
-1. Pokud právě začínáte, objekty instanční aplikace a služby v [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) popisují registraci aplikací, objekty aplikace a objekty služby v Azure Active Directory: co to jsou, jak se používají a jak spolu souvisejí. Scénář s příkladem více tenantů také znázorňuje vztah mezi objektem aplikace a odpovídajícími objekty hlavního názvu služby.
-2. Další informace o relaci mezi aplikacemi a objekty zabezpečení služby najdete v čtení aplikací a objektů hlavního názvu služby v [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)
-3. [Postupy:](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) Použití portálu k vytvoření aplikace a hlavního názvu služby Azure AD, které mají přístup k prostředkům, vám ukáže, jak vytvořit novou aplikaci a hlavní název služby Azure Active Directory (Azure AD), který se může použít s řízením přístupu založeného na rolích.
-4. S hlavním [rozhraním API](https://docs.microsoft.com/graph/api/resources/serviceprincipal)služby můžete programově spravovat instance aplikací a řídit, co aplikace může dělat v rámci vašeho tenanta.
-5. [Hlavní název služby typu zdroje](https://docs.microsoft.com/graph/api/resources/serviceprincipal) uvádí všechny vlastnosti a metody pro typ zdroje hlavní atribut služby.
-6. [Rozdíly typů zdrojů mezi Azure AD Graph a Microsoft Graphem zvýrazňují](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences) rozdíly mezi zdroji Azure AD Graph a Microsoft Graph. Zobrazuje zdroje, které mají jiné názvy nebo nejsou dostupné. také zvýrazní zdroje, které jsou dostupné v beta verzi Microsoft Graphu, ale ne ve verzi v1.0.
+1. Pokud právě začínáte, application and [service principal](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) objects in Azure Active Directory describes application registration, application objects, and service principals in Azure Active Directory: what they are, how they are used, and how they are related to each other. Příklad scénáře s více tenanty je také prezentován tak, aby ilustroval vztah mezi aplikačním objektem aplikace a odpovídajícími hlavními objekty služby.
+2. Další informace o relaci mezi aplikacemi a objekty služby najdete v části Čtení aplikací a hlavních objektů služby [v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+3. [Postupy:](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) Pomocí portálu můžete vytvořit aplikaci a hlavní objekt služby Azure AD, který má přístup k prostředkům, ukazuje, jak vytvořit novou aplikaci Azure Active Directory (Azure AD) a hlavní objekt služby, který se může použít s řízením přístupu založeném na rolích.
+4. S hlavním [rozhraním API služby](https://docs.microsoft.com/graph/api/resources/serviceprincipal)můžete programově spravovat instance aplikací a řídit, co aplikace může dělat ve vašem tenantovi.
+5. [Typ zdroje servicePrincipal](https://docs.microsoft.com/graph/api/resources/serviceprincipal) uvádí všechny vlastnosti a metody pro typ zdroje servicePrincipal.
+6. [Rozdíly typu prostředků mezi Azure AD Graph a Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences) zvýrazňují rozdíly mezi prostředky Azure AD Graph a Microsoft Graph zdrojů. Zobrazuje zdroje, které mají jiné názvy nebo nejsou dostupné. Také zvýrazní zdroje dostupné v beta verzi Microsoftu Graph ale ne ve verzi v1.0.
 
-**Problémy s uživateli s hosty**
+**Problémy s uživateli hosta**
 
-- [Rychlý start:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) Přidání uživatelů hosta do adresáře na portálu Azure Portal ukazuje, jak přidat nového uživatele hosta do adresáře Azure AD přes portál Azure Portal, poslat pozvánku a vidět, jak vypadá proces uplatnění pozvánky hosta.
-- [Kurz: Vytvoření toku uživatelů v Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) ukazuje, jak vytvořit některé doporučené toky uživatelů pomocí portálu Azure Portal. Pokud hledáte informace o tom, jak v aplikaci nastavit přihlašovací údaje pro heslo vlastníka prostředků (ROPC), podívejte se na postup konfigurace přihlašovacích údajů vlastníka prostředku v Azure AD B2C.
+- [Rychlý start:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) Přidání hosta do adresáře na portálu Azure portal vám ukáže, jak přidat nového hosta do adresáře Azure AD prostřednictvím portálu Azure Portal, poslat pozvánku a podívat se, jak vypadá proces uplatnění pozvánky hosta.
+- [Kurz: Vytvoření toků uživatelů v Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) vám ukáže, jak vytvořit některé doporučené toky uživatelů pomocí portálu Azure Portal. Pokud hledáte informace o tom, jak nastavit tok přihlašovacích údajů pro heslo vlastníka prostředku (ROPC) ve vaší aplikaci, podívejte se na informace v tématu Konfigurace toku přihlašovacích údajů pro heslo vlastníka prostředku v Azure AD B2C.

@@ -1,5 +1,5 @@
 ---
-title: Pozastavení naplánovaných aktualizací
+title: Pozastavení plánovaných aktualizací
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1129"
 - "6700007"
-ms.openlocfilehash: 13abc7c9201b1897a9c766add4d105ef12f0d66f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ea6c56de00a52080c4a8b47eb5eeee37838420a9e979878c10aeb12885a8b99
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010465"
 ---
-# <a name="pausing-scheduled-updates"></a>Pozastavení naplánovaných aktualizací
+# <a name="pausing-scheduled-updates"></a>Pozastavení plánovaných aktualizací
 
-Pokud je příkaz Pause (pozastavit), zařízení nezpracovávají příkaz, dokud se nevrátí do Intune. Zařízení proto může mít:
+Když je příkaz pozastavit vystavený, zařízení tento příkaz nezpracují, dokud se příště neošetřuje do Intune. Z tohoto důvodu můžou vaše zařízení mít:
 
-- Nainstalovanou aktualizaci naplánovali před vrácením se změnami.
-- Vypnuté, když jste vypnuli příkaz pozastavit. V tomto případě se může stát, že když zařízení byla zapnutá, můžou si před vrácením se se změnami stáhnout a nainstalovat naplánované aktualizace.
+- Před přihlášením se instalovali plánované aktualizace.
+- Byl vypnutý, když jste příkaz pozastavit vydali. V takovém případě, když byla zařízení zapnutá, si možná před přihlášením stáhli a nainstalovali plánované aktualizace.

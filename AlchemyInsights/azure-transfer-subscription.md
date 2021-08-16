@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: fc02a64807cad61cfeecf04d1f8e38666402583f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 803d0105ad2bbaf2b18cea6aa556b6af5e09cb2d41812d4747aa703e6e7d7780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036089"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Převod vlastnictví fakturace Azure
 
