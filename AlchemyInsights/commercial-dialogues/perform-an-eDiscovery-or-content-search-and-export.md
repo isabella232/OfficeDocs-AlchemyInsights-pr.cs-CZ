@@ -1,5 +1,5 @@
 ---
-title: Vyhledávání a export obsahu v eDiscovery
+title: Provedení vyhledávání a exportu eDiscovery nebo obsahu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016621"
 ---
-# <a name="perform-an-ediscoverycontent-search-and-export"></a>Vyhledávání a export obsahu v eDiscovery
+# <a name="perform-an-ediscoverycontent-search-and-export"></a>Provedení vyhledávání a exportu eDiscovery nebo obsahu
 
-Tady je postup, jak ve vaší organizaci vyhledat obsah a exportovat ho:
+Tady je postup, jak vyhledat obsah ve vaší organizaci a exportovat ho:
 
-1. Přejděte do Centra [zabezpečení & dodržování](https://go.microsoft.com/fwlink/?linkid=2086958) předpisů a přejděte na **Hledat** obsah +  >    >  **Nové hledání.**
+1. Přejděte do [Centra dodržování & zabezpečení a](https://go.microsoft.com/fwlink/?linkid=2086958) přejděte na Hledat **v**  >  **obsahu**+ Nové  >  **hledání.**
 1. Zadejte klíčová slova a podmínky, které chcete vyhledat.
-1. V dolní části stránky zadejte, kde se má hledat (například e-maily, zprávy Teams, sharepointové weby), nebo klikněte na **Všechna místa.**
-1. Klikněte **na Uložit &.** Zadejte název vyhledávacího dotazu a klikněte na **Uložit.** Dotaz se spustí a zobrazí výsledky.
+1. V dolní části stránky zadejte umístění, která se mají hledat (například e-mail, Teams zprávy, SharePoint weby), nebo klikněte na **Všechna umístění**.
+1. Klikněte **na Uložit & spustit**. Zadejte název vyhledávacího dotazu a klikněte na **Uložit.** Dotaz se spustí a zobrazí výsledky.
 
 Informace o exportu výsledků hledání najdete v tématu [Export výsledků hledání obsahu.](https://go.microsoft.com/fwlink/?linkid=2102118)
 

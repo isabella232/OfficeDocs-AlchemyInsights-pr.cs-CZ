@@ -1,5 +1,5 @@
 ---
-title: Návrat k dřívějšímu buildu Office
+title: Návrat k dřívější verzi Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1741"
 - "9000140"
-ms.openlocfilehash: 9f6a812def2b46bf32d836781d0336aea5ba3ed1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b4ca6d0160215dd788a8bb918e6a6af36a811427ed594885843140cc1727c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074421"
 ---
-# <a name="roll-back-to-an-earlier-build-of-office"></a>Návrat k dřívějšímu buildu Office
+# <a name="roll-back-to-an-earlier-build-of-office"></a>Návrat k dřívější verzi Office
 
-Pokud se chcete vrátit k dřívější verzi buildu nebo verze Microsoft 365, přečtěte si [článek Jak se vrátit k dřívější verzi Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic). Pokud chcete přejít z jednoho předplatného Microsoft 365 na jiný, přečtěte si článek  [Přechod na jiný plán microsoft 365 pro firmy](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
+Pokud se chcete vrátit k dřívější verzi Microsoft 365 Apps nebo verzi, podívejte se na postup, jak se vrátit k dřívější verzi [Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic). Pokud chcete přejít z Microsoft 365 předplatného na jiné, podívejte se na přechod na jiný [plán Microsoft 365 pro firmy.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
 
-- Pokud chcete zjistit verzi Office, kterou právě používáte, přečtěte si článek [o Office: jakou verzi Office](https://support.office.com/article/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)používám?.
-- Pokud chcete zjistit Build, který chcete vrátit zpátky, přečtěte si článek [Historie aktualizací pro aplikace Microsoft 365 (uvedené podle data)](https://docs.microsoft.com/officeupdates/update-history-office365-proplus-by-date?redirectSourcePath=%252fen-us%252farticle%252fae942449-1fca-4484-898b-a933ea23def7).
-- Nakonfigurujte nastavení **TargetVersion** tak, aby se vrátilo ke staršímu buildu, a to tak, že se [vrátíte k dřívější verzi Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic) nebo se [při používání sítě CDN (Office Content Delivery Network) přejímají aktualizace funkcí z pololetního kanálu](https://docs.microsoft.com/deployoffice/delay-receiving-feature-updates-from-deferred-channel-for-office-365-proplus#delay-receiving-feature-updates-from-semi-annual-channel-when-using-the-office-content-delivery-network-cdn).</br>
-    Pokud je nastavená cílová verze, Office ji při příštím vyhledání aktualizací aktualizuje.
+- Pokud chcete najít verzi Office, kterou právě používáte, podívejte se na Office: Jakou verzi Office [používám?](https://support.office.com/article/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19).
+- Informace o buildu, ke kterého se chcete vrátit, najdete v tématu Historie aktualizací pro [Microsoft 365 Apps (uvedená podle data).](https://docs.microsoft.com/officeupdates/update-history-office365-proplus-by-date?redirectSourcePath=%252fen-us%252farticle%252fae942449-1fca-4484-898b-a933ea23def7)
+- Nakonfigurujte **nastavení TargetVersion** tak, aby se vrátilo k dřívějšímu buildu pomocí možnosti Jak se vrátit k dřívější verzi [Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic) nebo Pozdržet přijímání aktualizací funkcí z kanálu Semi-Annual při použití [Office Content Delivery Network (CDN).](https://docs.microsoft.com/deployoffice/delay-receiving-feature-updates-from-deferred-channel-for-office-365-proplus#delay-receiving-feature-updates-from-semi-annual-channel-when-using-the-office-content-delivery-network-cdn)</br>
+    Když je cílová verze nastavená, Office aktualizace této verze při příštím vyhledání aktualizací.

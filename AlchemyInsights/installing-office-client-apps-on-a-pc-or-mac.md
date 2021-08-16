@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e3f0b654aa38f388f5217a4c5804a3b59f7483569593deda5332068dd631b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014209"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Instalace klientských aplikací Office na osobní počítač nebo MAC
 
@@ -27,7 +27,7 @@ Když si chcete nainstalovat klientské aplikace, ujistěte se, že máte předp
 
 Pokud máte předplatné, které zahrnuje aplikace Microsoft 365, možnost instalace neuvidíte, dokud nebudete mít [přiřazenou licenci](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Pokud jste správcem Office 365 zodpovědným za přiřazování licencí, přečtěte si článek, který se zabývá [přiřazováním licencí uživatelům](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Navíc můžete pomocí [Nastavení stahování softwaru Office](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) rozhodnout, jestli si uživatelé budou moct nainstalovat aplikace Office na svá vlastní zařízení.
 
-**Poznámka:** V [sestavě aktivace Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) můžete zobrazit, kteří uživatelé nainstalovali a aktivovali svoje aplikace Microsoft 365 aspoň na jednom zařízení.
+**Poznámka:** V [Office aktivace](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) můžete zobrazit, kteří uživatelé nainstalovali a aktivovali svoje Microsoft 365 aplikace na aspoň jednom zařízení.
 
 Pak požádejte všechny uživatele, aby:
 

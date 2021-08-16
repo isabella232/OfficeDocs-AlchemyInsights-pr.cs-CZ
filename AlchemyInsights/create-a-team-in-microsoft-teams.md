@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9828"
 - "9004618"
-ms.openlocfilehash: 53e69c5ec5428da7d1469d3b25e242af9d659092
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 4889efc0a86ce7d7b4eeb8595160c0e3e3bb397e5f0d6c5395a54daece512465
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51035170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032191"
 ---
 # <a name="create-a-team-in-microsoft-teams"></a>Vytvoření týmu v Microsoft Teams
 
 Pokud chcete vytvořit tým v Microsoft Teams, postupujte takto:
 
-1. Na levé straně Aplikace Teams klikněte na **Teams**.
+1. Na levé straně Teams klikněte **na Teams.**
 2. V dolní části seznamu týmů klikněte na **Připojit se** nebo **vytvořit tým.**
 3. Klikněte **na Vytvořit nový tým.**
 
-Pokud máte potíže s vytvořením týmu, může se použít zásada. Další informace najdete v tématu [Správa, kdo může vytvářet skupiny Microsoft 365](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups).
+Pokud máte potíže s vytvořením týmu, může se použít zásada. Další informace najdete v tématu [Správa uživatelů, kteří Microsoft 365 skupiny](https://docs.microsoft.com/microsoft-365/solutions/manage-creation-of-groups).

@@ -1,5 +1,5 @@
 ---
-title: Automatické šifrování e-mailových zpráv Office 365 odeslaných do určitých domén
+title: Automatické šifrování Office 365 e-mailových zpráv odeslaných do určitých domén
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 7fb96a30cd1922bd39a4b99a7ecd869622f3a466
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082179"
 ---
-# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Automatické šifrování e-mailových zpráv Office 365 odeslaných do určitých domén
+# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Automatické šifrování Office 365 e-mailových zpráv odeslaných do určitých domén
 
-1. V Centru [pro správu Exchange](https://outlook.office365.com/ecp/)zvolte **tok pošty > pravidla**. 
-2. Klikněte na **ikonu Nový (+)** a potom klikněte na Použít šifrování zpráv **Office 365** a ochranu práv u zpráv.
+1. V Centru [Exchange správy](https://outlook.office365.com/ecp/)zvolte **tok pošty a > pravidla**. 
+2. Klikněte na **ikonu Nový (+)** a potom klikněte na Použít Šifrování zpráv Office 365 a ochranu **práv u zpráv**.
 3. Do **pole** Název zadejte název pravidla, například Šifrovat zprávy odeslané *contoso.com.*
 4. V **části Použít toto pravidlo, pokud** zvolte > doména **je**. 
 5. Zadejte název domény, například **contoso.com**.
@@ -36,4 +36,4 @@ ms.locfileid: "50744549"
 > [!IMPORTANT]
 > Toto pravidlo se můžete vrátit a toto pravidlo upravit později.
 
-Další informace o vytváření pravidel pro šifrování najdete v článku Definování pravidel toku pošty pro šifrování e-mailových zpráv [v Office 365.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+Další informace o vytváření pravidel pro šifrování najdete v tématu Definování pravidel toku pošty pro šifrování e-mailových zpráv [v Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)

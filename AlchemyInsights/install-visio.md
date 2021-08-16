@@ -1,5 +1,5 @@
 ---
-title: Instalace Visia
+title: Instalace Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014281"
 ---
-# <a name="install-visio"></a>Instalace Visia
+# <a name="install-visio"></a>Instalace Visio
 
-Visio se prodává jako samostatná aplikace, takže pokud ji ještě nemáte, [Kupte nebo vyzkoušejte Visio](https://products.office.com/visio). 
+Visio se prodává jako samostatná aplikace, takže pokud ji ještě nemáte, kupte si ji nebo zkuste [Visio.](https://products.office.com/visio) 
 
-**Poznámka**: Visio online (plán 1) nezahrnuje desktopovou verzi Visia, takže se neumožňuje žádná instalace.
+**Poznámka:** Visio Online plán 1 neobsahuje desktopovou verzi Visio, takže není možná žádná instalace.
 
-Pokud máte předplatné Visia online (plán 2), musíte uživateli [přiřadit licenci](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) nebo nebudou mít možnost instalovat Visio z **mých instalací** na [portálu Můj účet](https://portal.office.com/account#installs). 
+Pokud máte předplatné Visio Online Plán 2, musíte [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) uživateli přiřadit licenci nebo nebude mít možnost nainstalovat Visio z  nabídky Moje instalace na portálu Můj [účet](https://portal.office.com/account#installs). 
 
-Multilicenční verze Visia Standard nebo Visio Professional jsou přidružené k účtům Microsoft a nedají se spravovat v centru pro správu. Aby se uživatelé mohli nainstalovat, musí se k [account.Microsoft.com](https://account.microsoft.com) přihlásit pomocí účtu Microsoft spojeného s touto verzí Visia.
+Nelicenční verze aplikací Visio Standard nebo Visio Professional jsou přidružené k účtům Microsoft a v Centru pro správu se nespraví. Pokud chcete nainstalovat tyto verze, musí se uživatelé přihlásit [account.microsoft.com](https://account.microsoft.com) účtu Microsoft přidruženého k této verzi Visio.
 
-Podrobnou nápovědu najdete v článku [instalace Visia](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) a postupujte podle pokynů pro vaši verzi Visia.
+Podrobnější nápovědu najdete v článku [Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) a postupujte podle pokynů pro vaši verzi Visio.
 
-Další informace najdete v těchto tématech:<br>
-[Průvodce nasazením aplikace Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Podporované scénáře pro instalaci různých verzí Office, Projectu a Visia na jednom počítači](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Licencování Visia](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+Další informace najdete v těchto informacích:<br>
+[Průvodce nasazením pro Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Podporované scénáře instalace různých verzí Office, Project a Visio na stejném počítači](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Visio Licencování](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

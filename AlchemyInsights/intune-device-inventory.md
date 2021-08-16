@@ -1,5 +1,5 @@
 ---
-title: Intune – inventář zařízení
+title: Inventář zařízení Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667871"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014065"
 ---
-# <a name="intune-device-inventory"></a>Intune – inventář zařízení
+# <a name="intune-device-inventory"></a>Inventář zařízení Intune
 
-Okno zařízení poskytuje správci přehled o zařízeních ve správě v Intune na jednotlivých zařízeních. Zobrazené informace zahrnují: hardware, zjištěné aplikace, stav shody zařízení a stav konfigurace zařízení.
+Okno Zařízení poskytuje správci přehled o zařízeních spravovaných v Intune na základě zařízení. Zobrazené informace zahrnují: Hardware, Zjištěné aplikace, Stav dodržování předpisů zařízení a Stav konfigurace zařízení.
 
-Data inventáře pro hardware a zjištěné aplikace se shromažďují po sedmi dnech. Uvedené aplikace a zvláštní prvky hardwaru se liší v závislosti na operačním systému zařízení a na tom, jestli je dané zařízení osobně nebo podnikově vlastněné.
+Data inventáře hardwaru a zjištěných aplikací se shromažďují v sedmidenním cyklu. Aplikace a konkrétní prvky oznámené hardwaru se liší v závislosti na operačním systému zařízení a na tom, jestli je zařízení vlastněné osobně nebo firemním vlastnictvím.
 
-Další informace najdete v tématu [zobrazení podrobností o zařízení v Intune](https://docs.microsoft.com/intune/device-inventory).
+Další informace najdete v tématu [Zobrazení podrobností o zařízení v Intune](https://docs.microsoft.com/intune/device-inventory).
 
 **Nejčastější dotazy**
 
-Otázka: mi se nezobrazuje seznam úplný soupis aplikací v Intune – registrovaná zařízení s Windows. Proč ne?
+Otázka: Nepřijímám úplný inventář aplikací, které jsou na zařízeních zaregistrované Windows Intune.Q: I am not receiving a full inventory list of applications present on Intune-enrolled Windows devices. Proč ne?
 
-A: pro počítače s Windows 10, které jsou označené jako podniková zařízení, jsou v současnosti uvedené jenom moderní aplikace. Intune neshromažďuje informace o aplikacích Win32 nainstalovaných na těchto zařízeních.
+O: V současné době jsou uvedené jenom moderní aplikace pro Windows 10 počítačů, které jsou identifikované jako podniková zařízení. Intune neshromažďuje informace o aplikacích Win32 nainstalovaných na těchto zařízeních.
 
-Otázka: Proč se telefonní čísla neshromažďují ze všech zařízení?
+Otázka: Proč nejsou telefonní čísla shromažďována ze všech zařízení?
 
-A: telefony, které jsou v Intune zařazené do kategorií, se neidentifikují s plným telefonním číslem, když třeba spustíte sestavu inventáře mobilních zařízení. Osobní telefonní čísla zařízení jsou vždy částečně maskována pomocí hvězdiček (* * * *) a zobrazují jenom poslední čtyři číslice.
+O: Telefony zařazené do kategorií jako podniková zařízení v Intune se při spuštění sestavy inventáře mobilních zařízení ne identifikují s jejich celým telefonním číslem. Telefonní čísla s vlastním zařízením jsou vždy částečně maskovaná hvězdičkami (****) a zobrazují se jenom poslední čtyři číslice.

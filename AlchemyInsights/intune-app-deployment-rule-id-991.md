@@ -1,5 +1,5 @@
 ---
-title: ID pravidla nasazení aplikace Intune pro 991
+title: Id pravidla nasazení aplikace Intune 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 561ff3a3a70029a6c53776176602f6de10a6637f8ab66c0189d7584220316e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014101"
 ---
-# <a name="intune-app-deployment"></a>Intune – nasazení aplikace
+# <a name="intune-app-deployment"></a>Nasazení aplikací Intune
 
-Nasazení aplikací s Intune je tříleté proces:
+Nasazení aplikací pomocí Intune je tříkrokový proces:
   
-1. **Přidání aplikace** – můžete přidat aplikaci App Store nebo nahrát firemní aplikaci.
+1. **Přidání aplikace** – Můžete přidat aplikaci z App Storu nebo nahrát aplikaci Line of Business.
 
-2. **Přiřazení aplikace** – určení rozsahu nasazení aplikace.
+2. **Přiřazení aplikace –** určete rozsah nasazení aplikace.
 
-3. **Aplikace pro sledování** – Podívejte se na stav instalace aplikací, seznam zjištěných aplikací a správu aplikací zakoupených v úložišti aplikací.
+3. **Monitorovací aplikace** – Zobrazení stavu instalace aplikací, seznamu zjištěných aplikací a správy aplikací zakoupených v obchodech s aplikacemi.
 
-Přečtěte si, [co je Intune Správa aplikací](https://docs.microsoft.com/intune/app-management) pro návody a informace o konfiguraci a ochraně aplikací.
+Podrobné pokyny a informace o konfiguraci a ochraně aplikací najdete v tématu Co je Správa aplikací [Intune.](https://docs.microsoft.com/intune/app-management)
   

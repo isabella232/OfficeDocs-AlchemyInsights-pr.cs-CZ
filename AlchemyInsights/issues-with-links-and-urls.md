@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
-ms.translationtype: HT
+ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707875"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054791"
 ---
 # <a name="issues-with-links-and-urls"></a>Problémy s odkazy a adresami URL
 
