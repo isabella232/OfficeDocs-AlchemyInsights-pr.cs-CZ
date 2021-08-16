@@ -1,5 +1,5 @@
 ---
-title: 1264 IP blokovaný pro posílání příliš velkých spamů (550 5.7.51)
+title: 1264 IP blokovaných pro posílání příliš mnoho spamu (550 5.7.51)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1264
 ms.assetid: f7af4211-9dbe-415c-b0e3-fc20d43c3868
-ms.openlocfilehash: 1a80c9faf463f4bd2e96d9b7f7cc62fdd4b4fad3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 64d8d9588b8ed7d394e6e359d48bf941cbff26e93e0f8ea284bf3b6688400b3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099243"
 ---
-# <a name="access-denied-banned-sender"></a>Odepřený přístup, zakázaný odesílatel
+# <a name="access-denied-banned-sender"></a>Přístup odepřen, zakázaný odesílatel
 
- **Chyba**: Chyba protokolu SMTP ze vzdáleného serveru pro příkaz příjem z adresy Host: *xxxx*-com.mail.Protection.Outlook.com (*xxx.xxx.xxx.xxx*) důvod: 550 5.7.511 přístup odepřen, zakázaný odesílatel [*xx.xxx.x.xxx*]. 
+ **Chyba:** Chyba SMTP ze vzdáleného serveru pro příkaz RCPT TO, hostitel: *xxxx*-com.mail.protection.outlook.com (*xxx.xxx.xxx.xxx*) důvod: 550 5.7.511 Access denied, banned sender [*xx.xxx.x.xxx*]. 
 
-Pokud se zobrazí tato chyba při posílání e-mailů pro příjemce Microsoft 365, odeberte ohrožený účet ze seznamu Blokovaní odesílatelé [https://sender.office.com](https://sender.office.com) .
+Pokud se při odesílání e-mailů příjemci Microsoft 365, odeberte tento účet ze seznamu blokovaných odesílatelů na adrese [https://sender.office.com](https://sender.office.com) .

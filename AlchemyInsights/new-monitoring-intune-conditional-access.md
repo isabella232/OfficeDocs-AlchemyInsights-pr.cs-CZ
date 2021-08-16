@@ -1,5 +1,5 @@
 ---
-title: Sledování podmíněného přístupu Intune
+title: Monitorování podmíněného přístupu k Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: e2803a49aaf087ac55b1fd62056e2b0af3fcd919
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427180"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025495"
 ---
-# <a name="monitor-intune-conditional-access"></a>Sledování podmíněného přístupu Intune
+# <a name="monitor-intune-conditional-access"></a>Monitorování podmíněného přístupu k Intune
 
-Pokud uživatelé, na které podmíněný přístup zacílete, nesplňuje požadavky organizace na přístup, dostanou e-mail s oznámením. Jako řešení doporučujeme jedno nebo více z následujících řešení:
+Uživatelé s podmíněným přístupem dostanou e-mail s oznámením, pokud nesplňuje požadavky vaší organizace na přístup. K vyřešení doporučujeme jedno nebo více z následujících řešení:
 
-1. Pokud by už zařízení mělo být zaregistrované, poraďte uživateli, aby přecoval aplikaci Portál společnosti a ověřil, jestli se na portálu společnosti objeví. V tom případě musí uživatel zařízení zaregistrovat.
-1. Na portálu Azure Portal přejděte na Dodržování **předpisů**  >  **zařízením** Intune. 
-1. Pokud chcete zobrazit sestavu o dodržování předpisů zařízením a ověřit, jestli je zařízení uživatele označené jako zařízení dodržující předpisy, klikněte v části **Monitor** na **Dodržování předpisů zařízením.**
-1. Na portálu Azure Portal přejděte na Dodržování **předpisů**  >  **zařízením** Intune. V **části Spravovat klikněte** na **Zásady.** V seznamu zásad dodržování předpisů ověřte, jestli má zařízení uživatele přiřazený profil. Pokud není žádný profil přiřazený, nebude moct Intune ověřit stav dodržování předpisů zařízení.
+1. Pokud se předpokládá, že je zařízení zaregistrované, doporučíte uživateli, aby šel do aplikace Portál společnosti a ověřil, že se zobrazuje v Portál společnosti. Pokud ne, musí si uživatel zařízení zaregistrovat.
+1. Na portálu Azure Portal přejděte na **Dodržování předpisů zařízení Intune**  >  . 
+1. Pokud chcete zobrazit zprávu o dodržování předpisů zařízení, abyste ověřili, že je zařízení uživatele označené jako kompatibilní, klikněte v části **Monitor** na **Shoda zařízení.**
+1. Na portálu Azure Portal přejděte na **Dodržování předpisů zařízení Intune**  >  . V **části Manage (Spravovat)** klikněte na **Policies (Zásady).** V seznamu zásad dodržování předpisů ověřte, jestli je profil přiřazený k zařízení vašeho uživatele. Pokud není přiřazen žádný profil, Intune nebude moct potvrdit stav dodržování předpisů zařízení.
 1. Upravte přiřazení podmíněného přístupu uživatele.
-1. Na portálu Azure Portal přejděte na Zásady podmíněného přístupu **Intune,** vyberte zásadu ze seznamu a klikněte na  >    >  Uživatelé a **skupiny.**
-1. Pokud chcete určité zásady na někoho zacílit, přidejte ho do **seznamu Zahrnout.** Pokud chcete zajistit, aby byla osoba ze zásad vynechána, přidejte ji do **seznamu Vyloučit.**
+1. Na portálu Azure Portal přejděte na **Zásady podmíněného** přístupu Intune , vyberte zásadu ze seznamu  >    >  a klikněte na Uživatelé a **skupiny.**
+1. Pokud chcete na někoho zacílit určitou zásadu, přidejte je do **seznamu Zahrnout**. Pokud chcete zajistit, aby byla osoba ze zásad vynechána, přidejte ji do **seznamu Vyloučit**.
 
 **Užitečné odkazy:**
 
-- [Přehled dodržování předpisů zařízením](https://docs.microsoft.com/intune/device-compliance-get-started)
-- [Řešení potíží s CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
-- [Zásady pro řešení potíží](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
-- [Monitorování dodržování předpisů zařízením Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Přehled dodržování předpisů pro zařízení](https://docs.microsoft.com/intune/device-compliance-get-started)
+- [Poradce při potížích s certifikační autoritou](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Poradce při potížích se zásadou](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Monitorování dodržování předpisů zařízení Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
 > [!NOTE]
-> Tyto kroky jsou užitečné jenom při řešení potíží s podmíněným přístupem funkce Azure Active Directory. Taky je možné umístit zařízení do karantény, které zablokuje přístup k e-mailu pomocí zásad Exchange. Další informace o správě zařízení Exchange najdete [**tady.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))
+> Tyto kroky jsou užitečné jenom při řešení potíží Azure Active Directory podmíněného přístupu. Je také možné umístit zařízení do karantény, které blokuje přístup k e-mailu pomocí Exchange zásad. Další informace o Exchange zařízení najdete [**tady**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).
