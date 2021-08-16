@@ -1,5 +1,5 @@
 ---
-title: Změna názvu domény písmena nebo pravopisu
+title: Změna písmen nebo pravopisu v názvu domény
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5996"
 - "9003201"
-ms.openlocfilehash: df8d5cc492d0c0505ec3ecc67b2e7baea45f9ce3
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 81467d0af12e98774b7d04c70f82f4c8fbd4b8c39295f7eaa925cbfe14042f9e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815706"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045809"
 ---
-# <a name="change-a-domain-name-letter-case-or-spelling"></a>Změna názvu domény písmena nebo pravopisu
+# <a name="change-a-domain-name-letter-case-or-spelling"></a>Změna písmen nebo pravopisu v názvu domény
 
-Pokud chcete změnit pravopis názvu vlastní domény, třeba všechna malá písmena nebo kombinaci malých a velkých písmen, musí být doména odebraná a znovu přidaná pomocí požadovaného písmene nebo pravopisu.
+Pokud chcete změnit pravopis vlastního názvu domény, například na všechna malá písmena nebo kombinaci malých a velkých písmen, musí být doména odebrána a znovu přidána s požadovaným písmenem nebo pravopisem.
 
-1. Na [stránce domény](https://admin.microsoft.com/Adminportal#/Domains)zvolte doménu a pak vyberte  **odebrat doménu**.</br>
+1. Na stránce [Domains (Domény)](https://admin.microsoft.com/Adminportal#/Domains)zvolte doménu a pak **vyberte Remove domain (Odebrat doménu).**</br>
 
-    Podrobnější pokyny najdete v tématu [Jak odebrat doménu](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide).
+    Podrobnější pokyny najdete v tématu [Odebrání domény](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide).
 
-2. Přidejte znovu doménu se správným pravopisem a písmenem písmen pomocí [Průvodce přidáním domény](https://admin.microsoft.com/Adminportal#/Domains/Wizard).
+2. Znovu přidejte doménu se správným pravopisem a písmeny pomocí [Průvodce přidáním domény](https://admin.microsoft.com/Adminportal#/Domains/Wizard).
 
-Po přihlášení nemůžete změnit písmena ani přejmenovat doménu onmicrosoft.com ani doménu zakoupenou prostřednictvím Microsoftu.
+Po přihlášení nemůžete změnit malá a velká písmena ani přejmenovat doménu onmicrosoft.com doménu zakoupenou prostřednictvím Microsoftu.

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8a26f93f89d6aba5ed889cdfb862bfdc7ae520faffbdc7efc6778a38c8ba12af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818425"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968586"
 ---
 # <a name="change-the-account-type-that-you-sign-in-with"></a>Změna typu účtu, pomocí které se přihlašovat
 
-Tady je postup, jak změnit typ účtu, který používáte k přihlášení k Windows 10:
+Tady je postup, jak změnit typ účtu, který používáte k přihlášení, Windows 10:
 
-1. Vyberte **Start**  >  **Settings**  >  **Accounts**  >  **Your info**.)
+1. Vyberte **Spustit**  >  **Nastavení**  >  **Účty Vaše**  >  **informace**.
 2. Pokud používáte místní účet, který není propojený s e-mailovou adresou, ale chcete použít účet Microsoft, vyberte Místo toho Přihlásit se pomocí **účtu Microsoft.**
 3. Pokud používáte účet Microsoft, který je propojený s e-mailovou adresou, ale chcete použít místní účet, vyberte Místo toho Přihlásit se pomocí **místního účtu.**
 4. V případě potřeby zadejte heslo a pak vyberte **Další**.

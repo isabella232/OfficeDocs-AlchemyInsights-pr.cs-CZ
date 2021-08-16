@@ -1,5 +1,5 @@
 ---
-title: Instalace Serveru sestav Power BI
+title: Instalace Server sestav Power BI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01cc2efc2dacc2fdf0b7b7f036bc18e1c75fd515348b72d5c4dde96949a51a2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832087"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028573"
 ---
-# <a name="install-power-bi-report-server"></a>Instalace Serveru sestav Power BI
+# <a name="install-power-bi-report-server"></a>Instalace Server sestav Power BI
 
 1. Najděte umístění PowerBIReportServer.exe a spusťte instalační program.
 
-2. Vyberte **Nainstalovat Server sestav Power BI.**
+2. Vyberte **Nainstalovat Server sestav Power BI**.
 
 3. Zvolte edici, která se má nainstalovat, a pak vyberte **Další**.
 
@@ -35,6 +35,6 @@ ms.locfileid: "51832087"
 
 7. Po úspěšném nastavení vyberte Konfigurovat **server sestav** a spusťte službu Reporting Services Správce konfigurace.
 
-V době instalace není k dispozici server SQL Server Database Engine. Budete ho potřebovat ke konfiguraci služby Reporting Services po instalaci.
+V době instalace nepotřebujete SQL Server Database Engine k dispozici. Budete ho potřebovat ke konfiguraci služby Reporting Services po instalaci.
 
 Další informace: https://docs.microsoft.com/power-bi/report-server/install-report-server
