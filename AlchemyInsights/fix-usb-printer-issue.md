@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750a4f7ac0cd36476b0f682dd8b72ee6da4df0ba6879e1f9dad32dbcea15053e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068445"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Řešení problémů s připojením tiskárny USB
 
@@ -31,10 +31,10 @@ Pokud to nefunguje, zkuste tiskárnu USB odebrat **a přeinstalovat**:
 
 1. Odeberte tiskárnu v Nastavení:
     1. Odpojte kabel USB tiskárny od počítače.
-    2. Vyberte **Start**  >  **Settings**  >  **Devices**  >  **Printers & skenery**.
+    2. Vyberte **Spustit**  >  **Nastavení**  >  **zařízení tiskárny**&  >  **skenery**.
     3. V **& tiskárny** vyberte tiskárnu, kterou chcete vyřešit. Vyberte **Odebrat zařízení**. Postupujte podle pokynů pro úplné odebrání tiskárny.
 2. Odeberte software jiného výrobce tiskárny:
-    1. Vyberte **Start** Settings Apps  >    >  (Aplikace **pro nastavení startu).**
+    1. Vyberte **Spustit**  >  **Nastavení**  >  **aplikace**.
     2. V **& aplikací** vyhledejte software nainstalovaný od výrobce tiskárny (například HP, Canon nebo Epson).
     3. Vyberte software a vyberte **Odinstalovat**.
 3. Vypněte tiskárnu a restartujte ji.<br>
