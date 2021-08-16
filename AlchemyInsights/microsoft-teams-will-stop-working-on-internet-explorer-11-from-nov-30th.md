@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams přestává pracovat na Internet Exploreru 11 od listopadu
+title: Microsoft Teams přestane fungovat na Internet Exploreru 11 od 30. listopadu.
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004213"
 - "7406"
-ms.openlocfilehash: b9558864ea632be3a69dc8af98dc4d47e19bee30
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
-ms.translationtype: MT
+ms.openlocfilehash: 339a179e1be88d80dc9df377eb06853f9184b4305b9fd029f565ba54fd30e546
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026935"
 ---
-# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams přestává pracovat na Internet Exploreru 11 od listopadu
+# <a name="microsoft-teams-will-stop-working-on-internet-explorer-11-from-nov-30th"></a>Microsoft Teams přestane fungovat na Internet Exploreru 11 od 30. listopadu.
 
-Společnost Microsoft Teams MC225570 nepodporují Internet Explorer (IE) 11, která byla oznámena v 2020. 
+Jak jsme oznámili v aplikaci MC225570 od 30. listopadu 2020, webová aplikace Microsoft Teams už nebude podporovat Internet Explorer (IE) 11. 
 
-Doporučujeme, abyste si provedli aktualizaci na nový [Microsoft Edge](https://www.microsoft.com/edge) pro bezpečnější a další inovační prostředí online. 
+Doporučujeme aktualizovat na nový [](https://www.microsoft.com/edge) Microsoft Edge pro bezpečnější a inovativnější online prostředí. 
 
-Další informace najdete v článku o aplikacích [microsoft 365, které říká Farewell na Internet Explorer 11 a Windows 10 slunce starší verze – Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666)
+Další informace najdete v článku Microsoft 365 s [Internet Explorerem 11](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) a Windows 10 západy starší verze Microsoft Edge – Microsoft Tech Community
 

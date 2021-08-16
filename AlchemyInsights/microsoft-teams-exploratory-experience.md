@@ -1,5 +1,5 @@
 ---
-title: Průzkumné prostředí Microsoft Teams
+title: Microsoft Teams Průzkumné prostředí
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 96bcd589e03a67acd61e231e777f0d26aae9687dd2c9284babe3e2669343ca5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027043"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Průzkumné prostředí Microsoft Teams
+# <a name="microsoft-teams-exploratory-experience"></a>Microsoft Teams Průzkumné prostředí
 
-- Co je [průzkumná aplikace Teams?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Průzkumné prostředí Microsoft Teams umožňuje uživatelům ve vaší organizaci, kteří nemají licenci pro Teams, zahájit průzkumné prostředí Teams. Další informace najdete v tématu o tom, co je v prostředí [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Jak dlouho trvá průzkumné prostředí Teams?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Prostředí Microsoft Teams Exploratory je k dispozici bez dalších nákladů po dobu 12 měsíců (od registrace počátečního uživatele) plus další 30denní odkladná lhůta.
+- Co je [Teams Průzkumná?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Funkce Microsoft Teams průzkumu umožňuje uživatelům ve vaší organizaci, kteří nemají licenci na Teams, zahájit průzkumné prostředí Teams. Další informace najdete v článku o tom, co je v [Teams průzkumu](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Jak dlouho trvá Teams prostředí průzkumu?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Prostředí Microsoft Teams průzkumu je k dispozici bez dalších nákladů po dobu 12 měsíců (od registrace počátečního uživatele) plus další 30denní odkladná lhůta.
 - Jako správce můžete upgradovat uživatele z licence [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) zakoupením předplatného, které zahrnuje Teams, odebráním průzkumných předplatného Teams od uživatele a přiřazením nově zakoupené licence.
-- Další informace najdete v tématu [Správa průzkumné licence Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory).
+- Další informace najdete v tématu [Správa Teams průzkumné licence](https://docs.microsoft.com/microsoftteams/teams-exploratory).

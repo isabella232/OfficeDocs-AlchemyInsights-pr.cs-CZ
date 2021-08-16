@@ -13,14 +13,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: a8bf778640798397067263fa0fca49dc0e70402d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0d28cad4da38f111592ab64faa3bf338352ef43efd8b1745ede3498efffb9a4f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051803"
 ---
 # <a name="setting-up-a-hybrid-environment"></a>Nastavení hybridního prostředí
 
-Pokud chcete uživatelům umožnit bezproblémovou práci bez ohledu na to, jestli jsou jejich data uložená na místních nebo v Microsoft 365, možná budete muset nastavit hybridní prostředí. Pokud chcete získat přehled o možnostech, podívejte se [na integrace Microsoft 365 s místními prostředími](https://docs.microsoft.com/office365/enterprise/office-365-integration).
+Aby uživatelé mohli bez problémů spolupracovat bez ohledu na to, jestli jsou jejich data uložená na místních serverech nebo v Microsoft 365, budete možná muset nastavit hybridní prostředí. Pokud chcete získat přehled o svých možnostech, podívejte se na Microsoft 365 integrace s místním [prostředím](https://docs.microsoft.com/office365/enterprise/office-365-integration).
   
