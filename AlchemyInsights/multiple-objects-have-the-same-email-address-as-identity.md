@@ -1,5 +1,5 @@
 ---
-title: Více objektů má stejnou e-mailovou adresu jako identita
+title: Více objektů má stejnou e-mailovou adresu jako identita.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724608"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011905"
 ---
-# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Více objektů má stejnou e-mailovou adresu jako identita
+# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>Více objektů má stejnou e-mailovou adresu jako identita.
 
 **Více objektů**
 
-Jedním ze častých důvodů této chyby není umožnit správné směrování požadavku aplikace Outlook Web Access v přítomnosti více objektů se stejnou e-mailovou adresou jako identita. K vyhledání těchto objektů použijte následující příkazy:
+Jedním z běžných důvodů této chyby je, že není možné správně směrovat žádost Outlook Web Accessu za přítomnosti více objektů se stejnou e-mailovou adresou jako identita. Pokud chcete tyto objekty najít, spusťte následující příkazy:
 
-· Get-příjemce <email address>
+· Get-Recipient <email address>
 
 · Get-User <email address>
 
 · Get-User <email address> -SoftDeletedUser
 
-· Získat kontakt <email address>
+· Get-Contact <email address>
 
-· Get – poštovní schránka <email address> – PublicFolder
+· Get-Mailbox <email address> -PublicFolder
 
-· Get – poštovní schránka <email address> – IncludeSoftDeletedMailbox
+· Get-Mailbox <email address> -IncludeSoftDeletedMailbox
 
-· Get – poštovní schránka <email address> – InactiveMailboxOnly
+· Get-Mailbox <email address> -InactiveMailboxOnly
 
-Tento problém vyřešíte tak, že odeberete více objektů se stejnou e-mailovou identitou a zajistěte, aby byl jediný objekt se specifickou identitou e-mailu a aby jeho typ příjemce byl UserMailbox.
+Pokud chcete tento problém vyřešit, odeberte více objektů se stejnou identitou e-mailu a ujistěte se, že existuje jeden objekt s konkrétní identitou e-mailu a že jeho typem příjemce je UserMailbox.
 
-**Pro firemní a spotřebitelské poštovní schránky se používá stejná adresa**
+**Stejná adresa se používá pro firemní a spotřebitelské poštovní schránky.**
 
-Další příčina je, když se pro firemní a spotřebitelské poštovní schránky používá stejná adresa. V tomto případě musí uživatel změnit svůj primární alias pro uživatele, dokud kavárny tento scénář nepodporuje. Jedná se o trvalou chybu, která není bez zásahu.
+Další příčinou je, když se stejná adresa používá pro firemní a spotřebitelské poštovní schránky. V takovém případě musí uživatel změnit svůj primární alias příjemce, dokud Cafe tento scénář nepodporuje. Jedná se o trvalou chybu, která nezmizí bez zásahu.
 
-Podrobnosti najdete v článku [Změna e-mailové adresy nebo telefonního čísla pro váš účet Microsoft](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account).
+Podrobnosti najdete v tématu [Změna e-mailové adresy nebo telefonního](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account)čísla účtu Microsoft.

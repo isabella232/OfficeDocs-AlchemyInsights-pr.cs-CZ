@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966966"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296044"
 ---
 # <a name="release-quarantined-messages"></a>Uvolnění zpráv v karanténě
 
-Zprávu v karanténě (nebo sadu zpráv) můžete uvolnit všem příjemcům nebo zprávu vydat jenom konkrétním lidem, které vyberete ze seznamu všech příjemců.
+Zprávu v karanténě (nebo sadu zpráv) můžete uvolnit všem příjemcům nebo zprávu vydat jenom konkrétním lidem, které vyberete ze seznamu všech příjemců. Postup:
 
-1. Přejděte do [Centra zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Přejděte na **Správa hrozeb**  >  **Zkontrolovat**  >  **karanténu**.
-3. Zvolte zprávy, které chcete uvolnit.
-4. Po vydání zprávy zvolte  Aktualizovat a aktualizujte data a poklikejte na zprávu. Měli byste vidět, že zpráva byla vydána zamýšleným příjemcům.
+1. Na portálu Microsoft 365 Defender na <https://security.microsoft.com> webu přejděte na **Email & Collaboration** \> **Review** \> **Quarantine**.)
+
+   Pokud chcete přejít přímo na **stránku Karanténa,** použijte <https://security.microsoft.com/quarantine> .
+
+2. Na stránce **Karanténa** ověřte, že **je** vybraná karta e-mailu, a pak proveďte jeden z následujících kroků:
+   - **Jedna zpráva:** Vyberte zprávu. V plovoucím seznamu podrobností, který se zobrazí, vyberte **Uvolnit e-mail,** nakonfigurujte požadované možnosti a potom klikněte na Zpráva o **vydání.**
+   - **Více zpráv:** Výběrem až 100 zpráv zprávu uvolníte všem příjemcům (nemůžete zadat jednotlivé původní příjemce). V **rozevíracím seznamu Hromadné** akce, který se zobrazí, vyberte Uvolnit zprávy **,** nakonfigurujte požadované možnosti a potom klikněte na Zpráva **o vydání**.
+
+Další informace najdete v následujících článcích:
+
+- [Vyhledání a uvolnění zpráv v karanténě jako uživatele](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Správa zpráv a souborů v karanténě jako správce](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

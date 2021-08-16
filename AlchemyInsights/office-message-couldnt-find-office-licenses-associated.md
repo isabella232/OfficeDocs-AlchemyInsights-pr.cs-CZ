@@ -1,5 +1,5 @@
 ---
-title: Zpráva o aplikacích Microsoft 365 – nelze najít přidružené licence Office
+title: Microsoft 365 aplikací – nelze najít přidružené Office licence.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16cc9d8d2ede108ea8301f9971f84ac7b6bafaabab8e26edefe15acf66783339
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064923"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Zpráva o aplikacích Microsoft 365 – nelze najít přidružené licence Office
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 aplikací – nelze najít přidružené Office licence.
 
 Pokud chcete tuto chybu vyřešit, vyzkoušejte následující:
 
@@ -39,10 +39,10 @@ Pokud potíže potrvají, vyzkoušejte následující kroky:
 
 - Resetujte stav aktivace Office. Přečtěte si téma zaměřené na [resetování stavu aktivace Microsoft 365 Apps pro podniky](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru a ověřte, že neblokují přístup aplikací Microsoft 365 k internetu. 
+- Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru, abyste potvrdili, že Microsoft 365 aplikace neblokují přístup k internetu. 
 
 Další řešení problémů najdete tady:
 
 [Chyby typu Nelicencovaný produkt a chyby aktivace v Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Adresy URL a rozsahy IP adres v Microsoftu 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 Adresy URL a rozsahy IP adres](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

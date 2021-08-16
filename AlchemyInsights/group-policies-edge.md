@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11109"
-ms.openlocfilehash: 5afae22d7327a5d841964c12c73d70904ae72132b82810af74d32fc15ef30d6f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3bb3e7756cade296671d679b0ad7babe3051d418
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963960"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295864"
 ---
 # <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Použití zásad skupiny souvisejících s aktualizací, které jsou dostupné v Microsoft Edge
 
-Pomocí zásad dostupných v Microsoft Edge (verze 77 nebo novější) můžete řídit, jak a kdy Microsoft Edge aktualizace. Další informace najdete v tématu [Microsoft Edge – Aktualizace zásad](/DeployEdge/microsoft-edge-update-policies#available-policies).
+Pomocí zásad dostupných v Microsoft Edge (verze 77 nebo novější) můžete řídit, jak a kdy Microsoft Edge aktualizace. Další informace najdete v tématu [Microsoft Edge – Aktualizace zásad](https://docs.microsoft.com/DeployEdge/microsoft-edge-update-policies#available-policies).
