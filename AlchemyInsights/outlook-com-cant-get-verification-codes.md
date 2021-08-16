@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799521"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064197"
 ---
-# <a name="cant-get-verification-codes"></a>Nelze zjistit ověřovací kódy
+# <a name="cant-get-verification-codes"></a>Nelze získat ověřovací kódy.
 
-Pokud nemůžete získat přístup k alternativnímu e-mailu nebo telefonnímu číslu, přejděte na stránku [Základy zabezpečení](https://account.microsoft.com/security) účtu Microsoft, na přihlašovací stránce vyberte **nemám některou z těchto** možností a podle pokynů nahraďte svoje bezpečnostní údaje.
+Pokud nemáte přístup ke svému alternativnímu e-mailu [](https://account.microsoft.com/security) nebo telefonnímu číslu, přejděte na stránku Základy zabezpečení účtu Microsoft, vyberte Na přihlašovací stránce žádné z nich nemám a podle pokynů nahraďte bezpečnostní údaje. 
 
-*Poznámka:* [Aplikace Microsoft Authenticator](https://go.microsoft.com/fwlink/?linkid=2016117) nevyžaduje připojení k Internetu a poskytne vám ověřovací kód.
+*Poznámka:* Aplikace [Microsoft Authenticator nepožaduje](https://go.microsoft.com/fwlink/?linkid=2016117) připojení k internetu, aby vám poskytla ověřovací kód.
 
-Další informace najdete v článku [bezpečnostní údaje účtu Microsoft a ověřovací kódy](https://support.microsoft.com/help/12428/).
+Další informace najdete v článku Bezpečnostní údaje [a ověřovací kódy](https://support.microsoft.com/help/12428/)účtu Microsoft .

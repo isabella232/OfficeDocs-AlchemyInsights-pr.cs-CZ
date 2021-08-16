@@ -1,5 +1,5 @@
 ---
-title: V Outlook.com nejde tisknout
+title: Na Outlook.com se netiskne
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: ca4d0bb958c26a602a0e044e9b97a05d59c14537
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59b99ef0de921403001e18eb6db0848aab5a0c0c0e49e253915e0bee806dc24b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064233"
 ---
-# <a name="unable-to-print"></a>Nelze tisknout
+# <a name="unable-to-print"></a>Tisk se nedaří
 
-Víme o problému, kdy někteří uživatelé nemůžou tisknout, když používají prohlížeče Safari nebo Edge. Když pracujeme na opravě, použijte jiný prohlížeč. Omlouváme se za nepříjemnosti.
+Víme o problému, kdy někteří uživatelé při používání prohlížečů Safari nebo Edge netisknou. Zatímco pracujeme na opravě tohoto problému, použijte prosím jiný prohlížeč. Omlouváme se za nepříjemnosti.
