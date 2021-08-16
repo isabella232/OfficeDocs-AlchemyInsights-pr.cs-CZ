@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9003797"
 - "6836"
-ms.openlocfilehash: e8aa177477c1f87de6ce87cecd5f015d1a03756c
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 7c25c2b782bdffadd5239aeeb7e0aba5386aeef42a7b5236c7d282ac3ba26a55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689111"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029329"
 ---
 # <a name="how-to-cancel-a-subscription"></a>Jak zrušit předplatné
 

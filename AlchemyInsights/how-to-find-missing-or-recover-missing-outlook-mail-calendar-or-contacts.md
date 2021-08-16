@@ -1,5 +1,5 @@
 ---
-title: 204 jak najít chybějící nebo obnovit chybějící poštu, kalendář nebo kontakty Outlooku
+title: 204 Jak najít chybějící nebo obnovit chybějící Outlook pošty, kalendáře nebo kontaktů
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780340"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029149"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Vyhledání a obnovení chybějících zpráv, kontaktů nebo položek kalendáře v Outlooku
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Jak najít a obnovit chybějící zprávy, kontakty nebo položky kalendáře v Outlook
 
-1. V Outlooku přejděte do seznamu složek e-mailu a vyberte **Odstraněná pošta**. **Důležité**: Pokud složku **Odstraněná pošta** nevidíte, ale místo toho se zobrazí složka **Koš** , váš účet nepodporuje obnovení položky, která už není ve složce **Odstraněná pošta** .
+1. V Outlook přejděte do seznamu e-mailových složek a pak vyberte **Odstraněná pošta**. **Důležité:** Pokud složku Odstraněná  pošta nevidíte, ale  místo toho se zobrazí složka Koš, váš účet nepodporuje obnovení položky, která už není ve složce **Odstraněná** pošta.
 
-2. V nabídce **Domů** klikněte na **Obnovit odstraněné položky ze serveru**. **Důležité**: Pokud příkaz **Obnovit odstraněné položky ze serveru** v nabídce neexistuje, váš účet nepodporuje obnovení položky, která už není ve složce **Odstraněná pošta** .
+2. V nabídce **Home (Domů)** klikněte **na Recover Deleted Items From Server (Obnovit odstraněné položky ze serveru).** **Důležité:** Pokud v  nabídce není příkaz Obnovit odstraněné položky ze serveru, váš účet nepodporuje obnovení položky, která už není ve složce **Odstraněná** pošta.
 
-3. Vyberte položky, které chcete obnovit, klikněte na **Obnovit vybrané položky**a potom klikněte na **OK**.
+3. Vyberte položky, které chcete obnovit, klikněte na **Obnovit vybrané položky** a potom klikněte na **OK.**
 
-**Kam se najdou obnovené položky?** Když obnovíte položky ze složky obnovitelných položek, přesunou se do složky **Odstraněná pošta** . Jakmile položku obnovíte, najdete ji ve složce **Odstraněná pošta** a můžete ji přesunout do jiné složky.
+**Kam jdou obnovené položky?** Když obnovíte položky ze složky Obnovitelné položky, přesunou se do složky **Odstraněná** pošta. Po obnovení položky ji najdete ve složce **Odstraněná** pošta a pak ji můžete přesunout do jiné složky.
 
-Můžete také použít problémy s [posíláním, přijímáním nebo hledáním nástroje e-mailových zpráv](https://aka.ms/SaRA-OutlookSendReceive) **v postiženém počítači**. Tento nástroj vyhledá řadu problémů a navrhne možná řešení.
+Můžete taky použít nástroj [Mám problémy s odesíláním, přijímáním](https://aka.ms/SaRA-OutlookSendReceive) nebo hledáním e-mailových zpráv na **příslušném počítači.** Tento nástroj zkontroluje řadu problémů a navrhne možná řešení.
