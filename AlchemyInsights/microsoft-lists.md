@@ -1,5 +1,5 @@
 ---
-title: Seznamy společnosti Microsoft
+title: Seznamy Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: a773279a47a6e5462e9c06837513e75ce3d4f318
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: c1e2e6edaa3df301da0a7f5acb4197a5221bc5058e5c8158001e1f97692bcba4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098019"
 ---
-# <a name="microsoft-lists"></a>Seznamy společnosti Microsoft
+# <a name="microsoft-lists"></a>Seznamy Microsoft
 
-Microsoft spouští první fázi seznamů Microsoft, což je aplikace Microsoft 365. Seznam Microsoft je centrální místo pro zobrazení a správu všech seznamů.  
+Microsoft spouští první fázi Seznamy Microsoft, Microsoft 365 aplikace. Seznamy Microsoft je centrálním místem pro zobrazení a správu všech seznamů.  
   
-Funkce je teď 100% dostupná všem uživatelům s licencí SharePointu a ikona seznamy je dostupná ze Spouštěče aplikací.
+Funkce je teď 100 % dostupná pro všechny uživatele s SharePoint licencí a ikona Seznamy je přístupná ze spouštěče aplikací.
 
-Jako globální správce nebo správce SharePointu v Microsoft 365 můžete řídit nastavení pro seznamy Microsoftu. Můžeš:
+Jako globální nebo SharePoint správce Microsoft 365 můžete řídit nastavení pro Seznamy Microsoft. Můžeš:
 
-- Zakažte vytváření osobních seznamů (Zabraňte uživatelům ukládat nové seznamy do seznamů moje seznamy).
-- Zakáže předdefinované šablony seznamů, které nejsou pro vaši organizaci důležité.
-Viz [ovládací prvky seznamů](https://docs.microsoft.com/sharepoint/control-lists)
+- Zakažte vytváření osobních seznamů (zabraňte uživatelům v ukládání nových seznamů do seznamu Moje seznamy).
+- Zakažte předdefinné šablony seznamu, které nejsou pro vaši organizaci relevantní.
+Viz [Seznamy ovládacích prvek](https://docs.microsoft.com/sharepoint/control-lists)
 
-Další informace najdete v tématu [Microsoft seznam](https://aka.ms/microsoftlists).
+Další informace najdete v tématu [Seznamy Microsoft](https://aka.ms/microsoftlists).
