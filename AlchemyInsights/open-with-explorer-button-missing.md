@@ -1,5 +1,5 @@
 ---
-title: Chybějící tlačítko otevřít v Průzkumníkovi
+title: Tlačítko Otevřít v Průzkumníkovi chybí
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
-ms.openlocfilehash: d5b5e37c7486c218998fd684bebd309c96bbeac2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5bc054a95c9bac07f2eb1b79b7241c610461545ade0088ac74254e6ae4169ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041615"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>Chybí tlačítko otevřít v Průzkumníkovi
+# <a name="the-open-with-explorer-button-is-missing"></a>Chybí tlačítko Otevřít v Průzkumníkovi
 
-Tlačítko **otevřít v Průzkumníkovi** se nezobrazuje v moderních prostředích SharePointu a OneDrivu. Pokud chcete otevřít knihovnu dokumentů v Průzkumníkovi souborů, přejděte na ni v Internet Exploreru a v \> **Průzkumníku souborů vyberte zobrazení**nabídka Zobrazit. Možnost **zobrazení v Průzkumníkovi souborů** není dostupná v Microsoft Edge, Google Chrome nebo Firefox. 
+Tlačítko **Otevřít v Průzkumníkovi** se nezobrazuje v moderním prostředí SharePoint a OneDrive. Pokud chcete otevřít knihovnu dokumentů v Průzkumníkovi souborů, vyhledejte ji v Internet Exploreru a vyberte zobrazení \> **v nabídce Zobrazení v Průzkumníkovi souborů.** Možnost **Zobrazit v Průzkumníkovi** souborů není dostupná v aplikacích Microsoft Edge, Google Chrome nebo Firefox. 
   
 > [!NOTE]
-> Otevření v Průzkumníkovi je podporováno jenom přes Internet Explorer. Místo toho [synchronizujte soubory SharePointu s novým synchronizačním klientem OneDrivu](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , který poskytuje [soubory na vyžádání](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Přístup ke všem souborům na OneDrivu bez použití prostoru místního úložiště 
+> Otevřít v Průzkumníkovi je podporováno jenom v Internet Exploreru. Místo toho [synchronizujte SharePoint soubory s novým klientem synchronizační aplikace OneDrivu,](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) který [poskytuje soubory na vyžádání](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Získejte přístup ke všem souborům na OneDrivu bez použití prostoru místního úložiště. 
   
 

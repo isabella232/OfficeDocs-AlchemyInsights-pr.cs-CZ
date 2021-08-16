@@ -1,5 +1,5 @@
 ---
-title: Připojení k Projectu Online
+title: Připojení do Project Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2661"
 - "9000697"
-ms.openlocfilehash: 019fedf90f44b629a41c8e6268566ddef774122a
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b097798ee38ae88c316c455e9c8bba2dedee8238a5c4e4c034ecfc9cdc17f72e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032983"
 ---
-# <a name="connect-to-project-online"></a>Připojení k Projectu Online
+# <a name="connect-to-project-online"></a>Připojení do Project Online
 
-K Projectu Online se můžete připojit pomocí:
+Ke službě se Project Online připojit pomocí:
 
-- Project Online Desktop client to connect to Project Online in your Office 365 environment. Další informace najdete v článku [Připojení k Projectu Online pomocí desktopového klienta Projectu Online.](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client)  
-- Služba Power BI vám pomůže získat přehled z Project Web Appu, který vám pomůže spravovat projekty, portfolia a zdroje. Další informace najdete v tématu [Připojení k Project Web Appu pomocí Power BI.](https://docs.microsoft.com/power-bi/connect-data/service-connect-to-project-online)  
+- Project Online Desktopové klienty pro připojení Project Online ve vašem Office 365 prostředí. Další informace najdete v tématu [Připojení Project Online s Project Online Desktop Client](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client).  
+- Power BI Služba pro odemknutí přehledu Project Web Appu, která pomáhá spravovat projekty, portfolia a zdroje. Další informace najdete v tématu [Připojení Project Web Appu s Power BI](https://docs.microsoft.com/power-bi/connect-data/service-connect-to-project-online).  

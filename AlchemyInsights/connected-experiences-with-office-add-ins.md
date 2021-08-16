@@ -1,5 +1,5 @@
 ---
-title: Připojení prostředí s doplňky pro Office
+title: Propojené prostředí s Office doplňky
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: ca4aa57acfa8f2ddfd5b8ddbaa6d7214cfbb9140
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b05b39f6298eb6e05c4465584a884395c863a891ec525828f795809eeb787a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032803"
 ---
-# <a name="connected-experience-with-office-add-ins"></a>Připojení prostředí s doplňky pro Office
+# <a name="connected-experience-with-office-add-ins"></a>Propojené prostředí s Office doplňky
 
-Doplňky pro Office nemusí být k dispozici, pokud uživatel nebo správce vypnute připojené prostředí.
+Office doplňky nemusí být dostupné, pokud uživatel nebo správce vypnuli připojené prostředí.
 
-Před změnou nastavení zásad se podívejte na článek [Správa nastavení zásad ochrany osobních údajů pro aplikace Microsoft 365 pro podniky](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).
+Před změnou nastavení zásad si pro správu ovládacích prvků ochrany osobních údajů pro Microsoft 365 Apps pro velké organizace [.](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls)
 
-Uživatelé mohou nastavení ochrany osobních údajů zapnout nebo vypnout takto:
+Uživatelé mohou nastavení Ochrany osobních údajů zapnout nebo vypnout takto:
 
-- **Účet > > zabezpečení účtu > spravovat nastavení** 
+- **Soubor > účet > ochrana osobních údajů > Správa Nastavení** 
 
-    V části propojená prostředí zvolte, jestli jsou dostupné určité připojené prostředí, například prostředí analýzy obsahu. Pokud v možnostech spravovat nastavení nevyberte možnost určité prostředí, budou všechny připojené prostředí k dispozici.
+    V části Připojená prostředí zvolte, jestli jsou dostupná specifická propojená prostředí, například možnosti analýzy obsahu. Pokud nevyberoute konkrétní možnosti v části Správa Nastavení, budou dostupná všechna propojená prostředí.

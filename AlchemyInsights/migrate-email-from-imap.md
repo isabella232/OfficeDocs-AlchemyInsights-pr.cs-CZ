@@ -5,18 +5,19 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 565337818ead3f38a7bb800ffd5b4d6bbe3de81b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: e7bd898017c808daa07e26fd5489250966dfc68a33a69738da2b694b9af2fb74
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510817"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992500"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>Zobrazení chyby Neakceptovaná doména
 
