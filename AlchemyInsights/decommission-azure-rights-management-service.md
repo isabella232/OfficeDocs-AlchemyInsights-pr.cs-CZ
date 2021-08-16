@@ -1,5 +1,5 @@
 ---
-title: Vyřazení Azure Rights Management Service (RMS)
+title: Vyřazení služby Azure Rights Management Service (RMS) z provozu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5070"
 - "9002278"
-ms.openlocfilehash: 6bacfd0e383c1a7c02b50e60f9626a733ee68cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9347eb827c5225042b4c84a4a324c8dcba2b5403bf033b86b498047ba696bfce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031795"
 ---
-# <a name="decommission-azure-rights-management-service-rms"></a>Vyřazení Azure Rights Management Service (RMS)
+# <a name="decommission-azure-rights-management-service-rms"></a>Vyřazení služby Azure Rights Management Service (RMS) z provozu
 
-Než dezaktivujete službu Azure Rights Management, ujistěte se, že máte kopii klíče klienta ochrany informací Azure a vhodnou důvěryhodnou doménu publikování (TPD).
+Před deaktivací služby Azure Rights Management se ujistěte, že máte kopii klíče tenanta Azure Information Protection a vhodné důvěryhodné domény publikování (TPD).
 
-Další materiály o vyřazení a deaktivaci ochrany informací Azure najdete v těchto tématech:
+Další zdroje informací o vyřazení z provozu a deaktivaci ochrany pro Azure Information Protection najdete v těchto článku:
 
-- [Kurz: Konfigurace nastavení zásad ochrany informací Azure a vytvoření nového štítku](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Co je ochrana informací v Azure?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Návody pro běžné scénáře používající službu Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Kurz: Konfigurace nastavení zásad Azure Information Protection a vytvoření nového štítku](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Co je Azure Information Protection?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Návody pro běžné scénáře, které používají Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [Jak migrovat štítky ochrany informací Azure do jednotných popisků citlivosti](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
+- [Jak migrovat popisky Azure Information Protection na popisky sjednocené citlivosti](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
     
-- [Ceny služby Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)  
+- [Ceny Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)  
     
-- [Požadavky na ochranu informací Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [Požadavky na Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
     
-- [Jak aktivovat službu ochrany přístupových práv na portálu Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/activate-azure)
+- [Aktivace služby rights management protection z portálu Azure Portal](https://docs.microsoft.com/azure/information-protection/deploy-use/activate-azure)

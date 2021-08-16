@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2555"
 - "9000675"
-ms.openlocfilehash: a97712433a245c16e9dd01192f689c3afc96d4cb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e9e9ddd131c109d20f1772089b8103fbde12d81adc3f2282210c8a9e2e43611
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815788"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031759"
 ---
-# <a name="pstn-calling-with-microsoft-teams"></a>Volání do veřejné telefonní sítě pomocí Microsoft Teams
+# <a name="pstn-calling-with-microsoft-teams"></a>Volání do veřejné telefonní sítě s Microsoft Teams
 
-Další informace o telefonech Microsoft Teams a volání do veřejné telefonní sítě v Microsoft Teams najdete v tématu Co [je Microsoft Teams Phone v Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)
+Další informace o Microsoft Teams Telefon a volání do veřejné telefonní sítě v Microsoft Teams najdete v tématu Co [je Microsoft Teams Telefon v Microsoft 365?](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365)

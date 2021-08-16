@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 26e4ba40a5517212fbd82308668e5a57e8d5be51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbb11eb5b4b8c0489cf0b496decdf7493f5b545656a38806a29a0a252903e000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100683"
 ---
 # <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Kód chyby 30125-4 nebo 30125-1011 při instalaci Office
 
-Tato chyba se může zobrazit, pokud váš antivirový software, brána firewall, nastavení proxy serveru nebo připojení brání instalaci Office. Tady je pár věcí, které můžete zkusit vyřešit problém:
+Tato chyba se může zobrazit, pokud vám antivirový software, brána firewall, nastavení proxy serveru nebo připojení brání v instalaci Office. Tady je několik věcí, které můžete zkusit vyřešit:
   
-- Restartování počítače a přeinstalace Office
+- Restartujte počítač a znovu nainstalujte Office
 
-- Instalace Office pomocí [offline instalačního programu Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Instalace Office pomocí Office [offline instalačního programu](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Vypněte dočasně nastavení proxy.
+- Dočasné vypnutí nastavení proxy serveru
 
-- Vypněte dočasně antivirový software.
+- Dočasné vypnutí antivirového softwaru
 
-- Vypněte dočasně bránu firewall.
+- Dočasné vypnutí brány firewall
 
-Další informace najdete v článku [kód chyby 30125-4 nebo 30125-1011 při instalaci Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+Další informace najdete v [článku Kód chyby 30125-4 nebo 30125-1011](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA) při instalaci Office
   

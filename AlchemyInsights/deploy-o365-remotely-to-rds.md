@@ -1,5 +1,5 @@
 ---
-title: Nasazení aplikací Microsoft 365 pro podniky pro sdílené použití na RDS, Terminálovém serveru nebo VDI
+title: Nasazení Microsoft 365 Apps pro velké organizace pro sdílené použití v rds, terminálovém serveru nebo VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: a57be7fcf9d8236a51dc4b38e33ad1c2ac717f11
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: 55b86557ec205dde2c459d76e8e330d2a8271dbec723f079e119ebe409b41c3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031471"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Nasazení aplikací Microsoft 365 pro podniky pro sdílené použití na RDS, Terminálovém serveru nebo VDI
+# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Nasazení Microsoft 365 Apps pro velké organizace pro sdílené použití v rds, terminálovém serveru nebo VDI
 
-Nasazení aplikací Microsoft 365 pro podniky pomocí služby Vzdálená plocha (RDS), dříve s názvem Terminálová služba:
+Nasazení služby Microsoft 365 Apps pro velké organizace vzdálené plochy (RDS), dříve pojmenované Terminálová služba:
 
-- Musíte mít plán Microsoft 365 pro firmy nebo plán Office 365, který zahrnuje Aplikace Microsoft 365 pro podniky, jako je Office 365 Enterprise E3 nebo Enterprise E5.
+- Musíte mít plán Microsoft 365 for Business nebo plán Office 365, který zahrnuje Microsoft 365 Apps pro velké organizace, například Office 365 Enterprise E3 nebo Enterprise E5.
    > [!NOTE]
-   > Plány Microsoft 365 Apps pro firmy a Microsoft 365 Business Standard nezahrnují Aplikace Microsoft 365 pro podniky.
+   > Plány Microsoft 365 Apps pro firmy a Microsoft 365 Business Standard plány nezahrnují Microsoft 365 Apps pro velké organizace.
 - Musíte povolit [aktivaci sdíleného počítače](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 > [!NOTE]
-> Můžete si taky stáhnout a spustit [Pomocníka pro](https://aka.ms/SaRA_OfficeSCA_M365Portal) podporu a obnovení Microsoftu a nainstalovat aplikace Microsoft 365 pro podniky v režimu aktivace sdíleného počítače.
+> Můžete si taky stáhnout a spustit [microsoftový Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) a nainstalovat Microsoft 365 Apps pro velké organizace v režimu aktivace sdíleného počítače.
 
-Další informace o předpokladech, pokynech k instalaci a pokynech k přizpůsobené instalaci pomocí Nástroje pro nasazení Office najdete v tématu Nasazení [aplikací Microsoft 365 pro](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)podniky pomocí služby Vzdálená plocha .
+Další informace o předpokladech, pokynech k instalaci a pokynech k přizpůsobené instalaci pomocí nástroje pro nasazení Office najdete v tématu Nasazení Microsoft 365 Apps pro velké organizace pomocí služby [Vzdálená plocha](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
 
 Oprava chyb týkajících se aktivace sdíleného počítače:
 
-- Podívejte [se na článek Řešení problémů s aktivací sdíleného počítače pro Aplikace Microsoft 365 pro podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
+- Další informace najdete v tématu Řešení problémů s aktivací [sdíleného Microsoft 365 Apps pro velké organizace](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
 - Přečtěte si téma zaměřené na [resetování stavu aktivace Microsoft 365 Apps pro podniky](https://go.microsoft.com/fwlink/?linkid=2109218).
 
-Pokud chcete nainstalovat Microsoft 365 Apps pro podniky na RDS z Centra pro správu Microsoftu 365, které používá výchozí nastavení instalace , postupujte takto:
+Pokud chcete nainstalovat Microsoft 365 Apps pro velké organizace rds z Centrum pro správu Microsoftu 365, který používá výchozí nastavení ***instalace***, postupujte takto:
 
 1. Zkontrolujte, jaké máte předplatné. [Zjistěte, jak](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)na to.
 2. V případě potřeby přepněte na jiné předplatné. [Zjistěte, jak](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)na to.
-3. Pokud je Office už nainstalovaný na serveru RDS pomocí jiných předplatných Microsoftu, odinstalujte ho. Například tak, že v **Ovládacích panelech**  >  **odinstalujete program**. Pokud máte problémy, odinstalujte ji pomocí nástroje Microsoft Support and [Recovery Assistant.](https://aka.ms/SARA-OfficeUninstall-Alchemy)
-4. Na serveru RDS se přihlaste do Centra pro správu Microsoftu 365 pomocí účtu správce a [nainstalujte aplikace Microsoft 365 pro podniky](https://portal.office.com/OLS/MySoftware.aspx).
-5. Po instalaci Office ***se neotev ít ani*** se přihlásit k žádným aplikacím Office.
+3. Pokud Office server RDS nainstalovaný pomocí jiných předplatných Microsoftu, odinstalujte ho. Například tak, že v **Ovládacích panelech**  >  **odinstalujete program**. Pokud máte [problémy, Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) microsoftu odinstalovat.
+4. Na serveru RDS se přihlaste k účtu Centrum pro správu Microsoftu 365 správce a [nainstalujte si Microsoft 365 Apps pro velké organizace](https://portal.office.com/OLS/MySoftware.aspx).
+5. Po Office se ***neotev ít*** ani se k žádným aplikacím Office přihlásit.
 6. Na serveru RDS povolte aktivaci sdíleného počítače úpravou registru takto:
-   1. Klikněte pravým tlačítkem myši na tlačítko Windows v levém dolním rohu obrazovky a vyberte **Spustit.** Do pole Otevřít zadejte příkaz **regedit**, a potom vyberte **OK**.
+   1. Klikněte pravým tlačítkem na Windows v levém dolním rohu obrazovky a vyberte **Spustit.** Do pole Otevřít zadejte příkaz **regedit**, a potom vyberte **OK**.
    2. Po **zobrazení** výzvy k povolení editoru registru k provedení změn ve vašem zařízení vyberte Ano.
    3. V Editoru registru přidejte řetězcovou hodnotu **SharedComputerLicensing** s nastavením 1 v části HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. Na serveru RDS se přihlaste jako koncový ***uživatel a*** ověřte, jestli je pro Aplikace [Microsoft 365 pro podniky](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)povolená aktivace sdíleného počítače.
+   4. Na serveru RDS se přihlaste jako koncový ***uživatel a*** ověřte, že je povolená aktivace sdíleného počítače [pro Microsoft 365 Apps pro velké organizace](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).

@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: aab084237c3ab7659da53267aff5267c7a0ff5fa
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: b00170a44afe8d3f2a28bb63df46c646a29f787b844b904bec3b3006fefba300
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49571730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100827"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Úprava fakturačního profilu pro aplikace
 
-**Úprava profilů faktur**
+**Úprava fakturačních profilů**
 
-1. Přejděte na stránku **fakturace fakturačních**  >  **[& plateb](https://go.microsoft.com/fwlink/p/?linkid=848039)** a klikněte na **profily fakturace**.
+1. Přejděte na stránku  >  **[Fakturace & plateb a](https://go.microsoft.com/fwlink/p/?linkid=848039)** potom klikněte na Fakturační **profily.**
 
-2. V seznamu profilů faktur vyberte profil fakturace, který chcete upravit.
+2. V seznamu fakturačních profilů vyberte fakturační profil, který chcete upravit.
 
-**Změna fakturačního profilu na aplikacích**
+**Změna fakturačního profilu v aplikacích**
 
-1. Přejděte na stránku **fakturace**  >  **[vašich produktů](https://go.microsoft.com/fwlink/p/?linkid=842054)** a klikněte na kartu **aplikace** .
+1. Přejděte na stránku **Fakturace**  >  **[produkty a](https://go.microsoft.com/fwlink/p/?linkid=842054)** klikněte na **kartu** Aplikace.
 
 2. Najděte a vyberte aplikaci, kterou chcete spravovat.  
 
-3. Vedle **fakturačního profilu** klikněte na **Upravit** a vyberte profil fakturace, který chcete přidružit k aplikaci.
+3. Vedle **fakturačního profilu** klikněte **na Upravit** a vyberte fakturační profil, který chcete přidružit k aplikaci.
