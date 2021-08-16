@@ -1,5 +1,5 @@
 ---
-title: Použití Microsoft Edge založeného na prohlížečích Chromium pro export Ediscovery
+title: Použití Microsoft Edge na základě Chromium prohlížečů pro export Ediscovery
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a583896b5aa8e73be5e932a729c380acc8092e73b2151647c999f9a7b69669b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998381"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Použití Microsoft Edge založeného na prohlížečích Chromium pro export Ediscovery
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Použití Microsoft Edge na základě Chromium prohlížečů pro export Ediscovery
 
-Kvůli nedávné změně už prohlížeče Microsoft Edge nebudou mít ve výchozím nastavení povolenou podporu ClickOnce. Pokud chcete nástroj Microsoft 365 eDiscovery Exportovat dál používat, budete muset buď používat Microsoft Internet Explorer, nebo povolit podporu ClickOnce v Microsoft Edge. 
+Vzhledem k nedávné změně Microsoft Edge prohlížečům ClickOnce ve výchozím nastavení povolená podpora. Pokud chcete nástroj Microsoft 365 eDiscovery Exportovat dál používat, budete buď muset používat Microsoft Internet Explorer, nebo povolit ClickOnce podporu v Microsoft Edge. 
 
-Povolení podpory ClickOnce v Microsoft Edge na základě chromu: 
-1. V prohlížeči Microsoft Edge přejděte na edge://flags/#edge-click-once.
-2. U možnosti Podpora ClickOnce změňte hodnotu z **výchozího** nebo **zakázaného** na **Povoleno**. 
+Povolení podpory ClickOnce v Microsoft Edge na základě Chromium: 
+1. V Microsoft Edge prohlížeči přejděte na edge://flags/#edge-click-once.
+2. U možnosti ClickOnce podpory změňte hodnotu z **výchozího** nebo **zakázaného** na **Povoleno**. 
 3. V dolní části okna prohlížeče vyberte **Restartovat.** <br>
  Změna se projeví po restartování Microsoft Edge. 
 

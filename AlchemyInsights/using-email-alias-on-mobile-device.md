@@ -1,5 +1,5 @@
 ---
-title: 725 používání e-mailového aliasu na mobilním zařízení
+title: 725 Použití e-mailového aliasu na mobilním zařízení
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "725"
 - "1"
 ms.assetid: b6417cc9-c779-4856-b0e1-a2882af39397
-ms.openlocfilehash: 7eea3de92019afb801b1b843ef562b42ea85c7dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8aa55a0f4f054a3e36a2c04b455d5fab3507e8dd12c0d59f9c05e1e21374468
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998325"
 ---
 # <a name="email-aliases-on-mobile-devices"></a>E-mailové aliasy na mobilních zařízeních
 
-E-mailový alias je jenom jiná e-mailová adresa, která je nakonfigurovaná na poštovní schránce, takže zprávy odeslané na alias uživatele budou doručeny do poštovní schránky a budou čitelné na mobilním zařízení. Žádná další konfigurace není nutná.
+E-mailový alias je jenom další e-mailová adresa nakonfigurovaná v poštovní schránce, takže zprávy odeslané aliasu uživatele se doručí do jejich poštovní schránky a budou čitelné na mobilním zařízení. Není potřeba žádná další konfigurace.
 
-Uživatel ale nemůže odpovědět na zprávy ani posílat nové zprávy pomocí aliasu jako adresy odesílatele. Všechny odchozí zprávy budou z primární e-mailové adresy.
+Uživatel ale nemůže odpovídat na zprávy nebo posílat nové zprávy pomocí aliasu jako adresy Od. Všechny odchozí zprávy budou z jejich primární e-mailové adresy.

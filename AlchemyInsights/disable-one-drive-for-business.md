@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 4ebb1d6ae1a83176f3f5df0f14e96d41090cc27f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: df59b38eae53b028bddddb94def15c267e5e5d578f1ddd9e8459c930e67eabd8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016081"
 ---
-# <a name="disable-onedrive-for-business"></a>Zakázání OneDrivu pro firmy
+# <a name="disable-onedrive-for-business"></a>Zakázání OneDrive pro firmy
 
-Přístup k OneDrivu a jeho službám můžete zakázat několika způsoby v závislosti na potřebách vaší firmy:
+Existuje několik způsobů, jak můžete zakázat přístup k OneDrive a jeho službám v závislosti na potřebách vaší firmy:
 
-- [Vypnutí, zakázání nebo odinstalace OneDrivu](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-- [Povolení synchronizace účtů OneDrivu jenom pro konkrétní organizace](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-- [Zakázání vytváření webů OneDrivu pro některé uživatele](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+- [Vypnutí, zakázání nebo odinstalace OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+- [Povolit synchronizaci OneDrive účtů jenom pro určité organizace](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+- [Zakázání OneDrive webu pro některé uživatele](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 - [Řízení přístupu k datům SharePointu Online a OneDrivu na základě síťového umístění](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-- [Zabránění uživatelům v synchronizaci osobních účtů OneDrivu](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-- [Správa připojení ze zařízení s Windows k OneDrivu a dalším službám](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+- [Zabránění uživatelům v synchronizaci osobních OneDrive účtů](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+- [Správa připojení z Windows zařízení k OneDrive a dalším službám](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
