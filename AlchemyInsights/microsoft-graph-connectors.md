@@ -1,5 +1,5 @@
 ---
-title: Konektory Microsoft graphu
+title: Konektory Graph Microsoftu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027295"
 ---
-# <a name="microsoft-graph-connectors"></a>Konektory Microsoft graphu
+# <a name="microsoft-graph-connectors"></a>Konektory Graph Microsoftu
 
-S konektory Microsoft graphu může vaše organizace data třetích stran indexovat ve výsledcích vyhledávání.
+Díky konektorům Graph Microsoftu může vaše organizace indexovat data třetích stran, aby se Microsoft Search výsledky.
 
 - [Konektory od Microsoftu](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Konektory našich partnerů](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Konektory od našich partnerů](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Další informace najdete v tématu  [Přehled konektorů Microsoft graphu](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Další informace najdete v tématu [Přehled konektorů Microsoft Graph konektorů](https://docs.microsoft.com/microsoftsearch/connectors-overview).

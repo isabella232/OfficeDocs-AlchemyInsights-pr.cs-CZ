@@ -1,5 +1,5 @@
 ---
-title: Jak nastavit, aby nový Outlook.com vypadal jako starý
+title: Jak vytvořit nový Outlook.com jako ten starý
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067077"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Jak vytvořit nový Outlook.com jako starou verzi
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Jak vytvořit novou Outlook.com jako starou verzi
 
-Tady jsou některá nastavení, která můžete změnit tak, aby nový Outlook.com vypadal jako stará verze:
+Tady je několik nastavení, která můžete změnit, aby nová Outlook.com vypadala jako stará verze:
 
-1. Přejděte na [nastavení rozložení](https://outlook.live.com/mail/options/mail/layout).
-1. V části **prioritní Doručená pošta**vyberte **neřadit moje zprávy**.
-1. V části **organizace zpráv**vyberte možnost **nejnovější zprávy nahoře**.
-1. V části **Obrázek odesílatele**vyberte **Nezobrazovat obrázky odesílatelů**.
-1. V části **podokno čtení**vyberte **Skrýt podokno čtení**.
-1. V části **text náhledu zprávy**vyberte **Zobrazit náhled textu**.
-1. V části **vložené náhledy**vyberte **Nezobrazovat přílohy v seznamu zpráv**.
+1. Přejděte na [Nastavení rozložení](https://outlook.live.com/mail/options/mail/layout).
+1. V **části Focused inbox**(Doručená pošta) **vyberte Don't sort my messages (Neřadit moje zprávy).**
+1. V **části Organizace zpráv** vyberte nahoře nejnovější **zprávy.**
+1. V **části Obrázek odesílatele** vyberte **Nezískat obrázky odesílatelů**.
+1. V **části Podokno čtení** vyberte Skrýt podokno **čtení**.
+1. V **části Text náhledu zprávy** vyberte Zobrazit text **náhledu**.
+1. V **části Vložené náhledy** vyberte **Nezískal přílohy v seznamu zpráv**.
 
-Pokud chcete změnit nastavení pošty, aby vaše Doručená pošta vypadala a chovala podle vašich představ, přečtěte si článek [Změna vzhledu poštovní schránky v Outlook.com a v nové Outlooku na webu](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Pokud chcete změnit nastavení pošty tak, aby vaše doručená pošta vypadala a chovala se tak, jak chcete, podívejte se na část Změna vzhledu poštovní schránky v [Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)a nové Outlook na webu .

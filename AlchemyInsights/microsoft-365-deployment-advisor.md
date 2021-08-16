@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004194"
 - "7374"
-ms.openlocfilehash: 6d5c7042d2d8b2a113a8f2047b6d776d9247dd99
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 16bdbfaf95ee3744027ce03d591518db86cad0c9b86a227244a908245501eb6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677540"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027376"
 ---
 # <a name="deploy-microsoft-365"></a>Nasazení Microsoft 365
 
-[Nástroj Microsoft 365 Deployment Advisor](https://go.microsoft.com/fwlink/?linkid=2072646) poskytuje komerčním zákazníkům pokyny, jak nastavit nástroje zvyšující produktivity, zásady zabezpečení a možnosti správy zařízení. V aplikaci Microsoft 365 Business Premium nebo Microsoft 365 for Enterprise Subscription můžete pomocí tohoto poradce nastavit a nakonfigurovat zařízení organizace.
+Poradce [Microsoft 365 nasazení](https://go.microsoft.com/fwlink/?linkid=2072646) poskytuje komerčním zákazníkům pokyny při nastavování nástrojů pro zvýšení produktivity, zásad zabezpečení a možností správy zařízení. S předplatným Microsoft 365 Business Premium nebo Microsoft 365 pro podnikové předplatné můžete pomocí tohoto poradce nastavit a nakonfigurovat zařízení vaší organizace.
 
-Budete mít pokyny a přístup k prostředkům, abyste mohli povolit cloudové služby, aktualizovat zařízení na nejnovější podporovanou verzi Windows 10 a připojovat zařízení do služby Azure Active Directory (Azure AD) v jednom centrálním umístění.
+Budete dostávat pokyny a přístup k prostředkům, abyste mohli povolit cloudové služby, aktualizovat zařízení na nejnovější podporovanou verzi Windows 10 a připojit zařízení k Azure Active Directory (Azure AD), a to vše v jednom centrálním umístění.

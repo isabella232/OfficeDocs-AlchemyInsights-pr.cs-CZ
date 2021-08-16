@@ -1,5 +1,5 @@
 ---
-title: Nákup služby Azure Active Directory Premium P2
+title: Koupit Azure Active Directory Premium P2
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003942"
 - "6997"
-ms.openlocfilehash: 4c369183ea769b688d0b766d156b1f73e3318b17
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ffff2b8d526c12390915cba7a1e5a6d39f82586be53b7848646bd8ab8f17a426
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996659"
 ---
-# <a name="buy-azure-active-directory-premium-p2"></a>Nákup služby Azure Active Directory Premium P2
+# <a name="buy-azure-active-directory-premium-p2"></a>Koupit Azure Active Directory Premium P2
 
-Pokud chcete vyzkoušet nebo koupit Azure Active Directory Premium P2, postupujte takto:
+Pokud chcete vyzkoušet nebo Azure Active Directory Premium P2, postupujte takto:
 
-1. Přejděte na   >    >  [**zabezpečení a totožnost**](https://go.microsoft.com/fwlink/?linkid=2131946)služeb pro nákupy fakturace a potom klikněte na **Azure Active Directory Premium P2**.
-Pokud jste si vyzkoušeli bezplatnou zkušební verzi, dokončete proces podle pokynů na stránce. Jinak přejděte ke kroku 2.
-1. Na další stránce zadejte počet uživatelských licencí a platební období a potom klikněte na **Rezervovat**.
-1. Na stránce **rezervace** zkontrolujte informace o ceně a klikněte na **Další**.
-1. Na další stránce zadejte informace o platbě a adrese a potom objednávku vydejte.
-1. Zadejte své telefonní číslo a potom klikněte na **mi já** nebo **zavolat mi**.
-1. Zadejte ověřovací kód, který jsme vám poslali, a pak proces dokončete podle pokynů na stránce.
+1. Přejděte na **Fakturační** nákupní služby Zabezpečení a  >    >  [**identita**](https://go.microsoft.com/fwlink/?linkid=2131946)a potom klikněte na **Azure Active Directory Premium P2**.
+Pokud jste vybrali bezplatnou zkušební verzi, dokončete proces podle pokynů na stránce. v opačném případě přejděte ke kroku 2.
+1. Na další stránce zadejte počet uživatelských licencí a platební období a klikněte na **Rezervovat hned.**
+1. Na stránce **Pokladna** zkontrolujte informace o cenách a klikněte na **Další.**
+1. Na další stránce zadejte informace o platbě a adrese a pak zadejte objednávku.
+1. Zadejte své telefonní číslo a potom klikněte na **Text mi** nebo **Zavolejte mi**.
+1. Zadejte ověřovací kód, který jsme vám poslali, a pak dokončete proces podle pokynů na stránce.

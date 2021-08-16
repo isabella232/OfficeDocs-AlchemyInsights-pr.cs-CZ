@@ -1,5 +1,5 @@
 ---
-title: Rozhraní API aplikace Microsoft Graph REST
+title: Rozhraní ROZHRANÍ REST API Graph Microsoftu
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 3c9bf956624775c394534ab150d39193e5e10144
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d8ef9f22e495feba26ecc1d3e21b996b199cbe16c6d3fdbf8e2e50893fe15942
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027187"
 ---
-# <a name="microsoft-graph-rest-api-interface"></a>Rozhraní API aplikace Microsoft Graph REST
+# <a name="microsoft-graph-rest-api-interface"></a>Rozhraní ROZHRANÍ REST API Graph Microsoftu
 
-Nastavení rozhraní API graphu v koncovém bodě v 1.0 jsou v obecném stavu dostupnosti (GA) a se zákazníky, kteří provedli přísný proces hodnocení a odesílání názorů, aby splňovali praktické požadavky na výrobu.
+Sady Graph API na koncovém bodu verze 1.0 jsou ve stavu obecné dostupnosti (GA) a prošly přísným procesem kontroly a zpětné vazby se zákazníky, aby uslyšeli praktické produkční potřeby.
 
-- Další informace o rozhraní Graph API v 1.0 naleznete v tématu [Microsoft Graph REST API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0). 
-- Další informace o verzi aplikace Graph API beta najdete v tématu [Microsoft Graph beta Endpoint reference](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta).
+- Další informace o rozhraní GRAPH API verze 1.0 najdete v tématu Referenční informace Graph [ROZHRANÍ REST API v1.0.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0) 
+- Další informace o beta verzi Graph ROZHRANÍ API najdete v tématu Referenční informace o Graph koncových bodů [aplikace Microsoft Graph beta](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta)verzi.
 
-Další informace o aplikaci Microsoft Graph naleznete v [dokumentaci k aplikaci Microsoft Graph](https://docs.microsoft.com/graph/).
+Další informace o microsoftové Graph najdete v dokumentaci [k Graph Microsoftu.](https://docs.microsoft.com/graph/)
 
 

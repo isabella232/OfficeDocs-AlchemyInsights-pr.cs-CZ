@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996623"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook se nemůže připojit k veřejným složkám
 
 Pokud přístup k veřejné složce některým uživatelům nefunguje, zkuste toto:
 
-Připojte se k EXO PowerShellu a nakonfigurujte parametr DefaultPublicFolderMailbox na problémový uživatelský účet tak, aby odpovídal parametru na pracovním uživatelském účtu.
+Připojení exo PowerShellu a nakonfigurujte parametr DefaultPublicFolderMailbox na problémový uživatelský účet tak, aby odpovídal parametru v pracovním uživatelském účtu.
 
 Příklad:
 
@@ -33,18 +33,18 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 Počkejte aspoň jednu hodinu, než se změna projeví.
 
-Pokud problém přetrvává, vyřešte prosím pomocí [tohoto](https://aka.ms/pfcte) postupu problémy s přístupem k veřejné složce v Outlooku.
+Pokud problém přetrvává, [vyřešte](https://aka.ms/pfcte) prosím pomocí tohoto postupu problémy s přístupem k veřejné složce pomocí Outlook.
  
-**Řízení přístupu uživatelů k veřejným složkám pomocí Outlooku:**
+**Řízení přístupu uživatelů k veřejným složkám pomocí Outlook:**
 
 1.  Použití Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true nebo $false  
       
-    $true: Povolení přístupu uživatelů k veřejným složkám v Outlooku  
+    $true: Povolení přístupu uživatelů k veřejným složkám v Outlook  
       
-    $false: Zabraňte přístupu uživatelů k veřejným složkám v Outlooku. Tato hodnota je výchozí.  
+    $false: Zabraňte přístupu uživatelů k veřejným složkám v Outlook. Tato hodnota je výchozí.  
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Poznámka:** Tento postup může řídit připojení jenom s desktopem Outlooku pro klienty s Windows. Uživatel může dál přistupovat k veřejným složkám pomocí OWA nebo Outlooku pro Mac.
+**Poznámka:** Tento postup může řídit připojení jenom u Outlook plochy pro Windows klienty. Uživatel může dál přistupovat k veřejným složkám pomocí aplikace OWA nebo Outlook pro Mac.
  
-Další informace najdete v článku Oznámení podpory řízených připojení k veřejným [složkám v Outlooku](https://aka.ms/controlpf).
+Další informace najdete v článku Oznámení podpory řízených připojení k veřejným složkám [v Outlook](https://aka.ms/controlpf).

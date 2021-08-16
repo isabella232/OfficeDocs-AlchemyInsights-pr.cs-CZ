@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002461"
 - "5577"
-ms.openlocfilehash: f6e1133dd1ab01efb23d6ae41bd77d1a33256298
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b651af2a2b74647625adfc7af3a90f90808d1e51d0ec9f04c73313fd7232c4ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067041"
 ---
 # <a name="limit-sharing-in-microsoft-teams"></a>Omezení sdílení v Microsoft Teams
 
-Pokud chcete porozumět tomu, jak obecně omezit sdílení v Teams a Microsoft 365, zkontrolujte Článek o omezení sdílení [v Microsoftu 365.](https://docs.microsoft.com/microsoft-365/solutions/microsoft-365-limit-sharing?view=o365-worldwide)
+Pokud chcete pochopit, jak omezit sdílení v Teams a Microsoft 365 obecně, zkontrolujte Omezení [sdílení v Microsoft 365](https://docs.microsoft.com/microsoft-365/solutions/microsoft-365-limit-sharing?view=o365-worldwide).
 
 Informace o tom, jak řídit přístup prostřednictvím zásad podmíněného přístupu, najdete v tématu:
 

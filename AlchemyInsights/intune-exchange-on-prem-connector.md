@@ -1,5 +1,5 @@
 ---
-title: Místní konektor Exchange Intune
+title: Intune Exchange místní konektor
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807399"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013957"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Místní konektor Exchange Intune
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange místní konektor
 
-Podrobné informace o tom, jak nastavit konektor mezi Intune a Exchange hostujícím místně, najdete v této dokumentaci:
+Podrobnosti o nastavení konektoru mezi Intune a Exchange, který je hostovaný místně, najdete v následující dokumentaci:
 
-[Nastavení Intune on-premised Exchange Connectoru v Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Nastavení místního konektoru Intune Exchange Azure Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**ČAST**
+**Časté otázky:**
 
-Otázka: při pokusu o nastavení Exchange Connectoru se zobrazuje chybová zpráva, že se nepoužívá verze Exchange Connector. Jaká je příčina?
+Otázka: Při pokusu o nastavení konektoru Exchange konektoru se zobrazí chybová zpráva Exchange konektoru aplikace Exchange Connector. Co může být příčinou?
 
-A: účet, který používáte, je odpovídajícím způsobem licencován
+A: Účet, který používáte, je licencován odpovídajícím způsobem – musí mít aktivní licenci Intune.
 
-Otázka: je možné mít více konektorů Exchange?
+Otázka: Je možné mít více Exchange konektorů?
 
-A: můžete nastavit jenom jednu Exchange Connector pro tenanta Intune na organizaci Exchange. Konektor může být nainstalovaný jenom na jednom serveru v organizaci pro více serverů Exchange.
+O: Pro jednoho tenanta Intune můžete nastavit jenom Exchange konektor pro každou Exchange intune. Konektor se instaluje jenom na jeden server v organizaci pro výměnu více serverů.
 
-Také nemůžete mít nastavené konektory pro Exchange místně i Exchange Online nakonfigurované ve stejném tenantovi.
+Také nemůžete mít nakonfigurované konektory pro místní Exchange i pro Exchange Online nakonfigurované ve stejném tenantovi.
 
-Otázka: pro připojení k Exchangi může konektor použít pole CAS?
+Otázka: Může spojnice použít matici CAS jako své připojení k Exchange?
 
-A: zadání pole CAS není podporovanou konfigurací nastavení konektoru. Měl by být zadán jenom jeden server a měl by být hardcoded v konfiguračním souboru konektoru, který najdete v části
+A: Zadání matice CAS není podporovaná konfigurace v nastavení spojnice. Měl by být určen jenom jeden server a měl by být pevně zakódovaný v konfiguračním souboru konektoru, který najdete v
 
-program data\microsoft\microsoft Intune na místní konektor Exchange \ OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premise Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Vyhledejte následující položku ```<ExchangeWebServiceURL />``` a nahraďte ji adresou URL serveru Exchange.
+Vyhledejte následující položku ```<ExchangeWebServiceURL />``` a nahraďte adresu URL exchange serverem.
 
-**Pøíklad**
+**Příklad:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Další řešení potíží najdete v následující dokumentaci: [Poradce při potížích s Intune místním Exchange konektorem](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Další řešení potíží najdete v následující dokumentaci: Řešení potíží s místním [konektorem Exchange Intune](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Povolení podrobného protokolování konektoru Exchange**
+**Povolení podrobného protokolování pro Exchange konektor**
 
-1. Otevřete konfigurační soubor sledování konektoru Exchange Connector pro úpravy.  
-Umístění souboru:%ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
+1. Otevřete konfigurační soubor Exchange konektoru pro úpravy.  
+Soubor se nachází na adrese : %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Pøíklad**
+**Příklad:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Vyhledejte TraceSourceLine pomocí následujícího klíče: OnPremisesExchangeConnectorService  
+2. Vyhledejte tracesourceline s následujícím klíčem: OnPremisesExchangeConnectorService  
   
-3. Změna hodnoty uzlu SourceLevel z informační ActivityTracing (výchozí) na Verbose ActivityTracing  
+3. Změna hodnoty uzlu SourceLevel z informace ActivityTracing (výchozí) na Verbose ActivityTracing  
 
-**Pøíklad**
+**Příklad:**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ Umístění souboru:%ProgramData%\Microsoft\Windows Intune Exchange Connector\Tr
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Restartujte službu Microsoft Intune Exchange  
-5. Úplnou synchronizaci na portálu Intune až do jeho dokončení a pak změňte zpátky XML na "informační ActivityTracing" a restartujte službu Microsoft Intune Exchange.  
+4. Restartujte službu Microsoft Intune Exchange.  
+5. Úplná synchronizace na portálu Intune, dokud se nedokončí, a potom změňte xml zpět na "Information ActivityTracing" (Informační aktivita) a restartujte Microsoft Intune Exchange service.  
 6. Umístění protokolů je: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

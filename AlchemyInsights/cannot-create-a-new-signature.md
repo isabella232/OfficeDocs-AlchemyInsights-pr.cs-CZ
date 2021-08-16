@@ -1,5 +1,5 @@
 ---
-title: Nelze vytvořit nový podpis
+title: Nový podpis nelze vytvořit.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1c7df87bbd879d2a5d6983b699c3edb585eab475e449f5b95775927d704361e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996479"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>V Outlooku nejde přidat nebo vytvořit nový podpis.
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Nový podpis v aplikaci Outlook
 
-Jedná se o známý problém. Pracujeme na opravě a stav bude aktualizován v [Outlooku po kliknutí na tlačítko podpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Jedná se o známý problém. Pracujeme na jeho opravě a stav se aktualizuje v [Outlook na tlačítko Podpis](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
 
-Chcete-li tento problém vyřešit, [zkuste nejprve provést kroky](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) pro odinstalaci předinstalovaných desktopových aplikací Microsoft Office. 
+Tento problém můžete vyřešit tak, že nejdřív [zkuste](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) odinstalovat předinstalovaný Microsoft Office desktopové aplikace. 
 
-Pokud to pro tento počítač nefunguje, vyzkoušejte prosím [řešení](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Pokud to pro ovlivněný počítač nefunguje, zkuste prosím alternativní řešení založené [na registru](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).

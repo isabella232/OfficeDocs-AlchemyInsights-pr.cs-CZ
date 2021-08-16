@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: d92d44d7c4b926eebb231e7ea1fcb90010482c72
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8159c7750c487a19c58c863d39efce22ad7faecaa44376a2592eb9d3ff6d233a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988396"
 ---
 # <a name="enable-the-audit-log"></a>Povolení protokolu auditování
 

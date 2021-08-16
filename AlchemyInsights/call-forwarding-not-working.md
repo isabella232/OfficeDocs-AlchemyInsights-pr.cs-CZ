@@ -1,5 +1,5 @@
 ---
-title: Přesměrování hovorů, skupiny volání a souběžné vyzvánění v Teams
+title: Přesměrování volání, skupiny volání a souběžné vyzvánění v Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004159"
 - "7251"
-ms.openlocfilehash: e9ce11063f47bc8208714186a572846544f3abd0
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: 23578487c3e5a988f888172b7a15309217c261284f662a4e07f21ba3a4971004
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996407"
 ---
-# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Přesměrování hovorů, skupiny volání a souběžné vyzvánění v Teams
+# <a name="call-forwarding-call-groups-and-simultaneous-ring-in-teams"></a>Přesměrování volání, skupiny volání a souběžné vyzvánění v Teams
 
-Nastavení přesměrování hovorů
+Nastavení přesměrování volání
 
-1. V klientovi Teams klikněte na svůj profilový obrázek v horní části aplikace teams a vyberte **nastavení > hovory**.
-2. V části **pravidla odpovědi na volání** zvolte **přesměrovávat moje hovory** a pak vyberte, kam chcete přesměrovat dál: Hlasová schránka, jiná osoba nebo skupina volání.
+1. V Teams klikněte na svůj profilový obrázek v horní části Teams a pak vyberte **Nastavení > Hovory**.
+2. V **části Pravidla pro odpovědi** na volání zvolte Přeposílání hovorů a pak vyberte, kam mají přeposlané hovory chodit: hlasová pošta, jiná osoba nebo skupina hovorů. 
 
-Nastavení přesměrování hovorů do skupiny hovorů
+Nastavení přesměrování volání do skupiny volání
 
-1. V části **pravidla volání hovorů** vyberte **přesměrovávat moje hovory**.
-2. V nabídce **předat dál** vyberte **Skupina volání**.
-3. V části **Přidat lidi** přidejte do skupiny volání požadované lidi. Můžete přidat až 25 lidí. Kdokoli, kterého přidáte, dostane oznámení.
+1. V **části Pravidla pro volání** vyberte **Přeposílání hovorů**.
+2. V nabídce **Přeposlání** na vyberte **Skupina volání**.
+3. V **části Přidat lidi** přidejte lidi, které chcete mít ve skupině volání. Můžete přidat až 25 lidí. Každý, koho přidáte, dostane oznámení.
