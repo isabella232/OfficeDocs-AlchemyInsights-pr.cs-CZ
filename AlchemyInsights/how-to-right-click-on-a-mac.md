@@ -1,5 +1,5 @@
 ---
-title: 8000063 jak kliknout pravým tlačítkem na Macu
+title: 8000063 Jak kliknout pravým tlačítkem myši na Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779296"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001933"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Jak kliknout pravým tlačítkem na Macu
+# <a name="how-to-right-click-on-a-mac"></a>Jak kliknout pravým tlačítkem myši na Mac
 
-V počítačích Mac se kliknutí pravým tlačítkem označují jako sekundární kliknutí nebo ovládací prvek. Pokud myš, trackpadu nebo jiné vstupní zařízení nezahrnuje tlačítko kliknutí pravým tlačítkem nebo jiným způsobem, jak ho kliknout pravým tlačítkem myši, podržte při kliknutí na klávesnici klávesu **Control** .
+Na počítačích Mac se kliknutí pravým tlačítkem označuje jako sekundární kliknutí nebo kliknutí na ovládací prvek. Pokud myš, trackpad nebo jiné vstupní zařízení neobsahuje tlačítko pro kliknutí pravým tlačítkem myši nebo jiný způsob, jak provést kliknutí pravým tlačítkem myši, podržte při kliknutí klávesu **Control** na klávesnici.
   
-Další informace najdete v článku [Podpora Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Další informace najdete v podpoře [Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
   

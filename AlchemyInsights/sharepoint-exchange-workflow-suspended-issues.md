@@ -1,5 +1,5 @@
 ---
-title: Začínáme se SharePointem Online
+title: Začínáme s SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a14705003f742641f10c8459b7c7024146e4134a8d5113451e5732cef7326484
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700700"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051407"
 ---
-# <a name="workflows-in-sharepoint"></a>Pracovní postupy v SharePointu
+# <a name="workflows-in-sharepoint"></a>Pracovní postupy v SharePoint
 
-Pokud pracovní postupy SharePointu neodesílají e-maily, mohla by vaše organizace vyznamenala limity pro odesílatele Exchange Online.
+Pokud SharePoint pracovní postupy neposílaly e-maily, vaše organizace se možná setkala s Exchange Online odesílateli.
 
-Chybová zpráva "pracovní postup je pozastaven" se může zobrazit, pokud máte některou z následujících věcí:
+Pokud máte jednu z následujících položek, může se zobrazit chybová zpráva Pracovní postup je pozastavený:
 
-- V SharePointu Online máte pracovní postup používající typ platformy SharePoint 2010 nebo SharePoint 2013 pracovního postupu.
+- Máte pracovní postup v SharePoint Online, který používá typ platformy SharePoint 2010 nebo SharePoint 2013.
 
-- Pracovní postup je nakonfigurovaný tak, aby posílal vlastní e-mailovou zprávu více než 200 uživatelům najednou, více než 10 000 příjemců za den nebo více než 30 zpráv za minutu.
+- Pracovní postup je nakonfigurovaný tak, aby odesílal vlastní e-mailovou zprávu více než 200 uživatelům najednou, více než 10 000 příjemců za den nebo více než 30 zpráv za minutu.
 
-Když spustíte pracovní postup, e-mailová zpráva není odeslaná a zobrazí se chybová zpráva, vnitřní stav je nastaven na pozastaveno nebo se nedaří Odeslat příjemci.
+Když pracovní postup spustíte, e-mailová zpráva se neposílána a zobrazí se chybová zpráva, Interní stav je nastavený na Pozastaveno nebo Nelze odeslat příjemci.
 
 Další informace najdete v následujícím [článku](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
 

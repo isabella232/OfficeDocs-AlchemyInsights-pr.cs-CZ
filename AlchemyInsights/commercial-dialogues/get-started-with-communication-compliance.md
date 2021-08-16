@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: 704091ede595bfa7e721f8059241825daddb20db
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034675"
 ---
 # <a name="get-started-with-communication-compliance"></a>Začínáme s dodržováním předpisů pro komunikaci
 
 Než začnete, musí mít vaše organizace jedno z následujících předplatných nebo doplňků:
 
-* Předplatné Microsoft 365 E5 (placená nebo zkušební verze)
-* Předplatné Microsoft 365 E3 + doplněk Microsoft 365 E5 Compliance
-* Předplatné Microsoft 365 E3 + doplněk Microsoft 365 E5 Insider Risk Management
-* Předplatné Microsoft 365 A5 (placená nebo zkušební verze)
-* Předplatné Microsoft 365 A3 + doplněk Dodržování předpisů microsoftu 365 A5
-* Předplatné Microsoft 365 A3 + doplněk Microsoft 365 A5 Insider Risk Management
-* Předplatné Microsoft 365 G5 (placená nebo zkušební verze)
-* Předplatné Microsoft 365 G5 + doplněk Dodržování předpisů microsoftu 365 G5
-* Předplatné Microsoft 365 G5 + doplněk Microsoft 365 G5 Insider Risk Management
-* Předplatné Office 365 Enterprise E5 (placená nebo zkušební verze)
-* Předplatné Office 365 Enterprise E3 + doplněk Office 365 Advanced Compliance (už není k dispozici pro nová předplatná, viz poznámka)
+* Microsoft 365 E5 předplatné (placená nebo zkušební verze)
+* Microsoft 365 E3 předplatné + Microsoft 365 E5 Compliance doplněk
+* Microsoft 365 E3 předplatné + doplněk Microsoft 365 E5 Insider Risk Management
+* Microsoft 365 A5 předplatné (placená nebo zkušební verze)
+* Microsoft 365 A3 předplatné + doplněk Microsoft 365 A5 dodržování předpisů
+* Microsoft 365 A3 předplatné + doplněk Microsoft 365 A5 Insider Risk Management
+* Microsoft 365 Předplatné G5 (placená nebo zkušební verze)
+* Microsoft 365 Předplatné G5 + doplněk Microsoft 365 dodržování předpisů G5
+* Microsoft 365 Předplatné G5 + doplněk Microsoft 365 G5 Insider Risk Management
+* Office 365 Enterprise Předplatné E5 (placená nebo zkušební verze)
+* Office 365 Enterprise Předplatné E3 + Office 365 Advanced Compliance (už není k dispozici pro nová předplatná, viz poznámka)
 
     > [!NOTE]
-    > Pokud nemáte stávající plán Office 365 Enterprise E5 a chcete vyzkoušet řízení rizik insider, můžete přidat [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) ke svému stávajícímu předplatnému nebo se zaregistrovat k zkušební verzi Office 365 Enterprise E5.
+    > Pokud nemáte plán Office 365 Enterprise E5 a chcete vyzkoušet řízení rizik insider, můžete přidat [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) ke svému stávajícímu předplatnému nebo se zaregistrovat k zkušební verzi Office 365 Enterprise E5.

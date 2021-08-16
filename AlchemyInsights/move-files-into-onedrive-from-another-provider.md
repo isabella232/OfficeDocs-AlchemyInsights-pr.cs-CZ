@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: c54a2c665b6ed8761bdcee8c88044a4bc840483d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: fe549e85c469938dd609eb8754160b00c8544ad73a563a5ec80a918ceec508c6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825328"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986254"
 ---
 # <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Přesunutí souborů na OneDrive pro firmy od jiného poskytovatele cloudu
 
