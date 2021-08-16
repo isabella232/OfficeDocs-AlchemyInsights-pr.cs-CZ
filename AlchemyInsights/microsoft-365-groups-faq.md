@@ -1,5 +1,5 @@
 ---
-title: Časté otázky ke skupinám Microsoftu 365
+title: Microsoft 365 Časté otázky k skupinám
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: b116957864ea1ff7d09850df56177f765fe12cff
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 55ade817c9cd30181f77f65ebfc6d0c99a9e4c11aace7e123b6bf7e09fe516c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794537"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098631"
 ---
-# <a name="microsoft-365-groups-faq"></a>Časté otázky ke skupinám Microsoftu 365
+# <a name="microsoft-365-groups-faq"></a>Microsoft 365 Časté otázky k skupinám
 
-Nejčastější dotazy ke **[skupině Microsoftu 365](https://aka.ms/M365GroupsFAQ)** najdete v článku Nejčastější dotazy k úkolům správce souvisejících se skupinami Microsoftu 365.
+Přečtěte si **[prosím Microsoft 365 nejčastější](https://aka.ms/M365GroupsFAQ)** dotazy k nejčastějším dotazům skupiny, které se týkají Microsoft 365 skupin.
 
 - Problémy s tokem pošty
 - Správa e-mailových adres
 - Skripty pro export informací o členech skupiny
 - Send-As a další delegování
-- Skupiny, které se nezobrazují nebo nejsou přístupné z klienta Outlooku
+- Skupiny, které se nezobrazují nebo nejsou přístupné z Outlook klienta

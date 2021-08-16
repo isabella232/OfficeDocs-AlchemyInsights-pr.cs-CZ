@@ -1,5 +1,5 @@
 ---
-title: 9000234 Outlook.com vnitřní chyba serveru
+title: 9000234 Outlook.com interní chyba serveru
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7c7f3f2188ef72cbcd3123b92c50fbf99c86cdbbc3c102ed151df341dc6f5910
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671581"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024523"
 ---
 # <a name="internal-server-errors-in-outlookcom"></a>Interní chyby serveru v Outlook.com
 
-Ne! Pokud se zobrazí zpráva Chyba 500 nebo vnitřní chyba serveru, je nám to líto, ale nejste to.
+Ach ne! Pokud se zobrazí zpráva Chyba 500 nebo Chyba interního serveru, jsme to my, a ne vy – omlouváme se za to.
 
-Podívejte se na [stránku Stav služby Office](https://portal.office.com/servicestatus) a ujistěte se, že nepoužíváte nic jiného, ale nejlepším řešením je trvat několik minut, a pak prohlížeč Aktualizujte stisknutím **kláves CTRL** a **F5**.
+Podívejte se na [stránku Office Stav](https://portal.office.com/servicestatus) služby, abyste se ujistili, že se nic jiného neděje, ale nejlepším řešením je pár minut pauzu a pak prohlížeč aktualizovat stisknutím kláves **CTRL** a **F5**.

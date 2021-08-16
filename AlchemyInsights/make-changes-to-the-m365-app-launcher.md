@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: 1894d1c9b32318fdb69c613ab94325fc19ad04f5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: cb7a524171d746f93ab3a15debc321af29cd30578c287f9bb05810491e604517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794897"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099135"
 ---
 # <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Provádění změn ve spouštěči aplikací Microsoft 365
 
