@@ -1,5 +1,5 @@
 ---
-title: Hlášení a upozornění na únik informací
+title: Vytváření sestav a upozornění na DLP
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "8261"
-ms.openlocfilehash: 562537f0a8d53cf1526c6a9069b1f98721a90538
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 6ad924147812186610fdef8bf443c76f6663ec35e5e38720783fd4b0369bc579
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101871"
 ---
-# <a name="dlp-reporting-and-alerts"></a>Hlášení a upozornění na únik před únikem informací
+# <a name="dlp-reporting-and-alerts"></a>Vytváření sestav a upozornění na DLP
 
-Hlášení ochrany před **únikem** informací : Projděte si sestavy pro prevenci ztráty dat – dodržování předpisů [Microsoftu 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports?view=o365-worldwide&preserve-view=true)
+**DLP Reporting**: [Zobrazení sestav pro prevenci ztráty dat – Microsoft 365 dodržování | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/view-the-dlp-reports?view=o365-worldwide&preserve-view=true)
 
-**Upozornění:** Konfigurace a zobrazení upozornění na zásady ochrany před únikem informací [(preview) – dodržování předpisů Microsoftu 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide&preserve-view=true)
+**Upozornění:** Konfigurace a zobrazení upozornění pro zásady ochrany před únikem informací [(preview) – Microsoft 365 dodržování | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide&preserve-view=true)
 
- Pokud máte přístup k 365 DLP, můžete se také dostat na řídicí panel správy upozornění DLP.  Informace o konfiguraci konkrétních typů upozornění najdete v těchto licenčních požadavcích v části Konfigurace a zobrazení upozornění pro zásady ochrany před únikem informací [(preview) – dodržování předpisů Microsoftu 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide#licensing-for-alert-configuration-options&preserve-view=true)
+ Pokud máte přístup k 365 DLP , můžete také získat přístup k řídicímu panelu pro správu výstrah DLP.  Informace o konfiguraci konkrétních typů upozornění najdete v těchto licenčních požadavcích v tématu Konfigurace a zobrazení upozornění pro zásady ochrany před únikem informací [(preview) – Microsoft 365 dodržování | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/dlp-configure-view-alerts-policies?view=o365-worldwide#licensing-for-alert-configuration-options&preserve-view=true)
 
-Pokud chcete zobrazit řídicí panel Správy upozornění DLP:
+Zobrazení řídicího panelu Správa upozornění DLP:
 
-1. V Centru dodržování předpisů Microsoftu 365 přejděte na Data Loss Prevention (Ochrana před únikem **dat).**
-1. Výběrem **karty Upozornění(Náhled)** zobrazíte řídicí panel upozornění DLP.
+1. V Centrum dodržování předpisů Microsoftu 365 přejděte na **Zabránění ztrátě dat**.
+1. Vyberte kartu **Upozornění(Náhled)** a zobrazte řídicí panel upozornění DLP.

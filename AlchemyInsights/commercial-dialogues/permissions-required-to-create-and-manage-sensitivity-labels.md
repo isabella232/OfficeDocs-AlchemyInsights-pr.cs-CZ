@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7363"
 - "9000722"
-ms.openlocfilehash: 51c4f60757bea997b68dbcb25d9dd36efd126228
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
-ms.translationtype: MT
+ms.openlocfilehash: ecca5fd33b1f4010013b85429f15c6c565493aa69c6488c5432a7bb29432f738
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744770"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034207"
 ---
 # <a name="permissions-required-to-create-and-manage-sensitivity-labels"></a>Oprávnění potřebná k vytváření a správě popisků citlivosti
 
-Členové týmu dodržování předpisů, kteří budou vytvářet popisky citlivosti, potřebují oprávnění k Centru dodržování předpisů Microsoftu 365, Centru zabezpečení Microsoftu 365 nebo Centru zabezpečení & dodržování předpisů.
+Členové týmu dodržování předpisů, kteří budou vytvářet popisky citlivosti, potřebují oprávnění k Centrum dodržování předpisů Microsoftu 365, Microsoft 365 centru zabezpečení nebo Centru zabezpečení & dodržování předpisů.
 
 Ve výchozím nastavení mají globální správci pro vašeho tenanta přístup k těmto centerm pro správu a můžou udělit přístup pracovníkům dodržování předpisů a dalším lidem, aniž by jim přisvědčili všechna oprávnění správce tenanta. Pro tento delegovaný omezený  přístup správce na stránce Oprávnění přidejte uživatele do skupiny rolí Správce dat dodržování předpisů, Správce dodržování předpisů nebo Správce zabezpečení.
 
