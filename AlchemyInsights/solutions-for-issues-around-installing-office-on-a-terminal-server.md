@@ -10,27 +10,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: 447fee84edc65861dc04038cfe6424249e94f843
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 28ebe2b1375b142ca63dc686c7afbbe88abfd539a93780cff3861f80de40b411
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021841"
 ---
 # <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>Řešení problémů s instalací Office na terminálový server
 
-Pokud chcete používat aktivaci sdíleného počítače, musíte mít předplatné, které zahrnuje aplikace Microsoft 365 pro podniky.
+Pokud chcete použít aktivaci sdíleného počítače, musíte mít předplatné, které zahrnuje Microsoft 365 Apps pro velké organizace.
   
 - Ověření, jestli je povolená aktivace sdíleného počítače
 - Ověření úspěšné aktivace
 - Kontrola chybových zpráv pro aktivaci sdíleného počítače:
 - Produkty, které jsme našli ve vašem účtu, nelze použít k aktivaci Office ve scénářích sdílených počítačů.
   
-Tato chyba znamená, že nemáte předplatné, které zahrnuje aplikace Microsoft 365 pro podniky.
+Tato chyba znamená, že nemáte předplatné, které zahrnuje Microsoft 365 Apps pro velké organizace.
 
 "Nelicencovaný produkt"
 
-- Zkontrolujte, že má uživatel přiřazenou licenci pro Aplikace Microsoft 365 pro podniky.
+- Zkontrolujte, že je uživateli přiřazena licence Microsoft 365 Apps pro velké organizace.
 - Zkontrolujte, že se uživatel přihlásí pomocí svého uživatelského účtu.
 - Zkontrolujte, jestli je mezi sdíleným počítačem a internetem připojení.
 
