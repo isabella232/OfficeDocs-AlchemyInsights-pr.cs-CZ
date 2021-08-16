@@ -1,5 +1,5 @@
 ---
-title: Neshoda v PUID OneDrivu
+title: OneDrive Neshoda s PUID
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653253"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096723"
 ---
-# <a name="onedrive-puid-mismatch"></a>Neshoda v PUID OneDrivu
+# <a name="onedrive-puid-mismatch"></a>OneDrive Neshoda s PUID
 
-Zobrazí se vám [neshoda s ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) na OneDrivu pro firmy. Chcete-li nám umožnit, aby vám pomohl co nejdříve, postupujte takto:
+Zdá se, že v [aplikaci dochází](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) k neshodě ONEDRIVE PRO FIRMY. Pokud chcete, abychom vám pomohli co nejdříve, postupujte takto:
 
-1. Klikněte na  **kontaktovat podporu** a potom na  **Nová žádost o službu**.
-2. Ponechte název a popis jako  **ID uživatele webu OneDrivu**.
-3. Po odeslání lístku aktualizujte tyto informace:
-    - Adresa URL webu OneDrive, který to ovlivňuje.
-    - Hlavní uživatelské jméno (UPN) příslušného uživatele
+1. Klikněte **na Kontaktovat podporu** a potom na Nová žádost o **službu.**
+2. Název a popis ponechte jako **neshodu OneDrive ID uživatele webu.**
+3. Po odeslané vstupence ji aktualizujte následujícími informacemi:
+    - OneDrive adresa URL webu, která je ovlivněná.
+    - Hlavní uživatelské jméno (UPN) ovlivněného uživatele

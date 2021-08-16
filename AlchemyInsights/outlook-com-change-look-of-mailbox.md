@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802554"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096471"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Změna vzhledu poštovní schránky Outlook.com
 
-Vzhled seznamu zpráv a podokna čtení v Outlook.com můžete změnit.
+Vzhled seznamu zpráv a podokna čtení můžete změnit v Outlook.com.
 
-- Pokud chcete změnit rozložení okna zprávy, otevřete možnosti [podokna čtení](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Pokud chcete změnit způsob řazení e-mailů, vyberte v horní části seznamu zpráv možnost **filtrovat**  >  **řazení podle** a zvolte, jak chcete e-mail seřadit.
-- Pokud chcete zprávy seskupit podle konverzace, otevřete možnosti vaší [organizace](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Pokud chcete prioritní doručenou poštu zapnout nebo vypnout, otevřete možnosti [rozložení](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Pokud chcete změnit rozložení okna zprávy, otevřete možnosti [podokna](https://outlook.live.com/mail/options/mail/layout/readingPane) čtení.
+- Pokud chcete změnit způsob řazení e-mailů, v horní části seznamu zpráv vyberte Filtrovat řazení podle a zvolte, jak chcete e-maily  >   seřadit.
+- Pokud chcete zprávy seskupit podle konverzace, otevřete [možnosti organizace zpráv.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Pokud chcete zapnout nebo vypnout funkci Doručená pošta s zaměřit se, otevřete [možnosti](https://outlook.live.com/mail/options/mail/layout/focused) rozložení.
