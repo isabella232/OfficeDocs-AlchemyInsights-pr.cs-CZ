@@ -11,20 +11,20 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: a3dcb4e87965ad655164c100f43b2355675c620b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73c57123c2d1405de90c41ab13b752cf3ccd7201d3d17bb8e6f6ae25a2e0e7ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705076"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067545"
 ---
 # <a name="how-to-activate-office"></a>Jak aktivovat Office
 
-Abyste mohli Office úspěšně nainstalovat a aktivovat, musí mu přiřazovat [licenci Office](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) pracovnímu nebo školnímu účtu uživatele.
+Pokud chcete Office a aktivovat, musí správce přiřadit [Office licenci](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) k pracovnímu nebo školnímu účtu uživatele.
   
-Po instalaci Office se v mnoha případech automaticky aktivují aplikace a pokud se uživatel nevyzve k aktivaci, může začít Office hned používat.
+Po Office se aplikace v mnoha případech aktivují automaticky, a pokud se uživateli výzva k aktivaci nepotáčí, mohou začít Office používat hned.
   
-Pokud je ale uživatel vyzván k **přihlášení k nastavení Office**, musí se přihlásit pomocí svého pracovního nebo školního účtu, který už má [přiřazenou licenci Office](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Pokud je ale uživatel vyzván k přihlášení k nastavení **Office**, musí se přihlásit pomocí svého pracovního nebo školního účtu, který by už měl mít přiřazenou [Office licenci.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
   
-Podrobné informace najdete v článku [aktivace Office na počítači](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) nebo [aktivace Office na Macu](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
+Podrobné informace najdete v článku [Aktivace Office na počítači PC](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) nebo [Aktivace Office na Macu](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
   

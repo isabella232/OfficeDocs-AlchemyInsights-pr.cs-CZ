@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7ca502ea118503e9b5a854fce1bb8c6239d780f6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744462"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034495"
 ---
 # <a name="how-users-can-search-their-online-archive-for-messages"></a>Jak mohou uživatelé vyhledávat zprávy v online archivu
 
-Online archiv je funkce pro zákazníky Office 365 enterprise, kteří mají neobvykle velké poštovní schránky. Online archiv uživatele se chová jako druhý účet v Outlooku s vlastní strukturou složek. Jak najít e-maily v online archivu:
+Online archiv je funkce pro podnikové Office 365, kteří mají neobvykle velké poštovní schránky. Online archiv uživatele se chová trochu jako druhý účet v Outlook s vlastní strukturou složek. Jak najít e-maily v online archivu:
 
 1. Online archiv se nezahrne do hledání prováděných ze složky Doručená pošta. Musíte přejít do online archivu a pak provést hledání.
-2. V Outlooku na webu se archiv nazývá *Archiv na místě*. Přejděte do poštovní schránky In-Place archivu a pak proveďte hledání.
-3. V Outlooku 2016 se tomu říká *Online `name` > archiv – <*. Přejděte do poštovní schránky Online archivu a pak proveďte hledání.
+2. V Outlook na webu se archiv nazývá *Archiv na místě*. Přejděte do poštovní schránky In-Place archivu a pak proveďte hledání.
+3. V Outlook 2016 se nazývá Online *archiv – <`name` >*. Přejděte do poštovní schránky Online archivu a pak proveďte hledání.
 
 > [!TIP]
-> Uživatelé mají přístup ke své online archivační poštovní schránce pomocí Outlooku na mobilním zařízení, jako je třeba chytrý telefon.
+> Uživatelé mají přístup ke své online archivační poštovní schránce pomocí Outlook na mobilním zařízení, jako je třeba chytrý telefon.

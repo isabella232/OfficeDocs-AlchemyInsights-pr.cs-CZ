@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002650"
 - "5099"
-ms.openlocfilehash: 850e63b22e87aa78adb27648736b3eea5bfcb6fe
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b137d9c29ca9078d3cc65b45fa789fc0a5c9ec7f0eb620c1124bf09ed6bfa852
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809288"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074961"
 ---
 # <a name="restrict-commenting-in-microsoft-stream"></a>Omezení komentování v Microsoft Streamu
 

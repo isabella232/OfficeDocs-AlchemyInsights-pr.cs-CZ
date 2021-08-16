@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002627"
 - "5045"
-ms.openlocfilehash: 65102ef1dddb2032020e3f3391449c81e9d34b89
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 1ca31778143082f6012703e95be06d3b8ca6755180b694daf29f7fda0c64532f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067473"
 ---
 # <a name="install-and-use-publisher"></a>Instalace a použití Publisheru
 

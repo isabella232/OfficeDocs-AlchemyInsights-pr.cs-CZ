@@ -1,5 +1,5 @@
 ---
-title: 1800014 řešení potíží s nastavením Outlook Mobile pro sdílenou poštovní schránku
+title: 1800014 Řešení Outlook nastavení mobilních zařízení pro sdílenou poštovní schránku
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
-ms.openlocfilehash: 856560dbe7e66460fd2c6690aed1f32174d5dd7c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78e015918f7b1ebfea3898a7ede5518b847c7be19971d5ef59854da8b005667f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020689"
 ---
-# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Řešení potíží s nastavením Outlook Mobile pro sdílenou poštovní schránku
+# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>Řešení Outlook nastavení mobilních zařízení pro sdílenou poštovní schránku
 
-Ke sdílené poštovní schránce nemůžete přistupovat z aplikace Outlook nainstalované na mobilním zařízení. Chcete tuto funkci? Dejte vědět týmu Office. [Hlasujte](https://go.microsoft.com/fwlink/?linked=862116)pro vás!
+Ke sdílené poštovní schránce nemůžete přistupovat z aplikace Outlook nainstalované na mobilním zařízení. Chcete tuto funkci? Dejte vědět Outlook technickém týmu. [Hlasujte tady!](https://go.microsoft.com/fwlink/?linked=862116)
   
-Sdílenou poštovní schránku můžete použít jenom na mobilním zařízení tak, že otevřete prohlížeč, přihlásíte se a pak přejdete do Outlooku na webu. Pokyny najdete v článku [přidání sdílené poštovní schránky v Outlooku na webu](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207). Z Outlooku na webu budete mít přístup do sdílené poštovní schránky.
+Sdílenou poštovní schránku můžete použít jenom na mobilním zařízení tak, že otevřete prohlížeč, přihlásíte se a pak se Outlook na webu. Pokyny najdete v tématu [Přidání sdílené poštovní schránky do Outlook na webu](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207). Z Outlooku na webu budete mít přístup do sdílené poštovní schránky.
   
-Další informace: [Získání nápovědy v aplikaci Outlook pro iOS a Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Další informace: [Získání nápovědy v aplikaci pro Outlook pro iOS a Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
 

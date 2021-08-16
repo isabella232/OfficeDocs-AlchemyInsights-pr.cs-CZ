@@ -1,5 +1,5 @@
 ---
-title: Složky Outlook Mobile v novém pořadí
+title: Outlook Mobilní složky v novém pořadí
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772219"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000241"
 ---
 # <a name="my-folders-are-in-a-new-order"></a>Moje složky jsou v novém pořadí
 
-S přidáním oblíbených složek a skupin do Outlooku pro iOS a Android si můžete všimnout, že se vaše složky nacházejí v novém pořadí. Pokud máte oblíbené, zobrazí se v horní části bočního panelu oddíl oblíbené. Oblíbené položky můžete přidat pomocí ikony tužky v horní části bočního panelu. V horní části jsou všechny nejdůležitější složky a skupiny, kde se k nim můžete snadno dostat.
+Přidáním oblíbených složek a skupin do Outlook pro iOS a Android si můžete všimnout, že vaše složky jsou v novém pořadí. Pokud máte oblíbené položky, zobrazí se v horní části bočního panelu oddíl oblíbené položky. Oblíbené položky můžete přidat pomocí ikony tužky v horní části bočního panelu. Všechny vaše nejdůležitější složky a skupiny tak budou nahoře, kde k nim budete mít snadný přístup.

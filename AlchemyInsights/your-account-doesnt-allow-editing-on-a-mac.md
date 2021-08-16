@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 69ccee6d9a412370577becb9c563d32ea0bb4038
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a3dd2e149c89b2bc6d080462bb2618eb8343c1ad4d110d1155c76bc41462efbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51795977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046817"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Oprava zpráv o tom, že aplikace Microsoft 365 "Váš účet neumožňuje úpravy na Macu".
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Oprava Microsoft 365 aplikace "Váš účet neumožňuje úpravy na Macu"
 
 Pokud se vám tato zpráva zobrazí, zkuste toto:
 
