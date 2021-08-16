@@ -1,5 +1,5 @@
 ---
-title: Získejte přehled o používání e-mailových aplikací ve vaší organizaci
+title: Získání přehledu o používání e-mailových aplikací ve vaší organizaci
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003962"
 - "7018"
-ms.openlocfilehash: 37a1c97793558c3842f62e43616a022d194611fb
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 67c2cbbb8b66cd4d1f6bce908569cc6a42a860e09f4b17f2d564aba724d0fc41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000565"
 ---
-# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Získejte přehled o používání e-mailových aplikací ve vaší organizaci
+# <a name="gain-insight-into-the-use-of-email-apps-in-your-organization"></a>Získání přehledu o používání e-mailových aplikací ve vaší organizaci
 
-Řídicí panel sestavy Microsoft 365 vám ukáže přehled o aktivitě ve vaší organizaci. Můžete přejít na jednotlivé, sestavy na úrovni produktů, abyste získali přehled o aktivitách v jednotlivých produktech. Pomocí řídicího panelu můžete například zkontrolovat, jak se aplikace Microsoft 365 používají na platformách. Abyste viděli sestavy, musíte být globální správce, globální čtenář nebo čtečka sestav v Microsoft 365 nebo správce pro Microsoft Exchange, SharePoint, služby pro týmy, komunikace v týmu nebo Skype pro firmy.
+Řídicí Microsoft 365 sestavy zobrazuje přehled aktivit napříč produkty ve vaší organizaci. Můžete procházet jednotlivé sestavy na úrovni produktu a získat tak přehled o aktivitách prováděných v jednotlivých produktech. Pomocí řídicího panelu můžete například zkontrolovat, jak se Microsoft 365 aplikace používají na různých platformách. Abyste si sestavy viděli, musíte být globální správce, globální čtečka nebo čtečka sestav v aplikaci Microsoft 365 nebo správce pro Microsoft Exchange, SharePoint, Teams Service, Teams Communications nebo Skype pro firmy.
 
-Sestava *využití e-mailových aplikací* je součástí řídicího panelu a zobrazuje počet e-mailových aplikací připojených k serveru Microsoft Exchange Online. Zobrazuje také informace o verzi aplikací Microsoft Outlook, které se používají, takže můžete požádat o přepnutí uživatelů na podporované verze Outlooku.
+Sestava *využití e-mailových* aplikací je součástí řídicího panelu a zobrazuje počet e-mailových aplikací připojených k Microsoft Exchange Online. Zobrazuje také informace o verzi aplikací Microsoft Outlook, takže můžete požádat uživatele o přechod z nepodporovaných na podporované verze Outlook.
 
-Pokud chcete získat přístup k sestavě používání e-mailových aplikací, postupujte takto:
+Pokud chcete získat přístup k sestavě využití e-mailových aplikací, postupujte takto:
 
-1. V centru pro správu Microsoft 365 vyberte možnost   >  [využití](https://go.microsoft.com/fwlink/?linkid=2140342)sestav.
-2. V rozevírací nabídce **Vybrat sestavu** vyberte možnost   >  **využití e-mailové aplikace** Exchange.
+1. V Centrum pro správu Microsoftu 365 vyberte **Využití**  >  [sestav](https://go.microsoft.com/fwlink/?linkid=2140342).
+2. V rozevírací **nabídce Vybrat sestavu** vyberte možnost **Exchange**  >  **použití e-mailových aplikací.**
 
 Další informace najdete v tématu [Interpretace sestavy e-mailových aplikací](https://go.microsoft.com/fwlink/?linkid=2140508).

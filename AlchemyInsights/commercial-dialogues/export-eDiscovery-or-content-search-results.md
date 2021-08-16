@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50481282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988078"
 ---
 # <a name="export-ediscoverycontent-search-results"></a>Export výsledků hledání eDiscovery nebo obsahu
 
-Možná budete muset výsledky hledání vyexportovat do souboru PST (z e-mailu) nebo do nativních dokumentů Office (ze SharePointu a OneDrivu pro firmy). Pokud ano, proveďte následující kroky:
+Možná budete muset výsledky hledání exportovat do souboru PST (z e-mailu) nebo do nativních Office dokumentů (z SharePoint a OneDrive pro firmy webů). Pokud ano, proveďte následující kroky:
 
-- Ujistěte se, že má váš účet přiřazená příslušná oprávnění k exportu. Další informace najdete v tématu [Přiřazení oprávnění k eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2102406)
-- Zkontrolujte, jestli váš počítač splňuje všechny [požadavky.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Ne všechny prohlížeče jsou podporované, třeba Chrome.
-- Export z vyhledávání obsahu: a. Přejděte do Centra [zabezpečení & dodržování předpisů,](https://protection.office.com/contentsearch) klikněte na **Hledat** a pak vyberte **Vyhledávání obsahu.** Na stránce **Vyhledávání obsahu** vyberte uložené hledání.
-    b. V podokně podrobností v části **Exportovat výsledky do počítače** vyberte Spustit **export.** Pokud exportujete víc než 100 tisíc poštovních schránek, musíte ke stažení výsledků exportu použít PowerShell. Další informace najdete v článku [Export výsledků z více než 100 tisíc poštovních schránek.](https://go.microsoft.com/fwlink/?linkid=2143861)
+- Ujistěte se, že je vašemu účtu přiřazena správná oprávnění k exportu. Další informace najdete v tématu [Přiřazení oprávnění eDiscovery](https://go.microsoft.com/fwlink/?linkid=2102406).
+- Ujistěte se, že váš počítač splňuje [všechny předpoklady](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Nepodporuje se všechny prohlížeče, například Chrome.
+- Export z vyhledávání obsahu: a. Přejděte do [Centra zabezpečení & dodržování předpisů](https://protection.office.com/contentsearch) a klikněte na **Hledat** a pak vyberte **Vyhledávání obsahu.** Na stránce **Hledání obsahu** vyberte uložené hledání.
+    b. V podokně Podrobnosti vyberte v **části Exportovat výsledky do počítače** možnost Spustit **export.** Pokud exportujete víc než 100 tisíc poštovních schránek, budete muset ke stažení výsledků exportu použít PowerShell. Další informace najdete v článku [Export výsledků z více než 100 tisíc poštovních schránek](https://go.microsoft.com/fwlink/?linkid=2143861).
 
-Další informace najdete v tématu [Export výsledků hledání obsahu.](https://go.microsoft.com/fwlink/?linkid=2102118)
+Další informace najdete v tématu [Export výsledků hledání obsahu](https://go.microsoft.com/fwlink/?linkid=2102118).

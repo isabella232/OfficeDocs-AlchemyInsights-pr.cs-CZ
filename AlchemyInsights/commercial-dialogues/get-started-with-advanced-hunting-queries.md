@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0dce5a6ac69994c8953401aba06aefb2d3761ff2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1819720b1c7dd1b5a0b5822f2ba7f9e6a6b7c2fec6d962ea411b8a3a350cc758
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016981"
 ---
 # <a name="get-started-with-advanced-hunting-queries"></a>Začínáme s pokročilými loveckými dotazy
 
-Výzkumní pracovníci zabezpečení Microsoftu pravidelně [sdílejí rozšířené lovecké dotazy v GitHubu](https://go.microsoft.com/fwlink/?linkid=2144624).
+Výzkumní pracovníci microsoftu pro zabezpečení pravidelně [sdílejí rozšířené lovecké](https://go.microsoft.com/fwlink/?linkid=2144624)dotazy v GitHub .
 
-Výzkumní pracovníci také poskytují pokročilé lovecké dotazy pro vyhledávání aktivit a indikátorů spojených s nově [vznikajícími hrozbami](https://go.microsoft.com/fwlink/?linkid=2145808). Tyto dotazy jsou součástí sestav analýzy hrozeb v Centru zabezpečení v programu Microsoft Defender.
+Výzkumní pracovníci také poskytují pokročilé lovecké dotazy pro vyhledávání aktivit a indikátorů spojených s nově [vznikajícími hrozbami](https://go.microsoft.com/fwlink/?linkid=2145808). Tyto dotazy jsou součástí sestav analýzy hrozeb v Centrum zabezpečení v programu Microsoft Defender.

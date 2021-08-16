@@ -1,5 +1,5 @@
 ---
-title: Ochrana uživatelů před PUAs pomocí Microsoft Edge
+title: Použití Microsoft Edge k ochraně uživatelů před pua
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49677548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000493"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Ochrana uživatelů před PUAs pomocí Microsoft Edge
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Použití Microsoft Edge k ochraně uživatelů před pua
 
-Microsoft Edge verze 80.0.361.50 a novější blokování stahování potenciálně nežádoucích aplikací (PUAs) a přidružených adres URL. Pokud chcete tuto funkci zapnout, postupujte takto:
+Microsoft Edge verze 80.0.361.50 a novější blokují stahování potenciálně nežádoucích aplikací (PUA) a přidružených adres URL. Tuto funkci zapnete takto:
 
-1. V prohlížeči přejděte na **Nastavení**  >  **ochrany osobních údajů a služeb** .
+1. Přejděte na **Nastavení**  >  **ochrana osobních údajů a služby** v prohlížeči.
 
-2. Posuňte se dolů k části **služby** **a ujistěte se, že** jsou zapnuté a **zablokované potencionálně nežádoucí aplikace** .
+2. Posuňte se dolů do **části Služby** a zkontrolujte, **že filtr SmartScreen v programu Microsoft Defender** a **Blokovat potenciálně** nežádoucí aplikace zapnuté.
 
-    Při příštím rozpoznání PUA filtrem Microsoft Defenderu ho zablokuje a oznámí to.
+    Až příště filtr SmartScreen v programu Microsoft Defender pua, zablokuje ji a odpovídajícím způsobem vás upozorní.
 
-    Další informace najdete v článku [o zablokování u adres URL spojených s PUA](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Další informace najdete v článku o blokování adres URL přidružených k [pua.](https://go.microsoft.com/fwlink/?linkid=2133024)

@@ -1,5 +1,5 @@
 ---
-title: Více uživatelům se při přidávání doplňků v Outlooku zobrazuje chyba odepření přístupu
+title: Více uživatelům se při přidávání doplňků do Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5892"
 - "6700008"
-ms.openlocfilehash: 611a4df473458abc0ab0c65442f2141763f7b868
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e5f881ad72d2a0f76c8659d6b1044bf6a18464fa8d65c079e44eb1a2afd4431
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724356"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065385"
 ---
-# <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>Více uživatelům se při přidávání doplňků v Outlooku zobrazuje chyba odepření přístupu
+# <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>Více uživatelům se při přidávání doplňků do Outlook
 
-Můžete určit, kteří správci ve vaší organizaci mají oprávnění k instalaci a správě doplňků pro Outlook. Můžete také určit, kteří uživatelé ve vaší organizaci mají oprávnění k instalaci a správě doplňků pro jejich vlastní potřebu.
+Můžete určit, kteří správci ve vaší organizaci mají oprávnění k instalaci a správě doplňků pro Outlook. Můžete taky určit, kteří uživatelé ve vaší organizaci mají oprávnění k instalaci a správě doplňků pro vlastní použití.
 
-Podrobnosti najdete v tématu [Určení správců a uživatelů, kteří můžou nainstalovat a spravovat doplňky pro Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
+Podrobnosti najdete v článku Určení správců a uživatelů, kteří [můžou](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)instalovat a spravovat doplňky pro Outlook .
 
-Pokud chcete ověřit, jestli jste úspěšně přiřadili oprávnění pro uživatele, nahraďte <Role Name> název role, kterou chcete ověřit, a v PowerShellu Exchange Online spusťte následující příkaz:
+Pokud chcete ověřit, že jste uživateli úspěšně přiřadili oprávnění, nahraďte ho názvem role, kterou chcete ověřit, a spusťte následující příkaz v <Role Name> Exchange Online PowerShellu:
 
-Get-ManagementRoleAssignment-role " <Role Name> "-GetEffectiveUsers
+Get-ManagementRoleAssignment -Role " <Role Name> " - GetEffectiveUsers
 
-Tento příklad ukazuje, jak ověřit, komu jste přiřadili oprávnění k instalaci doplňků z Office Storu pro organizaci.
+Tento příklad ukazuje, jak ověřit, komu jste přiřadili oprávnění k instalaci doplňků z Office Store pro organizaci.
 
 PowerShell
 
--Role "aplikace pro organizaci org" – GetEffectiveUsers
+-Role "Org Marketplace Apps" -GetEffectiveUsers
 
-Ve výsledcích, Get-ManagementRoleAssignment, zkontrolujte položky ve sloupci efektivní uživatelé.
+Ve výsledcích Get-ManagementRoleAssignment zkontrolujte položky ve sloupci Efektivní uživatelé.
 
-Podrobné informace o syntaxi a parametrech najdete v tématu [Get-ManagementRoleAssignment](https://docs.microsoft.com/powershell/module/exchange/get-managementroleassignment).
+Podrobné informace o syntaxi a parametrech najdete v [tématu Get-ManagementRoleAssignment](https://docs.microsoft.com/powershell/module/exchange/get-managementroleassignment).
  
