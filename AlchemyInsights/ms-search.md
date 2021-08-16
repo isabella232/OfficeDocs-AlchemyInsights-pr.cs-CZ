@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11046"
-ms.openlocfilehash: e897b37c7cf5721f0d68bf0212e1772591b3e684
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b68ebf4c3f70821c67420b1785eb4547fe7ef210bb277720fadc26309872467e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676112"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025963"
 ---
 # <a name="get-started-with-microsoft-search"></a>Začínáme s Microsoft Search
 
-Microsoft Search vám pomůže najít lidi, soubory, organizační diagramy, weby, odpovědi na běžné otázky a další obsah, který vám pomůže dokončit úkoly v aplikaci, kterou používáte.
+Pomocí Microsoft Search můžete najít lidi, soubory, organizační diagramy, weby, odpovědi na běžné otázky a další obsah, který vám pomůže s prováděním úkolů v aplikaci, kterou používáte.
 
-Další informace najdete v tématu [Přehled microsoft searchu](https://go.microsoft.com/fwlink/?linkid=2157644).
+Další informace najdete v tématu [Přehled Microsoft Search](https://go.microsoft.com/fwlink/?linkid=2157644).

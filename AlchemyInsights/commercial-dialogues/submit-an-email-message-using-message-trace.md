@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978838"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874532"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Odeslání e-mailové zprávy pomocí sledování zpráv
 
-1. Přejděte na [Centrum Office 365 zabezpečení &](https://go.microsoft.com/fwlink/p/?linkid=2077143)dodržování předpisů a pak přejděte na **Sledování** zpráv  >  [toku pošty.](https://go.microsoft.com/fwlink/?linkid=2101048)
+1. Přejděte do centra Exchange správy (EAC) na stránce <https://admin.exchange.microsoft.com> \> **Sledování zpráv** \> **toku pošty.**
+
+   Pokud chcete přejít přímo na **stránku Sledování** zpráv, použijte <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. Vyberte **+ Spustit trasování**.
 3. Projděte si prezentované možnosti. Vyberte příjemce a odesílatele a podle potřeby upravte rozsah dat. Pro zbývající možnosti můžete ponechat výchozí nastavení.
 4. Vyberte **Hledat**. Zobrazí se seznam e-mailových zpráv na základě kritérií hledání. Poklikejte na zprávu, kterou chcete odeslat, a pak vyberte **Odeslat zprávu**.
-5. Další informace najdete v tématu [Sledování zpráv v Centru & dodržování předpisů](https://go.microsoft.com/fwlink/?linkid=2101557).
+
+Další informace najdete v tématu [Sledování zpráv v moderním EAC](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac).

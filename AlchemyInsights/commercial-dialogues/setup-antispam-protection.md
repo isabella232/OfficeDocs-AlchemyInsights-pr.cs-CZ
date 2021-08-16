@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058499"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874568"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Nastavení ochrany proti spamu
 
-Tady je postup:
+1. Na portálu Microsoft 365 Defender v části Zásady přejděte na Zásady & spolupráce & pravidla zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam.** 
 
-1. Přejděte do [Centra Office 365 zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Přejděte na **Zásady správy**  >  **hrozeb a** klikněte na **[Anti-spam](https://go.microsoft.com/fwlink/p/?linkid=2077143)**.
-1. Na kartě **Vlastní** zapněte **Vlastní** nastavení.
-1. Rozbalte **výchozí zásadu filtru spamu,** klikněte na Upravit **zásadu** a zadejte následující nastavení:
-    1. V části Spam a **hromadné akce** nastavte mezní hodnotu na hodnotu 5 nebo 6.
-1. Klikněte na **Uložit**.
+   Pokud chcete přejít přímo na stránku Zásady ochrany **proti spamu,** použijte <https://security.microsoft.com/antispam> .
 
-Další informace o možnostech zásad ochrany proti spamu najdete v tématu [Konfigurace zásad ochrany proti spamu](https://go.microsoft.com/fwlink/?linkid=2092051).
+2. Na stránce **Zásady ochrany proti spamu** proveďte jeden z následujících kroků:
+   - Pokud chcete přidat novou zásadu, vyberte **+ Vytvořit** \> **příchozí**. Spustí se průvodce, který vám pomůže definovat nastavení zásad.
+   - Pokud chcete upravit existující zásadu, vyberte ji kliknutím na název  zásady **(** Typ  je Vlastní zásada ochrany proti spamu nebo Název je antispamová příchozí zásada **(výchozí)**). V plovoucím seznamu podrobností, který se zobrazí, vyberte **Upravit** v části obsahující nastavení, která chcete nakonfigurovat.
+
+3. Po prošetřování nastavení vyberte **Odeslat** (nové) nebo **Uložit** (upravit).
+
+Další informace najdete v tématu [Konfigurace zásad ochrany proti spamu v programu EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

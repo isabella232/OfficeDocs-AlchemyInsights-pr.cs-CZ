@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974366"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068913"
 ---
 # <a name="find-missing-applications"></a>Vyhledání chybějících aplikací
 
-- [Rychlý automat: zobrazení seznamu aplikací, které používají vašeho tenanta Azure Active Directory (Azure AD) pro správu identit](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) , vám ukáže, jak zobrazit aplikace, které jsou už nastavené tak, aby používaly svůj TENANT Azure AD jako svého poskytovatele identity (IDP).
-- Pokud chcete vyhledat určitou aplikaci, přejděte do nabídky **Typ aplikace** , vyberte **všechny aplikace** a zvolte **použít**.
-  - Zadejte název aplikace, kterou chcete najít. Pokud byla aplikace přidána do vašeho klienta Azure AD, zobrazí se ve výsledcích hledání. Můžete zadat i několik prvních písmen názvu aplikace.
-- [Řešení běžných potíží s přidáním nebo odebráním aplikace do služby Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) vám pomůže pochopit běžné problémy, které čelí prohlížení aplikací v Azure Active Directory.
+- Rychlý start: Zobrazení seznamu aplikací, které používají vašeho [tenanta Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) pro správu identit, ukazuje, jak zobrazit aplikace , které jsou už nastavené tak, aby jako svého poskytovatele identity (IdP) používejte tenanta Azure AD.
+- Pokud chcete vyhledat konkrétní aplikaci, přejděte do nabídky **Typ aplikace,** vyberte **Všechny aplikace** a zvolte **Použít.**
+  - Zadejte název aplikace, kterou chcete najít. Pokud byla aplikace přidána do vašeho tenanta Azure AD, zobrazí se ve výsledcích hledání. Můžete také zadat několik prvních písmen názvu aplikace.
+- [Řešení běžných problémů s přidáním nebo odebráním](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) aplikace do Azure Active Directory pomáhá pochopit běžné problémy, se které lidé při prohlížení aplikací v Azure Active Directory.

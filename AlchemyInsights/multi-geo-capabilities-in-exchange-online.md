@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5695"
-ms.openlocfilehash: 67028211f9aab0e982cfdd0307673e6235001d4d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d59f427e175b80513520befc6d627837e94d371e5aea7ac7a2ffb19645ce479
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825256"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025927"
 ---
 # <a name="multi-geo-capabilities-in-exchange-online"></a>Multi-Geo capabilities in Exchange Online
 
-Ve více geografickém prostředí můžete vybrat umístění obsahu poštovní schránky Exchange Online (v klidu) pro uživatele.
+V prostředí s více geografickou polohou můžete vybrat umístění obsahu Exchange Online poštovní schránky (data v klidu) pro uživatele.
 - [Multi-Geo Capabilities in Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)

@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028285"
 ---
 # <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Problémy s integrací bezproblémového jednotného přihlašování s místními aplikacemi
 
-Pokud chcete řešit problémy s integrací bezproblémového jednotného přihlašování s místními aplikacemi, postupujte takto:
+Pokud chcete vyřešit problémy s integrací bezproblémového jednotného přihlašování s místními aplikacemi, proveďte toto:
 
 **Doporučené kroky**
 
-1. Pokud chcete nakonfigurovat **místní aplikaci** pro **jednotné přihlašování prostřednictvím proxy serveru**, podívejte se na článek [trezor hesel pro jednotné přihlašování s aplikací proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Řešení problémů se službou proxy aplikací**: Doporučujeme začít s kontrolou toku řešení potíží, což je [problém s konektorem ladění aplikace proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)a zjistit, jestli jsou připojovací konektory aplikace proxy správně nakonfigurované. Pokud pořád máte potíže s připojením k aplikaci, postupujte podle kroků pro řešení potíží v tématu [ladění aplikací proxy aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). [Problémy CORS můžete identifikovat](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) pomocí následujících ladicích nástrojů prohlížeče:
-    1. Spusťte prohlížeč a přejděte do webové aplikace.
-    1. Stisknutím klávesy **F12** Zobrazte ladicí konzoli.
-    1. Zkuste transakci zopakovat a zkontrolujte zprávu konzoly. Porušení CORS vyvolá chybu konzoly o původu.
-    1. Některé problémy CORS nejdou vyřešit, třeba když váš aplikace přesměrovává na login.microsoftonline.com, a platnost tokenu přístupu vyprší. Volání CORS potom selže. Alternativním řešením pro tento scénář je prodloužit životnost accessového tokenu, aby nedocházelo k jeho vypršení během relace uživatele. Další informace o tom, jak postupovat, najdete [v článku Konfigurace životnosti tokenů v Microsoft Identity Platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+1. Informace o konfiguraci **místní aplikace** pro jednotné přihlašování prostřednictvím proxy serveru aplikace **najdete** v tématu Trezor hesel pro jednotné přihlašování pomocí [Proxy aplikací](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
+1. **Řešení problémů s proxy serverem** aplikace: Doporučujeme, abyste začali s kontrolami toku řešení potíží, ladění problémů s konektorem [Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)aplikací, abyste zjistili, jestli jsou konektory Proxy aplikací správně nakonfigurované. Pokud máte pořád problémy s připojením k aplikaci, postupujte podle pokynů pro řešení potíží s aplikací Proxy aplikací pro [ladění.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) Problémy s [CORS můžete identifikovat](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) pomocí následujících nástrojů pro ladění prohlížeče:
+    1. Spusťte prohlížeč a přejděte na webovou aplikaci.
+    1. Stisknutím **klávesy F12** vytáhněte konzolu ladění.
+    1. Zkuste transakci reprodukovat a zkontrolujte zprávu konzoly. Porušení CORS vytváří chybu konzoly týkající se původu.
+    1. Některé problémy se službou CORS se neřeší, například když vaše aplikace přesměruje na login.microsoftonline.com k ověření a vyprší platnost přístupového tokenu. Volání CORS pak selže. Alternativním řešením tohoto scénáře je prodloužení životnosti přístupového tokenu, aby se zabránilo vypršení platnosti během relace uživatele. Další informace o tom, jak to udělat, najdete v tématu Konfigurace [životnosti tokenů](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)v Microsoft identity platform .
 
 **Doporučené dokumenty**
 
-- [Jak nakonfigurovat jednotné přihlašování na aplikaci proxy aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [Jednotné přihlašování pomocí protokolu SAML pro místní aplikace s proxy serverem aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Pochopení a řešení problémů s proxy aplikacemi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Poradce při potížích s omezením konfigurace delegování pro proxy server aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Konfigurace jednotného přihlašování k aplikaci Proxy aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [Jednotné přihlašování SAML pro místní aplikace pomocí Proxy aplikací](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Principy a řešení Azure Active Directory problémů s cors proxy aplikací](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Poradce při potížích s omezenými konfiguracemi delegování protokolu Kerberos pro proxy aplikace](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
