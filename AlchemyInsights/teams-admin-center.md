@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049337"
 ---
 # <a name="teams-admin-center"></a>Centrum pro správu Teams
 
@@ -32,5 +32,5 @@ Pokud se v centru pro správu Teams neobjevují uživatelé, zkontrolujte násle
 
 - Vytvořili jste v posledních 24 hodinách uživatele nebo přiřazovali licence? Než otevřete lístek podpory, počkejte alespoň 24 hodin.
 - Ověřte, že jste přiřadili správné licence.
-- Pokud máte místní službu Active Directory, ověřte, jestli je hodnota [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) nebo adresy SIP v poli ProxyAddresses v místní službě Active Directory jedinečná a formát odpovídá sip:**Uživatelské** jméno uživatele z Centra pro správu [Microsoft 365.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
-- Pokud máte v úmyslu zachovat nasazení Serveru Skypu pro firmy a mít uživatele místně a online: Postupujte podle pokynů v části Nastavení hybridního nasazení přes Teams a **Online Skypu** pro firmy v Ovládacích panelech serveru Skypu pro firmy a přesunutí uživatelů online.
+- Pokud máte místní službu Active Directory, ověřte, že hodnota [msRTCSIP-PrimaryUserAddress](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) nebo adresa SIP v poli ProxyAddresses v místní službě Active Directory je jedinečná a formát odpovídá sip:**Uživatelské** jméno uživatele z [Centrum pro správu Microsoftu 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Pokud máte v úmyslu zachovat nasazení Server Skypu pro firmy a mít uživatele místně a online: postupujte podle pokynů v části Nastavení hybridního nasazení s Teams a **Skype pro firmy Online v** Ovládacích panelech Server Skypu pro firmy a přesouhněte uživatele online.

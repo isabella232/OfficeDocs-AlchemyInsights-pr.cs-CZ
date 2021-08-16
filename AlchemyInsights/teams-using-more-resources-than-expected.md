@@ -1,5 +1,5 @@
 ---
-title: Pokyny k upgradu v Teams
+title: Teams upgradu
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "6653"
 - "9003563"
-ms.openlocfilehash: 74972a7d54ea349cd997509a59a9320256a7eee7
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 98c93b3b674412025e0ff0fa6a609665cf720c75d17e0d278c3abe123d5ec01c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48364671"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998684"
 ---
-# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams používá více prostředků počítače, než se očekávalo
+# <a name="teams-is-using-more-computer-resources-than-expected"></a>Teams používá více počítačových prostředků, než bylo očekáváno
 
-Vynikající výkon a uživatelské prostředí jsou nejčastějšími problémy v Microsoftu. Čas spuštění v Teams se zlepšil a budeme dál zlepšovat týmy, včetně celkové spotřeby prostředků.  
+Skvělý výkon a uživatelské prostředí jsou v Microsoftu hlavní obavy. Teams se zdokonaluje čas spuštění a budeme pokračovat ve zlepšování Teams včetně celkové spotřeby zdrojů.  
 
-Informace o týmech a používání zdrojů najdete v článku o [tom, jak aplikace Microsoft Teams používá paměť](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf)  a  [týmy jsou pomalé při schůzkách na rozlišení 4k/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).
+Informace o Teams a využití zdrojů najdete v tématu Jak [Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-memory-usage-perf) používá paměť a Teams je pomalé během videoschemi na přenosných zařízeních ukotvených na [monitorech 4K/HDR](https://docs.microsoft.com/MicrosoftTeams/troubleshoot/known-issues/teams-slow-video-meetings-laptops-4k).

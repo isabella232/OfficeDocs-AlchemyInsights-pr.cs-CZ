@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 6d1fac07673f6f945f382e4e640cf44afb76717d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 9dc01109d0f036c567243a8833a845f074097e39de4e1cfc1ba38da61b8f97ab
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049229"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>Běžné problémy v Teams pro zákazníky verze Education
 
@@ -46,7 +46,7 @@ Pokud potřebujete pomoct s nasazením Teams na podporu výuky na dálku, odešl
     6. V centru pro správu Skypu pro firmy klikněte na **Audiokonference** a pak na **Uživatelé**.
     7. Vyberte požadovaného uživatele a zkontrolujte, jestli má výchozí číslo placené linky.
 
-    Další informace najdete v tématu [Plány](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) volání do Microsoft Teams nebo zavolejte týmu fakturace Microsoft Commerce, který vám pomůže s otázkami souvisejícími s licencování.
+    Další informace najdete v článku [o Microsoft Teams volání](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) nebo zavolejte týmu fakturace Microsoft Commerce, který vám pomůže s otázkami souvisejícími s licencování.
 
     Další zdroje informací
 

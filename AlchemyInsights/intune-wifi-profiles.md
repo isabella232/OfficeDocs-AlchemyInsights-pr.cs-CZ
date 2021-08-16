@@ -1,5 +1,5 @@
 ---
-title: Intune profily Wi-Fi
+title: Profily Wi-Fi Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "1548"
 - "9000076"
-ms.openlocfilehash: afc8142a635b8a9d715eb4325b570be20ad26645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e5258806c8a38965467a8878bc8ac922c2668f21abe3602f479dcdaff8c9b5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696254"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028213"
 ---
-# <a name="intune-wi-fi-profiles"></a>Intune profily Wi-Fi
+# <a name="intune-wi-fi-profiles"></a>Profily Wi-Fi Intune
 
-Úspěšná implementace připojení Wi-Fi pro klienty MDM závisí na správně nasazeném profilu, který odráží požadavky podnikové infrastruktury Wi-Fi. Pokud chcete zkontrolovat příslušná nastavení pro klientské platformy, které zkoumáte, přečtěte si téma: 
+Úspěšná implementace Wi-Fi pro klienty MDM závisí na správně nasazené profil, který odpovídá požadavkům podnikové Wi-Fi infrastruktury. Pokud chcete zkontrolovat příslušná nastavení pro klientské platformy, které prošetřujeme, podívejte se na následující informace: 
 
-[Přidání nastavení Wi-Fi pro zařízení s Androidem v Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android)
+[Přidání Wi-Fi pro zařízení s Androidem v Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android)
 
-[Přidání nastavení Wi-Fi pro podniková vyhrazená a plně spravovaná zařízení s Androidem v Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android-enterprise)
+[Přidání Wi-Fi nastavení pro zařízení s Androidem Enterprise vyhrazená a plně spravovaná zařízení v Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android-enterprise)
 
-[Přidání nastavení Wi-Fi pro zařízení s iOS a iPadOS v Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-ios)
+[Přidání Wi-Fi pro zařízení s iOS a iPadOS v Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-ios)
 
-[Přidání nastavení Wi-Fi pro Windows 10 a novější zařízení v Intune](https://docs.microsoft.com/intune/wi-fi-settings-windows)
+[Přidání Wi-Fi nastavení pro Windows 10 a novější zařízení v Intune](https://docs.microsoft.com/intune/wi-fi-settings-windows)
 
-[Import nastavení Wi-Fi pro zařízení s Windows v Intune](https://docs.microsoft.com/intune/wi-fi-settings-import-windows-8-1)
+[Import Wi-Fi nastavení pro Windows zařízení v Intune](https://docs.microsoft.com/intune/wi-fi-settings-import-windows-8-1)
 
 **Běžné problémy**
 
-**Zavádím profil sítě Wi-Fi, který je závislý na nasazeném certifikátu zadaném v profilu sítě Wi-Fi. Konfigurační profily však zobrazují chybový stav.**
+**Nasazuji profil Wi-Fi, který je závislý na nasazené certifikátu zadaném v Wi-Fi profilu. V konfiguračních profilech se ale zobrazuje chybový stav.**
 
-Zkontrolujte, že vaše zařízení certifikát obdržel.
+Zkontrolujte, že vaše zařízení certifikát obdrželo.
 
-1. V Intune přejděte na **všechna zařízení** a vyberte zařízení > **konfiguraci zařízení**.
+1. V Intune přejděte na **Všechna zařízení** a vyberte zařízení, > **zařízení**.
 
-2. Zkontrolujte, jestli jsou všechny očekávané profily uvedené a v úspěšném stavu.
+2. Zkontrolujte, že jsou všechny očekávané profily uvedené a v úspěšném stavu.
 
-3. Pokud máte v řetězci certifikátu zprostředkující certifikáty, ujistěte se, že jsou na zařízení s Androidem nasazené.
+3. Pokud máte v řetězu certifikátů zprostředkující certifikáty pro androidový profil, ujistěte se, že jsou nasazené na zařízeních s Androidem.
 
-    Pokud chcete zkontrolovat stav certifikátu, přejděte na **konfigurační**  >  **profily**zařízení  >  **Android intermediate CA**  >  **Properties**  >  **Trusted Certificate**.
+    Pokud chcete zkontrolovat stav certifikátu, přejděte na **Profily konfigurace** zařízení Android  >    >  **intermediate CA**  >  **Properties**  >  **Trusted Certificate**.
 
-Pokud se vám pořád zobrazují chyby, podívejte se na postupy a oddíly řešení potíží. Další informace najdete v článku [o řešení potíží s profily certifikátů SCEP přes Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune).
+Pokud chyby vidíte i nadále, podívejte se na postupy a oddíly pro řešení potíží. Další informace najdete v tématu [Overview for troubleshooting SCEP certificate profiles with Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune).
 
-**Nasadil (a) profil sítě Wi-Fi na zařízení. Intune ukazuje, že byl úspěšný, ale zařízení se nepřipojuje k Wi-Fi.**
+**Nasadil(a) jsem Wi-Fi profil na zařízení. Intune ukazuje, že byla úspěšná, ale zařízení se k Wi-Fi ne připojuje.**
 
-Úspěšný stav znamená, že v Intune se profil úspěšně nasadil jako nakonfigurovaný. Tato konfigurace ale nemusí odpovídat vašim požadavkům na síť nebo ověřování. Další podrobnosti o pokusu o připojení najdete v protokolech v tématu infrastruktura a ověřování (na řadiči přístupových bodů sítě Wi-Fi a serveru NPS nebo RADIUS). Možná budete muset pracovat s týmem infrastruktury sítě nebo s poskytovatelem Wi-Fi jiného výrobce, abyste mohli shromáždit a zkontrolovat protokoly.
+Úspěšný stav znamená, že Intune úspěšně nasadila profil tak, jak je nakonfigurovaný. Tyto konfigurace ale nemusí odpovídat požadavkům na síť nebo ověřování. Další podrobnosti o pokusu o připojení najdete v protokolech v infrastruktuře a ověřovací služba (na řadiči accessových bodů Wi-Fi serveru NPS/Radius). Možná budete muset spolupracovat se svým týmem síťové infrastruktury nebo s dodavatelem třetí Wi-Fi, abyste shromáždili a prošli protokoly.
