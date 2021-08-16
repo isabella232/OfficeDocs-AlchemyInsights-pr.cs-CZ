@@ -1,5 +1,5 @@
 ---
-title: Co je web Centrum?
+title: Co je centrální web?
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c74df953-2ddc-4375-aea0-9f410881bb2e
-ms.openlocfilehash: f6bcd7acd0562860414b72b9199a8c4a24d9bcf8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5d2523832f91c98c452ef1c21586888da236082ff551b3b1a349757b48f6e99d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989800"
 ---
-# <a name="whats-a-hub-site"></a>Co je web Centrum?
+# <a name="whats-a-hub-site"></a>Co je centrální web?
 
-Centrum vám pomůže organizovat weby a poskytovat jim společné navigace a branding. Globální uživatelé nebo správci SharePointu budou moct vytvářet weby centrálních sítí a určovat, kteří uživatelé můžou přidružit jejich weby k centrální lokalitě. Další informace najdete v tématu [sharepointové weby](https://go.microsoft.com/fwlink/?linkid=869388).
+Centrální web vám pomůže uspořádat weby a dát jim běžnou navigaci a branding. Globální nebo SharePoint správci budou moct vytvářet centrální weby a určit, kteří uživatelé mohou přidružit svoje weby k centrálnímu webu. Další informace najdete v tématu [SharePoint centrálních webů](https://go.microsoft.com/fwlink/?linkid=869388).
   

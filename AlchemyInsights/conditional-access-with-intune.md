@@ -9,30 +9,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: 20ef8205431aad821419f2559be3402c8228d838
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c24451fba8b8ab8fe7a1778bb292dec6678e1ef487076d27458c9aeb4963c683
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069705"
 ---
 # <a name="conditional-access-with-intune"></a>Podmíněný přístup pomocí Intune
 
-Použití  **podmíněného přístupu**  v Intune vyžaduje 3 kroky:
+Použití  **podmíněného přístupu v**  Intune vyžaduje 3 kroky:
 
-- Vytvořte zásady  **dodržování předpisů** [(Android,](https://docs.microsoft.com/intune/compliance-policy-create-android)  [iOS,](https://docs.microsoft.com/intune/compliance-policy-create-ios)  [Windows)](https://docs.microsoft.com//intune/compliance-policy-create-windows)definující nastavení, která musí být splněná, aby bylo zařízení považované za zařízení dodržující předpisy. Aby bylo zařízení považované za zařízení dodržující předpisy, musí mít například kód PIN aspoň 6 číslic.
-- Vytvořte zásady **podmíněného přístupu,**  které definují, které prostředky jsou chráněné a jaké podmínky musí být pro přístup k zdrojům splněné.  [Aby mělo například zařízení](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  přístup k podnikovému e-mailu, musí být v souladu s předpisy.
-- **Zajistěte, aby zásady dodržování** předpisů a zásady **podmíněného** přístupu byly cílené na požadované skupiny uživatelů. To může vyžadovat vytvoření konkrétních skupin uživatelů v Azure Active Directory.
+- Vytvořte zásady **dodržování předpisů** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [iOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) a definujte nastavení, která musí být splněna, než bude zařízení považované za kompatibilní. Zařízení musí mít například špendlík s aspoň 6 číslicemi, aby bylo považováno za vyhovující.
+- Vytvořte zásadu **podmíněného přístupu,**  která definuje, jaké prostředky jsou chráněné a jaké podmínky je potřeba splnit pro přístup k teým prostředkům.  [Před přístupem](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  k podnikovému e-mailu musí být například zařízení kompatibilní.
+- **Zajistěte, aby zásady dodržování** předpisů i zásady **podmíněného** přístupu byly zaměřené na požadované skupiny uživatelů. To může vyžadovat vytvoření konkrétních skupin uživatelů v Azure Active Directory.
 
 **Užitečné odkazy:**
 
-[Přehled dodržování předpisů zařízením](https://docs.microsoft.com/intune/device-compliance-get-started)
+[Přehled dodržování předpisů pro zařízení](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Řešení potíží s CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Poradce při potížích s certifikační autoritou](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Zásady pro řešení potíží](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+[Poradce při potížích se zásadou](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-Pokud chcete e-mail (Exchange Online) chránit před přístupem zařízení, která nejsou s tím, jak mají být, musí následovat oba dokumenty:
+Pokud chcete chránit e-mail (Exchange online) před přístupem zařízení, která nejsou v režimu nedokonalých služeb, je nutné dodržovat oba dokumenty:
 
 1. [Ochrana přístupu k e-mailu ze zařízení pomocí EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Ochrana přístupu k e-mailu ze zařízení pomocí moderních ověřovacích klientů, jako je outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+2. [Ochrana přístupu k e-mailu před zařízeními pomocí moderních ověřovacích klientů, jako je Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
