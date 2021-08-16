@@ -1,5 +1,5 @@
 ---
-title: 8000037 nepřijímá e-maily ve Outlook.com
+title: 8000037 na Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097335"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Nepřijímání pošty ve Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Nepřijímá se pošta na Outlook.com
 
-Pokud nedostanete e-maily od určitého odesílatele, jako jsou například vaše bankovní výpisy nebo zprávy o resetování hesla, budete muset kontaktovat odesílatele a sdělit jim, že nedostanete e-maily na účtu Outlook.com. Přečtěte si prosím odesílatele [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , kde může najít informace o osvědčených postupech, doporučit řešení potíží a odkaz pro kontaktování týmu podpory pro odesílatele.
+Pokud nepřijímáte e-maily od určitého odesílatele, jako jsou bankovní výpisy nebo zprávy o resetování hesla, budete muset kontaktovat odesílatele a dát jim vědět, že e-mail na svém účtu Outlook.com nepřijímáte. Obraťte se prosím na odesílatele, kde může najít informace o osvědčených postupech, doporučit řešení potíží a odkaz na náš [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) tým podpory odesílatele.
   
-Pokud váš účet Outlook.com nepřijímá e-maily vůbec, přečtěte si článek [řešení problémů se synchronizací e-mailů](https://go.microsoft.com/fwlink/p/?linkid=874363)
+Pokud váš Outlook.com e-mail vůbec ne přijímá, podívejte se na řešení problémů se synchronizací [e-mailu Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874363)
   
 

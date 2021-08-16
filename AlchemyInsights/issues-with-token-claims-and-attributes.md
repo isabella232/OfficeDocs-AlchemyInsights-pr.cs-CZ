@@ -1,5 +1,5 @@
 ---
-title: Problémy s atributy a deklarace tokenů
+title: Problémy s deklaracemi tokenů a atributy
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035852"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012877"
 ---
-# <a name="issues-with-token-claims-and-attributes"></a>Problémy s atributy a deklarace tokenů
+# <a name="issues-with-token-claims-and-attributes"></a>Problémy s deklaracemi tokenů a atributy
 
-**Aktualizace, konfigurace nebo odebrání deklarace tokenů**
+**Aktualizace, konfigurace nebo odebrání deklarací tokenu**
 
-1. Pomocí Azure Active Directory (Azure [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) AD) můžete přizpůsobit typ deklarace identity pro claim role v tokenu pro odpověď, který dostanete po autorizaci aplikace.
-2. Vývojáři aplikací mohou ve svých aplikacích Azure AD používat volitelné nároky k určení toho, jaké nároky chtějí mít v tokenech posílaných do své aplikace. Další informace najdete v článku [Poskytnutí nepovinných](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)nároků ve vaší aplikaci.
-3. [Nakonfigurujte deklarace skupin pro aplikace pomocí Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims)
-4. Pokud používáte bezproblémové jednotné přihlašování ve vaší aplikaci, podívejte se na přizpůsobení nároků vydaných [v tokenu SAML pro podnikové aplikace.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
+1. Pomocí Azure Active Directory (Azure AD) můžete [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) přizpůsobit typ deklarace identity pro deklaraci role v tokenu odpovědi, který obdržíte po autorizaci aplikace.
+2. Vývojáři aplikací mohou v aplikacích Azure AD používat volitelné deklarace identity k určení, které deklarace identity chtějí v tokenech odeslaných do jejich aplikace. Další informace najdete v tématu [Poskytnutí volitelných deklarací identity do aplikace](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
+3. [Konfigurace deklarací skupiny pro aplikace pomocí Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
+4. Pokud v aplikaci používáte bezproblémové jednotné přihlašování, podívejte se na informace v tématu Přizpůsobení deklarací vydaných [v tokenu SAML pro podnikové aplikace](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
 
-**Mapování atributů deklarací**
+**Mapování atributů deklarací identity**
 
-1. Pokud chcete nakonfigurovat zásady mapování deklarací identity pomocí PowerShellu, podívejte se na stránku Přizpůsobení deklarací identity sílané do tokenů konkrétní aplikace v [tenantovi (Preview).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
-2. Atributy rozšíření schématu adresáře umožňují ukládat do Azure Active Directory další data v objektech uživatelů a jiných adresářových objektech, jako jsou skupiny, podrobnosti o tenantovi a objekty zabezpečení služby. K uplatnění nároku na nároky na aplikace lze použít pouze atributy rozšíření u uživatelských objektů. [Použití atributů rozšíření schématu adresáře v claims](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) popisuje, jak používat atributy rozšíření schématu adresáře pro odesílání uživatelských dat aplikacím v deklaracích tokenů.
+1. Informace o konfiguraci zásad mapování deklarací identity pomocí PowerShellu najdete v tématu Přizpůsobení deklarací identity vydávané v tokenech pro konkrétní [aplikaci v tenantovi (Preview).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+2. Atributy rozšíření schématu adresáře umožňují ukládat další data v Azure Active Directory objektů uživatelů a dalších objektů adresáře, jako jsou skupiny, podrobnosti tenanta, objekty služby. K vysílání deklarací do aplikací se používejte jenom atributy rozšíření u uživatelských objektů. [Použití atributů rozšíření schématu adresáře](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) v deklaracích identity popisuje, jak používat atributy rozšíření schématu adresáře pro odesílání uživatelských dat do aplikací v deklaracích tokenů.
 
-Další informace o deklaracích tokenů najdete v těchto článku:
+Další informace o deklaracích tokenů najdete v těchto tématu:
 
-- [Nároky v přístupových tokenech](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
-- [Nároky na id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
-- [Nároky,](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) které můžete očekávat v ID tokenech a přístupových tokenech vydaných Azure AD B2C
-- [Referenční informace o deklarace tokenů SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
+- [Deklarace identity v přístupových tokenech](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
+- [Nároky v id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
+- [Deklarace identity,](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) které můžete očekávat v tokenech ID a přístupových tokenech vydaných Službou Azure AD B2C
+- [Odkaz na deklarace tokenů SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
