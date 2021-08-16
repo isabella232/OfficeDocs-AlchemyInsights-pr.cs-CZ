@@ -1,5 +1,5 @@
 ---
-title: Nelze získat přístup k Microsoft Defender ATP portálu
+title: Přístup k portálu ATP v programu Microsoft Defender se nedaří
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6030"
 - "9001222"
-ms.openlocfilehash: 8ceba944c8aba183d0622f528658ead8430faa2c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 71b82307b3491d5d9dbd6cf4325c33645e036475a3a8a5a563e6e84e921fe52a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020365"
 ---
-# <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Nelze získat přístup k Microsoft Defender ATP portálu
+# <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Přístup k portálu ATP v programu Microsoft Defender se nedaří
 
-Pokud obdržíte **zprávu,** nejste oprávněni přistupovat k portálu , uvědomte si, že Microsoft Defender ATP je produkt pro sledování zabezpečení, vyšetřování incidentů a odpověď a uživatel má omezený a řízený přístup. 
+Pokud obdržíte **zprávu,** nejste oprávněni přistupovat k portálu , uvědomte si, že program Microsoft Defender ATP je produkt pro sledování zabezpečení, vyšetřování incidentů a odpověď a uživatel má omezený a řízený přístup. 
 
 Další informace najdete v tématu [Přiřazení přístupu uživatelů k Centrum zabezpečení v programu Microsoft Defender](/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection).

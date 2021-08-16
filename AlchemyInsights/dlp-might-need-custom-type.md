@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 72b16d437f97de27cbdc364f022c3e2059b31ef0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030787"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP může potřebovat vlastní typ
 
@@ -26,18 +26,18 @@ ms.locfileid: "47712177"
 
 **DLP může vyžadovat vlastní typ informací.**
 
-Pomocí zásad ochrany před únikem informací můžete identifikovat a chránit citlivá data ve vaší organizaci. V některých scénářích budete muset **vytvořit vlastní typ citlivých** informací, abyste chránili data organizace.
+Se zásadou ochrany před únikem dat (DLP) můžete identifikovat a chránit citlivá data ve vaší organizaci. V některých situacích budete možná  muset vytvořit vlastní typ citlivých informací, který bude chránit data vaší organizace.
 
-Vaše organizace může například potřebovat identifikovat a chránit ID zaměstnanců nebo jiná data v některém formátu určeném pro vaši organizaci. Pokud ano, najdete další informace v následujících článcích.
+Vaše organizace třeba bude muset identifikovat a chránit ID zaměstnanců nebo jiná data v určitém formátu, který je specifický pro vaši organizaci. Pokud ano, další informace najdete v následujících článcích.
   
- **Přizpůsobení předdefinovaného citlivého typu informací**
+ **Přizpůsobení integrovaného typu citlivých informací**
   
-Pokud by integrovaný typ citlivých informací splňoval vaše potřeby jenom s několika vylepšeními, můžete [přizpůsobit integrovaný typ citlivých informací](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Můžete například přidat nebo odebrat klíčová slova nebo přidat nebo odebrat podpůrný důkaz, například datum nebo adresu.
+Pokud by předdefinový typ citlivých informací splňoval vaše potřeby pomocí několika vylepšení, můžete si přizpůsobit předdefinový typ [citlivých informací](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Můžete například přidat nebo odebrat klíčová slova nebo přidat nebo odebrat podpůrné důkazy, jako je datum nebo adresa.
   
  **Vytvoření vlastního typu citlivých informací**
   
-Pokud ale potřebujete zjistit a chránit jiný typ citlivých informací, můžete [vytvořit vlastní typ citlivých informací](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) v uživatelském rozhraní centra zabezpečení &.
+Pokud ale potřebujete identifikovat a chránit úplně jiný typ citlivých informací, můžete vytvořit vlastní typ citlivých informací v uživatelském rozhraní Centra zabezpečení & dodržování předpisů. [](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
   
-**Vytvoření vlastního typu citlivých informací v prostředí PowerShell centra dodržování předpisů &**
+**Vytvoření vlastního typu citlivých informací v PowerShellu & Security & Compliance Center**
 
-Pokud uživatelské rozhraní nenabízí všechny možnosti, které potřebujete, můžete si [vytvořit vlastní typ citlivých informací v prostředí PowerShell centra dodržování předpisů &](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Spuštěním souboru XML můžete použít všechny dostupné možnosti.
+A konečně, pokud uživatelské rozhraní neposkytuje všechny možnosti, které potřebujete, můžete vytvořit vlastní typ citlivých informací v [Centru zabezpečení & Compliance Center PowerShell](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Počínaje souborem XML můžete použít všechny dostupné možnosti.

@@ -1,5 +1,5 @@
 ---
-title: Příklad zásad bezpečné přílohy v Programu Microsoft Defender pro Office 365
+title: Příklad zásad přílohy v programu Microsoft Defender Office 365 Sejf přílohy
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 077762dd37a2974b4e519c1f242fa753623cb49a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7294be81a24fa61a92367bae304798a333cb916c8718e28b1a87314c15ef6c8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988288"
 ---
-# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Příklad zásad bezpečné přílohy v Programu Microsoft Defender pro Office 365
+# <a name="example-microsoft-defender-for-office-365-safe-attachment-policy"></a>Příklad zásad přílohy v programu Microsoft Defender Office 365 Sejf přílohy
 
 Tato nastavení povolte zásadu *s* názvem Žádná zpoždění, která okamžitě doručí zprávy, a potom přílohy znovu připojte po jejich naskenování:
 
 - **Název:** Bez zpoždění
 - **Popis:** Doručuje zprávy okamžitě a znovu přichytá přílohy po skenování.
-- **Odpověď:** Vyberte **možnost Dynamické doručení.** Další informace najdete v tématu [Dynamické doručování v zásadách bezpečných příloh](https://go.microsoft.com/fwlink/?linkid=2092328).
-- **Oddíl Příloha přesměrování:** Vyberte možnost Povolit přesměrování a zadejte e-mailovou adresu globálního správce Microsoftu 365, správce zabezpečení nebo analytika zabezpečení, který bude zkoumat škodlivé přílohy.
+- **Odpověď:** Vyberte **možnost Dynamické doručení.** Další informace najdete v tématu [Dynamické doručování v Sejf přílohy](https://go.microsoft.com/fwlink/?linkid=2092328).
+- **Oddíl Redirect attachment** (Přesměrovat přílohu): Vyberte možnost Povolit přesměrování Microsoft 365 a zadejte e-mailovou adresu globálního správce, správce zabezpečení nebo analytika zabezpečení, který bude zkoumat škodlivé přílohy. 
 - **Oddíl Použitý na:** Vyberte **Doména příjemce je** a pak vyberte doménu. Vyberte **přidat** a pak vyberte **OK**. Po dokončení vyberte **Uložit**.
 
-Další informace najdete v tématu [Bezpečné přílohy v programu Microsoft Defender pro Office 365.](https://go.microsoft.com/fwlink/?linkid=2092213)
+Další informace najdete v tématu [Sejf v programu Microsoft Defender pro Office 365](https://go.microsoft.com/fwlink/?linkid=2092213).

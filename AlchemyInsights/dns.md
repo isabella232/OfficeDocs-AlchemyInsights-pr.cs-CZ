@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5625"
-ms.openlocfilehash: c94173a4b13be2d3fb0b05d4ec03365c00137b79
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fe5e7cd2f8d020192b7d60702f02608f7adb3ab5ea85fbec99326921bbb26cd8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004867"
 ---
 # <a name="dns"></a>DNS
 

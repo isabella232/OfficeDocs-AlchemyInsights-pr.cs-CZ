@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 0c2473b8682ba12d3d15e24dc0f2485a7ab8789f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 78fd77c27a3ec62b16325cdb3be469e45514f8cf0b5de4f4264f080b23627eef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403592"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988324"
 ---
 # <a name="create-an-alert-policy"></a>Vytvoření zásad upozornění
 
 Tady je postup:
 
-1. Přejděte do [Centra zabezpečení Office 365 & Dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Přejděte do [Centra Office 365 zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143).
 1. Vyberte **Upozornění**  >  [na zásady upozornění](https://go.microsoft.com/fwlink/?linkid=2103208).
 1. Vyberte **+ Nové zásady upozornění**. Zobrazí se plovoucí nabídka.
 1. Podle **potřeby nastavte** pole **Název,** **Popis,** Závažnost a Kategorie.  Vyberte **Další**.

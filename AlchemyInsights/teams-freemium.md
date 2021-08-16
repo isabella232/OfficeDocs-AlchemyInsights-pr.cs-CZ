@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9ee8e58510ec8ca550de60ff7b07855427633bae055b738eeef3e838edd7c609
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048797"
 ---
 # <a name="id-like-to-sign-up-for-teams-for-free"></a>Chci se zaregistrovat k Teams zdarma
 
-Aplikace Teams je bezplatně dostupná prostřednictvím několika různých programů. Vzhledem k tomu, že kontaktovali podporu s touto žádostí, už máte stávajícího tenanta Microsoftu 365, což znamená, že už Microsoft Teams máte.
+Teams je k dispozici zdarma prostřednictvím několika různých programů. Vzhledem k tomu, že s touto žádostí kontaktujete podporu, už máte existujícího Microsoft 365, což znamená, že už máte Microsoft Teams.
 
-Ve většině případů je aplikace Teams ve výchozím nastavení zapnutá pro všechny vaše uživatele. Jakmile je aplikace zapnutá, uživatelé mohou aplikaci Teams spustit buď nainstalováním [desktopových](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)a mobilních klientů, nebo z prohlížeče   na webu Microsoft [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)  [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)    [Teams.](https://www.microsoft.com/microsoft-teams/teams-for-work)
+Ve většině případů je Teams pro všechny uživatele ve výchozím nastavení zapnutá. Jakmile je zapnutá, instaluje Teams a mobilní [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)klienty nebo z prohlížeče na    [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)  [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)    [Microsoft Teams](https://www.microsoft.com/microsoft-teams/teams-for-work).
 
-Výjimkou je Microsoft Teams pro vzdělávání (EDU). Pokud máte licenci na EDU, musíte Microsoft Teams povolit ručně. Pokud to chcete udělat, přejděte do Centra pro správu Microsoftu 365,> služby a doplňky **> Microsoft Teams.** Pokud používáte nové Centrum pro správu Teams, budete muset **** vypnout Nové centrum pro správu, abyste našli služby a    **doplňky.** DŮLEŽITÉ: Možná budete muset počkat až 24 hodin, než se změny projeví.
+Výjimkou je Microsoft Teams pro vzdělávání (EDU). Pokud máte licenci EDU, musíte ji Microsoft Teams ručně. To můžete udělat tak, že Centrum pro správu Microsoftu 365 **> a** doplňky > Microsoft Teams. Pokud používáte nové centrum pro správu Teams, budete muset vypnout **** Vyzkoušejte nové centrum pro správu a vyhledejte služby a    **doplňky.** DŮLEŽITÉ: Možná budete muset počkat až 24 hodin, než se změny projeví.
 
-Nenechte si ujít všechny naše pokyny pro podporu [vzdálených pracovníků s aplikací Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)
+Nenechte si ujít všechny naše pokyny pro podporu vzdálených [pracovníků s Teams.](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams)
