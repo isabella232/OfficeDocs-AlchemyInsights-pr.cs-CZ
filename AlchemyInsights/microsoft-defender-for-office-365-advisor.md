@@ -1,5 +1,5 @@
 ---
-title: Poradce Microsoft Defender pro Office 365 Advisor
+title: Microsoft Defender pro Office 365 poradce
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: cb916a79ddd4b882ea5b892cfc4c2133c924df5d
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098092"
 ---
-# <a name="microsoft-defender-for-office-365-advisor"></a>Poradce Microsoft Defender pro Office 365 Advisor
+# <a name="microsoft-defender-for-office-365-advisor"></a>Microsoft Defender pro Office 365 poradce
 
-[Nástroj Microsoft Defender pro Office 365 Advisor](https://go.microsoft.com/fwlink/?linkid=2146614) chrání vaši organizaci před škodlivými hrozbami, ke kterým může vaše prostředí dojít prostřednictvím e-mailových zpráv, odkazů a nástrojů pro spolupráci třetích stran. Tento průvodce vám poskytne zdroje a informace, které vám pomůžou připravovat a identifikovat plán aplikace Microsoft Defender pro potřeby organizace.
+Microsoft [Defender pro Office 365 chrání](https://go.microsoft.com/fwlink/?linkid=2146614) vaši organizaci před škodlivými hrozbami, se kterými se vaše prostředí může setkat prostřednictvím e-mailových zpráv, odkazů a nástrojů pro spolupráci třetích stran. Tato příručka vám poskytne zdroje a informace, které vám pomůžou připravit a identifikovat plán Microsoft Defenderu tak, aby vyhovoval potřebám vaší organizace.
