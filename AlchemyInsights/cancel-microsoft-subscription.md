@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002287"
 - "4420"
-ms.openlocfilehash: 7dc234cb6cf9f05735fed621fe332575a79b2512
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 381ede315b62b969a62bdba3bc3fc94acf94f275e94cf0b71dfd20c000f6b517
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071710"
 ---
 # <a name="cancel-microsoft-subscription"></a>Zrušení předplatného Microsoftu
 
