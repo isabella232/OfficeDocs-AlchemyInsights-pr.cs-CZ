@@ -1,5 +1,5 @@
 ---
-title: Outlook.com Facebooku
+title: Outlook.com facebookové kódy
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672049"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063945"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nepřijímání kódů Facebooku pomocí Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Nepřijímá se facebookové kódy pomocí Outlook.com
 
-Pokud jste si vyžádali nové heslo z Facebooku, ale nedostali jste e-mail pro resetování hesla:
+Pokud jste požádali o nové heslo z Facebooku, ale neobdržíte e-mail pro resetování hesla:
 
-- Zkontrolujte [nevyžádanou poštu nebo složku Nevyžádaná pošta](https://outlook.live.com/mail/junkemail).
-- Zkuste [znovu obnovit heslo pro Facebook](https://aka.ms/facebook-password-reset).
+- Zkontrolujte složku [spamu nebo nevyžádané pošty](https://outlook.live.com/mail/junkemail).
+- Zkuste [heslo k Facebooku resetovat znovu.](https://aka.ms/facebook-password-reset)
 
-Pokud nemůžete resetovat heslo, protože nemůžete získat přístup k e-mailovému číslu nebo mobilu na vašem účtu, zkuste použít [tipy pro obnovení hesla na Facebooku](https://aka.ms/facebook-password-help).
+Pokud nemůžete resetovat heslo, protože nemáte přístup k e-mailovému nebo mobilnímu telefonnímu číslu ve svém účtu, zkuste facebookové heslo resetovat [Tipy](https://aka.ms/facebook-password-help).

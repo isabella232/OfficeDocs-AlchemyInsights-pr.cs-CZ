@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 86ff5f7fbaed62de9047006bf4ba4d2db2be3def
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b42cf276a76547584c8cfd87b5a28f31d51ea7f8ca56621b22aeef01e4613ce6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000379"
 ---
 # <a name="modern-site-as-root-site"></a>Moderní web jako kořenový web
 
-Začali jsme vycházet s novou funkcí, která vám umožní [vyměnit kořenový web klasického webu pomocí moderního webu](https://docs.microsoft.com/sharepoint/modern-root-site). Pomocí metody [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) zaměníte umístění webu s jiným webem při archivaci původního webu. K dispozici pro týmový web (nepřipojený ke skupině) a komunikační Web.
+Začali jsme zaměňovat novou funkci, která vám umožní vyměnit váš klasický kořenový web za [moderní web.](https://docs.microsoft.com/sharepoint/modern-root-site) Funkce [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) slouží k výměně umístění webu s jiným webem při archivaci původního webu. K dispozici pro týmový web (není připojený ke skupině) i pro komunikační web.
 
 >[!Important]
-> Neodstraňujte klasický kořenový web a vytvořte moderní komunikační Web. Microsoft toto nepodporuje. Když odstraníte kořenový web, budou všechny SharePointové weby ve vaší organizaci nedostupné všem uživatelům, dokud web neobnovíte nebo nevytvoříte nový web na stejné adrese URL. Tuto funkci sdělujeme prostřednictvím centra zpráv. Měli byste očekávat, že ve vašem klientovi brzy zapnete funkci.
+> Pokud chcete vytvořit moderní komunikační web, neodstraňovat klasický kořenový web. Microsoft to nepodporuje. Odstraněním kořenového webu nebudou SharePoint všechny weby ve vaší organizaci přístupné všem uživatelům, dokud web obnovíte nebo nevytváříte nový web na stejné adrese URL. Tuto funkci budeme komunikovat prostřednictvím Centra zpráv. Měli byste očekávat, že funkce bude v tenantovi brzy zapnutá.
 
-## <a name="known-issues-with-swapping-sites"></a>Známé problémy při záměně webů
-- Cílový web může vrátit chybu "not found" (HTTP 404) po krátkou dobu.
-- Abyste mohli aktualizovat index vyhledávání, bude potřeba obsah znovu projít. Zde není žádný ruční krok, který bude proveden automaticky.
-- Vše závislé na "statických" odkazech (například synchronizace souborů a soubory OneNotu) bude nutné ručně opravit.
-- Weby Project serveru bude pravděpodobně nutné ověřit, abyste se ujistili, že jsou pořád správně přidružené. 
+## <a name="known-issues-with-swapping-sites"></a>Známé problémy s vyměňování webů
+- Cílový web může krátkou dobu vrátit chybu "nenal." (HTTP 404).
+- Aby se index hledání aktualizovat, bude potřeba obsah znovu prohledat. Tady není nutný žádný ruční krok, tento krok se provádí automaticky.
+- Všechno, co závisí na "statických" odkazech (například Synchronizace souborů a OneNote souborů), bude muset být ručně opraveno.
+- Project Serverové weby je možná potřeba ověřit, aby se zajistilo, že jsou pořád správně spojené. 

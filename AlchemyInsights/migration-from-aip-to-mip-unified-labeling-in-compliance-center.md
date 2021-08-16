@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000349"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Migrace z programu AIP na mip/unified labeling v Centru dodržování předpisů
 
@@ -25,11 +25,11 @@ Pokud chcete migrovat z popisků AIP do jednotného označování v Centru zabez
 
 **Aktivace ochrany z portálu Azure Portal**
 
-1. Pokud jste to ještě neudělali, otevřete nové okno prohlížeče a přihlaste se [na portál Azure Portal.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Přejděte do okna **Azure Information Protection.** Například v nabídce centrum klikněte  na Všechny služby a začněte psát **informace** do pole Filtr. Vyberte **Azure Information Protection**. Pokud jste se k okně Azure Information Protection ještě [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) předtím nes přístupem, podívejte se na další postup, jak toto okno přidat na portál. Abyste otevřeli okno Azure Information Protection, musíte mít plán [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) nebo plán Office 365, který zahrnuje správu přístupových práv. Pokud máte jedno z těchto předplatných, ale zobrazí se zpráva, že platné předplatné nelze najít, kontaktujte podporu [Microsoftu](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) nebo použijte standardní kanály podpory.
+1. Pokud jste to ještě neudělali, otevřete nové okno prohlížeče a přihlaste se [na portál Azure Portal.](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal) Přejděte do okna **Azure Information Protection.** Například v nabídce centrum klikněte  na Všechny služby a začněte psát **informace** do pole Filtr. Vyberte **Azure Information Protection**. Pokud jste se k okně Azure Information Protection ještě [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) předtím nes přístupem, podívejte se na další postup, jak toto okno přidat na portál. Pokud chcete otevřít okno Azure Information Protection, musíte mít plán [Azure Information Protection](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) Premium nebo plán, který zahrnuje Office 365 správy přístupových práv. Pokud máte jedno z těchto předplatných, ale zobrazí se zpráva, že platné předplatné nelze najít, kontaktujte podporu [Microsoftu](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) nebo použijte standardní kanály podpory.
 
 2. Vyhledejte **možnosti nabídky** Spravovat a vyberte **Aktivace ochrany**. Klikněte **na Aktivovat** a potvrďte akci. Po dokončení aktivace se na informačním panelu zobrazí **úspěšně dokončená aktivace.**
 
-**Migrace štítků Azure Information Protection do Centra zabezpečení Office 365 & dodržování předpisů**
+**Migrace štítků Azure Information Protection do centra Office 365 zabezpečení & dodržování předpisů**
 
 1. Ujistěte se, že jste přihlášení jako uživatel s oprávněním globálního správce.
 
