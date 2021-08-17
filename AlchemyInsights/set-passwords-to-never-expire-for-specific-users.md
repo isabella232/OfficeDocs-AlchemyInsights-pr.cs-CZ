@@ -15,16 +15,16 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0f71f3a73d159878e29a5aca2fc61aa177471205469bd7f941daf2a67bdcb68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51788984"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108621"
 ---
 # <a name="set-passwords-to-never-expire"></a>Nastavení nikdy nevyprší platnosti hesel
 
-Pokud chcete nastavit, aby platnost všech hesel nikdy nevyprší, přejděte v Centru pro správu Microsoftu 365 na Nastavení nastavení organizace > Zásady zabezpečení a ochrany osobních údajů Zásady vypršení platnosti hesla a odškrtnuté "Nastavit platnost uživatelských hesel vyprší po několika  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** dnech".
+Pokud chcete nastavit, aby platnost všech hesel nikdy nevyprší, přejděte v Centrum pro správu Microsoftu 365 na **stránku Nastavení** Org Nastavení > Security and privacy Password Expiration Policy (Zásady vypršení platnosti hesla organizace Nastavení >) a odškrtnuté políčko Nastavit uživatelská hesla tak, aby vypršela po několika  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** dnech.
   
 Podrobnější informace najdete v těchto informacích:
 
