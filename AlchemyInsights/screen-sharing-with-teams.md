@@ -4,18 +4,19 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom: ''
 ms.assetid:
 - "9002254"
 - "4358"
-ms.openlocfilehash: f11024c149446e46e64f03cec3a6fbaa26dbbdf8
-ms.sourcegitcommit: da04e79b6072321caa16a6ceea6eb5f15de22394
+ms.openlocfilehash: fd57ded1f8a06215590fd54fa1c84801ab1e4ace3629dbffa2d08026139a96fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42955122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086481"
 ---
 # <a name="screen-sharing-with-teams"></a>Sdílení obrazovky s Teams
 

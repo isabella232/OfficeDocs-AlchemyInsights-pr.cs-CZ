@@ -1,5 +1,5 @@
 ---
-title: 1374 řešení dvou způsobů poštovních schránek
+title: 1374 Řešení dvou poštovních schránek
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 676abe299daef2a4b423faab6e9bc125cd6a7e47733a10ff46f9f492cc5ad34d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110061"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Uživatel má dvě poštovní schránky
+# <a name="a-user-has-two-mailboxes"></a>Uživatel má dvě poštovní schránky.
 
-Hybridní prostředí, která používají Azure Active Directory Connect (AAD Connect), můžou omylem způsobit, že uživatel má dvě poštovní schránky: místní a jeden v cloudu. Na obou místech můžete vytvořit duplicitní poštovní schránku.
+Hybridní prostředí, která používají Azure Active Directory Připojení (AAD Připojení) nebo DirSync, můžou omylem způsobit, že uživatel bude mít dvě poštovní schránky: jednu místní a jednu v cloudu. Duplicitní poštovní schránka může být vytvořena v obou umístěních.
 
-Pokud chcete tento problém vyřešit, přečtěte si [článek Jak obnovit, když poštovní schránka existuje v Exchange online i místní síti](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Pokud se chcete dozvědět víc o tom, jak se v budoucnu neděje, přečtěte si článek [má můj uživatel poštovní schránku i v Exchange Online. Nápověda!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Pokud chcete tento problém vyřešit, podívejte se na téma Jak obnovit, když poštovní schránka existuje v Exchange Online i [v místním prostředí](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Pokud se chcete dozvědět víc o tom, jak tomu zabránit v budoucnu, přečtěte si informace v tématu Můj uživatel má poštovní schránku místně i [v Exchange Online. Nápověda!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).

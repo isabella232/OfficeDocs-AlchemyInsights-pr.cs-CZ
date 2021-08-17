@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ea300839f840110f65c3ce51899c89f96294202595b3933d411d6f1803fa7e43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116901"
 ---
 # <a name="get-a-copy-of-your-bill-or-usage"></a>Získání kopie faktury nebo použití
 
-**Stáhněte si fakturu Azure (.pdf)**
+**Stažení faktury za Azure (.pdf)**
 
-1. Vyberte předplatné na stránce [Předplatná](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) na webu Azure Portal jako uživatel s přístupem k fakturám [a](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) pak vyberte **Faktury.**
-2. Kliknutím **na Stáhnout fakturu** zobrazíte kopii faktury PDF. Pokud je v **části Není k** dispozici, podívejte se na informace v tématu Proč nevidím [fakturu za poslední fakturační období?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Denní používání můžete zobrazit také kliknutím na fakturační období: Pokud chcete získat PDF faktury a kopii podrobného souboru denního používání (. CSV: [Získání údajů o faktuře a použití](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Vyberte své předplatné na stránce [Předplatné](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) na portálu Microsoft Azure jako [uživatel s přístupem k fakturám](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) a pak vyberte **Faktury**.
+2. PDF kopii své faktury zobrazíte kliknutím na **Stáhnout fakturu**. Pokud se zobrazí **Není k dispozici**, přečtěte si část [Proč se mi nezobrazuje faktura za poslední fakturační období?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Můžete také zobrazit své denní využití kliknutím na fakturační období a získat PDF faktury a kopii souboru detailního denního využití (.CSV): [Stažení nebo zobrazení faktury](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Získejte fakturu e-mailem (.pdf)**
 
@@ -34,7 +34,7 @@ ms.locfileid: "51812363"
 3. [Faktury Azure e-mailem přímo do složky Doručená pošta](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **Porozumět každodennímu používání:**  
- [Porozumění fakturě za Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+ [Pochopte fakturu za Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
 **Správa nákladů: Předcházet** [neočekávaným nákladům díky fakturaci a správě nákladů v Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
@@ -47,14 +47,14 @@ Pokud máte smlouvu se [zákazníkem microsoftu](https://docs.microsoft.com/azur
 
 Pokud máte smlouvu se zákazníkem společnosti Microsoft, můžete se přihlásit k odběru faktury v e-mailu. Všichni vlastníci fakturačního profilu, přispěvatelé, čtenáři a manažeři faktur budou fakturu dotáhní e-mailem. Čtenáři nemohou aktualizovat předvolbu e-mailové faktury.
 
-- Hledat **Řízení nákladů + fakturace**. Vyberte fakturační **profil**. V části Nastavení vyberte **Vlastnosti.**
+- Vyhledejte položku **Správa nákladů + fakturace**. Vyberte fakturační **profil**. V Nastavení vyberte **Vlastnosti.**
 - V části E-mailová faktura vyberte **Aktualizovat předvolbu e-mailové faktury**. Vyberte přihlásit se k odběru. Klikněte na **Aktualizovat.**
 
-**Smlouva Enterprise (EA)**
+**smlouva Enterprise (EA)**
 
-Pokud chcete zobrazit a stáhnout data o využití jako zákazník EA, musíte být podnikový správce, vlastník účtu nebo správce oddělení, který má povolené zásady poplatků za zobrazení.
+Pokud chcete zobrazit a stáhnout údaje o využití jako zákazník EA, musíte být správcem Enterprise, vlastníkem účtu nebo správcem oddělení s povolenou zásadou poplatků za zobrazení.
 
-- Přihlaste se k portálu Azure Portal. Hledat **Řízení nákladů + fakturace**. Výběr fakturačního profilu
+- Přihlaste se na portál Microsoft Azure. Vyhledejte položku **Správa nákladů + fakturace**. Výběr fakturačního profilu
 - Vyberte Využití + poplatky. V měsíci, který chcete stáhnout, vyberte Stáhnout.
 
 **Předplatné MOSP Azure**  

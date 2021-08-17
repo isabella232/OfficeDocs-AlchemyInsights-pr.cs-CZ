@@ -1,5 +1,5 @@
 ---
-title: Sledování nebo zrušení sledování SharePointového webu
+title: Sledování nebo zrušení sledování SharePoint webu
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 077a72c56e8adc4617efe2d98e11069684c2f4227e2590144017be30fb19548e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744407"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116973"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sledování nebo zrušení sledování SharePointového webu
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sledování nebo zrušení sledování SharePoint webu
 
-Pokud mají uživatelé problémy s následujícími nebo nesledováním prostředků SharePointu, postupujte takto:
+Pokud mají uživatelé problémy s následujícími nebo SharePoint, postupujte takto:
 
-* Požádejte uživatele, aby se přihlásil a přihlásil zpátky do SharePointu, a zkuste použít stejný postup nebo odhlásit prostředek služby SharePoint.
-* Zjistěte, jestli se problém týká konkrétního webu nebo všech webů. Pokud se problém vyskytne u konkrétních webů, zajistěte, aby funkce následující obsah byla pro web aktivní tak, že přejdete na **Nastavení webu > spravovat funkce webu > následující obsah**. Pokud je funkce nastavená na aktivní, zkuste ji znovu deaktivovat a aktivovat.
-* Požádejte uživatele, aby vyzkoušel jiný internetový prohlížeč a zobrazil, jestli se problém týká prohlížeče uživatele.
-* Pokud všichni uživatelé a všechny weby mají stejný problém, podívejte se na [řídicí panel stavu služeb](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) a zjistěte, jestli je vaše organizace ovlivněná.
+* Požádejte uživatele, aby se odháněl a vrátil se k SharePoint a zkusil stejný postup, jak postupovat nebo zrušit sledování SharePoint zdroje.
+* Zjistěte, jestli je problém s určitým webem nebo se všemi weby. Pokud k problému dochází u konkrétních webů, zkontrolujte, jestli je funkce Následující obsah pro web aktivní, a to tak, že na webu Nastavení > Správa funkcí webu > **Následující obsah**. Pokud je tato funkce nastavená na Aktivní, zkuste funkci pro web deaktivovat a aktivovat znovu.
+* Požádejte uživatele, aby zkusil jiný internetový prohlížeč a podívejte se, jestli je problém specifický pro prohlížeč uživatele.
+* Pokud se všichni uživatelé a všechny weby [](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) potýká se stejným problémem, podívejte se na řídicí panel stavu služby a podívejte se, jestli má vaše organizace vliv.
