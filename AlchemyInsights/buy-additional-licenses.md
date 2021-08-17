@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499073"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313727"
 ---
 # <a name="buy-additional-licenses"></a>Zakoupení dalších licencí
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499073"
 3. V **části Nové množství** do pole Celkový počet licencí zadejte celkový počet licencí, které chcete pro toto předplatné použít.  Pokud máte třeba 100 licencí a chcete přidat dalších 25, zadejte 125.
 4. Vyberte **Uložit**.
 
-Další informace najdete v tématu [Zakoupení nebo odebrání licencí](/microsoft-365/commerce/licenses/buy-licenses).
+Další informace najdete v tématu [Zakoupení nebo odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Další zdroje informací**
 
-[Přiřazení licencí uživatelům v Microsoft 365 pro firmy](/microsoft-365/admin/manage/assign-licenses-to-users)
+[Přiřazení licencí uživatelům v Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

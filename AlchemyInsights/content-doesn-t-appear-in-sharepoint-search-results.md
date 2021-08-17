@@ -1,5 +1,5 @@
 ---
-title: Ve výsledcích hledání SharePointu se nezobrazuje obsah
+title: Obsah se nezobrazuje ve výsledcích SharePoint hledání
 ms.author: tlarsen
 author: tklarsen
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: a57711434d653f5d5667776916c9251bba2370e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca03c31def64e43935d734a17735b10373e5ca85b5f4ea0f0e886b9ea39884cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713123"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081603"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Ve výsledcích hledání SharePointu se nezobrazuje obsah
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Obsah se nezobrazuje ve výsledcích SharePoint hledání
 
-Pokud se ve výsledcích hledání nezobrazuje očekávaný obsah, postupujte podle těchto kroků:
+Pokud se očekávaný obsah ve výsledcích hledání nezobrazuje, postupujte takto:
   
-1. Zkontrolujte, jestli je **Web** obsahující očekávaný obsah nastavený tak, aby se obsah zobrazoval ve výsledcích hledání. Postupujte podle pokynů v tématu [zobrazení obsahu na webu ve výsledcích hledání](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Zkontrolujte, **že je web,** který obsahuje očekávaný obsah, nastavený tak, aby se obsah ve výsledcích hledání objevil. Postupujte podle pokynů v [části Zobrazení obsahu na webu ve výsledcích hledání](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
 
-2. Zkontrolujte, jestli je **seznam** nebo **Knihovna** obsahující očekávaný obsah nastavená tak, aby se obsah zobrazil ve výsledcích hledání. Postupujte podle pokynů v tématu [zobrazení obsahu ze seznamů nebo knihoven ve výsledcích hledání](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. Zkontrolujte, **že je seznam** **nebo knihovna** obsahující očekávaný obsah nastavený tak, aby se obsah ve výsledcích hledání objevil. Postupujte podle pokynů v článku [Zobrazení obsahu ze seznamů nebo knihoven ve výsledcích hledání.](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)
 
-3. Ověřte, že je stránka, dokument nebo vlastní rozložení stránky publikované jako **hlavní verze.** Postup při kroku 3 v [hledání nevrací všechny výsledky v SharePointu Online](https://go.microsoft.com/fwlink/?linkid=874525).
+3. Ověřte, jestli je rozložení stránky, dokumentu nebo vlastního rozložení stránky publikované jako **hlavní verze.** Postupujte podle kroku 3 ve vyhledávání nevrátí všechny výsledky v [SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Ověřte, jestli má uživatel **oprávnění** k zobrazení obsahu. Postupujte podle pokynů v tématu [Principy úrovní oprávnění v SharePointu](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. Ověřte, jestli má **uživatel oprávnění** k zobrazení obsahu. Postupujte podle pokynů v [tématu Principy úrovní oprávnění v SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
-5. Pokud se změnilo schéma vyhledávání přidáním nové spravované vlastnosti, upraví spravovanou vlastnost nebo odebráním spravované vlastnosti, která vyžaduje procházení a přeindexování. **Znovu Indexujte** obsah podle pokynů v tématu [Ruční procházení a přeindexování webu, knihovny nebo seznamu](https://docs.microsoft.com/sharepoint/crawl-site-content). To může nějakou dobu trvat a až 24 hodin znovu zkontrolujte výsledky.
+5. Pokud se schéma hledání změnilo přidáním nové spravované vlastnosti, úpravou spravované vlastnosti nebo odebráním spravované vlastnosti, bude potřeba požádat o procházení a opětovné indexování. **Obsah můžete znovu** indexovat podle pokynů v článku Ruční vyžádání procházení [a opětovné indexování webu, knihovny nebo seznamu.](https://docs.microsoft.com/sharepoint/crawl-site-content) Může to chvíli trvat, počkejte 24 hodin, než znovu zkontrolujte výsledky.
 
-Další informace najdete v tématu [Povolení vyhledávání obsahu na webu](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+Další informace najdete v tématu Povolení prohledávatelného obsahu [na webu.](https://docs.microsoft.com/sharepoint/make-site-content-searchable) 
   

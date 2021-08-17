@@ -1,5 +1,5 @@
 ---
-title: Použití nástroje pro nasazení Office
+title: Použití nástroje Office nasazení
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085825"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083763"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Použití nástroje pro nasazení Office (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Použití nástroje Office nasazení (ODT)
 
-K nasazení Office 365 verze Office se používá nástroj pro nasazení Office (ODT). Nástroj pro nasazení Office (setupodt.exe) se spouští z příkazového řádku a pomocí konfiguračního souboru XML zjistíte, jaké nastavení se použije při nasazení Office.
+Nástroj pro nasazení Office (ODT) se používá k nasazení Office 365 verzí Office. Nástroj Office nasazení (setup.exe) se spustí z příkazového řádku a pomocí konfiguračního souboru XML určí, jaká nastavení se mají použít při nasazení Office.
   
-1. Stáhněte si nejnovější verzi nástroje pro nasazení Office z [webu Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Stáhněte si nejnovější verzi nástroje pro Office nasazení z [webu Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. Pomocí [Nástroje pro přizpůsobení Office (OCT)](https://config.office.com) vyberte Předvolby nasazení a vytvořte konfigurační soubor XML. Exportujte konfigurační soubor a umístěte ho místně do stejné složky, kde se setupodt.exe nachází.
+2. Pomocí nástroje [Office přizpůsobení (OCT)](https://config.office.com) vyberte předvolby nasazení a vytvořte konfigurační soubor XML. Exportujte konfigurační soubor a místně ho umístěte do stejné složky, ve které je setup.exe soubor.
 
-    **Poznámka:** Problémy s instalací Office se obvykle vyskytují v důsledku chybně nakonfigurovaných nebo malformatted konfiguračních souborů. Abyste předešli těmto problémům, doporučujeme vytvořit konfigurační soubor pomocí nástroje pro přizpůsobení Office. Můžete taky importovat stávající konfigurační soubory do nástroje pro přizpůsobení Office.
+    **Poznámka:** Office k problémům s instalací často dochází kvůli chybně nakonfigurovaným nebo chybně formátovaných konfiguračním souborům. Abyste se takovým problémům vyhnuli, doporučujeme k vytvoření konfiguračního souboru použít nástroj Office přizpůsobení. Existující konfigurační soubory můžete také importovat do nástroje Office přizpůsobení.
 
-3. Na příkazovém řádku se zvýšenými oprávněními přejděte do umístění, kde se setupodt.exe nachází, a spusťte nástroj pro nasazení Office v režimu stahování a zadejte konfigurační soubor, který jste právě uložili. V tomto příkladu je konfigurační soubor pojmenovaný Configuration.xml:
+3. Z příkazového řádku se zvýšenými oprávněními přepněte do umístění, kde setup.exe, a spusťte nástroj pro nasazení Office v režimu stahování a zadejte právě uložený konfigurační soubor. V tomto příkladu se konfigurační soubor jmenuje Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. Spusťte nástroj pro nasazení Office v režimu konfigurace a určete konfigurační soubor.
+4.Spusťte nástroj Office nasazení v režimu konfigurace a zadejte konfigurační soubor.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**Poznámka:** Tento krok musíte spustit z klientského počítače, na který chcete nainstalovat Office, a musíte mít na tomto počítači oprávnění místního správce.
+**Poznámka:** Tento krok musíte spustit z klientského počítače, na který chcete nainstalovat Office a musíte mít oprávnění místního správce v tomto počítači.
 
-Další informace o používání nástroje pro nasazení Office pro aplikace Microsoft 365 pro podnikové scénáře nasazení pro podniky najdete v tématu [Přehled nástroje pro nasazení Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Další podrobnosti o používání nástroje pro přizpůsobení Office najdete v tématu [Přehled nástroje pro přizpůsobení Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Další informace o použití nástroje Office nasazení pro Microsoft 365 Apps pro velké organizace nasazení najdete v tématu Přehled nástroje [Office nasazení.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) Další informace o tom, jak používat nástroj Office přizpůsobení, najdete v tématu Přehled nástroje [Office přizpůsobení.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)

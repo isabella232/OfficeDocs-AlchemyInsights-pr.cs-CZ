@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7dfca35c17fb753102bdc80826c41fab12cac8d3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898849"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313456"
 ---
 # <a name="fix-anti-spam-policy"></a>Oprava zásad ochrany proti spamu
 
 Tato zpráva se týká jedné z vašich zásad ochrany proti spamu. Pokud chcete zásady zkontrolovat, postupujte takto:
 
-1. Na portálu Microsoft 365 Defender v části Zásady přejděte na Zásady & spolupráce & pravidla zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam.** 
+1. Na portálu Microsoft 365 Defender na webu přejděte na E-mail & zásady spolupráce & pravidla zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam** v **části Zásady.**
 
    Pokud chcete přejít přímo na stránku Zásady ochrany **proti spamu,** použijte <https://security.microsoft.com/antispam> .
 

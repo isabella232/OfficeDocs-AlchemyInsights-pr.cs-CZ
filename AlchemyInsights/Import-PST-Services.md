@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891748"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312716"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Služba importu
 
@@ -31,11 +31,11 @@ Přístup ke službě Import a spuštění procesu importu:
 
 1. Na stránce **Import** vyberte **Nová úloha importu**. Zadejte název úlohy a vyberte **Další**.
 
-1. Vyberte **Upload data a** použijte možnost síťového nahrávání pro import typu **úlohy.** Podrobné kroky najdete v článku Použití síťového nahrávání k [importu](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)souborů PST vaší organizace Microsoft 365 .
+1. Vyberte **Upload data a** použijte možnost síťového nahrávání pro import typu **úlohy.** Podrobné kroky najdete v článku Použití síťového nahrávání k [importu](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)souborů PST vaší organizace do Microsoft 365 .
 
 Pokud chcete získat **přístup na stránku Import,** ujistěte se, že máte přiřazená příslušná oprávnění. Další informace najdete v tématu [Použití síťového nahrávání k importu souborů PST](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
 
-Pokud chcete importovat soubor PST do poštovní schránky, podívejte se na informace v tématu Import e-mailů, kontaktů a kalendáře ze souboru [.pst Outlook .pst.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
+Pokud chcete importovat soubor PST do poštovní schránky, podívejte se na informace v tématu Import [e-mailů,](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)kontaktů a kalendáře ze souboru Outlook .pst .
 
 Pokud máte problémy s importem, podívejte se na problémy, které [mají vliv na úlohy importu pst](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
 

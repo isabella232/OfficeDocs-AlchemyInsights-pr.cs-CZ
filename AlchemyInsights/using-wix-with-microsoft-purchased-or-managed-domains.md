@@ -1,5 +1,5 @@
 ---
-title: Používání webu WIX s zakoupenými nebo spravovanými doménami společnosti Microsoft
+title: Používání webu Wix s zakoupenou nebo spravovanou doménou Microsoftu
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd0f8beb8f1871c2c43ac14a7f6d1cce79386fcc353bb2a690ba184904ca5857
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664739"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083727"
 ---
-# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Používání webu WIX s zakoupenými nebo spravovanými doménami společnosti Microsoft
+# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Používání webu Wix s zakoupenou nebo spravovanou doménou Microsoftu
 
-Informace o tom, jak používat WIX web s zakoupenou nebo spravovanou doménou společnosti Microsoft, najdete v článku [aktualizace záznamů DNS, aby váš web zůstal u současného poskytovatele hostingu](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
+Informace o tom, jak používat web Wix s zakoupenou nebo spravovanou doménou Microsoftu, najdete v tématu Aktualizace [záznamů DNS,](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)aby váš web byl u aktuálního poskytovatele hostingu .
 
-Podrobnosti najdete v těchto tématech: 
+Podrobnosti najdete v tématu: 
 
-- WIX článek, "připojení domény k WIX pomocí polohovací metody" doporučuje přidávat záznamy DNS jako odkazy uvedené výše v odkazu výše, než změnit názvové servery při používání Microsoft 365.
+- Článek Wix " Connecting a Domain to Wix Using the Pointing Method " (Připojení domény k Wixu pomocí metody umisování) doporučuje přidat záznamy DNS, jak je uvedeno výše v odkazu, a ne měnit názvové servery při používání Microsoft 365.
 
-- Pokud se rozhodnete změnit názvové servery na WIX, musíte vytvořit záznamy DNS na WIX pro Microsoft. Další informace najdete v tématu [Vytvoření záznamů DNS na adrese WIX pro Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
+- Pokud se rozhodnete změnit názvové servery na Wix, musíte vytvořit záznamy DNS ve Wixu pro Microsoft. Další informace najdete v tématu [Vytvoření záznamů DNS na webu Wix pro Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- Pokud byla vaše doména zakoupená od společnosti Microsoft, názvové servery se nedají změnit. Pokud je potřeba změnit názvové servery, musí být zakoupená doména Microsoft od 60 dnů předána jinému poskytovateli hostingu. Další informace najdete v tématu [převod domény z Microsoftu na jiného hostitele](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
+- Pokud jste doménu koupili od Microsoftu, nemůžete změnit názvové servery. Pokud musíte změnit názvové servery, musí být zakoupená doména Microsoftu po 60 dnech převedena jinému poskytovateli hostingu. Další informace najdete v tématu [Přenos domény z Microsoftu na jiného hostitele](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).

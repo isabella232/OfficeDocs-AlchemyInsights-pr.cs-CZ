@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060057"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>Přístup k obnovovacím klíčům nástroje BitLocker
 
-Při konfiguraci nastavení nástroje Bitlocker Intune Endpoint Protection Policy je možné definovat, jestli mají být informace o obnovení nástroje Bitlocker uložené ve službě Azure Active Directory.
+Při konfiguraci nastavení nástroje Bitlocker Endpoint Protection Intune zásady, je možné definovat, jestli mají být informace o obnovení nástroje Bitlocker uložené v Azure Active Directory.
 
 Pokud je toto nastavení nakonfigurované, uložená data pro obnovení by měla být viditelná správci Intune jako součást dat záznamu zařízení v okně Zařízení Intune dvěma způsoby:
 
@@ -47,5 +47,5 @@ Pokud bylo zařízení před přihlášením do Intune zašifrované, je možné
  
 Pokud bylo zařízení zašifrované v důsledku konfigurace prostřednictvím zásad skupiny založené na doméně, mohou být informace o obnovení uložené v místní službě Active Directory.
 
-Pokud jste nakonfigurovali zásady ochrany koncových bodů tak, aby se obnovovací klíč ukládal do Azure Active Directory, ale klíč pro konkrétní zařízení nebyl nahrán, můžete nahrávání spustit otočením obnovovací klávesy pro toto zařízení z konzoly MEM. Podrobnosti najdete v tématu [Otočení obnovovacích klíčů nástroje BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
+Pokud jste nakonfigurovali zásady ochrany koncových bodů tak, aby se obnovovací klíč ukládal do Azure Active Directory ale klíč pro konkrétní zařízení nebyl nahrán, můžete nahrávání spustit otočením obnovovací klávesy pro toto zařízení z konzoly MEM. Podrobnosti najdete v tématu [Otočení obnovovacích klíčů nástroje BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)
 

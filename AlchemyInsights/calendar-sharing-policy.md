@@ -1,5 +1,5 @@
 ---
-title: 618 zásady sdílení kalendáře
+title: Zásady sdílení kalendáře 618
 ms.author: chrisda
 author: chrisda
 manager: scotv
@@ -15,27 +15,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091591"
 ---
 # <a name="policy-error-when-sharing-a-calendar"></a>Chyba zásad při sdílení kalendáře
 
-1. Podle situace proveďte jednu z následujících akcí:
-    - Připojení k Exchangi Online pomocí vzdáleného PowerShellu Další informace najdete v článku [připojení k Exchangi Online pomocí vzdáleného PowerShellu](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
-    - Na místním serveru otevřete prostředí Exchange Management Shell.
-2. Určete zásady sdílení přiřazené uživateli. To provedete tak, že spustíte následující příkaz a navrátili jste vrácenou zásadu:
+1. Podle situace proveďte jednu z těchto akcí:
+    - Připojení k Exchange Online pomocí vzdáleného PowerShellu. Další informace najdete v tématu [Připojení Exchange Online vzdáleného PowerShellu](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
+    - Na místním serveru otevřete Exchange Management Shell.
+2. Určete zásady sdílení, které jsou přiřazené uživateli. Pokud to chcete udělat, spusťte následující příkaz a poznamenejte si vrácenou zásadu:
 
     `
     Get-Mailbox User1 | fl *sharing*
     `
 
-3. Aktualizace zásad sdílení pro uživatele Postupujte takto:
-    - Otevřete centrum pro správu Exchange.
-    - Klikněte na **organizace**a potom poklikejte na zásadu přiřazenou uživateli v části **individuální sdílení**. Toto je zásada vrácená v kroku 2.
-    - Na stránce pravidlo sdílení vyberte úroveň sdílení kalendáře, kterou chcete povolit v části **Určete, jaké informace chcete sdílet**. klikněte na **Uložit**.
+3. Aktualizujte zásady sdílení pro uživatele. Postupujte takto:
+    - Otevřete Centrum Exchange pro správu.
+    - Klikněte **na** Organizace a potom poklikejte na zásadu přiřazenou uživateli v části **Individuální sdílení.** Toto je zásada vrácená v kroku 2.
+    - Na stránce Pravidlo sdílení vyberte úroveň sdílení kalendáře, kterou chcete povolit v části Určení informací, **které chcete sdílet**; klikněte **na Uložit.**
 
-Další informace najdete v tématu: ["zásady neumožňují udělit oprávnění na této úrovni jednomu nebo více příjemcům při pokusu o sdílení kalendáře uživatelem](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
+Další informace najdete v článku o tom, že zásada neumožňuje udělit oprávnění na této úrovni jednomu nebo více příjemcům, když se uživatel pokusí sdílet [kalendář.](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)
