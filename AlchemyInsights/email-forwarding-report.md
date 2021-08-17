@@ -1,5 +1,5 @@
 ---
-title: Kontrola přeposílání e-mailů
+title: Sestava automatické přeposílání zpráv
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,14 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f501b9c74b7480a706def72dd60fa9012c98318b1ef590a5c4c9c17d707d5240
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030121"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891444"
 ---
-# <a name="email-forwarding-report"></a>Kontrola přeposílání e-mailů
+# <a name="auto-forwarded-messages-report"></a>Sestava automatické přeposílání zpráv
 
-Pokud chcete zobrazit sestavu o tom, kolik zpráv je ve vaší organizaci automaticky přeposlaných zpráv, podívejte se na přehled o automatických přeposílání zpráv v Centru dodržování předpisů & Security [Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) Security [Compliance &amp; Center](https://protection.office.com/#/homepage).
-  
-Poznámka: Pokud se do Centra zabezpečení a dodržování předpisů přihlašujete poprvé, budete možná muset po několika minutách aktualizovat prohlížeč, abyste viděli všechny dostupné možnosti.
+Pokud chcete zobrazit sestavu o tom, kolik zpráv je ve [](https://docs.microsoft.com/exchange/monitoring/mail-flow-reports/mfr-auto-forwarded-messages-report) vaší organizaci automaticky přeposlaných zpráv, podívejte se do sestavy Automaticky přeposlaných zpráv v Centru pro správu Exchange (EAC) na stránce Reports Mail flow (Tok pošty <https://admin.exchange.microsoft.com/> \>  \> sestav). Pokud chcete přejít přímo na stránku **Automatické přeposílání** zpráv, použijte <https://admin.exchange.microsoft.com/#/reports/autoforwardedmessages> .
   

@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 9047f30109428c5d94ff5d69c17ed57562175fef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f0779ef2460059d5469fc3e7c3ace6f57ce137559ca782152c8c312eb1a5b07d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709264"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057167"
 ---
 # <a name="error-0-1036-when-installing-office"></a>Chyba 0-1036 při instalaci Office
 
-Zkuste opravit chybu Office 0-1036 z těchto řešení:
+Vyzkoušejte tato řešení a opravte chybu Office 0-1036:
   
-- Restartujte počítač a zkuste [Office nainstalovat](https://portal.office.com/OLS/MySoftware.aspx) znovu.
+- Restartujte počítač a [zkuste Office](https://portal.office.com/OLS/MySoftware.aspx) nainstalovat.
 
 - Stáhněte si nástroj [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy) a nainstalujte ho.
 
-1. Po **otevření vyberte verzi** , kterou chcete odinstalovat, a pak vyberte **Další**.
+1. Po otevření vyberte **v** Office odinstalovat verzi, kterou chcete odinstalovat, a vyberte **Další**.
 
 2. Pokračujte v procházení jednotlivých obrazovek a po zobrazení výzvy restartujte počítač.
 
-    Po restartování se znovu automaticky otevře Pomocník pro podporu a obnovení.
+    Po restartování se Support and Recovery Assistant proces odinstalace automaticky znovu otevře.
 
-3. Postupujte podle zbývajících pokynů a [přeinstalujte Office](https://portal.office.com/OLS/MySoftware.aspx) nebo pomocníka zavřete.
+3. Postupujte podle zbývajících pokynů a znovu [Office](https://portal.office.com/OLS/MySoftware.aspx) nebo zavřete pomocníka.
 
-- Instalace Office [pomocí offline instalačního programu Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- [Instalace Office offline instalačním](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) programem Office

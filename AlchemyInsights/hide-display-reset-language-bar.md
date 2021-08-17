@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002950"
 - "5647"
-ms.openlocfilehash: 73b567797447635df5b6be960cf3152e2d8741d0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 87f8c2d9e52cc9aad1cede226daf3527882ef9e737685a67d671978c05c5a822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055734"
 ---
 # <a name="hide-display-or-reset-the-language-bar"></a>Skrytí, zobrazení nebo obnovení panelu jazyků
 
