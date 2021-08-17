@@ -10,21 +10,21 @@ localization_priority: Priority
 ms.custom:
 - "1500007"
 - "5776"
-ms.openlocfilehash: 66c04a86a16e6cbddee36df9c9e2929f017f6b0c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 976d6678629ef4dd62191c477982dc82af75065aa7f0f073d41dd6f718fdd040
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680164"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102600"
 ---
 # <a name="delete-one-or-more-users"></a>Odstranění jednoho nebo více uživatelů
 
-Pokud chcete odstranit uživatele a uvolnit nebo ukončit placení licencí, přečtěte si následující článek podpory:  [odstranění uživatele z vaší organizace](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user?view=o365-worldwide).
+Pokud chcete odstranit uživatele a uvolnit nebo přestat platit za licence, projděte si následující článek podpory:  [Odstranění uživatele z vaší organizace](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user?view=o365-worldwide).
 
-Tento článek popisuje:
+Tento článek se zabývá:
 
-- Důležité informace o odstraňování uživatelů
-- Odstranění jednoho nebo víc uživatelů
-- Jak ukončit placení licencí
+- Důležité informace při odstraňování uživatelů
+- Odstranění jednoho nebo více uživatelů
+- Jak přestat platit za licence
 
-Další informace o zrušení přiřazení licencí uživatelům najdete v následujícím článku podpory: [zrušení přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide).
+Další informace o zrušení přiřazení licencí od uživatelů najdete v následujícím článku podpory: Zrušení přiřazení licencí [od uživatelů](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users?view=o365-worldwide).
