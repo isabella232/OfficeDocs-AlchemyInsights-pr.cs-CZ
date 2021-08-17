@@ -1,5 +1,5 @@
 ---
-title: Hledání e-mailu v archivované poštovní schránce
+title: Hledání e-mailů v archivační poštovní schránce
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,16 +13,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 2c1284472c147d29f5d09fb7e7541bdcec9e8520
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f88aa25642ba29dbf0673cafe4efb66678a873974cad844ae12fc35287915f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727344"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109125"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Vyhledání e-mailu v archivované poštovní schránce
+# <a name="search-for-email-in-the-archive-mailbox"></a>Vyhledání e-mailu v poštovní schránce archivu
 
-Pokud je pro Microsoft 365 povolená poštovní schránka, můžete pomocí **vyhledávání a exportu služby eDiscovery** objevit obsah v primární i archivované poštovní schránce. Informace o tom, jak najít tento obsah pomocí **exportu vyhledávání eDiscovery** , najdete v [tomto](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)článku.
+Pokud je poštovní schránka archivu povolená pro Microsoft 365, můžete pomocí vyhledávání a exportu **eDiscovery** zjistit obsah v primární i archivační poštovní schránce. Informace o použití **exportu vyhledávání eDiscovery** k vyhledání tohoto obsahu najdete podle pokynů uvedených [tady.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
   
-Tento obsah můžete také zachovat přidáním poštovní schránky do zásad uchovávání informací. Tím umístíte obsah do primární i archivní poštovní schránky na blokování. Další informace o vytváření zásad uchovávání informací pro zachování e-mailů najdete v [tomto](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)článku.
+Tento obsah můžete také zachovat přidáním poštovní schránky do zásad uchovávání informací. Obsah se tak zadrží v primární i archivační poštovní schránce. Další informace o vytváření zásad uchovávání informací pro uchovávání e-mailů najdete v postupu popsaném [tady.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
   
