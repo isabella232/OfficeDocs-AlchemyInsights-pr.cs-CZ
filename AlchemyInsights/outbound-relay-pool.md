@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041579"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883124"
 ---
 # <a name="outbound-relay-pool"></a>Fond odchozích přenosů
 
-Microsoft v konfiguraci přenosu nebo přeposílání e-mailů prostřednictvím Microsoft 365. Zprávy v určitých situacích se přeposílá nebo přeposílá přes Microsoft 365 pomocí speciálního fondu přenosů. Zprávy odeslané pomocí fondu přenosů by mohly skončit ve složce nevyžádané pošty příjemce. Další informace najdete v tématu [Fondy odchozích doručení.](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+Microsoft v konfiguraci přenosu nebo přeposílání e-mailů prostřednictvím Microsoft 365. Zprávy v určitých situacích se přeposílá nebo přeposílá přes Microsoft 365 pomocí speciálního fondu přenosů. Zprávy odeslané pomocí fondu přenosů by mohly skončit ve složce nevyžádané pošty příjemce. Další informace najdete v tématu [Fondy odchozích doručení.](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 Abyste se vyhnuli scénáři použití fondu přenosů, ujistěte se, že přeposlané/předáné zprávy splňují jedno z následujících kritérií:
 
 - Odchozí odesílatel je akceptována doména tenanta.
-- Rozhraní SPF (Sender Policy Framework) předá, když se zpráva zobrazí Microsoft 365.
-- DomainKeys Identified Mail (DKIM) on the P2 sender domain passes when the message comes to Microsoft 365.
+- Rozhraní SPF (Sender Policy Framework) projde, když se zpráva zobrazí Microsoft 365.
+- DomainKeys Identified Mail (DKIM) v doméně odesílatele P2 projde, když se zpráva zobrazí Microsoft 365.
  
 Zprávy, které splňují výše uvedená kritéria, se přes fond přenosu nesměruje.
 
-Pokud záznam MX pro vaši doménu odkazuje na server třetí strany nebo místního serveru, použijte vylepšené filtrování, abyste měli jistotu, že je ověření SPF správné pro příchozí e-maily a abyste se vyhnuli posílání e-mailů prostřednictvím fondu přenosu.
+Pokud je záznam MX pro vaši doménu namířil na server třetí strany nebo místního serveru, použijte vylepšené filtrování, abyste měli jistotu, že je ověření SPF správné pro příchozí e-maily a abyste se vyhnuli odesílání e-mailů prostřednictvím fondu přenosů.
 
 **Jak můžeme zjistit, jestli nás ovlivňuje fond přenosů?**
 

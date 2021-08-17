@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004597"
 - "8230"
-ms.openlocfilehash: 22878bdff6b987d0a1dc7f7c4aee74f8b22a58f3
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 6e2e96ba54f8ccc5edca821a73b7f697a255041c64f139f47702f637dd6dbb2a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50481142"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052415"
 ---
 # <a name="sensitivity-labels"></a>Popisky citlivosti
 
-Pokud nevidíte popisek citlivosti, který by měl uživatel vidět, zkontrolujte pořadí priority zásad citlivosti. Viz: [Priorita štítku](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+Pokud nevidíte popisek citlivosti, který očekáváte, že se zobrazí pro uživatele, zkontrolujte pořadí priority zásad označování citlivosti. Viz: [Priorita popisku](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 Další informace o popiscích citlivosti najdete v těchto článku:
 
-- Další informace o popiscích citlivosti: Přečtěte si informace o popiscích citlivosti [– Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- **Informace** o licencování: Pokyny k [licencování Microsoftu 365 pro dodržování předpisů & – popisy služeb | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
-- Použití popisků citlivosti v aplikacích Office: Používejte popisky citlivosti v aplikacích Office – dodržování předpisů [v Microsoftu 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
-- Povolení popisků citlivosti souborů Office na **SharePointu** a OneDrivu: Povolení popisků citlivosti souborů Office na SharePointu a OneDrivu – dodržování předpisů [Microsoftu 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
-- Používání štítků citlivosti v Microsoft **Teams:** Používání štítků citlivosti v Microsoft Teams, skupinách [Microsoft 365 a sharepointových webech – Microsoft 365 Compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
-- **Automaticky použít** Popisky [citlivosti: U obsahu v Microsoftu 365 můžete automaticky použít popisek citlivosti – dodržování předpisů v Microsoftu 365 | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-- Známé problémy s popisky citlivosti: Známé problémy s popisky citlivosti v [Office – podpora Office (microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
+- Další informace o popiscích citlivosti: Informace o popiscích citlivosti [– Microsoft 365 dodržování | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Informace** o licencování: [Microsoft 365 k licenčním pokynům pro dodržování & zabezpečení – Popisy služeb | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#information-protection)
+- Použití popisků citlivosti v Office aplikacích: Používejte popisky citlivosti v [Office aplikacích – Microsoft 365 dodržování | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- Povolení popisků citlivosti pro soubory Office v SharePoint a **OneDrive**: Povolte popisky citlivosti pro soubory Office v SharePoint a [OneDrive – Microsoft 365 compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-sharepoint-onedrive-files)
+- Použití štítků citlivosti u **microsoftových Teams**: Používejte popisky citlivosti u Microsoft Teams, Microsoft 365 skupin a SharePoint webů [– Microsoft 365 dodržování | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-teams-groups-sites)
+- **Automatické použití** Popisky citlivosti: [Automaticky použije popisek citlivosti na obsah v Microsoft 365 – Microsoft 365 compliance | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- Známé problémy s popisky citlivosti: Známé problémy s popisky citlivosti v [Office – Office podpora (microsoft.com)](https://support.microsoft.com/office/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc)
 
-Informace o popiscích Azure Information Protection najdete v [azure information protection (AIP) popiscích, klasifikaci a ochraně | Microsoft Docs](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Informace o štítcích Azure Information Protection najdete v tématu Označování, klasifikace a ochrana azure [information protection (AIP) | Microsoft Docs](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)

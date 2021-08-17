@@ -1,5 +1,5 @@
 ---
-title: Vytvoření týmového webu v SharePointu
+title: Jak vytvořit týmový web v SharePoint
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,15 +14,15 @@ ms.custom:
 - "5200004"
 - "3177"
 ms.assetid: ''
-ms.openlocfilehash: 25e40924d1cabc7d2d83e42b39710df4a4174cd5
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 497e4cd8cacb9eedd25dd08ab341310f462f33ab4f5e1410058f34e99d2e7d75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080127"
 ---
-# <a name="how-to-create-a-team-site-in-sharepoint"></a>Vytvoření týmového webu v SharePointu
+# <a name="how-to-create-a-team-site-in-sharepoint"></a>Jak vytvořit týmový web v SharePoint
 
-Vytvořte [týmový web](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) SharePointu Online a zadejte místo, kde můžete vy a váš tým pracovat na projektech a sdílet informace odkudkoli na jakémkoli zařízení.
+Vytvořte týmový SharePoint [Online,](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) kde můžete vy i váš tým pracovat na projektech a sdílet informace odkudkoli na libovolném zařízení.
 
-* [Vytvoření týmového webu v SharePointu](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
+* [Vytvoření týmového webu v SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)

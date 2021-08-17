@@ -1,5 +1,5 @@
 ---
-title: Vizualizujte SharePointových webů
+title: Modernizujte své SharePoint weby
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107829"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>Vizualizujte SharePointových webů
+# <a name="modernize-your-sharepoint-sites"></a>Modernizujte své SharePoint weby
 
-Podrobný přehled modernizing klasických SharePointových webů s moderními prostředími najdete v článku [Vizualizujte na klasických sharepointových webech](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Podrobný přehled o modernizaci klasických webů SharePoint moderních prostředí najdete v tématu Modernizace klasických [SharePoint webů.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
 
-* Pokud chcete maximalizovat používání moderního uživatelského rozhraní pro stránky webu a stránky seznamů a knihoven, přečtěte si článek [Vizualizujte uživatelského rozhraní](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Další informace o blokování seznamů a knihoven při používání moderního uživatelského rozhraní najdete v článku [maximalizace používání moderních seznamů a knihoven](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Další informace o připojení ke skupině Microsoft 365 a o připojení skupin najdete v článku [připojení ke skupině microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Pokud chcete maximalizovat použití moderního uživatelského rozhraní pro stránky webu a stránky seznamu a knihovny, podívejte se na článek [Modernizace uživatelského rozhraní](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
+* Další informace o tom, jak odblokovat seznamy a knihovny při používání moderního uživatelského rozhraní, najdete v tématu Maximalizace použití moderních seznamů [a knihoven.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+* Další informace o připojení ke skupině Microsoft 365 a provádění skupinového připojení najdete v tématu Připojení připojení [Microsoft 365 skupiny.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
 
-**Důležité**: Pokud si myslíte, že by vaše stránka měla být zobrazená v moderním zobrazení a není, přejděte na příslušnou stránku, zkopírujte adresu URL a poskytněte adresu URL jako součást podrobností lístku podpory.
+**Důležité:** Pokud máte pocit, že by se vaše stránka měla zobrazit v moderním zobrazení a ne, přejděte na stránku, na kterou se chcete zeptat, zkopírujte adresu URL a zadejte adresu URL jako součást podrobností lístku podpory.
