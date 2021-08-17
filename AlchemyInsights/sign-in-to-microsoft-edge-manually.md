@@ -1,5 +1,5 @@
 ---
-title: Ruční přihlášení k Microsoft Edgi
+title: Přihlášení k Microsoft Edge ručně
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -15,14 +15,14 @@ ms.custom:
 - "6893"
 - "8332"
 - "9004625"
-ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: f9aa27a585d805360e1fadecfd0db3b11d15a3594ed5bd5dc6c68cec37a4d6a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398650"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050759"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Ruční přihlášení k Microsoft Edgi
+# <a name="sign-in-to-microsoft-edge-manually"></a>Přihlášení k Microsoft Edge ručně
 
 Pokud uživatel není automaticky přihlášený během prvního spuštění, může se uživatel ručně přihlásit v nastavení prohlížeče nebo v plovoucím seznamu identity. Pokud chcete spravovat přihlášení, použijte následující zásady:
 

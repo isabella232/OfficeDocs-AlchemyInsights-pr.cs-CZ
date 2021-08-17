@@ -1,5 +1,5 @@
 ---
-title: Tipy zásad ochrany před únikem informací nefungují
+title: Zásady ochrany před únikem informací Tipy nefungují
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958695"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079659"
 ---
 # <a name="dlp-policy-tip-issues"></a>Problémy s tipy pro zásady ochrany před únikem informací
 
@@ -30,6 +30,6 @@ Pokud chcete nakonfigurovat tipy zásad pro zásady ochrany před únikem inform
 
 - Zajistěte, aby váš obsah odpovídal tomu, co je potřeba k aktivaci pravidla popsaného v [definicích](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)entit typu Citlivé informace .
 
-- Tipy pro zásady se zobrazují v aplikaci OWA i v Outlooku. Při používání Outlooku 2013 nebo novějšího se ale tipy zásad zobrazují jenom za určitých podmínek. Seznam konkrétních podmínek najdete v tématu [Podporované podmínky pro Outlook 2013 nebo novější](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)pro zobrazení tipů zásad .
+- Tipy pro zásady se zobrazují v aplikaci OWA i Outlook. Pokud ale používáte Outlook 2013 nebo novější, zobrazí se tipy zásad jenom za určitých podmínek. Seznam konkrétních podmínek najdete v tématu Podporované [podmínky pro Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)nebo novější pro zobrazení zásad Tipy .
 
-Informace o tipech zásad ochrany před únikem informací najdete v tématu Tipy pro zásady [ochrany před](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) únikem informací – referenční informace a matice podpory pro tipy zásad ochrany před únikem [informací](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).
+Informace o tipech zásad ochrany před únikem informací najdete v tématu Zásady [ochrany před únikem informací Tipy](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) a matici podpory pro tipy zásad ochrany před únikem [informací](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).

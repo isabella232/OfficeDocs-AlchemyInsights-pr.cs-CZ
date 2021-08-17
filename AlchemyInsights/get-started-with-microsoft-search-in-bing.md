@@ -1,5 +1,5 @@
 ---
-title: Začínáme s Microsoft Search v Bingu
+title: Začínáme s Microsoft Search v Bing
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9260"
-ms.openlocfilehash: f7ae2b7bf9349f4a5d31b4c8dad20be4948f478e
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a5d506a0784200c2e11d338a3b973128748785474bc957b8f75f67a72324503b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079299"
 ---
-# <a name="get-started-with-microsoft-search-in-bing"></a>Začínáme s Microsoft Search v Bingu
+# <a name="get-started-with-microsoft-search-in-bing"></a>Začínáme s Microsoft Search v Bing
 
-Pokud je vaše organizace ve službě Microsoft Search v Bingu nová, doporučujeme vám, abyste si prohlédněte Microsoft Search v příručce [Bing Admin Essentials Guide](https://go.microsoft.com/fwlink/p/?linkid=2127979), která obsahuje informace o nastavení, konfiguraci a nasazení microsoft searchu v Bingu.
+Pokud Microsoft Search ve vaší organizaci v Bing není nic nového, doporučujeme, abyste si Microsoft Search prohlédněte v příručce [Bing Admin Essentials Guide](https://go.microsoft.com/fwlink/p/?linkid=2127979), která obsahuje informace o nastavení, konfiguraci Bing nasazení Microsoft Search v Bing.
 
-Pokud chcete zvýšit informovanost uživatelů o Microsoft Search v Bingu, odkažte je na naši adopční sadu [(soubor](https://go.microsoft.com/fwlink/p/?LinkID=2114710) .zip), která poskytuje školicí a komunikační materiály.
+Pokud chcete zvýšit informovanost uživatelů o Microsoft Search v Bing, odkažte je na naši adopční sadu [(soubor](https://go.microsoft.com/fwlink/p/?LinkID=2114710) .zip), která poskytuje školicí a komunikační materiály.
 
-Další informace a nástroje najdete v článku Jak vylepšit microsoftové vyhledávání [ve výsledcích Bingu pro vaši organizaci](https://go.microsoft.com/fwlink/?linkid=2152022).
+Další informace a nástroje najdete v tématu Jak vylepšit [Microsoft Search Bing pro vaši organizaci](https://go.microsoft.com/fwlink/?linkid=2152022).

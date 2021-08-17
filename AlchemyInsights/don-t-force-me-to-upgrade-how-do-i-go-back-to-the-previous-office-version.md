@@ -1,5 +1,5 @@
 ---
-title: Neklikejte na upgrade. Jak se vrátím k předchozí verzi Office?
+title: Nenutíte mě upgradovat. Jak se vrátím k předchozí Office verzi?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812000"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079587"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Neklikejte na upgrade. Jak se vrátím k předchozí verzi Office?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Nenutíte mě upgradovat. Jak se vrátím k předchozí Office verzi?
 
-Při otevírání souboru Office se místo jiné verze pravděpodobně otevře zkušební verze aplikace Office. K tomu dojde, pokud máte zkušební verzi Microsoft 365.
+Při otevření Office souboru se může namísto jiné verze aplikace Office otevřít zkušební verze souboru. K tomu dojde, pokud máte Microsoft 365 zkušební verzi.
   
-Když nainstalujete zkušební verzi Microsoft 365, nainstalují se zkušební verze aplikace 2016. Tyto zkušební verze se stanou výchozími pro otevírání souborů aplikací Word, Excel a PowerPoint. Pokud máte třeba nainstalovanou Excel 2013 a nainstalovali jste si také zkušební verzi Microsoft 365, budou se sešity otevírat v 2016 aplikaci Excel pro zkušební verze.
+Když nainstalujete zkušební Microsoft 365, nainstaluje se zkušební verze aplikací 2016. Tyto zkušební verze se stávají výchozími aplikacemi pro otevírání wordových, Excel a PowerPoint souborů. Pokud máte třeba nainstalovaný Excel 2013 a máte nainstalovanou zkušební verzi Microsoft 365, sešity se otevřou ve zkušební verzi Excel 2016.
   
-Pokud máte tento problém, můžete [odinstalovat](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) aplikace 2016 a používat starší verze nainstalovaných aplikací. Nebo můžete [odinstalovat](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starší verze aplikací a upgradovat je na novější verze, které jsou součástí Microsoft 365.
+Pokud máte tento problém, [](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) můžete odinstalovat aplikace 2016 a používat starší verze aplikací, které jste už nainstalovali. Nebo můžete odinstalovat [starší](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) verze aplikací a upgradovat na novější verze, které jsou součástí Microsoft 365.
