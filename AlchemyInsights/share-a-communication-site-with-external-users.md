@@ -9,25 +9,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d91b7a6ec18764ca194e42b90741c01699fddf8d068826fbdba8a1daee5da4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108297"
 ---
 # <a name="share-a-communication-site-with-external-users"></a>Sdílení komunikačního webu s externími uživateli
 
 Pokud chcete zapnout sdílení externích uživatelů pro komunikační weby, postupujte takto: 
   
-1. Otevření **centra pro moderní správu** – Pokud jste v klasickém centru pro správu, zobrazí se vám **pokus o spuštění této** služby nebo * * vyzkoušejte tlačítko Náhled * * v pravém horním rohu. Tím přejdete do moderního centra pro správu. 
+1. Otevření Centra **moderní správy** – Pokud jste v klasickém Centru  pro správu, uvidíte vpravo nahoře tlačítko Vyzkoušet nebo ** Vyzkoušet náhled ** . Tím se odvezete do Centra moderní správy. 
   
-2. Vyberte **aktivní weby.**
+2. Vyberte **Aktivní weby.**
   
-3. Vyberte web se **šablonou komunikačního webu**. 
+3. Vyberte web se šablonou **komunikačního webu**. 
   
-4. V horní nabídce vyberte tlačítko **sdílení** . 
+4. V **horní nabídce** vyberte tlačítko Sdílení. 
   
- **Poznámka:** Pokud máte vybrané více webů, tlačítko **sdílení** se vypne. Vyberte jenom jeden web. 
+ **Poznámka:** Pokud jste vybrali víc webů, **zobrazí** se tlačítko Sdílení zakázané. Vyberte jenom jeden web. 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Informace o tom, jak Microsoft Edge podporuje ochranu informací systému Windows (NV)
+title: Zjistěte, jak Microsoft Edge podporuje Windows Information Protection (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49677019"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054273"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Informace o tom, jak Microsoft Edge podporuje ochranu informací systému Windows (NV)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Zjistěte, jak Microsoft Edge podporuje Windows Information Protection (WIP)
 
-Jako počet vzdálených pracovníků se zvýší, takže se na podnikových zařízeních vyskytl počet osobních a pracovních aktivit. To zase zvýší riziko, že firemní data mohou být sdílena mimo pracoviště. Abychom toto riziko zmírnili, Microsoft Edge (verze 81 nebo novější) podporuje Windows Information Protection (NV): funkce Windows-10, která pomáhá chránit data organizace před neoprávněnými a úmyslnými odhaleními.
+S nárůstem počtu vzdálených pracovníků se zvyšuje i počet osobních a pracovních aktivit na podnikových zařízeních. To zase zvyšuje riziko, že se firemní data můžou sdílet mimo pracoviště. Aby se toto riziko zmírňoval, podporuje Microsoft Edge (verze 81 nebo novější) Windows Information Protection (WIP): funkce Windows-10, která pomáhá chránit podniková data před neoprávněným a náhodným zveřejněním.

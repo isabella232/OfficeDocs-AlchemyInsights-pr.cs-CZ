@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5103"
-ms.openlocfilehash: d1cea417d9c119a4d67ad704837622c6077e056d4abd28d2bf89e71f4edefee1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 08d3a74174ff30bf330e9c5ad41390a0247e20fd5a7a378da7d5f2a5905b2c86
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499577"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888831"
 ---
 # <a name="assign-project-to-users"></a>Přiřazení Projectu uživatelům
 
@@ -33,4 +33,4 @@ Project můžete uživatelům přiřadit v **centru pro správu Microsoftu 365**
 5. Pro přiřazení nebo odebrání přístupu klikněte na **Zapnout nebo vypnout aplikace a služby**.
 6. Klikněte na **Přidělit** a pak na **Zavřít**.
 
-Pokud si chcete koupit další nebo odebrat licence, podívejte se na stránku [Zakoupení nebo odebrání licencí](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Pokud si chcete koupit další nebo odebrat licence, podívejte se na stránku [Zakoupení nebo odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).

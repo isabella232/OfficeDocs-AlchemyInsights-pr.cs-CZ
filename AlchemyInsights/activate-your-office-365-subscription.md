@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937742"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889307"
 ---
 # <a name="activate-your-subscription"></a>Aktivujte si předplatné
 
 **Aktivace předplatného**
 
-- Pokud chcete uživatelům poskytnout přístup ke službě, přiřaďte jim licenci. Postup najdete v tématu [Přiřazení licencí uživatelům](/microsoft-365/admin/manage/assign-licenses-to-users).
+- Pokud chcete uživatelům poskytnout přístup ke službě, přiřaďte jim licenci. Postup najdete v tématu [Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Pokud už máte přiřazenou licenci, můžete aplikace, které si můžete stáhnout, najít na stránce [Můj účet](https://portal.office.com/account/#installs). Na této stránce najdete seznam aplikací, které si můžete na základě přiřazených licencí stáhnout.
-- Pokud jste si už stáhli Office aplikace, budete se možná muset k aplikacím přihlásit pomocí pracovního nebo školního účtu. Můžete to udělat v libovolné Office (Word, Excel atd.) tak, že vyberete Soubor > **účet** (dole). V části Informace o uživateli vyberte **Přepnout účet**. Další informace najdete v tématu věnovaném [instalaci aplikací Office](/microsoft-365/admin/setup/install-applications).
+- Pokud jste si už stáhli Office aplikace, budete se možná muset k aplikacím přihlásit pomocí pracovního nebo školního účtu. Můžete to udělat v libovolné Office (Word, Excel atd.) tak, že vyberete Soubor > **účet** (dole). V části Informace o uživateli vyberte **Přepnout účet**. Další informace najdete v tématu věnovaném [instalaci aplikací Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Opětovná aktivace předplatného**
 
@@ -36,9 +36,9 @@ Pokud vám vypršela platnost předplatného nebo ho zablokoval Microsoft nebo p
 3. V podokně **Znovu aktivovat toto** předplatné vyberte v rozevíracím seznamu způsob platby nebo vyberte Přidat způsob **platby**.
 4. Vyberte **Uložit**.
 
-Další informace najdete v článku [Opětovná aktivace předplatného](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Aktivace nového předplatného pomocí kódu Product Key**
 
-- Pokud chcete aktivovat nové předplatné Microsoft 365 kódem Product Key, podívejte se na informace v článku Kde Office [kód Product Key](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
-- Zadejte kód Product Key pro Microsoft 365 a postupujte podle pokynů pro aktivaci vašeho předplatného. Pokud máte s aktivací potíže, podívejte se na tento seznam [běžných chyb s kódem Product Key a jejich řešení](/microsoft-365/commerce/product-key-errors-and-solutions).
+- Pokud chcete aktivovat nové předplatné Microsoft 365 kódem Product Key, podívejte se na informace v tématu Kde Office [kód Product Key](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Zadejte kód Product Key pro Microsoft 365 a postupujte podle pokynů pro aktivaci vašeho předplatného. Pokud máte s aktivací potíže, podívejte se na tento seznam [běžných chyb s kódem Product Key a jejich řešení](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

@@ -1,5 +1,5 @@
 ---
-title: 603 Zjistěte, jak upravit nastavení agendy
+title: 603 Zjistěte, jak upravit nastavení programu Agenda
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "603"
 - "3800002"
 ms.assetid: d9d92a75-2ddc-41eb-b705-b2767d733f22
-ms.openlocfilehash: 1dac3f87e47eb791add54015673fb3ba1ae0c3b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10aa9b32c50763d6d8c4a5db793204a7993a8498e5589312b54e2d02a14d7dcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676551"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054101"
 ---
-# <a name="learn-how-to-configure-agenda-settings"></a>Informace o konfiguraci nastavení agendy
+# <a name="learn-how-to-configure-agenda-settings"></a>Zjistěte, jak nakonfigurovat nastavení programu agendy.
 
-Nastavení agendy se nachází v nastavení **kalendáře** v Outlooku na webu. Další informace najdete v tématu [nastavení kalendáře v Outlooku na webu](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
+Nastavení programu schůzky se nachází v **nastavení kalendáře** v Outlook na webu. Další informace najdete v tématu [Nastavení kalendáře v Outlook na webu](https://support.office.com/article/12cba5a4-4f95-4d00-bfc3-b694aa67ac8f).
 
-Správci můžou pomocí rutiny **set-CalendarNotification** PowerShellu pro Exchange Online nakonfigurovat nastavení agendy. Další informace najdete v tématu [set-CalendarNotification](https://technet.microsoft.com/library/dd351284).
+Správci mohou pomocí rutiny **Set-CalendarNotification** v powershellu Exchange Online nastavení programu. Další informace najdete v tématu [Nastavení kalendářeNotifikace](https://technet.microsoft.com/library/dd351284).
