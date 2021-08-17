@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744477"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896068"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Oprava zásad tenanta (přepsání akce)
 
-Tato zpráva se týká zásady ochrany proti spamu ve vašem tenantovi. Pokud chcete zásady zkontrolovat, proveďte toto:
+Tato zpráva se týká jedné z vašich zásad ochrany proti spamu. Pokud chcete zkontrolovat zásady, postupujte takto:
 
-1. Přejděte do [Centra zabezpečení Office 365 & Dodržování](https://go.microsoft.com/fwlink/p/?linkid=2077143)předpisů a pak přejděte na Zásady správy hrozeb   >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Zkontrolujte, jestli **zdroj zásad** označuje následující:  **Add-Xheader/ModifySubject/Redirect/Delete/No action/ BCC message**
+1. Na portálu Microsoft 365 Defender v části Zásady přejděte na Zásady & spolupráce & pravidla zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam.** 
 
-    Pokud ano, zkontrolujte na **kartě Vlastní** nastavení zásady, která zprávu ovlivnila. Je možné, že  zpráva ovlivnila standardní nastavení použitá pro všechny zákazníky Exchange Online Protection.
+   Pokud chcete přejít přímo na stránku Zásady ochrany **proti spamu,** použijte <https://security.microsoft.com/antispam> .
 
-Další informace o konfiguraci zásad filtru spamu najdete v tématu [Konfigurace zásad filtru spamu](https://go.microsoft.com/fwlink/?linkid=2101431).
+2. Na **stránce Anti-spam policies** (Zásady ochrany proti spamu) vyberte  zásadu kliknutím na  název zásady (**Typ** je Vlastní zásada ochrany proti spamu nebo Název je zásada příchozí pošty **antispamové pošty (výchozí).**
+3. V plovoucím seznamu podrobností, který se zobrazí, **vyberte v** části **Akce** možnost Upravit akce.
+4. V části Akce **zprávy** si projděte výroky spamu **,** spamu s vysokou spolehlivostí, phishingu a phishingu s vysokou spolehlivostí a zkontrolujte, jestli jsou vybrané následující hodnoty:  
+   - **Přidání záhlaví X**
+   - **Předpřipravené předměty s textem**
+   - **Přesměrovat zprávu na e-mailovou adresu**
+   - **Odstranit zprávu**
+   - **Žádná akce**
+
+   Je možné, že standardní nastavení použité **pro** všechny Exchange Online Protection zákazníci zprávu ovlivnili.
+
+Další informace najdete v tématu [Konfigurace zásad ochrany proti spamu v programu EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

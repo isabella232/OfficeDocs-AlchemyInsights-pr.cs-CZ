@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930018"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896104"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Oprava pravidel pro adresu odesílatele nebo seznam domén
 
-Tato zpráva se týká zásady ochrany proti spamu ve vašem tenantovi. Odesílatel zprávy byl nalezen v seznamu Povolit nebo Blokovat. Pokud chcete zásady zkontrolovat, proveďte toto:
+Tato zpráva se týká jedné z vašich zásad ochrany proti spamu. Odesílatel zprávy byl nalezen v seznamu Povolit nebo Blokovat. Pokud chcete zkontrolovat zásady, postupujte takto:
 
-1. Přejděte na [Centrum Office 365 zabezpečení &](https://go.microsoft.com/fwlink/p/?linkid=2077143)dodržování předpisů a pak přejděte na Zásady správy hrozeb   >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Pokud je **na kartě** Standardní **povolené** standardní nastavení, zaškrtněte políčko Povolit **seznamy** a **Blokovat seznamy**.
-3. Pokud je **na** kartě  Vlastní povolené vlastní nastavení,  zkontrolujte zásady tak, že vyberete Upravit zásadu a zašepíšete **seznamy Povolit** a **Blokovat seznamy**.
+1. Na portálu Microsoft 365 Defender v části Zásady přejděte na Zásady & spolupráce & pravidla zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam.** 
 
-Další informace o konfiguraci zásad filtru spamu najdete v tématu [Konfigurace zásad filtru spamu](https://go.microsoft.com/fwlink/?linkid=2101431).
+   Pokud chcete přejít přímo na stránku Zásady ochrany **proti spamu,** použijte <https://security.microsoft.com/antispam> .
+
+2. Na **stránce Anti-spam policies** (Zásady ochrany proti spamu) vyberte  zásadu kliknutím na  název zásady (**Typ** je Vlastní zásada ochrany proti spamu nebo Název je zásada příchozí pošty **antispamové pošty (výchozí).**
+3. V plovoucím plovoucím seznamu  podrobností, který se zobrazí, vyberte Upravit povolené a blokované odesílatele a domény v části Povolené a blokované odesílatele **a domény.**
+4. V části **Povolené** zkontrolujte odesílatele a domény kliknutím na Spravovat **odesílatele \<nn\> nebo** **Povolit domény**.
+
+Další informace najdete v tématu [Konfigurace zásad ochrany proti spamu v programu EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
