@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001690"
 - "3766"
-ms.openlocfilehash: 1c03f00f7b41ea16d3106b19b998edeea6114603
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fbf190d433eabfee5b45348d05d918222a385314a431812aa5f5926aacf11560
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830539"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107501"
 ---
 # <a name="sign-in-to-windows-10-without-using-a-password"></a>Přihlášení k Windows 10 bez použití hesla
 
-Abyste při spuštění Windows museli zapisovat heslo, doporučujeme použít jednu z možností zabezpečeného přihlášení k Windows Hello, například PIN kód, rozpoznávání obličeje nebo otisk prstu, pokud je k dispozici. Pokud opravdu chcete zakázat zabezpečené přihlášení, přečtěte si níže uvedené pokyny k automatickému přihlášení k Windows 10.
+Abyste při spuštění aplikace Windows museli zadat heslo, doporučujeme použít jednu z možností zabezpečeného přihlašování Windows Hello, například PIN kód, rozpoznávání obličeje nebo otisk prstu, pokud je k dispozici. Pokud opravdu chcete zakázat zabezpečené přihlášení, přečtěte si níže uvedené pokyny k automatickému přihlášení Windows 10 přihlášení.
 
-**Zabezpečení alternativ k hesly účtu ve Windows Hello**
+**Zabezpečené Windows Hello alternativy k hesly účtu**
 
 Přejděte na **Nastavení > Účty > možnosti přihlášení** (nebo klikněte [sem).](ms-settings:signinoptions?activationSource=GetHelp) Zobrazí se dostupné možnosti přihlášení. Příklad:
 
@@ -39,10 +39,10 @@ Klikněte nebo klepněte na jednu z možností konfigurace. Až příště spust
 
 2. Zadejte **netplwiz** a stisknutím klávesy Enter otevřete okno Uživatelské účty.
 
-3. V **části Uživatelské účty** klikněte na účet, ke který se chcete automaticky přihlásit při spuštění Windows.
+3. V **části Uživatelské účty** klikněte na účet, ke který se chcete automaticky přihlásit při Windows spuštění.
 
 4. Zrušte zaškrtnutí políčka Uživatelé musí zadat uživatelské jméno a heslo pro použití tohoto počítače.
 
     ![Uživatelé musí zadat možnost uživatelského jména a hesla.](media/users-must-enter-username.png)
 
-5. Klikněte na tlačítko **OK**. Zobrazí se dotaz, jestli chcete zadat a potvrdit heslo k vybranému účtu. Dokončete to kliknutím **na OK.** Při příštím spuštění Windows 10 se automaticky přihlásí k vybranému účtu.
+5. Klikněte na **OK**. Zobrazí se dotaz, jestli chcete zadat a potvrdit heslo k vybranému účtu. Dokončete to kliknutím **na OK.** Při příštím Windows 10 se automaticky přihlásí k vybranému účtu.

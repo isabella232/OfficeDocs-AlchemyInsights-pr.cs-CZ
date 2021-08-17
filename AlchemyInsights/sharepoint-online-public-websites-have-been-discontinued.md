@@ -1,5 +1,5 @@
 ---
-title: Veřejné weby SharePointu Online se nepoužívají.
+title: SharePoint Online veřejné weby se přerušované
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: fbe21c0aa9fbad3345c62d2dac276f49a37d5c02
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b26f8561565288f8bb9400a6bd7c4f8006672e304142e41c5b92088036e88bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051227"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Veřejné weby SharePointu Online byly zrušené.
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online veřejné weby byly ukončeny
 
-Veřejné weby SharePointu Online byly zrušené.
+SharePoint Online veřejné weby byly ukončeny.
 
-Pokud jste vytvořili veřejný web SharePointu Online, můžete ho dál používat až 31. března 2018. Chcete-li i nadále používat veřejný web, je třeba vytvořit nového poskytovatele. Obsah na vašem veřejném webu SharePointu Online je odstraněný.
+Pokud jste vytvořili veřejný SharePoint Online, mohli jste ho dál používat až do 31. března 2018. Pokud chcete dál mít veřejný web, musíte vytvořit nový s novým poskytovatelem. Obsah na vašem SharePoint online byl odstraněn.
 
-Informace o tom, jak veřejný web vyřadit, najdete v článku [Podrobnosti o procesu](https://go.microsoft.com/fwlink/?linkid=866980)oddálení.
+Informace o ukončení veřejného webu najdete v tématu Podrobnosti o procesu ukončení [funkcí.](https://go.microsoft.com/fwlink/?linkid=866980)

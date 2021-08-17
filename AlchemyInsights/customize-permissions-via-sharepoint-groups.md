@@ -1,5 +1,5 @@
 ---
-title: Přizpůsobení oprávnění sharepointového webu prostřednictvím skupin SharePointu
+title: Přizpůsobení oprávnění SharePoint webu pomocí SharePoint skupin
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: 6141f801002aba0c74966eebe659a0228d2eda69
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b17c6f5798542c8b890332c1b3e5e3712fb484483b6dc461b7fa9fbcc757106d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815680"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079911"
 ---
-# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>Přizpůsobení oprávnění sharepointového webu prostřednictvím skupin SharePointu 
+# <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>Přizpůsobení oprávnění SharePoint webu pomocí SharePoint skupin 
 
-Skupina SharePointu je kolekce uživatelů, kteří mají stejnou sadu oprávnění k webům a obsahu. Místo přiřazení oprávnění jedné osobě můžete skupiny použít k pohodlnému přiřazení stejné úrovně oprávnění mnoha lidem najednou.
+Skupina SharePoint je kolekce uživatelů, kteří mají stejnou sadu oprávnění k webům a obsahu. Místo přiřazení oprávnění jedné osobě můžete skupiny použít k pohodlnému přiřazení stejné úrovně oprávnění mnoha lidem najednou.
 
-[Přizpůsobení oprávnění sharepointového webu](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+[Přizpůsobení SharePoint webu](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)

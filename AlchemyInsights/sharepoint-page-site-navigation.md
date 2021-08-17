@@ -1,5 +1,5 @@
 ---
-title: Začínáme se SharePointem Online
+title: Začínáme s SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: d3af1cd3d4b22bf62c5748b16b605eaff225a5b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ba34694f0551ade14efd902cfbefc4a7f7d5a62b8d2ea4dbc70424efd772798
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107676"
 ---
-# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navigace na webu a na stránce na SharePointu
+# <a name="site-and-page-navigation-in-sharepoint-sites"></a>Navigace na webu a stránce na SharePoint webech
 
-Základní principy a správné postupy pro navigaci na webu a na stránce se vztahují i na klasické i moderní architektury SharePointu. Možnosti pro implementaci navigace se ale liší na základě rámce pro vaše weby a intranet. Zděděné navigační funkce dostupné v klasických hierarchiích SharePointových webů (weby s podřízenými weby) jsou například v moderních prostředích k dispozici, ale [weby centra](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) představují skvělý způsob, jak v klasickém SharePointu dosáhnout funkcí navigace na webu, které byly dříve k dispozici v rámci spravované navigace a hierarchie webů.
+Základní principy a osvědčené postupy pro navigaci na webu a na stránce platí stejně pro klasické i moderní SharePoint architektury. Možnosti implementace navigace se ale liší podle rámce pro vaše weby a intranet. Například zděděná navigační prostředí dostupná v klasických hierarchiích webů SharePoint (weby s podřízenými [](https://support.office.com/article/fe26ae84-14b7-45b6-a6d1-948b3966427f) weby) nejsou v moderním prostředí dostupná, ale centrální weby poskytují skvělý způsob, jak dosáhnout funkcí navigace mezi weby, které byly dříve dostupné ve spravované navigaci a hierarchiích webů v klasickém SharePoint.
 
- Další informace o možnostech navigace najdete v následujících odkazech.
+ Další informace o možnostech navigace najdete na níže uvedených odkazech.
 
- - [Plánování navigace pro moderní SharePointové prostředí](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
+ - [Plánování navigace pro moderní SharePoint prostředí](https://docs.microsoft.com/sharepoint/plan-navigation-modern-experience)
 
-- [Přizpůsobení navigace na SharePointovém webu](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
+- [Přizpůsobení navigace na SharePoint webu](https://support.office.com/article/customize-the-navigation-on-your-sharepoint-site-3cd61ae7-a9ed-4e1e-bf6d-4655f0bf25ca)
 
 - [Možnosti navigace pro SharePoint Online](https://docs.microsoft.com/office365/enterprise/navigation-options-for-sharepoint-online)
  
-- [Uspořádání SharePointových webů pomocí navigace v megamenu](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
+- [Uspořádání SharePoint webů pomocí navigace v meganabídce](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Organize-your-SharePoint-sites-with-megamenu-navigation-and-new/ba-p/328068)
 
-- [Spravovaná metadata a navigace v SharePointu](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
+- [Spravovaná metadata a navigace v SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/managed-metadata-and-navigation-in-sharepoint)
 
 

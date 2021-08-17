@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "5699"
-ms.openlocfilehash: eb011c85c516b5de602eb4bf8e41ca94526102dd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: c3c184de0778d989d2c1d6501a8c78ac4ecb343acb6cb3e5eb61288b4a50be01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828317"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107460"
 ---
 # <a name="sharing-with-outlook-on-the-web"></a>Sdílení v Outlooku na webu
 

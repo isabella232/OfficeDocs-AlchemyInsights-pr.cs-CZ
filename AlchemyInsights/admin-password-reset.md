@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: ccd55ee4452efa279b6f936151e2fdce6921b922
-ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
+ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52569722"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883044"
 ---
 # <a name="admin-password-reset"></a>Resetování hesla správce
 
@@ -29,4 +29,4 @@ ms.locfileid: "52569722"
 
 - Jiný správce může resetovat vaše heslo pomocí příkazu **Uživatelé > [Aktivní uživatelé](https://portal.office.com/adminportal/home#/users)**. Vyberte účet a potom klikněte na ikonu klíče.  Nebo pokud jsou vaše přihlašovací údaje uložené v mezipaměti, můžete si [vytvořit nový účet správce](https://portal.office.com/adminportal/home#/users), přihlásit se pomocí tohoto účtu a potom resetovat svoje vlastní heslo správce.
 
-Pokud chcete získat další scénáře resetování hesel, zkuste téma [Resetování hesel Office 365 pro firmy](/microsoft-365/admin/add-users/reset-passwords) nebo otevřete případ podpory.
+Pokud chcete získat další scénáře resetování hesel, zkuste téma [Resetování hesel Office 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) nebo otevřete případ podpory.

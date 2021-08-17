@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.custom:
 - "695"
 - "3500010"
-ms.openlocfilehash: 79a2c02429915e1cd9354109cf39bbecb3fec821
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fc2078836520016cd97677a03ed6d5e3ce9abfa65a5d815060630c222e1d3d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079849"
 ---
 # <a name="cutover-migrations"></a>Přímé migrace
 
