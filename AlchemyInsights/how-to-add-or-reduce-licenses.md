@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501809"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892188"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Přidání nebo odebrání licencí pro vaše předplatné
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501809"
 4. Pokud chcete koupit nebo  odebrat licence,  zadejte v části Nové množství do pole Celkový počet licencí celkový počet licencí, které chcete pro toto předplatné použít. Pokud máte třeba 100 licencí a chcete přidat dalších 25, zadejte 125. Pokud chcete odebrat 25 licencí, zadejte 75.
 5. Vyberte **Uložit**.
 
-Informace o tom, jak přiřadit licence, najdete v tématu Přiřazení [licencí uživatelům](/microsoft-365/admin/manage/assign-licenses-to-users).
+Informace o tom, jak přiřadit licence, najdete v tématu Přiřazení [licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 **Prostředky**
   
-- [Zakoupení nebo odebrání licencí](/microsoft-365/commerce/licenses/buy-licenses)
-- [Zrušení Microsoft 365 pro firmy](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Vyzkoušet nebo koupit předplatné Microsoft 365 pro firmy](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Zakoupení nebo odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Zrušení Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Vyzkoušet nebo koupit předplatné Microsoft 365 pro firmy](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

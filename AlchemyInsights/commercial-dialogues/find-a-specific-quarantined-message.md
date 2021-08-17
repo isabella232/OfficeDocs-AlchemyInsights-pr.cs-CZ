@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967938"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898313"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Vyhledání konkrétní zprávy v karanténě
 
-1. Přejděte do [Centra zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Přejděte na **Správa hrozeb**  >  **Zkontrolovat**  >  **karanténu**.
-3. Zvolte **Hledat**.
-4. Vyberte libovolnou kombinaci podmínek zaškrtnutím políček vedle nich (v tuto chvíli nemůžete používat zástupné znaky).
+1. Na portálu Microsoft 365 Defender na <https://security.microsoft.com> webu přejděte na **Karanténa & kontrola spolupráce e-mailem.** \>  \> 
+
+   Pokud chcete přejít přímo na **stránku Karanténa,** použijte <https://security.microsoft.com/quarantine> .
+
+2. Na stránce **Karanténa** ověřte, jestli je **vybraná** karta e-mailu, a potom klikněte na **Filtr.**
+3. Zvolte libovolnou kombinaci vlastností, kterou chcete filtrovat a najít zprávu.
+
+Další informace najdete v těchto tématech:
+
+- [Vyhledání a uvolnění zpráv v karanténě jako uživatele](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Správa zpráv a souborů v karanténě jako správce](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

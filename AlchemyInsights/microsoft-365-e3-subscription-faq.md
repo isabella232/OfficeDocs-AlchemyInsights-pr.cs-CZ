@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002554"
 - "5392"
-ms.openlocfilehash: 01d653201f05903fec0533f335d4ed228de1565f
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: bb57d0c13d47dbe54ecd620e3100a5254290649978d1102267cac04414337b59
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114309"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>Časté otázky k předplatným Microsoft 365 E3 a správě licencí
 

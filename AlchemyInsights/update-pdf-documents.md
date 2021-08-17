@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007101"
 - "12066"
-ms.openlocfilehash: b0ef6d9e777fdcde3555f4197ce5791f1ad1050badb54b267129d2b1febe0e7c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7a6efa496e2489e765acf74e03f0486a2dd7b943fe0d933bd0eda4d50883aa2c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53990844"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891824"
 ---
 # <a name="update-pdf-documents"></a>Aktualizace dokumentů PDF
 
-Průvodce prováděním změn PDF, včetně parametrů, proměnných a výjimek k provedení úkolu, najdete v tématu [PDF](/power-automate/desktop-flows/actions-reference/pdf).
+Průvodce prováděním změn PDF, včetně parametrů, proměnných a výjimek k provedení úkolu, najdete v [tématu PDF](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf).
 
 Podrobnosti najdete v tématu:
 
-- [Extrahování obrázku](/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
-- [Extrahování textu](/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
-- [Sloučení souborů PDF](/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
-- [Extrahování stránek a vytvoření nového SOUBORU PDF](/power-automate/desktop-flows/actions-reference/pdf#extractpages)
+- [Extrahování obrázku](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
+- [Extrahování textu](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
+- [Sloučení souborů PDF](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
+- [Extrahování stránek a vytvoření nového SOUBORU PDF](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extractpages)

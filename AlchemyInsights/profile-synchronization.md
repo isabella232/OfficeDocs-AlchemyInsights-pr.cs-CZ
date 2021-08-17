@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: b223bad66fb7cc6d1d7c0a2b3ccc7a081c061b4974060dbcafec84dfb24eb782
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a841db70c238bdae58edfca634fe49a04ddce78a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53923637"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320702"
 ---
 # <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Kdy se změny profilu synchronizují s aplikací SharePoint profilu uživatele?
 
@@ -24,8 +24,7 @@ SharePoint Online používá úlohu časovače importu služby Active Directory 
     
 2. Úloha časovače se spustí, dokud se změny nesynchronují.
     
-> [!NOTE]
-> Doba, kterou trvá spuštění úlohy, závisí na počtu změn v procesu. Velký počet změn trvá déle. Smlouva SLA (Service Level Agreement) uvádí, že změna uživatele v adresáři SharePoint Online se projeví v aplikaci Profil uživatele za 24 hodin. 
+**Poznámka:** Doba, kterou trvá spuštění úlohy, závisí na počtu změn, které se budou zpracovávat. Velký počet změn trvá déle. Smlouva SLA (Service Level Agreement) uvádí, že změna uživatele v adresáři SharePoint Online se projeví v aplikaci Profil uživatele za 24 hodin. 
   
 [Další informace o synchronizaci profilu uživatele v SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   

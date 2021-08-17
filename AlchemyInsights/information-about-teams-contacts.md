@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ccdcf5b175ffe5455cc5ab0bb4c7ef652fd6a3c9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868339"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320784"
 ---
 # <a name="information-about-teams-contacts"></a>Informace o Teams kontaktech
 
@@ -29,7 +29,7 @@ Teams tyto kontakty:
 
 Pokud kontakty nejsou dokončené nebo se nesynchronují pro jednoho nebo několik uživatelů, proveďte toto:
 
-- Ujistěte se, že Exchange poštovní schránka uživatele je hostovaná online (ne místně). Další informace najdete v tématu [Jak Exchange a Microsoft Teams pracovat](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
+- Ujistěte se, že je Exchange poštovní schránka uživatele hostovaná online (ne místně). Další informace najdete v tématu [Jak Exchange a Microsoft Teams pracovat](https://docs.microsoft.com/microsoftteams/exchange-teams-interact).
 - Ujistěte se, že je do kontaktních informací přidáno telefonní číslo kontaktu.
 - Na panelu hledání vyhledejte e-mail **kontaktu.** Kontakty, které můžete načíst ze seznamu kontaktů.
 
