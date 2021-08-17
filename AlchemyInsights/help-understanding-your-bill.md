@@ -16,12 +16,12 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bb12ac9bcb5f8eae7d03f4d3ad876e5858bd32fc
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bc7efe00f9b7719753ad269f511a34af1f2df1200575a43f61b916a2a735ae12
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320936"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893344"
 ---
 # <a name="help-understanding-your-bill"></a>Pomozte porozumět fakturě
 

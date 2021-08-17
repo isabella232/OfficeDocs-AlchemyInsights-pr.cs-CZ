@@ -1,5 +1,5 @@
 ---
-title: Obnovení OneDrivu
+title: Obnovení OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801285"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109341"
 ---
-# <a name="restore-your-onedrive"></a>Obnovení OneDrivu
+# <a name="restore-your-onedrive"></a>Obnovení OneDrive
 
-Pokud se hodně vašich souborů na OneDrivu odstraní, overwritted, poškodí nebo zanakaženo malwarem, můžete obnovit celý OneDrive na předchozí čas během posledních 30 dnů.
+Pokud se spousta OneDrive souborů odstraní, přebalí, poškodí nebo nakazí malwarem, můžete během posledních 30 dnů obnovit celý OneDrive do předchozího času.
   
-1. Ve webovém prohlížeči přejděte na OneDrive.
+1. Přejděte do svého OneDrive ve webovém prohlížeči.
     
-2. V pravém horním rohu klikněte na ikonu nastavení a pak vyberte **obnovit OneDrive**.
+2. Klikněte na Nastavení v pravém horním rohu a pak vyberte **Obnovit OneDrive**.
     
-3. Vyberte datum v seznamu nebo zvolte **vlastní datum a čas**.
+3. V seznamu vyberte datum nebo zvolte **Vlastní datum** a čas .
     
-4. Kliknutím na **obnovit** vrátíte zpět všechny aktivity po zvoleném datu. 
+4. Kliknutím **na Obnovit** vrátíte zpět všechny aktivity po datu, které jste vybrali. 
     
-[Další Nápověda k obnovení souborů](https://go.microsoft.com/fwlink/?linkid=872874)
+[Další nápověda k obnovení souborů](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

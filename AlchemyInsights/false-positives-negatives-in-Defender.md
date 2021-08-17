@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007385"
 - "12446"
-ms.openlocfilehash: f4e61c085cab174e68a9524ac978f2f415b97d21649d47b2eb16f24abe83f828
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b595cd789ac593ee2f48752ac3e483280350018d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868563"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313242"
 ---
 # <a name="address-false-positivesnegatives-in-microsoft-defender-for-endpoint"></a>Adresování falešně pozitivních a záporných sledů v programu Microsoft Defender pro koncový bod
 

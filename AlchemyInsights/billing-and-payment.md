@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502385"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893048"
 ---
 # <a name="billing-and-payment"></a>Fakturace a platba
 
@@ -34,7 +34,7 @@ Na stránce **Oznámení** fakturace můžete tuto funkci zapnout a spravovat u�
 
 **Platba**
 
-Pokud platíte platební kartou nebo bankovním účtem, je způsob platby spojený s vaším předplatným účtován do několika dnů po vytvoření faktury. Pokud platba selže, aktualizujte nebo změňte způsob platby.
+Pokud platíte platební kartou nebo bankovním účtem, bude způsob platby spojený s vaším předplatným účtován do několika dnů po vytvoření faktury. Pokud platba selže, aktualizujte nebo změňte způsob platby.
 
 Pokud jste přidali novou kartu a stále dostáváte oznámení o odmítnutí na staré platební kartě, možná budete muset novou kartu přidružit k předplatnému.
 
@@ -55,10 +55,10 @@ Pokud jste přidali novou kartu a stále dostáváte oznámení o odmítnutí na
 
 7. Nový způsob platby už je vybraný v rozevíracím seznamu. Vyberte **Nahradit**.
 
-Další informace najdete v tématu [Správa způsobů platby](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Další informace najdete v tématu [Správa způsobů platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Četnost fakturace**
 
 Faktury se vygenerují měsíčně nebo ročně v závislosti na četnosti fakturace zvolené při pokladně.  
 
-**Poznámka:** Objednávky s roční fakturací mohou obdržet fakturu v polovině období, pokud byly provedeny změny, jako je přidání nebo odebrání licencí. [Změňte četnost fakturace](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**Poznámka:** Objednávky s roční fakturací mohou obdržet fakturu v polovině období, pokud byly provedeny změny, jako je přidání nebo odebrání licencí. [Změňte četnost fakturace](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

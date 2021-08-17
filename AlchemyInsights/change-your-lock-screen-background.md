@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 8c13ad21019ffa00067ea6be0af7f05210e264a8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e6c2bec070bb2fc2d583479604c95e0f0e7d729601dc1b0e8b7edd04995dfe6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082257"
 ---
 # <a name="change-your-lock-screen-background"></a>Změna pozadí zamykací obrazovky
 
-- Přejděte na **Obrazovku Settings**  >  Personalization Lock (Zamykací obrazovka  >  **Nastavení).** Nebo klikněte nebo klepněte [sem](ms-settings:lockscreen?activationSource=GetHelp).
+- Přejděte na **Nastavení**  >  **Uzamčení**  >  **přizpůsobení**. Nebo klikněte nebo klepněte [sem](ms-settings:lockscreen?activationSource=GetHelp).
 
 - Pokud chcete nastavit vlastní obrázek na pozadí, vyberte **Obrázek** v **rozevíracím** seznamu Pozadí a zvolte nebo **Procházet** k obrázku.
 
