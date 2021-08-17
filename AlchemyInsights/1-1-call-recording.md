@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
-ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.openlocfilehash: 29383643e6867bca7fd31774a9594b82fdc080bb0e7254141e8c883ad861075e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52702083"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886132"
 ---
 # <a name="11-call-recording"></a>Nahrávání hovorů 1:1
 
 Pokud je **tlačítko Spustit záznam** v hovoru 1:1 šedé, musíte změnit nastavení zásad pro ovlivněné uživatele. Pokud chcete zkontrolovat nastavení zásad, spusťte diagnostiku pro ovlivněné uživatele tak, že napíšete **Diag: Teams 1:1 Nahrávání hovorů** výše.     
 
-Od 31. května 2021 začneme vynucovat novou Teams hovory *AllowCloudRecordingForCalls*. Před touto změnou je záznam hovoru 1:1 řízený zásadou *AllowCloudRecording* Teams schůzek. Tato změna je zdokumentována v příspěvku Centra zpráv: [(aktualizováno) 1:1 Úvod](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)zásad nahrávání hovorů .  
+Od 31. května 2021 začneme vynucovat novou Teams zásady volání *AllowCloudRecordingForCalls*. Před touto změnou je záznam hovoru 1:1 řízený Teams schůzek.  Tato změna je zdokumentována v příspěvku Centra zpráv: [(aktualizováno) 1:1 Úvod](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796)zásady nahrávání hovorů .  
 
 *AllowCloudRecordingForCalls*   Možnost zásady volání je ve **$False** nastavená. Pokud chcete všem uživatelům blokovat nahrávání hovorů 1:1, nemusíte nic udělat.  
 
-Pokud chcete povolit nahrávání hovorů pro všechny uživatele v hovoru 1:1, [Teams PowerShell](/microsoftteams/teams-powershell-install) spustit následující rutinu: 
+Pokud chcete povolit nahrávání hovorů pro všechny uživatele v hovoru 1:1, [Teams PowerShellu](https://docs.microsoft.com/microsoftteams/teams-powershell-install) spustit následující rutinu: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 

@@ -13,12 +13,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014893"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887493"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Určení IP adresy a klienta v protokolech auditování
 
@@ -36,4 +36,4 @@ IP adresa, která odpovídá aktivitě uživatele Microsoft 365 nebo správce, s
 
 Ve výsledcích uvidíte IP adresu této aktivity v podokně výsledků. Výběrem záznamu auditování zobrazíte  podrobné informace v informačním seznamu Podrobnosti (například Klient, Uživatel, který provedl akci atd.).
 
-Další informace najdete v tématu Vyhledání IP adresy počítače, který se používá pro přístup k [ohroženému účtu](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Další informace najdete v tématu Vyhledání IP adresy počítače, který se používá pro přístup k [ohroženému účtu](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

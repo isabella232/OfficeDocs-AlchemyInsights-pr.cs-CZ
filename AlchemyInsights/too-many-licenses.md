@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499541"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886284"
 ---
 # <a name="too-many-licenses"></a>Příliš mnoho licencí?
 
@@ -33,7 +33,7 @@ Pokud si myslíte, že se vám fakturuje příliš mnoho licencí, je to obvykle
 1. V Centru pro správu přejděte na stránku **Fakturace** \> **[vaše](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkty.
 2. Na kartě **Produkty** vyberte předplatné, které chcete změnit.
 3. Na stránce s podrobnostmi předplatného vyberte **Odebrat licence**.
-4. V podokně **Odebrat licence**  zadejte v části  Nové množství do pole Celkové licence celkový počet licencí, které chcete pro toto předplatné použít. Pokud máte třeba 100 licencí a chcete jich odebrat 25, zadejte 75.
+4. V podokně **Odebrat licence**  zadejte v části  Nové množství do pole Celkový počet licencí celkový počet licencí, které chcete pro toto předplatné použít. Pokud máte například 100 licencí a chcete jich odebrat 25, zadejte 75.
 5. Vyberte **Uložit**.
 
-Další informace najdete v tématu [Zakoupení nebo odebrání licencí](/microsoft-365/commerce/licenses/buy-licenses).
+Další informace najdete v tématu [Zakoupení nebo odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

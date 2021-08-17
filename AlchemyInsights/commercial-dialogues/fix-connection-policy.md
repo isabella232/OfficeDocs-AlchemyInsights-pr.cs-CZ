@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988081"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888399"
 ---
 # <a name="fix-connection-policy"></a>Oprava zásad připojení
 
-E-mail byl označený jako bezpečný a doručený do složky Doručená pošta uživatele, protože odesílající IP adresa byla v zásadách filtru připojení označená jako bezpečná. Pokud chcete zásady zkontrolovat, proveďte toto:
+E-mail byl označený jako bezpečný a doručený do složky Doručená pošta uživatele, protože zdrojová IP adresa byla ve výchozí zásadách filtru připojení označena jako bezpečná. Pokud chcete zásady zkontrolovat, postupujte takto:
 
-1. Přejděte na [Centrum Office 365 zabezpečení &](https://go.microsoft.com/fwlink/p/?linkid=2077143)dodržování předpisů a pak přejděte na Zásady správy hrozeb   >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na kartě **Vlastní** vyberte zásadu **filtru** Připojení a pak vyberte **Upravit zásadu.**
-3. Zkontrolujte seznam **POVOLIT IP** adres. Podívejte se, **Sejf seznam povolený.**
+1. Na portálu Microsoft 365 Defender v části Zásady přejděte na Zásady & spolupráce & pravidla zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam.** 
 
-    > [!NOTE]
-    > Microsoft si předplatí zdroje důvěryhodných odesílatelů třetích stran. Pokud **Sejf seznam** povolený, tito důvěryhodní odesílatelé se omylem označí jako spam. Tuto možnost doporučujeme vybrat, protože se tím sníží počet falešně pozitivních zpráv (dobrá pošta, která je klasifikovaná jako spam), kterou dostanete.
+   Pokud chcete přejít přímo na stránku Zásady ochrany **proti spamu,** použijte <https://security.microsoft.com/antispam> .
+
+2. Na stránce **Zásady ochrany proti spamu** vyberte zásadu s názvem Zásada filtru **připojení (výchozí)** kliknutím na název zásady.
+
+3. V okně podrobností, který se zobrazí, klikněte **v** části Filtrování připojení na Upravit zásadu **filtru** připojení.
+
+4. Zkontrolujte položky v části Vždy **povolit zprávy** z následující IP adresy nebo rozsah adres a podívejte se, jestli **je zaškrtnuté políčko Zapnout bezpečný** seznam.
+
+   > [!NOTE]
+   > Microsoft si předplatí zdroje důvěryhodných odesílatelů třetích stran. Pokud je povolený bezpečný seznam, tito důvěryhodní odesílatelé nejsou omylem označeni jako spam. Tuto možnost doporučujeme vybrat, protože se sníží počet falešně pozitivních zpráv (dobrá pošta, která je klasifikovaná jako spam), kterou dostanete.
+
+Další informace najdete v tématu [Konfigurace filtrování připojení](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy).

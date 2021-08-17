@@ -1,5 +1,5 @@
 ---
-title: '8000085: Outlook.com: nejde stáhnout soubory v Chrome.'
+title: '8000085: Outlook.com: V Chromu se nestahovat soubory'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "8000085"
 - "1352"
 ms.assetid: ''
-ms.openlocfilehash: 1a4f5029322682dee3ab2799998b8c02dfd1a3da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08eb26cb64d1ea7d544bd1e1531afc4d57124ff17bd2afb471686d066098ce8a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053531"
 ---
-# <a name="cant-download-files-in-chrome"></a>V Chromu nejde stáhnout soubory
+# <a name="cant-download-files-in-chrome"></a>V Chromu se nestahovat soubory
 
-**Problém** Věděli jsme, že některé zákazníky nemůžou stahovat soubory, když používají prohlížeč Google Chrome. 
+**Problém** Víme o problému, který některým zákazníkům brání v tom, aby mohli stahovat soubory při používání prohlížeče Google Chrome. 
 
 **Alternativní řešení** Použijte [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) nebo jiný webový prohlížeč.
-Přečtěte si další informace o [stahování souborů a Outlook.com příloh](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy).
+Přečtěte si další informace o tom, jak [stahovat soubory a Outlook.com.](https://support.office.com/article/8d7c1ea7-4e5f-44ce-bb6e-c5fcc92ba9ab?wt.mc_id=Office_Outlook_com_Alchemy)
 
