@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1dde197b08328206e19e9943a56c06d9942cbaec9c04c97a18dcc821c822ff16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042803"
 ---
 # <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Odeslání žádosti o funkci nebo zpětné vazby k návrhu aplikace
 
-Vážíme si toho, že sdílíte své myšlenky, když budeme dál pracovat na Outlooku. *UserVoice* je fórum, kde můžete zanechat zpětnou vazbu a hlasovat o nápadech ostatních.  
+Vážíme si toho, že sdílíte své nápady, když budeme dál pracovat na Outlook. *UserVoice* je fórum, kde můžete zanechat zpětnou vazbu a hlasovat o nápadech ostatních.  
 
 Chcete-li nám nechat nápad: 
 
-**Nastavení > nápovědy & názoru > navrhnout funkci> která vám může pomoct s odesláním nápadu** 
+**Nastavení > nápovědu & názoru > navrhnout funkci> jak odeslat nápad** 
 
 **Zajímá vás, jak se vaše jméno nebo e-mail zobrazuje?**
 

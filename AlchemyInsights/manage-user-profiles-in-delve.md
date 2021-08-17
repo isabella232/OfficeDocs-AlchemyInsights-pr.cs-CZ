@@ -1,5 +1,5 @@
 ---
-title: Správa profilů uživatelů v Delvu
+title: Správa profilů uživatelů v Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
@@ -9,28 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bcd7b20d847492d1f516878fd52dc2a6798b6b2afa90edea8eb4e460834a4eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042191"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Správa profilů uživatelů v Delvu
+# <a name="manage-user-profiles-in-delve"></a>Správa profilů uživatelů v Delve
 
-Office Delvu umožňuje uživatelům spravovat profil uživatele. Uživatelé můžou:
+Office Delve umožňuje uživatelům spravovat svůj profil uživatele. Uživatelé mohou:
   
-- Zobrazení a aktualizace informací
+- Zobrazení a aktualizace jejich informací
     
-- Zachování soukromých informací
+- Zachovat některé informace jako soukromé
     
-- Změna profilu nebo titulního obrázku
+- Změna profilu nebo titulní fotky
     
-- Změna jazyka a formátu času pro Delvu
+- Změna formátu jazyka a času pro Delve
     
 > [!NOTE]
-> Pokud uživatel aktualizoval profilový obrázek a změna se nezobrazuje na SharePointu nebo OneDrivu, požádejte je, aby otevřel webový prohlížeč, [přejděte na Office.com](https://www.office.com), přihlaste se pomocí svého pracovního nebo školního účtu a pak klikněte na OneDrive nebo sharepointová dlaždice. Tím se zobrazí výzva k synchronizaci profilu. Uživatel se může pokusit o dokončení těchto kroků v soukromé verzi prohlížeče. 
+> Pokud si uživatel aktualizoval svůj profilový obrázek a změna se nezobrazuje v aplikaci SharePoint nebo OneDrive, požádejte ho, aby otevřel webový prohlížeč, přejděte na [Office.com,](https://www.office.com)přihlaste se pomocí svého pracovního nebo školního účtu a klikněte na dlaždici OneDrive nebo SharePoint. Zobrazí se výzva k synchronizaci profilové fotky. Uživatel možná bude muset zkusit provést tento postup pomocí soukromé verze svého prohlížeče. 
   
-[Další informace o aktualizaci profilů v Delvu](https://go.microsoft.com/fwlink/?linkid=735070)
+[Další informace o aktualizaci profilů v Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Chyby synchronizace Azure AD Connect
+title: Chyby synchronizace služby Azure AD connect
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6120"
 - "9003245"
-ms.openlocfilehash: 513f8ab82bca892f5756b2dd13765cd4fe8e41a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 879b2cf442f80c005395eb61c933df9975cc6186a373b1119348b9b1d4e7a9c5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714861"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104121"
 ---
-# <a name="azure-ad-connect-sync-errors"></a>Chyby synchronizace Azure AD Connect
+# <a name="azure-ad-connect-sync-errors"></a>Chyby synchronizace služby Azure AD connect
 
-V případě běžných chyb synchronizace Azure AD Connect a možných způsobů, jak chyby opravit, najdete další informace v tématu [řešení potíží během synchronizace](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors).
+Běžné chyby synchronizace připojení Azure AD a možné způsoby, jak tyto chyby vyřešit, najdete v tématu Řešení chyb [při synchronizaci.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors)

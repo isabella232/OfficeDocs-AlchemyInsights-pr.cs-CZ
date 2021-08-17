@@ -1,5 +1,5 @@
 ---
-title: Vytváření poštovní schránky uživatele
+title: Vytvářená poštovní schránka uživatele
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
-ms.openlocfilehash: 45cf6841641a75ea1d8ca8442c68a7fe778c37c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2157a468bf579e74a71f6b13eb66b075ea64fd0194e04055aadbea365eb2525b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104239"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Vytváří se poštovní schránka uživatele
+# <a name="your-users-mailbox-is-being-created"></a>Vytváří se poštovní schránka vašeho uživatele.
 
-Nová poštovní schránka může trvat až hodinu, než bude připravena k použití.
+Než bude nová poštovní schránka připravená k použití, může to trvat až hodinu.
   
-Pokud byla poštovní schránka uživatele "Příprava" na více než hodinu, můžete se pokusit o odstranění a opětovné vytvoření uživatele nebo použít možnost "vám můžeme zavolat", abyste mohli mluvit s pracovníkem technické podpory.
+Pokud se poštovní schránka uživatele připravuje déle než hodinu, můžete zkusit uživatele odstranit a znovu vytvořit nebo pomocí možnosti Zavoláme vám a promluvit si s technikem podpory.
   
 

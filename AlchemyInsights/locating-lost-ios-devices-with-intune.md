@@ -1,5 +1,5 @@
 ---
-title: Vyhledání ztracených zařízení s iOS s Intune
+title: Vyhledání ztracených zařízení s iOS pomocí Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,47 +13,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "1283"
 - "6700008"
-ms.openlocfilehash: 70f12328813a312631c67cd72cc75559ed2eca1b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af747a63caf76e7b4a4a180eaef25dfdf2cb5e3391079c713fe0e413198efb15
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042299"
 ---
-# <a name="locating-lost-ios-devices-with-intune"></a>Vyhledání ztracených zařízení s iOS s Intune
+# <a name="locating-lost-ios-devices-with-intune"></a>Vyhledání ztracených zařízení s iOS pomocí Intune
 
-Povolení režimu ztráty na zařízení s iOS umožňuje správci na zamykací obrazovce zobrazit zprávu a telefonní číslo.
+Povolení režimu ztráty na zařízení s iOSem umožňuje správci zobrazit na zamykací obrazovce zprávu a telefonní číslo kontaktu.
 
-Když je režim ztráty povolený, může správce pomocí akce najít zařízení identifikovat fyzické umístění zařízení.
+Po povolení režimu ztráty může správce použít akci Vyhledat zařízení k identifikaci fyzického umístění zařízení.
 
-Akce najít zařízení v Intune funguje se zařízeními s iOS, která ukazuje umístění určitého zařízení na mapě.
+Akce Vyhledat zařízení v Intune funguje se zařízeními s iOSem a zobrazí umístění konkrétního zařízení na mapě.
 
-Použití této akce vyžaduje, aby bylo zařízení s iOS v:
+Použití této akce vyžaduje, aby zařízení s iOSem bylo v:
 
-- Sledovaný režim
+- Režim dohledu
 - Režim ztráty
 
-Další informace najdete v článku [Povolení režimu ztraceného zobrazení na zařízeních s iOS/iPadOS s Intune](https://docs.microsoft.com/intune/device-lost-mode) a [vyhledání ztracených nebo odcizených zařízení s iOS/iPadOS s Intune](https://docs.microsoft.com/intune/device-locate).
+Další informace najdete v článku Povolení režimu ztráty na zařízeních [s iOS/iPadOS](https://docs.microsoft.com/intune/device-lost-mode) pomocí Intune a Vyhledání ztracených nebo odcizených zařízení [s iOS/iPadOS pomocí Intune](https://docs.microsoft.com/intune/device-locate).
 
 **Nejčastější dotazy**
 
-Otázka: byla vydána vzdálená akce, která odebere firemní data ze zařízení a teď je ve stavu čekání na vyřízení.
+Otázka: Vydal(a) jsem vzdálenou akci pro odebrání firemních dat ze zařízení a teď je zaseknutá v čekajícím stavu.
 
-A: aby byla úspěšná vzdálená akce, musí být cílové zařízení online a v pořádku. V následujících situacích zůstane vzdálená akce v nevyřízeném stavu po dobu 30 dnů nebo dokud zařízení nepotvrdí příkaz:
+A: Aby se vzdálená akce úspěšně dokončila, musí být cílové zařízení online a v pořádku. V následujících situacích zůstane vzdálená akce v čekajícím stavu po dobu 30 dnů nebo dokud zařízení tento příkaz nepotvrzí:
 
 - Pokud zařízení nemá připojení
-- Když zařízení ztratí stav správy s Intune
+- Když zařízení ztratí stav správy v Intune
 
-Pokud si myslíte, že zařízení už není v nerezervování, a že nepůjde odebrat data společnosti, vyberte Odstranit. Odstraněním odeberete záznam zařízení, aby se už nezobrazoval v seznamu zařízení v Intune. Pokud se zařízení opět stane aktivní, bude ho muset uživatel znovu zaregistrovat.
+Pokud si myslíte, že se už zařízení neschová a že nebude moct data společnosti odebrat, vyberte Odstranit. Odstraněním odeberete záznam zařízení, aby se už v seznamu zařízení Intune nezobrazí. Pokud se zařízení znovu stane aktivním, bude ho muset uživatel znovu zaregistrovat.
 
-Otázka: Proč nejsou některé vzdálené akce pro mě k dispozici?
+Otázka: Proč nejsou některé vzdálené akce pro mě dostupné?
 
-A: ne všechny platformy podporují všechny akce vzdálených zařízení. Následující vzdálené akce jsou závislé na platformě, takže jsou k dispozici pouze pro uvedené platformy.
+A: Všechny akce vzdáleného zařízení nepodporují všechny platformy. Následující vzdálené akce jsou specifické pro platformu, takže jsou dostupné jenom pro platformy.
 
-- Vynechat zámek aktivace (jenom iOS)
-- Nové spuštění (jenom Windows)
-- Ztracené zobrazení (jenom iOS)
-- Vyhledání zařízení (jenom iOS)
-- Restartovat (jenom Windows)
+- Obejití zámku aktivace (jenom v systému iOS)
+- Fresh Start (pouze Windows)
+- Režim ztráty (jenom v iOSu)
+- Vyhledání zařízení (jenom v iOSu)
+- Restartování (jenom Windows)
 
-Další podrobnosti o jednotlivých akcích najdete v tématu [Dostupné akce zařízení](https://docs.microsoft.com/intune/device-management#available-device-actions).
+Další informace o jednotlivých akcích najdete v tématu [Dostupné akce zařízení](https://docs.microsoft.com/intune/device-management#available-device-actions).

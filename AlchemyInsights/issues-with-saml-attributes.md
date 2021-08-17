@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7838"
-ms.openlocfilehash: a0bff21ccac29c7e0ae8369a5a8dc0ba9685cb63
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: d02dd5d019cc68b49b019dee2928924deca181a87e3d5c5f5e7689a8eb5664e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884952"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042875"
 ---
 # <a name="issues-with-saml-attributes"></a>Problémy s atributy SAML
 
-1. Podle pokynů v [tomto článku](https://docs.microsoft.com/answers/questions/99054/how-to-use-custom-attributes-in-saml-response.html) se naučíte používat vlastní atributy v odpovědi SAML.
-2. [Zkontrolujte hodnoty schváleného atributu, které lze načíst v případě deklarací](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping#table-3-valid-id-values-per-source) pro platné hodnoty ID na zdroj.
+1. Postupujte podle pokynů v tomto článku a pochopte, jak používat vlastní atributy v odpovědi SAML. [](https://docs.microsoft.com/answers/questions/99054/how-to-use-custom-attributes-in-saml-response.html)
+2. [Zkontrolujte hodnoty schválených atributů, které je](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping#table-3-valid-id-values-per-source) možné načíst pro deklarace identity a zjistit platné hodnoty ID na zdroj.

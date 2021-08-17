@@ -1,5 +1,5 @@
 ---
-title: Zásady uchovávání informací v Centru pro správu Exchange nefungují
+title: Zásady uchovávání informací v Exchange Admin Center nefungují
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074925"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Zásady uchovávání informací v Centru pro správu Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Zásady uchovávání informací v Exchange Admin Center
 
 Pokud chcete, abychom spouštěli automatické kontroly nastavení uvedených níže, vyberte tlačítko Zpět <– v horní části této stránky a potom zadejte e-mailovou adresu uživatele, který má problémy se zásadami uchovávání informací.
 
-Pokud máte problémy se zásadami uchovávání informací v Centru pro správu Exchange, které se neakusují u poštovních schránek nebo položek, které se do archivační poštovní schránky přesouvá, zkontrolujte toto:
+Pokud máte problémy se zásadami uchovávání informací v Centru pro správu Exchange se na poštovní schránky nebo položky, které se do archivační poštovní schránky přesouvá, podívejte se na toto:
 
 **Hlavní příčiny:**
 
@@ -38,7 +38,7 @@ Pokud máte problémy se zásadami uchovávání informací v Centru pro správu
  
 **Poznámka:** Pokud je poštovní schránka menší než 10 MB, Pomocník pro spravované složky poštovní schránku automaticky nezpracuje.
  
-Další informace o zásadách uchovávání informací v Centru pro správu Exchange najdete v tématu:
+Další informace o zásadách uchovávání informací v Centru Exchange najdete v tématu:
 
 - [Značky uchovávání informací a zásady uchovávání informací](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 
