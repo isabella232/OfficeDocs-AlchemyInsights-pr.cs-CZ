@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: fe0bd47e034d70fb42a4eb703f97a2e0757ae4618f601232f385346954389f86
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0c5d6a1b95793d65fc95f13be9922ca56249892c60c2cbe7bbcbc962f25f7d07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078759"
 ---
 # <a name="configure-multifactor-authentication"></a>Konfigurace vícefaktorového ověřování
 
-Informace o konfiguraci vícefaktorového ověřování najdete v tématu Nastavení vícefaktorového [ověřování](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) nebo Centrum pro správu Microsoftu 365 [průvodce nastavením.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide)
+Informace o konfiguraci [](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) vícefaktorového ověřování najdete v tématu Nastavení vícefaktorového ověřování nebo [Centrum pro správu Microsoftu 365 průvodce nastavením.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide)
 
 **Poznámka:** K povolení a konfiguraci MFA musíte být globální správce.
