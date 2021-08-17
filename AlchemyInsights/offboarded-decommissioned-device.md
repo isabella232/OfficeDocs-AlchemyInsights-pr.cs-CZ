@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 46ac46c583cd0ac956797737d8150277f0d79ba5
-ms.sourcegitcommit: c685f197dbf83a9dfd85e9acfdf14a4daf0e9a5a
+ms.openlocfilehash: 814301e9cd8197e62dcca68ab3bdde1618d210f73a744b53bb5af7b861eb02bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52564078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54076636"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Problémy s odebráním offboarded nebo vyřazené zařízení z inventáře zařízení
 
