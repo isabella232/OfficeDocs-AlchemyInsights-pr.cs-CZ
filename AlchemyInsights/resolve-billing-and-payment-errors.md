@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: 1c126a088b79bc8ad415a5679e18d4da3fde8b15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5853ffad9ce1f19d2cbbf107b83ae485512ec539328fc609b507e41e1a22c9e2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830690"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110457"
 ---
 # <a name="resolving-billing-and-payment-errors"></a>Řešení chyb fakturace a plateb
 
