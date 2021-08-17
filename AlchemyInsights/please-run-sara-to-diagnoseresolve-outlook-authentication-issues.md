@@ -1,5 +1,5 @@
 ---
-title: 182 pro diagnostiku a vyřešení problémů s ověřováním Outlooku spusťte příkaz SaRA.
+title: 182 Spusťte prosím SaRA diagnostikovat a vyřešit problémy Outlook ověřování.
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "182"
 - "1800012"
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: aa1e831eac829f3bd35f34e2fbe34923c5af0d3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 461424e2c5726deb3a63e6588d1043278d4835e4b2d891e9a5413d54bc445a72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802014"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040685"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Použití nástroje SaRA k diagnostice a řešení problémů s ověřováním v Outlooku
 
-**Poznámka**: Zkontrolujte, jestli je ve vaší organizaci povolené [výchozí nastavení zabezpečení](https://aka.ms/securitydefaults) . Pokud byl váš tenant vytvořen po 21. října 2019 a vaše Outlook vás opakovaně žádá o zadání hesla, můžete mít ve vašem tenantovi povolené **výchozí nastavení zabezpečení** .
+**Poznámka:** Zkontrolujte prosím, jestli je [pro](https://aka.ms/securitydefaults) vaši organizaci povolené výchozí nastavení zabezpečení. Pokud byl váš tenant vytvořen po 21. říjnu 2019 a váš Outlook vás  opakovaně žádá o heslo, můžete mít ve svém tenantovi povolené výchozí nastavení zabezpečení.
 
-Důrazně doporučujeme, abyste v případě, že Outlook průběžně vyzývá k zadání hesla, zaznamenali v počítači chybu Diagnostika [svého hesla](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) . Tento [diagnostický](https://diagnostics.office.com/#/) Nástroj pro diagnostiku provádí automatizované kontroly a vrací možná řešení, která umožňují řešit všechny zjištěné problémy.
+Důrazně doporučujeme, abyste v [Outlook](https://aka.ms/SaRA-OutlookPwdPrompt-Alchemy) zařízení pořád žádali o diagnostiku hesel na příslušném počítači, aby se řešly problémy, Outlook se neustále vyzývat k zadání hesla. Tato [SaRA](https://diagnostics.office.com/#/) diagnostika automaticky kontroluje a vrací možná řešení, která můžete použít k řešení zjištěných problémů.

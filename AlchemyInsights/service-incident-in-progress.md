@@ -1,5 +1,5 @@
 ---
-title: Probíhající incident služby
+title: Probíhající servisní incident
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: 344507c74530f6f7b91fad68025554d0c6a6a004
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0f2722720060490fa544de42e87c05f230fa09bc01a05623f6d985f1f058042
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074241"
 ---
-# <a name="service-incident-in-progress"></a>Probíhající incident služby
+# <a name="service-incident-in-progress"></a>Probíhající servisní incident
 
-Může to být ovlivněno incidentem nebo zpravodajem, který je právě zkoumán. Nejnovější stav můžete zkontrolovat na stránce [stav služby](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Může vás ovlivnit incident služby nebo doporučení, které se momentálně prošetřuje. Nejnovější stav můžete zkontrolovat tak, že na stránce [Stav](https://admin.microsoft.com/adminportal/home#/servicehealth) služby.
   
-Pro účely vaší pohodlí najdete shrnutí tohoto incidentu níže:
+Pro vaše pohodlí najdete shrnutí tohoto incidentu níže:
   
 > **Číslo incidentu:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
 
