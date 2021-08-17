@@ -14,19 +14,19 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 62f97141af5be683ab2727add01364aa44c5193e493a681f32acd208f7197825
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310924"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895700"
 ---
 # <a name="payment-faq"></a>Časté otázky k platbám
 
 Správa plateb v **Centrum pro správu Microsoftu 365**.
 
 - Přejděte na **Fakturační > Vaše produkty [a](https://go.microsoft.com/fwlink/p/?linkid=842054)** přiřaďte nebo změňte způsoby platby předplatného.
-- Přejděte na **Fakturační > Způsoby platby [a](https://go.microsoft.com/fwlink/p/?linkid=2018806)** přidejte, aktualizujte, nahraďte nebo odstraňte platební metody.
+- Pokud chcete přidat, aktualizovat, nahradit nebo odstranit **způsoby [platby,](https://go.microsoft.com/fwlink/p/?linkid=2018806)** přejděte na Fakturační > způsoby platby.
 
 - **Způsoby platby** – Pokud platíte kartou nebo z bankovního účtu, platba přidružená k vašemu předplatnému se strhne během několika dní po vytvoření faktury. Pokud se platba nepodaří, aktualizujte způsob platby. Další informace najdete v tématu [Správa způsobů platby](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 

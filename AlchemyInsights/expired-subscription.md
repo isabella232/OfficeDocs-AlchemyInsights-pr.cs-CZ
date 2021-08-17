@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029725"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895880"
 ---
 # <a name="expired-subscription"></a>Vypršela platnost předplatného
 
@@ -35,7 +35,7 @@ Zdá se, že máte jedno nebo více předplatných s ukončenou platností. Poku
 3. V podokně **Znovu aktivovat toto** předplatné vyberte v rozevíracím seznamu způsob platby nebo vyberte Přidat způsob **platby**.
 4. Vyberte **Uložit**.
 
-Další informace najdete v článku [Opětovná aktivace předplatného](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Vytvoření nového nákupu**
   
@@ -44,4 +44,4 @@ Další informace najdete v článku [Opětovná aktivace předplatného](/micro
 3. Zadejte požadovaný počet licencí a zvolte, jestli chcete platit každý měsíc nebo jednou za celý rok. Zvolte, jestli chcete automaticky přiřadit licence všem, kteří aktuálně licenci nemají. Pak zvolte **Rezervovat hned**.
 4. Podle zbývajících kroků dokončete check-out.
 
-Další informace najdete v tématu [Zakoupení dalšího předplatného](/microsoft-365/commerce/buy-another-subscription).
+Další informace najdete v tématu [Zakoupení dalšího předplatného](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

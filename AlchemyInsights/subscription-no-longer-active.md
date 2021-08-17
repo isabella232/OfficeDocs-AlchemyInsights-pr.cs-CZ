@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: a6ffa3a8bbed64194620ae82edf149be91efc42b0e34ed6a05f7ca03478a8697
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea911e83d9b4cb21ae72187a69f89e491b7131a87eafb37dbc53e31e0ab9ee10
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909675"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890391"
 ---
 # <a name="subscription-no-longer-active"></a>Předplatné už není aktivní
 
@@ -32,4 +32,4 @@ Pokud se [při](https://support.microsoft.com/office/a-subscription-notice-appea
 3. V podokně **Znovu aktivovat toto** předplatné vyberte v rozevíracím seznamu způsob platby nebo vyberte Přidat způsob **platby**.
 4. Vyberte **Uložit**.
 
-Další informace najdete v článku [Opětovná aktivace předplatného](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

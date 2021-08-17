@@ -1,5 +1,5 @@
 ---
-title: 726 blokování přeposlání e-mailu
+title: 726 Blokování přeposílání e-mailů
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059625"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blokování nebo zrušení blokování přeposílání e-mailů
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blokování nebo odblokování přeposílání e-mailů
 
-Informace o povolení nebo zakázání předávání [e-](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)mailů pro konkrétní poštovní schránku
+Pokud chcete povolit nebo zakázat přeposílání e-mailů pro určitou poštovní schránku, podívejte se na informace v [tématu Konfigurace přesměrování e-mailů.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Na úrovni tenanta je kontrola externího předávání dokončena pomocí zásad odchozích spamů. Zásady odchozí nevyžádané pošty v centru zabezpečení a dodržování předpisů můžete zkontrolovat [tady](https://protection.office.com/antispam) nebo pomocí [příkazu Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Na úrovni tenanta se řízení externího přeposílání provádí pomocí zásad odchozích spamů. Zásady filtru odchozích spamů můžete zkontrolovat [](https://protection.office.com/antispam) tady v Centru zabezpečení a dodržování předpisů nebo pomocí příkazu [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
-Pokud se zobrazí tato chybová zpráva: **"550 5.7.520 Access denied, vaše organizace neumožňuje externí předávání"**, ujistěte se, že je zásada nakonfigurovaná tak, aby umožňovala externí Automatický přesun.
+Pokud se zobrazí následující chybová zpráva: **"550 5.7.520 Access denied, Your organization does not allow external forwarding" (550 5.7.520 Access denied, Your organization does not allow external forwarding) (550 5.7.520 Access denied, Your organization does not allow external forwarding" (550 5.7.520 Access denied, Your organization does not allow external forwarding) (550 5.7.520 Access denied, Your organization does not allow external forwarding" (550 5.7**
 
-**Poznámka:** Doporučujeme, aby byl externí Automatický přepočet vypnutý ve výchozích zásadách odchozích e-mailových filtrů nevyžádané pošty, a povolit ho jenom pro uživatele, kteří potřebují externí předávání, a to tak, že si pro tyto uživatele vytvoří vlastní zásadu. Další informace najdete v článku [konfigurace předávání externích e-mailů v Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Poznámka:** U výchozích zásad filtru odchozích spamů se doporučuje zakázat externí automatické přeposílání a povolit ho jenom uživatelům, kteří potřebují externí přeposílání, a to tak, že pro tyto uživatele vytvoříte vlastní zásadu. Další informace najdete v tématu [Konfigurace externího přeposílání e-mailů v Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

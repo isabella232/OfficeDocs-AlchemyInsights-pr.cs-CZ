@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 49fedc0d829d4972f15e9266e7a5519acfbd3eda78bd7f022477060523b9afd3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5b524fa0731d499bdea831b7f5363996b2f165f58e40717c3ca8a22dc264397
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979486"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890699"
 ---
 # <a name="cant-find-the-teams-meeting-recording"></a>Nemůžu najít záznam Teams schůzky.
 
-Pokud nemůžete najít nebo najít záznam Teams schůzky, spusťte nejdřív spuštění nástroje Diagnostika chybějícího záznamu schůzky zadáním příkazu **Diag:** Chybějící záznam do výše uvedeného pole. 
+Pokud nemůžete najít nebo najít záznam Teams schůzky, spusťte nejdřív spuštění nástroje Diagnostika chybějícího záznamu schůzky zadáním **Diag:** Chybějící záznam do výše uvedeného pole. 
 
 Nahrávky se nacházejí v streamu, OneDrive nebo SharePoint podle toho, jak je váš tenant nakonfigurovaný a jestli byl záznam pro schůzku v kanálu. Pokyny, jak ručně najít záznam schůzky, najdete v těchto článku: 
 
-[Problém 2: Odkaz na záznam schůzky není v okně chatu viditelný.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
+[Problém 2: Odkaz na záznam schůzky není v okně chatu viditelný.](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-Další informace najdete v tématu [Problémy s nahráváním schůzky](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).
+Další informace najdete v tématu [Problémy s nahráváním schůzky](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).

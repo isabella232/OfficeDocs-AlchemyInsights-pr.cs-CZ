@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001473"
 - "3501"
-ms.openlocfilehash: e741b99dcc01aaabce001c8b8fe45161a1d3badd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 61b52b3ff64ddd0b41551561b3917bbe23cbe0d4ba3209b90f9079bef2c18225
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055439"
 ---
 # <a name="install-windows-on-a-nonfunctional-pc"></a>Instalace Windows na nefunkční počítač
 

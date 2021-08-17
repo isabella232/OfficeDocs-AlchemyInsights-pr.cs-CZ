@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296044"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895972"
 ---
 # <a name="release-quarantined-messages"></a>Uvolnění zpráv v karanténě
 
@@ -27,7 +27,7 @@ Zprávu v karanténě (nebo sadu zpráv) můžete uvolnit všem příjemcům neb
 
    Pokud chcete přejít přímo na **stránku Karanténa,** použijte <https://security.microsoft.com/quarantine> .
 
-2. Na stránce **Karanténa** ověřte, že **je** vybraná karta e-mailu, a pak proveďte jeden z následujících kroků:
+2. Na stránce **Karanténa** ověřte, jestli **je** vybraná karta e-mailu, a pak proveďte jeden z následujících kroků:
    - **Jedna zpráva:** Vyberte zprávu. V plovoucím seznamu podrobností, který se zobrazí, vyberte **Uvolnit e-mail,** nakonfigurujte požadované možnosti a potom klikněte na Zpráva o **vydání.**
    - **Více zpráv:** Výběrem až 100 zpráv zprávu uvolníte všem příjemcům (nemůžete zadat jednotlivé původní příjemce). V **rozevíracím seznamu Hromadné** akce, který se zobrazí, vyberte Uvolnit zprávy **,** nakonfigurujte požadované možnosti a potom klikněte na Zpráva **o vydání**.
 
