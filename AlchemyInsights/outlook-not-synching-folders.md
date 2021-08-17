@@ -1,5 +1,5 @@
 ---
-title: Outlook nesynchronizuje složky
+title: Outlook nesdružuje složky
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111213"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook nesynchronizuje složky
+# <a name="outlook-not-synching-folders"></a>Outlook nesdružuje složky
 
-Pokud Outlook nesynchronizuje složky podle očekávání, můžete se pokusit o jejich opravu.
+Pokud Outlook složky nesdružuje očekávaným způsobem, můžete to zkusit vyřešit některými věcmi.
 
-1. Snižte počet složek v primární nebo sdílené poštovní schránce. [Podívejte se na problémy s výkonem Outlooku, když je v režimu offline nebo ve složce s mezipamětí příliš mnoho položek nebo složek](https://support.microsoft.com/help/2768656).
-2. Zakáže ukládání do mezipaměti všech sdílených složek.
-3. Změňte konfiguraci sekundární poštovní schránky Exchange na druhý účet Exchange ve svém profilu.
+1. Snižte počet složek v primární nebo sdílené poštovní schránce. [Problémy Outlook výkonu najdete v případě,](https://support.microsoft.com/help/2768656)že je ve složce souborů .ost nebo .pst v režimu mezipaměti příliš mnoho položek nebo složek.
+2. Zakažte ukládání všech sdílených složek do mezipaměti.
+3. Změňte konfiguraci sekundární poštovní schránky Exchange na druhý účet Exchange vašem profilu.
 
-Další informace najdete v článku [problémy týkající se výkonu a synchronizace při práci se složkami v sekundární poštovní schránce v Outlooku](https://support.microsoft.com/help/3115602).
+Další informace najdete v tématu [Problémy s výkonem a](https://support.microsoft.com/help/3115602)synchronizací při práci se složkami v sekundární poštovní schránce v Outlook .

@@ -1,5 +1,5 @@
 ---
-title: Replikační sada
+title: Sada replik
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004395"
 - "8265"
 - "9276"
-ms.openlocfilehash: 3834696ff59b7e96e90a5b660a489003dfa9729c
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 45cf530c3258fa3c7008c3e8251fdb7b74be6911d0487f58c5ce2530e25ca282
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50713496"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110673"
 ---
-# <a name="replica-set"></a>Replikační sada
+# <a name="replica-set"></a>Sada replik
 
-AADDS se taky nazývá spravovaná doména. Ve skutečnosti jde o dva řadiče domény, které provozuje a udržuje back-end. Tyto dvě počítače DCs zahrnují jednu hlavní dc a jednu replikační dc. Zálohy ve službě AADDS (spravovaná doména) jsou automatizovaný proces spravovaný platformou Azure. V případě problému se spravovanou doménou vám může pomoct podpora Azure při obnovování ze zálohy.
+AADDS se taky nazývá spravovaná doména. Jsou to vlastně dva řadiče domény, které back-end spouštěl a udržoval. Tyto dva řadiče domény zahrnují jeden hlavní řadič domény a jeden replikační řadič domény. Zálohy v AADDS (spravovaná doména) jsou automatizovaný proces spravovaný platformou Azure. V případě problému se spravovanou doménou vám může pomoct podpora Azure při obnovování ze zálohy.
 
-Každou sadu replik vytvoříte ve virtuální síti. Každá virtuální síť se musí vzájemně na partnerský vztah používat ke každé jiné virtuální síti, která hostuje replikační sadu spravované domény. Tato konfigurace vytvoří topologii sítě, která podporuje replikaci adresářů. Virtuální síť může podporovat několik sad replik za předpokladu, že je každá sada replik v jiné virtuální podsíti.
+Každou sadu replik vytvoříte ve virtuální síti. Každá virtuální síť musí být ve vzájemném vztahu ke každé jiné virtuální síti, která je hostitelem sady replik spravované domény. Tato konfigurace vytvoří síťovou topologii, která podporuje replikaci adresářů. Virtuální síť může podporovat více sad replik za předpokladu, že každá sada replik je v jiné virtuální podsíti.
 
-Další podrobnosti o sadě replik najdete v tématu Sady replik [konceptů.](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets)
+Další podrobnosti o sadě replik najdete v tématu [Sady replik konceptů](https://docs.microsoft.com/azure/active-directory-domain-services/concepts-replica-sets).

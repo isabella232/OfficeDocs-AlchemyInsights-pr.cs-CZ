@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 1fcddb1252e268471af19375f74547a19fafd210
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 9acb8cc687b7ff4bedaad6c30a9830efbb65d9199a794d844fe040628451ef8c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403196"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894320"
 ---
 # <a name="more-resources-on-alert-policies"></a>Další zdroje informací o zásadách upozornění
 
 Další informace najdete v následujícím článku:
 
-[Zásady upozornění v Centru & dodržování předpisů](https://go.microsoft.com/fwlink/?linkid=2103211)
+[Zásady upozornění v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0f1b451c69667db3a581e84b84864458e179b2c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889307"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314269"
 ---
 # <a name="activate-your-subscription"></a>Aktivujte si předplatné
 
@@ -25,7 +25,7 @@ ms.locfileid: "57889307"
 
 - Pokud chcete uživatelům poskytnout přístup ke službě, přiřaďte jim licenci. Postup najdete v tématu [Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Pokud už máte přiřazenou licenci, můžete aplikace, které si můžete stáhnout, najít na stránce [Můj účet](https://portal.office.com/account/#installs). Na této stránce najdete seznam aplikací, které si můžete na základě přiřazených licencí stáhnout.
-- Pokud jste si už stáhli Office aplikace, budete se možná muset k aplikacím přihlásit pomocí pracovního nebo školního účtu. Můžete to udělat v libovolné Office (Word, Excel atd.) tak, že vyberete Soubor > **účet** (dole). V části Informace o uživateli vyberte **Přepnout účet**. Další informace najdete v tématu věnovaném [instalaci aplikací Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Pokud jste si už stáhli Office aplikace, budete se možná muset k aplikacím přihlásit pomocí pracovního nebo školního účtu. Můžete to udělat v libovolné Office (Word, Excel atd.) tak, že vyberete Soubor > **Účet** (v dolní části). V části Informace o uživateli vyberte **Přepnout účet**. Další informace najdete v tématu věnovaném [instalaci aplikací Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Opětovná aktivace předplatného**
 

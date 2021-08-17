@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948948"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894388"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Prošetřování phishingu, spamu nebo nesprávně filtrovaných e-mailů
 
 Pomocí Průzkumníka odeslání odešlete zprávu Microsoftu. Získáte okamžitou zpětnou vazbu k filtrování zpráv a k tomu, proč k problému došlo. Tady je souhrn kroků:
 
-1. Přejděte do [Centra Office 365 zabezpečení &](https://go.microsoft.com/fwlink/p/?linkid=2077143)dodržování předpisů , vyberte Odeslání správy hrozeb a pak vyberte   >   **+Nové odeslání.**
-2. Zadejte podrobnosti v **plovoucím okně Nové odeslání.**
-3. Informujte uživatele, že by měli hlásit podezřelé [e-maily](https://go.microsoft.com/fwlink/?linkid=2092385) microsoftu, a že doplněk Zpráva o sestavě je nástroj, který by měli používat k tomuto účelu.
+1. Na portálu Microsoft 365 Defender na <https://security.microsoft.com> webu přejděte na **Odeslání e-mailu &** \> **spolupráci.**
+
+   Pokud chcete přejít přímo na **stránku Odeslání,** použijte <https://security.microsoft.com/reportsubmission> .
+
+2. Na stránce **Odeslání ověřte,** že **je** vybraná karta Odesláno k analýze, a potom klikněte na + Odeslat do **Microsoftu pro analýzu**.
+
+3. Zobrazí se plovoucí seznam s možností odeslání e-mailu, adresy URL nebo souboru. Další informace najdete v článku Odeslání správce k odeslání podezřelého [spamu, phish, adres URL a souborů do Microsoftu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+4. Informujte uživatele, že by měli nahlásit podezřelé zprávy ve složce Doručená pošta pomocí doplňku Zpráva o sestavě nebo doplňku Nahlásit [útok phishing.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

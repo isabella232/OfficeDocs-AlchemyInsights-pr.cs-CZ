@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889375"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314305"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivace nebo opětovná aktivace předplatného
 
@@ -27,7 +27,7 @@ ms.locfileid: "57889375"
 
 - Pokud chcete uživatelům poskytnout přístup ke službě, přiřaďte jim licenci. Postup najdete v tématu [Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Pokud už máte přiřazenou licenci, můžete aplikace, které si můžete stáhnout, najít na stránce [Můj účet](https://portal.office.com/account/#installs). Tato stránka obsahuje seznam aplikací, které si můžete stáhnout na základě přiřazených licencí.
-- Pokud jste si už stáhli Office aplikace, budete se možná muset přihlásit k aplikacím pomocí pracovního nebo školního účtu. Můžete to udělat v libovolné Office (Word, Excel atd.) kliknutím na Soubor  >  **Office účet** (dole). V **části Informace o uživateli** vyberte **Přepnout účet**. Další informace najdete v tématu [Instalace Office aplikací](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Pokud jste si už stáhli Office aplikace, budete se možná muset přihlásit k aplikacím pomocí pracovního nebo školního účtu. Můžete to udělat v libovolné Office (Word, Excel atd.) kliknutím na Soubor  >  **Office účet** (v dolní části). V **části Informace o uživateli** vyberte **Přepnout účet**. Další informace najdete v tématu [Instalace Office aplikací](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Opětovná aktivace předplatného**
 
@@ -36,8 +36,9 @@ Pokud platnost vašeho předplatného vyprší, microsoft ho zakázal nebo jste 
 1. V Centru pro správu přejděte na stránku **Fakturace**  >  [vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
 2. Na kartě **Produkty** najděte předplatné, které chcete znovu aktivovat.
 3. Vyberte tři tečky (další akce) a pak vyberte **Znovu aktivovat toto předplatné.**
-    > [!IMPORTANT]
-    > Pokud nevidíte možnost Znovu **aktivovat** toto předplatné jako dostupnou [akci,](https://go.microsoft.com/fwlink/p/?linkid=518322) zavolejte na podporu a znovu aktivujte předplatné.
+
+    **Důležité:** Pokud nevidíte  možnost Znovu aktivovat toto předplatné jako dostupnou [akci,](https://go.microsoft.com/fwlink/p/?linkid=518322) zavolejte na podporu a znovu aktivujte předplatné.
+
 4. V podokně **Znovu aktivovat toto předplatné** vyberte existující způsob platby nebo vyberte Přidat způsob **platby**.
 5. Vyberte **Znovu aktivovat**.
 

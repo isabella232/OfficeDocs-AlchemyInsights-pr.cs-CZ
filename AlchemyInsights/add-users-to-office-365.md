@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: 4c3bdd6ff2428be9c0b8f5d39934d44c76a26d97da2eabf5b74bc528a6db5b1c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 96b6ed46dabe665b51cc06d480e6ab9096229558
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890803"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314025"
 ---
 # <a name="add-a-user"></a>Přidání uživatele
 

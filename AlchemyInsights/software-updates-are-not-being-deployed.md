@@ -1,5 +1,5 @@
 ---
-title: Aktualizace softwaru se nesazují
+title: Nenasazujete aktualizace softwaru
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bc1832dcfbd885f01c88c632f6cf2bad61363900e11ce0e00f99a7a2dcd9f3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084519"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Aktualizace softwaru se nesazují
+# <a name="software-updates-are-not-being-deployed"></a>Nenasazujete aktualizace softwaru
 
-Pokud jste nakonfigurovali aktualizace softwaru prostřednictvím vyzvánění aktualizací Windows 10, ale aktualizace se nasazují, zkuste toto:  
+Pokud jste nakonfigurovali aktualizace softwaru prostřednictvím Windows 10 aktualizačního okruhu, ale aktualizace se nenasadí, zkuste toto:  
 
-- Zvažte změnu služby Windows Servicing z  **víceletého**  typu verze na přísnější, častější typ verze.
-- Zkontrolujte období časově rozlišených položek pro  **aktualizaci**  a  **aktualizaci funkcí**. Období časově rozlišených položek může vést k zpoždění aktualizací až na 180 dní.
+- Zvažte Windows z typu verze půlročního **kanálu** na přísnější a častěji vypouštěcí typ.
+- Zkontrolujte časové období pro **aktualizace pro zvýšení kvality**  a  **aktualizace funkcí**. Doba odkladu může vést ke zpoždění aktualizací až po dobu 180 dnů.
