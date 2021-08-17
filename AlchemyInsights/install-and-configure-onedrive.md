@@ -1,5 +1,5 @@
 ---
-title: Instalace a konfigurace OneDrivu
+title: Instalace a konfigurace OneDrive
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -14,21 +14,21 @@ ms.custom:
 - "845"
 - "5800002"
 ms.assetid: 242bf619-d235-49de-88a3-9f6173c542d1
-ms.openlocfilehash: c36cc3e32d158198f233aeb791e145d961b9af5b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e69ea8b7f99db8dcabb13aca2c9e1c69cb9f3758839a3fa28f0b0b9a5b6a534c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49609504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078111"
 ---
-# <a name="install-and-configure-onedrive"></a>Instalace a konfigurace OneDrivu
+# <a name="install-and-configure-onedrive"></a>Instalace a konfigurace OneDrive
 
-Synchronizační klient OneDrivu je předinstalovaný ve Windows 10. Pokud chcete nainstalovat OneDrive pro Windows 7 nebo Mac nebo mobilní aplikaci pro telefon nebo tablet, přejděte na [https://onedrive.com/download](https://onedrive.com/download) .
+Klient synchronizační aplikace OneDrivu je předinstalovaný s Windows 10. Pokud chcete OneDrive pro Windows 7 nebo Mac nebo získat mobilní aplikaci pro telefon nebo tablet, přejděte na [https://onedrive.com/download](https://onedrive.com/download) .
   
-Informace o nastavení synchronizačního klienta OneDrivu ve Windows najdete v těchto tématech:
+Informace o nastavení klienta synchronizační aplikace OneDrivu v Windows najdete v tématu:
   
-- [Příručka pro nastavení OneDrivu](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) , která umožňuje začít pracovat s úložištěm, sdílením, spoluprací a možnostmi synchronizace souborů OneDrivu.
+- [OneDrive průvodce, abyste](https://admin.microsoft.com/adminportal/home#/modernonboarding/onedrivequickstartguide) začali pracovat s OneDrive, sdílením, spoluprací a možnostmi synchronizace.
 
-- [Nastavení počítače na synchronizaci souborů z OneDrivu pro firmy](https://go.microsoft.com/fwlink/?linkid=533375)
+- [Nastavení počítače pro synchronizaci OneDrive pro firmy souborů](https://go.microsoft.com/fwlink/?linkid=533375)
 
 - [Synchronizace sharepointových souborů pomocí nového synchronizačního klienta OneDrivu](https://go.microsoft.com/fwlink/?linkid=871666)

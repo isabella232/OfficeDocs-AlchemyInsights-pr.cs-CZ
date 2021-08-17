@@ -1,5 +1,5 @@
 ---
-title: Začínáme s Windows
+title: Windows Fresh Start
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1280"
 - "6700008"
-ms.openlocfilehash: 220f42d3005cdef272ed3e74a1101a52a9b47a8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e72728c1fb5f79a67c13e5f66c8fa3a2094299be3fa721dd043e549fe0dff278
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698927"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047285"
 ---
-# <a name="windows-fresh-start"></a>Začínáme s Windows
+# <a name="windows-fresh-start"></a>Windows Fresh Start
 
-Akce zařízení pro rychlý Start v systému Windows nabízí alternativní možnosti pro vymazání a vyřazení zařízení a možnost zachovat stav registrace zařízení spolu s aplikacemi a nastaveními domovské složky uživatele.
+Windows Akce zařízení Fresh Start nabízí alternativu k akcím Vymazání zařízení a Vyřazení zařízení spolu s možností zachovat stav registrace zařízení spolu s aplikacemi a nastaveními domovské složky uživatelů.
 
-Další informace najdete v článku [použití nástroje čerstvý Start k obnovení zařízení s Windows 10 pomocí Intune](https://docs.microsoft.com/intune/device-fresh-start).
+Další informace najdete v článku Obnovení [továrního](https://docs.microsoft.com/intune/device-fresh-start)nastavení Windows 10 v Intune.

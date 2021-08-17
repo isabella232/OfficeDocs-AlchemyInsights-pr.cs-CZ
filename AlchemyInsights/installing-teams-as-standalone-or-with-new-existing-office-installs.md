@@ -1,5 +1,5 @@
 ---
-title: Instalace Teams jako samostatné nebo s novými nebo stávajícími instalacemi Office
+title: Instalace Teams jako samostatné nebo s novými nebo stávajícími Office instalacemi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: f3fb8c1430a54024c5cb00f2e002e4702d15e33c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6409ce42a79e7c329f21594e7afa409e8776df8ba6159c6592a4be2bfa648261
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831907"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078003"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Instalace Teams jako samostatné nebo s novými nebo stávajícími instalacemi Office
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Instalace Teams jako samostatné nebo s novými nebo stávajícími Office instalacemi
 
-Microsoft Teams je součástí  nových instalací aplikací Microsoft 365 pro podniky, aplikací Microsoft 365 pro firmy a Office pro Mac. Další informace najdete v článku [Kdy bude Microsoft Teams zahrnutý do nových instalací Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams je součástí nových instalací  Microsoft 365 Apps pro velké organizace, Microsoft 365 Apps pro firmy a Office pro Mac. Další informace najdete v článku Kdy Microsoft Teams začít do nových instalací [Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Počínaje verzí 1906 v aktuálním kanálu  se teams při aktualizaci stávající instalace Microsoft 365 Apps pro podniky (a Microsoft 365 Apps pro firmy) na zařízeních s Windows při aktualizaci stávající instalace na nejnovější verzi přidá do stávajících instalací. Další informace najdete v tématu [Co existující instalace Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Od verze 1906 v aktuálním kanálu se Teams  přidá do stávajících instalací Microsoft 365 Apps pro velké organizace (a Microsoft 365 Apps pro firmy) na zařízeních s Windows při aktualizaci stávající instalace na nejnovější verzi. Další informace najdete v tématu [Co existující instalace Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-Aplikaci Teams můžete nasadit jako samostatnou pro uživatele podle těchto pokynů [nebo](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)si můžete nastavit, aby si uživatelé instalovali Teams sami od https://teams.microsoft.com/downloads uživatele .
+Můžete nasadit Teams jako samostatný pro uživatele podle těchto pokynů [nebo](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)můžete nastavit, aby si uživatelé Teams sami od https://teams.microsoft.com/downloads uživatele .
 
-Po instalaci Teams se [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) automaticky aktualizuje přibližně každé dva týdny novými funkcemi a aktualizacemi kvality. 
+Po Teams se automaticky aktualizuje přibližně každé dva týdny novými funkcemi a aktualizacemi kvality. [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) 
 

@@ -1,5 +1,5 @@
 ---
-title: Indikátor stavu zobrazení v Teams zobrazuje nesprávný nebo nevyžádaný stav
+title: Teams stavu zobrazuje nesprávný nebo nežádoucí stav.
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003301"
 - "6205"
-ms.openlocfilehash: ee870e4b47da5bf1fbe4bc9248fc3e36273c2c87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e30545b995b198d3b12a71d0f68259c9cdf977d304d4d6f11ce360f53daf1fae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106466"
 ---
-# <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Indikátor stavu zobrazení v Teams zobrazuje nesprávný nebo nevyžádaný stav
+# <a name="teams-presence-indicator-shows-incorrect-or-unwanted-status"></a>Teams stavu zobrazuje nesprávný nebo nežádoucí stav.
 
-Týmy automaticky nastaví svůj stav na základě:
+Teams automaticky nastaví váš stav na základě:
 
-- Aktivita v počítači nebo v aplikaci Teams Mobile
-- Nastavení schůzky a automatická odpověď v Outlooku
+- Aktivity na vašem počítači nebo v Teams mobilu.
+- Schůzky a nastavení automatických odpovědí v Outlook.
 
-Další informace najdete v tématu stav [uživatele v Teams](https://docs.microsoft.com/microsoftteams/presence-admins).  
+Další informace najdete v tématu [Stav uživatele v Teams](https://docs.microsoft.com/microsoftteams/presence-admins).  
 
-Stav týmu, který ho přepíše, můžete nastavit tak, že vyberete svůj aktuální stav a vyberete jiný. Podrobnosti najdete v tématu [Změna stavu v aplikaci Teams](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e).
+Můžete ale nastavit stav Teams, který je přepíše tak, že vyberete aktuální stav a zvolíte jiný stav. Podrobnosti najdete v tématu [Změna stavu v Teams](https://support.microsoft.com/office/change-your-status-in-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e).

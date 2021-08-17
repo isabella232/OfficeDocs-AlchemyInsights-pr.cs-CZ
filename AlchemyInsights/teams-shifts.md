@@ -1,5 +1,5 @@
 ---
-title: Směny v Teams
+title: Teams Směny
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750696"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106469"
 ---
-# <a name="using-teams-shifts"></a>Směna pomocí aplikace Teams
+# <a name="using-teams-shifts"></a>Použití Teams směn
 
-Informace o správě aplikací SHIFTS, včetně nastavení směn, povolení směn pro uživatele a Správa aplikací směny, najdete v těchto tématech:
+Informace o správě aplikace Směny, včetně toho, jak nastavit směny, povolit směny pro uživatele a spravovat aplikaci Směny, najdete v těchto článku:
  
-- [Spravujte aplikaci směny pro vaši organizaci v Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Povolte nebo zakažte směny pro určité uživatele ve vaší organizaci](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Aplikace Směny pro vaši organizaci můžete spravovat v Microsoft Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts)
+- [Povolte nebo zakažte směny pro konkrétní uživatele ve vaší organizaci.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Další informace o směnách pro týmy, včetně správy směny, najdete v článku [SHIFT](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Další informace o směnách pro Teams včetně správy plánu směn najdete v článku Směny pro [Teams.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page)
 
-**Platnost byla 30. června 2020**, Microsoft Staffhub je vyřazený. Další informace najdete v tématu [Microsoft StaffHub je vyřazen](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**Od 30. června 2020** je Microsoft Staffhub vyřazený. Další informace najdete v článku [Microsoft StaffHub je vyřazený.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 
