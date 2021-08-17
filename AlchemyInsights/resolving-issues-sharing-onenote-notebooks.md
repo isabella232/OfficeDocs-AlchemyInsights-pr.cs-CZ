@@ -1,5 +1,5 @@
 ---
-title: Řešení problémů se sdílením poznámkových bloků OneNotu
+title: Řešení problémů se sdílením OneNote poznámkových bloků
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "6048"
 - "9000755"
-ms.openlocfilehash: aa0cf8136c3fed80a871480d89349f188bf3d742
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8f1b0ef242d1599ff119c213d72eaed87aba58d96e97309abf18269eddd00e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797793"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110025"
 ---
-# <a name="resolving-issues-sharing-onenote-notebooks"></a>Řešení problémů se sdílením poznámkových bloků OneNotu
+# <a name="resolving-issues-sharing-onenote-notebooks"></a>Řešení problémů se sdílením OneNote poznámkových bloků
 
-Tlačítko sdílet najdete v pravém horním rohu OneNotu.
+Tlačítko Sdílet se nachází v pravém horním rohu OneNote.
 
-- Pokud chcete Poznámkový blok sdílet, zadejte jednu e-mailovou adresu.
-- Klikněte na  **sdílet**.
+- Pokud chcete poznámkový blok sdílet, zadejte jednu e-mailovou adresu.
+- Klikněte na **Sdílet.**
 
-Zavřete a znovu otevřete Poznámkový blok ve OneNotu a začněte ho znovu sdílet.
+Zavřete poznámkový blok a znovu ho otevřete v OneNote, abyste znovu začali sdílet.

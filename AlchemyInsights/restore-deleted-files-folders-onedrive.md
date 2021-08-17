@@ -1,5 +1,5 @@
 ---
-title: Obnovení odstraněných souborů nebo složek na OneDrivu
+title: Obnovení odstraněných souborů nebo složek v OneDrive
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3172"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: 619c796dc1675cea33186d12af9df60adf2aaf31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b02cc8ce9bfe9c87b23d17aba0809a28cc558390812473914d378d60ea30a660
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109809"
 ---
-# <a name="restore-deleted-files-or-folders-in-onedrive"></a>Obnovení odstraněných souborů nebo složek na OneDrivu
+# <a name="restore-deleted-files-or-folders-in-onedrive"></a>Obnovení odstraněných souborů nebo složek v OneDrive
 
-Pokud omylem odstraníte soubor nebo složku na OneDrivu, můžete si ji později obnovit z koše OneDrivu.
+Pokud omylem odstraníte soubor nebo složku v OneDrive, můžete ho později obnovit z OneDrive koše.
 
-* [Obnovení odstraněných souborů nebo složek na OneDrivu](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
+* [Obnovení odstraněných souborů nebo složek v OneDrive](https://support.office.com/article/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
-Pokud se hodně vašich souborů na OneDrivu odstraní, přepíší, jsou poškozené nebo jsou nakaženy malwarem, můžete obnovit celý OneDrive na předchozí čas.
+Pokud se spousta OneDrive souborů odstraní, přepsána, poškodí nebo nakazí malwarem, můžete obnovit celý OneDrive do předchozího času.
 
-* [Obnovení OneDrivu](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Obnovení OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

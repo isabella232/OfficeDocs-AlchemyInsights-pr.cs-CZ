@@ -1,5 +1,5 @@
 ---
-title: Řešení problému s neznámým uživatelem v chatu Teams
+title: Řešení problému s neznámým uživatelem v Teams Chatu
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003807"
 - "6809"
-ms.openlocfilehash: 523c11cb9d5c4696703c67c2a6b3184f5d12f8e7
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 276a073a7213bca4a66dc6b9f27b6c9270a2845c9f2b3aaee791ce28f17e9a75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109917"
 ---
-# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Řešení problému se zaneznámým uživatelem v chatu Teams
+# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Řešení problému s neznámým uživatelem v Teams Chatu
 
-V některých případech se odebraný uživatel zobrazí jako Neznámý uživatel. Jedná se o [známý problém](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Občas se odebraní uživatel zobrazí jako Neznámý uživatel. Jedná se o [známý problém](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown).
 
-Pokud se uživatelé v chatu Teams zobrazují jako Neznámý uživatel, zkuste mezipaměť vymazat:
+Pokud v chatech trvale vidíte uživatele, kteří se Teams neznámým uživatelem, zkuste mezipaměť vymazat:
 
-1.  Klikněte pravým tlačítkem na ikonu týmy na hlavním panelu. Klikněte na tlačítko  **ukončit** .
-2.  Přejděte do složky%appdata%\Microsoft\teams\ na počítači a odstraňte všechny soubory v tomto adresáři.
+1.  Klikněte pravým tlačítkem na Teams na hlavním panelu. Klikněte **na Ukončit.**
+2.  Přejděte do složky %appdata%\Microsoft\teams\ na počítači a odstraňte všechny soubory v tomto adresáři.
 
-Anonymním uživatelům můžete zabránit, aby se připojili ke schůzkám tak, že budou čekat v předsálí. Další informace najdete v článku [Změna nastavení účastníků schůzky týmu](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e).
+Anonymním uživatelům můžete zabránit v připojování se ke schůzkám tím, že zajistíte, aby čekali v předsálí. Další informace najdete v tématu [Změna nastavení účastníka pro Teams schůzky](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e).

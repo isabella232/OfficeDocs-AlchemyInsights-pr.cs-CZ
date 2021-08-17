@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ee636a4fe7137b570171b5ffb8ba86dd7d88d4ad3ddd1f823cfb3937c61c5b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5671d8ede9b195f63a5d96767c46b4757d3e887547d31b82c969c36dc974f753
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988240"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898849"
 ---
 # <a name="fix-anti-spam-policy"></a>Oprava zásad ochrany proti spamu
 
-Tato zpráva se týká vlastní zásady ochrany proti spamu ve vašem tenantovi. Pokud chcete zásady zkontrolovat, proveďte toto:
+Tato zpráva se týká jedné z vašich zásad ochrany proti spamu. Pokud chcete zásady zkontrolovat, postupujte takto:
 
-1. Přejděte na [Centrum Office 365 zabezpečení &](https://go.microsoft.com/fwlink/p/?linkid=2077143)dodržování předpisů a pak přejděte na Zásady správy hrozeb   >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na **kartě Vlastní** vyberte  výchozí zásadu filtru spamu nebo jinou vlastní zásadu, kterou jste vytvořili, a pak vyberte **Upravit zásadu**.
-3. Rozbalte **možnost Vlastnosti spamu** a zkontrolujte **nastavení Označit jako spam.**
+1. Na portálu Microsoft 365 Defender v části Zásady přejděte na Zásady & spolupráce & pravidla zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam.** 
 
-Další informace o konfiguraci zásad filtru spamu najdete v tématu Konfigurace vlastních nastavení zásad [filtru spamu](https://go.microsoft.com/fwlink/?linkid=2101054).
+   Pokud chcete přejít přímo na stránku Zásady ochrany **proti spamu,** použijte <https://security.microsoft.com/antispam> .
+
+2. Na **stránce Anti-spam policies** (Zásady ochrany proti spamu) vyberte  zásadu kliknutím na  název zásady (**Typ** je Vlastní zásada ochrany proti spamu nebo Název je zásada příchozí pošty **antispamové pošty (výchozí).**
+
+3. V okně podrobností, který  se zobrazí, klikněte na Upravit prahovou hodnotu spamu a vlastnosti v části Mezní hodnota hromadného **e-mailu & vlastností** spamu, vyberte Upravit akce a zkontrolujte nastavení Označit jako **spam.**
+
+Další informace najdete v tématu [Konfigurace zásad ochrany proti spamu v programu EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).
