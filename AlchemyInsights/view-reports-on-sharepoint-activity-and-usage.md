@@ -1,5 +1,5 @@
 ---
-title: Zobrazení sestav aktivit a používání SharePointu
+title: Zobrazení sestav o SharePoint aktivitách a využití
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7973"
-ms.openlocfilehash: 61bfdb110f3f2c561bf25d03aad968c1ef7f73db
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: 2b1070fb8557a22e9f36e41e7e7f8676011c64cc092b2a52f24339b49df41453
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974225"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037277"
 ---
-# <a name="view-reports-on-sharepoint-activity-and-usage"></a>Zobrazení sestav aktivit a používání SharePointu
+# <a name="view-reports-on-sharepoint-activity-and-usage"></a>Zobrazení sestav o SharePoint aktivitách a využití
 
-Přejděte na [stránku sestavy využití v centru pro správu Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). V části **vyberte sestavu** zvolte aktivitu nebo sestavu využití služby SharePoint.
+Přejděte na stránku [Sestavy využití v Centrum pro správu Microsoftu 365](https://admin.microsoft.com/AdminPortal/Home). V **části Vyberte sestavu** zvolte SharePoint aktivity nebo využití.
 
-Další informace najdete v tématu [o sestavách SharePointu](https://go.microsoft.com/fwlink/?linkid=875240).
+Další informace najdete v tématu [O SharePoint sestavách](https://go.microsoft.com/fwlink/?linkid=875240).

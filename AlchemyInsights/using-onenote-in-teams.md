@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: 644de124e9807cee69ed9ebff46226530b3930ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 2cc99930ea63d5705a4e0ffbaea0c4cd8f56b96121e884cd2c7d054e1136226b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827173"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073053"
 ---
 # <a name="using-onenote-in-teams"></a>Používání OneNotu v aplikaci Teams
 

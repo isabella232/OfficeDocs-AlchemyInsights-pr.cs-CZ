@@ -1,5 +1,5 @@
 ---
-title: Zobrazení sestav aktivit a využití OneDrivu
+title: Zobrazení sestav o OneDrive aktivitách a využití
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300020"
 - "7972"
-ms.openlocfilehash: 7f37a4061b9d958c68157281ea65035112bdf618
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: b835fb60c57c51b57b59d6d4bd0d1879f20c2b949d16619a5dcb924d4d66e194
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037313"
 ---
-# <a name="view-reports-on-onedrive-activity-and-usage"></a>Zobrazení sestav aktivit a využití OneDrivu
+# <a name="view-reports-on-onedrive-activity-and-usage"></a>Zobrazení sestav o OneDrive aktivitách a využití
 
-Přejděte na [stránku sestavy využití v centru pro správu Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). V části **Vybrat sestavu** zvolte aktivity OneDrivu nebo sestavu využití.
+Přejděte na stránku [Sestavy využití v Centrum pro správu Microsoftu 365](https://admin.microsoft.com/AdminPortal/Home). V **části Vyberte sestavu** zvolte OneDrive aktivity nebo využití.
 
-Další informace najdete v tématu [o sestavách OneDrivu](https://go.microsoft.com/fwlink/?linkid=875239).
+Další informace najdete v tématu [O OneDrive sestavách](https://go.microsoft.com/fwlink/?linkid=875239).
