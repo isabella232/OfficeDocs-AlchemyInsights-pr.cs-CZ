@@ -1,5 +1,5 @@
 ---
-title: 932 upgrade AADConnect
+title: 932 Upgrade AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806032"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104805"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Upgrade služby Azure AD Connect
+# <a name="upgrade-azure-ad-connect"></a>Upgrade služby Azure AD Připojení
 
-Ve výchozím nastavení je automatický upgrade povolený pro Azure AD Connect, který vám pomůže zajistit, že máte nejnovější verzi. Pokud chcete ověřit nastavení automatického upgradu, použijte rutinu **Get-ADSyncAutoUpgrade** v Azure AD. Rutina vrátí jednu z následujících hodnot:
+Ve výchozím nastavení je pro Azure AD Připojení povolen automatický upgrade, což pomáhá zajistit, že používáte nejnovější verzi. K ověření nastavení automatického upgradu použijte **rutinu Get-ADSyncAutoUpgrade v** Azure AD PowerShellu. Rutina vrátí jednu z následujících hodnot:
 
-- **Povoleno**: je povolen automatický upgrade.
+- **Povoleno:** Je povolen automatický upgrade.
 
-- **Zakázáno**: automatický upgrade je zakázán.
+- **Zakázáno:** Automatický upgrade je zakázaný.
 
-- **Pozastaveno**: systém už neumožňuje přijímat automatické upgrady. Tuto hodnotu nemůžete nakonfigurovat. je nastavená systémem.
+- **Pozastaveno:** Systém už nemá nárok na automatické upgrady. Tuto hodnotu nemůžete nakonfigurovat. je nastavený systémem.
 
 Další informace najdete v tématu [Automatický upgrade](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-Pokud chcete stáhnout nejnovější verzi Azure AD Connect, přejděte na [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Pokud si chcete stáhnout nejnovější verzi služby Azure AD Připojení, přejděte na [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .

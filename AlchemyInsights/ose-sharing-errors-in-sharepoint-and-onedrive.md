@@ -1,5 +1,5 @@
 ---
-title: Chyby sdílení rozšíření OSE SharePoint a OneDrive
+title: Chyby sdílení OSE v SharePoint a OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: dd053bbff803caaa35a56ed49cecef37b9ac7f17
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: c54483916b2391b3723f0199627ebad8778ee8f15d6884b6d19b1f59f7093918
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075393"
 ---
-# <a name="ose-sharing-errors"></a>Chyby při sdílení rozšíření OSE
+# <a name="ose-sharing-errors"></a>Chyby sdílení OSE
 
-Další informace o kódech chyb na OSE najdete v článku [chyby sdílení v SharePointu a OneDrivu](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Další informace o kódech chyb OSE najdete v tématu Sdílení chyb [v SharePoint](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)a OneDrive .
