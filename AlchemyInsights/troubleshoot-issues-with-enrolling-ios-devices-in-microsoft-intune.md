@@ -10,12 +10,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0aaece95effa468af5c906a8bd07e5b00ffa3df37b4e2cb296d64108efec94e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047969"
 ---
 # <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Řešení problémů s registracemi zařízení s iOSem v Microsoft Intune
 
@@ -27,7 +27,7 @@ Některé běžné chybové zprávy a kroky řešení:
     
 - **Tato služba není podporovaná. Žádné zásady registrace:** Služba APNS (Apple Push Notification Service) musí být nakonfigurovaná nebo obnovená. Pokyny [k tomu najdete](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) v tomto dokumentu. 
     
-- **Typ uživatelské licence: Neplatné nebo Uživatelské jméno není rozpoznáno:** Uživateli je potřeba přiřadit licenci Intune nebo EMS. Projděte si tyto dokumenty a přiřaďte licenci prostřednictvím: [Centra pro](https://docs.microsoft.com/intune/licenses-assign) správu Office nebo portálu [Azure Portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Typ uživatelské licence: Neplatné nebo Uživatelské jméno není rozpoznáno:** Uživateli je potřeba přiřadit licenci Intune nebo EMS. Projděte si tyto dokumenty a přiřaďte licenci prostřednictvím: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) nebo Azure [Portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
 Další zdroje informací, které vám pomůžou problém vyřešit:
   
