@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001443"
 - "3443"
-ms.openlocfilehash: 5a9eb8275167a85d0ae9f097aa73c1b244e3d3c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5d760314d17888ac4fdc3d85b0a2511437953d9b9126845169acd3fe486e55b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073521"
 ---
 # <a name="upgrade-using-either-a-product-key-or-a-digital-license"></a>Upgrade pomocí kód Product Key nebo digitální licence
 
 **Upgrade na Windows 10 Pro pomocí kód Product Key**
 
-1. Vyberte **Spustit**  >  **nastavení Aktualizace**&  >    >  **aktivace zabezpečení**.
-2. Vyberte **Změnit kód Product Key** a potom zadejte 25 znaků kód Product Key pro Windows 10 Pro.
+1. Vyberte **Spustit**  >  **Nastavení**  >  **aktivaci &**  >  **zabezpečení**.
+2. Vyberte **Změnit kód Product Key** a potom zadejte 25 Windows 10 Pro kód Product Key.
 3. Výběrem **možnosti** Další spusťte upgrade na Windows 10 Pro.
 
 **Upgrade na Windows 10 Pro pomocí digitální licence**
 
-Pokud jste už na svém zařízení nainstalovali a aktivovali Windows 10 Pro, budete mít digitální licenci, která vám umožní upgradovat z Windows 10 Home na Windows 10 Pro bez kód Product Key.
+Pokud jste už nainstalovali a aktivovali Windows 10 Pro zařízení, budete mít digitální licenci, která vám umožní upgradovat z Windows 10 Home na Windows 10 Pro bez kód Product Key.
 
-Vyberte **Spustit**  >  **nastavení Aktualizace**&  >    >  **aktivace zabezpečení**.
+Vyberte **Spustit**  >  **Nastavení**  >  **aktivaci &**  >  **zabezpečení**.
 
-- Pokud máte digitální licenci pro Windows 10 Pro a windows 10 Home je na vašem zařízení aktuálně aktivovaná, vyberte Přejít do **Microsoft Storu** a zobrazí se výzva k bezplatnému upgradu na Windows 10 Pro.
-- Pokud máte digitální licenci pro Windows 10 Pro a Windows 10 Home není na vašem zařízení aktivovaný, vyberte Poradce při potížích a postupujte podle pokynů pro upgrade na Windows 10 Pro.
+- Pokud máte digitální licenci pro Windows 10 Pro a Windows 10 Home je na vašem zařízení aktuálně aktivovaná, vyberte Přejít na **Microsoft Store** a zobrazí se výzva k upgradu na Windows 10 Pro zdarma.
+- Pokud máte digitální licenci pro Windows 10 Pro a Windows 10 Home na vašem zařízení není aktivovaná, vyberte Poradce při potížích a potom postupujte podle pokynů pro upgrade na Windows 10 Pro. 
 
-[Další informace o aktivaci ve Windows 10](https://support.microsoft.com/help/12440)
+[Další informace o aktivaci v Windows 10](https://support.microsoft.com/help/12440)

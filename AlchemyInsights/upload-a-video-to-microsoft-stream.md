@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 4b4b5043d9cb3aaffd1546676d2cb805c4db3c38
-ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
+ms.openlocfilehash: dcc58d836978a8d1a9cb30bea811c95011bd14bc915e07e64f65ed8e64a67b7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/12/2021
-ms.locfileid: "53389318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073377"
 ---
 # <a name="upload-a-video-to-microsoft-stream"></a>Upload videa do Microsoft Streamu
 
