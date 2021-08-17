@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001721"
 - "4341"
-ms.openlocfilehash: 308ab6028962564f10f44e60654ac1dbfeac766a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8487e50c89edc2130419d722b7588f8ee5d239b44a17ae55456ee2fc3442181e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077031"
 ---
 # <a name="no-access-to-teams-admin-center"></a>Bez přístupu do centra pro správu Teams
 
