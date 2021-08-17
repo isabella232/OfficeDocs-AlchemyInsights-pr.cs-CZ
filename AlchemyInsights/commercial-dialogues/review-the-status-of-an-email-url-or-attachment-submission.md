@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c93f281d8d9a19eb31df7c265a963e93089a0ef5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081819"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314801"
 ---
 # <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>Kontrola stavu odeslání e-mailu, adresy URL nebo přílohy
 
@@ -25,5 +25,4 @@ Po odeslání e-mailové zprávy, adresy URL nebo přílohy můžete zkontrolova
 
 Průběh odeslání uvidíte na stránce a můžete taky přejít k podrobnostem k předchozím odesláním a zobrazit podrobnosti o odeslání a výsledcích.
 
-> [!NOTE]
-> Po odeslání položky pomocí Průzkumníka odeslání může trvat několik minut, než se zobrazí výsledky.
+**Poznámka:** Po odeslání položky pomocí Průzkumníka odeslání může trvat několik minut, než se zobrazí výsledky.

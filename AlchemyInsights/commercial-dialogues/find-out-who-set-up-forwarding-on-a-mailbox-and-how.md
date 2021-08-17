@@ -13,23 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 6243e787bb6b51f26cf22782d9ec80f946430b864f53de7ea626b7166a674d2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7746e44a0ee5a4442051900985aab339b09652f08e412b02a02429c93cc7c107
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988172"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895172"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Zjistěte, kdo nastavil přeposílání poštovní schránky a jak
 
-Pokud bylo u poštovní schránky nastavené externí přeposílání, aktivita se audituje jako součást Set-Mailbox rutiny. Tady je postup, jak najít aktivitu v protokolu auditování:
+Pokud bylo u poštovní schránky nastavené externí přeposílání, aktivita se audituje jako součást rutiny **Set-Mailbox.** Tady je postup, jak najít aktivitu v protokolu auditování:
 
-1. Přejděte do [Centra Office 365 zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Vyberte **Hledat** >  **v protokolu auditování**.
-    > [!NOTE]
-    > Pokud se zobrazí oznámení, že je potřeba auditování zapnout, pokračujte a zapněte ho hned. Pokud tato funkce není zapnutá, výsledky hledání nebudou moct natahovat data z předchozích dat.
-1. Ujistěte **se, že** je pole Aktivity nastavené na **Zobrazit výsledky pro všechny aktivity** (výchozí). Zadejte rozsah dat. Nemusíte zadít uživatelské jméno.
-1. Vyberte **Hledat**. Aktivity se zobrazí v části **Výsledky**.
-1. Vyberte **Filtrovat výsledky** a potom do pole Filtr aktivity zadejte Nastavit **poštovní** schránku.  Tím se vrátí všechny **aktivity set-mailboxu.**
-1. Pokud chcete zobrazit podrobnosti, vyberte aktivitu a pak vyberte **Další informace**. V **části Parametry** se zobrazí e-mailová adresa pro přeposílání nastavená v poštovní schránce. **Id_uživatele** představuje uživatele, který nastavil externí přeposílání poštovní schránky.
-Další informace najdete v tématu Hledání v Office 365 auditování a [řešení běžných scénářů](https://go.microsoft.com/fwlink/?linkid=2103944).
+1. Proveďte jednu z následujících akcí:
+   - V Centrum dodržování předpisů Microsoftu 365 přejděte <https://compliance.microsoft.com> na **Audit** \> **řešení**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portálu Microsoft 365 Defender přejděte <https://security.microsoft.com> na **Audit**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://security.microsoft.com/auditlogsearch> .
+
+   > [!NOTE]
+   > Pokud se zobrazí oznámení, že je potřeba auditování zapnout, pokračujte a zapněte ho hned. Pokud tato funkce není zapnutá, výsledky hledání nebudou moct natahovat data z předchozích dat.
+
+2. Na stránce **Auditování** ověřte, že **je vybraná karta** Hledání, a nakonfigurujte následující nastavení:
+   - V polích Začátek a  Konec vyberte rozsah dat **a** času.
+   - Ověřte, **že pole Aktivity** obsahuje zobrazit výsledky pro všechny **aktivity**.
+
+3. Až skončíte, klikněte na **Hledat**. Aktivity se zobrazí na nové stránce **vyhledávání auditování.**
+
+4. Ve výsledcích kliknutím na sloupec **Aktivita** seřadíte výsledky a vyhledejte položky **Sady poštovních** schránek.
+
+5. Výběrem aktivity ve výsledcích otevřete plovoucí okno podrobností. Abyste zjistili, jestli aktivita souvisí s přeposíláním e-mailů, musíte se podívat na podrobnosti jednotlivých záznamů auditování:
+   - **Id Objektu:** Hodnota aliasu poštovní schránky, která byla změněna.
+   - **Parametry:** _ForwardingSmtpAddress_ označuje cílovou e-mailovou adresu.
+   - **Id_uživatele:** Uživatel, který nakonfiguroval přeposílání e-mailů v poštovní schránce v **poli Id Objektu.**
+
+Další informace najdete v článku [Určení, kdo nastavil přeposílání e-mailů pro poštovní schránku](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

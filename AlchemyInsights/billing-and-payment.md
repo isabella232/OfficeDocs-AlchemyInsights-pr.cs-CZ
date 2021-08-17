@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893048"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314909"
 ---
 # <a name="billing-and-payment"></a>Fakturace a platba
 
@@ -34,7 +34,7 @@ Na stránce **Oznámení** fakturace můžete tuto funkci zapnout a spravovat u�
 
 **Platba**
 
-Pokud platíte platební kartou nebo bankovním účtem, bude způsob platby spojený s vaším předplatným účtován do několika dnů po vytvoření faktury. Pokud platba selže, aktualizujte nebo změňte způsob platby.
+Pokud platíte platební kartou nebo bankovním účtem, je způsob platby spojený s vaším předplatným účtován do několika dnů po vytvoření faktury. Pokud platba selže, aktualizujte nebo změňte způsob platby.
 
 Pokud jste přidali novou kartu a stále dostáváte oznámení o odmítnutí na staré platební kartě, možná budete muset novou kartu přidružit k předplatnému.
 
@@ -44,10 +44,9 @@ Pokud jste přidali novou kartu a stále dostáváte oznámení o odmítnutí na
 
 3. V pravém podokně vyberte Nahradit způsob **platby pro všechny položky**.
 
-4. Pokud chcete použít existující způsob platby, vyberte jeden z rozevíracího seznamu a pak vyberte **Nahradit**.
+4. Pokud chcete použít existující způsob platby, vyberte jeden z rozevíracího seznamu a pak vyberte **Nahradit.**
 
-    > [!NOTE]
-    > Pokud máte předplatná přidružená k fakturačnímu profilu, můžete za ně zaplatit pouze platební nebo debetní kartou. Pokud máte na stránce  Způsoby platby uvedené bankovní účty, není možné je vybrat v rozevíracím seznamu.
+    **Poznámka:** Pokud máte předplatná přidružená k fakturačnímu profilu, můžete za ně zaplatit pouze platební nebo debetní kartou. Pokud máte na stránce  Způsoby platby uvedené bankovní účty, není možné je vybrat v rozevíracím seznamu.
 
 5. Pokud chcete přidat nový způsob platby, vyberte **Přidat způsob platby**.
 

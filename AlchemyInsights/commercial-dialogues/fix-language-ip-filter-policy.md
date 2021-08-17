@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017089"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896148"
 ---
 # <a name="fix-languageip-filter-policy"></a>Oprava zásad filtru jazyka nebo IP adresy
 
-Tato zpráva se týká vlastní zásady ochrany proti spamu ve vašem tenantovi. Pokud chcete zásady zkontrolovat, proveďte toto:
+Tato zpráva se týká jedné z vašich zásad ochrany proti spamu. Pokud chcete zkontrolovat zásady, postupujte takto:
 
-1. Přejděte na [Centrum Office 365 zabezpečení &](https://go.microsoft.com/fwlink/p/?linkid=2077143)dodržování předpisů a pak přejděte na Zásady správy hrozeb   >    >  [Anti-spam](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na **kartě Vlastní** vyberte  výchozí zásadu filtru spamu nebo jinou vlastní zásadu, kterou jste vytvořili, a pak vyberte **Upravit zásadu**.
-3. Rozbalte **možnost Mezinárodní spam** a zkontrolujte nastavení.
+1. Na portálu Microsoft 365 Defender přejděte na E-mail & zásady spolupráce & pravidla Zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam** v **části Zásady.**
 
-Další informace o konfiguraci zásad filtru spamu najdete v tématu Konfigurace vlastních nastavení zásad [filtru spamu](https://go.microsoft.com/fwlink/?linkid=2101054).
+   Pokud chcete přejít přímo na stránku Zásady ochrany **proti spamu,** použijte <https://security.microsoft.com/antispam> .
+
+2. Na **stránce Anti-spam policies** (Zásady ochrany proti spamu) vyberte  zásadu kliknutím na  název zásady (**Typ** je Vlastní zásada ochrany proti spamu nebo Název je zásada příchozí pošty **antispamové pošty (výchozí).**
+3. V plovoucím seznamu podrobností, který se zobrazí, **vyberte** Upravit prahovou hodnotu spamu a vlastnosti v části Hromadná mezní **& vlastností spamu.**
+4. V části **Označit jako spam** si prohlédněte nastavení **Obsahuje určité jazyky** a Z **těchto** zemí.
+
+Další informace najdete v tématu [Konfigurace zásad ochrany proti spamu v programu EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

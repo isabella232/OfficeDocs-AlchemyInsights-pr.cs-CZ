@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f17cefcc981fc2637aa0c90f4b476289b97e7969a26588664baf67485daf5d5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111789"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Vyprázdnění složky Odstraněná pošta
 
-1. Otevřete složku Odstraněná pošta a vyberte **vyprázdnit složku**.
-2. V horní části stránky vyberte **obnovitelné položky** a znovu vyberte **vyprázdnit složku** .
+1. Otevřete složku Odstraněná pošta a vyberte **Vyprázdnit složku**.
+2. V **horní části stránky** vyberte Obnovitelné položky a znovu vyberte **Vyprázdnit** složku.
 
-**Nelze vyprázdnit složku Odstraněná pošta.**
+**Složku Odstraněná pošta se nedaří vyprázdnit.**
 
-- Pokud jste odstranili spoustu e-mailů, může nějakou dobu trvat, než se tyto položky budou přesouvat nebo odstraňovat ze složky Odstraněná pošta. V průběhu odstraňování nechte okno prohlížeče otevřené.
-- Pokud se e-mail pořád neodstraní správně, vyberte menší dávku, kterou chcete odstranit.
-- Pokud se odstraněné e-maily vrátí, může to být proto, že jste nedávno odstranili spoustu e-mailů. Zkuste to znovu později.
+- Pokud jste odstranili hodně e-mailů, může chvíli trvat, než se tyto položky přesunou nebo odstraní ze složky Odstraněná pošta. Nechte okno prohlížeče otevřené, dokud se odstranění nepovede.
+- Pokud se e-mailu pořád nepodaří správně odstranit, vyberte menší dávku, která se má odstranit.
+- Pokud se odstraněný e-mail vrátí, může to být proto, že jste nedávno odstranili hodně e-mailů. Zkuste to prosím později.
