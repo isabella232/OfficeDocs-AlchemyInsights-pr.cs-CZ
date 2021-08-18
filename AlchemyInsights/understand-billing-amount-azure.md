@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020077"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317133"
 ---
 # <a name="understand-billing-amount"></a>Vysvětlení částek fakturace
 
@@ -70,7 +70,9 @@ Ne. Zákazníci dostanou předem stanovený počet služeb na úrovni Free a kre
 
 **Jak můžu ověřit, jestli jsou bezplatné služby aktivní a kdy skončí jejich platnost?**
 
-Na portálu Ibiza > Předplatné > Stránka přehledu > přejděte na Bezplatné služby na 12 měsíců a klikněte na ikonu Informace. Tím se zobrazí datum vypršení platnosti bezplatných služeb **Poznámka**: Žádné služby V1 nejsou součástí bezplatných služeb Azure. Aktuální seznam bezplatných služeb najdete v článku [Služby, které jsou zdarma po dobu 12 měsíců](http://www.microsoftazuresponsorships.com/)
+Na portálu Ibiza > Předplatné > Stránka přehledu > přejděte na Bezplatné služby na 12 měsíců a klikněte na ikonu Informace. Zobrazí se datum vypršení platnosti bezplatných služeb.
+
+**Poznámka:** Žádné služby V1 nejsou součástí služeb Azure Free Included Services. Aktuální seznam bezplatných služeb najdete v článku [Služby, které jsou zdarma po dobu 12 měsíců](http://www.microsoftazuresponsorships.com/)
 
 Další časté otázky: [Časté otázky o bezplatném účtu](https://azure.microsoft.com/free/free-account-faq/)
 

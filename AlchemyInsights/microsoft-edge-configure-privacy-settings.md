@@ -1,5 +1,5 @@
 ---
-title: Nastavení ochrany osobních údajů v Microsoft Edge
+title: Microsoft Edge nastavení ochrany osobních údajů
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114165"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Nastavení ochrany osobních údajů v Microsoft Edge
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge nastavení ochrany osobních údajů
 
-Ve výchozím nastavení, pokud je Microsoft Edge nasazený na platformách nepoužívajících systém Windows, nejsou Microsoftu odesílána diagnostická data a informace o webu. Pokud je ale Microsoft Edge nasazený ve Windows 10, budou diagnostická data a informace o webu odesílány podle [nastavení Windows Diagnostic data](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization).
+Pokud je Microsoft Edge na platformách, které nejsou Windows, diagnostická data a informace o webu se ve výchozím nastavení microsoftu neposílat. Pokud je Microsoft Edge nasazení na Windows 10, diagnostická data a informace o webu se odesílat podle nastavení diagnostických dat uživatelů Windows [diagnostických dat.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-Pokud chcete nakonfigurovat, jak Microsoft Edge zpracovává shromažďování dat pro vaši organizaci, použijte následující zásady skupiny:
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Tato zásada umožňuje vykazování využití a dat souvisejících s chybou.
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Tato zásada odešle informace o webu, které se používají ke zlepšení služeb Microsoftu.
+Pokud chcete nakonfigurovat, Microsoft Edge zpracovává shromažďování dat pro vaši organizaci, použijte následující zásady skupiny:
+- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Tato zásada umožňuje vykazovat využití a data související s chybou.
+- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Tato zásada odesílá informace o webu, které se používají ke zlepšení služby Microsoft.
 
-Další informace najdete v článku [Konfigurace nastavení zásad](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+Další informace najdete v tématu [Konfigurace nastavení zásad](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).

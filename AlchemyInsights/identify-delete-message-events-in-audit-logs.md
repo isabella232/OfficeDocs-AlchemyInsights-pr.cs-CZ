@@ -1,5 +1,5 @@
 ---
-title: Identifikace událostí odstranit zprávy v protokolech auditování
+title: Určení událostí odstranit zprávy v protokolech auditování
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868411"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317587"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Protokoly auditování odstraněných e-mailových zpráv
 
 Od ledna 2019 microsoft ve výchozím nastavení zahajuje protokolování auditování poštovní schránky. Pokud chcete zkontrolovat události odstranění zprávy pro konkrétního uživatele, musíte akce odstranění pro auditování povolit ručně. Pokud je protokolování auditování poštovní schránky pro vaši organizaci nebo pro konkrétního uživatele už povolené, postupujte podle následujících pokynů.
 
-1. Přihlaste se do [centra Microsoft 365 dodržování předpisů](https://protection.office.com/)
+1. Přihlaste se do [centra Microsoft 365 dodržování předpisů.](https://protection.office.com/)
 
 2. Klikněte **na Hledat a prošeetření** a vyberte Hledání v protokolu **auditování.**
 

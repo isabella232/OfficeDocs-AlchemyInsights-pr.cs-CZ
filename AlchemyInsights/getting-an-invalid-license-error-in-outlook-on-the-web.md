@@ -1,5 +1,5 @@
 ---
-title: 125 získání chyby licence v Outlooku na webu
+title: 125 Zobrazí se chybová zpráva o neplatné licenci v Outlook na webu?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,19 +14,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 825d91cd81646767b100e6fc964d7a94b8bc6879
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 357e57d20e3b6f56d3058bc1c782c3da7598520c29c5c29bfba6eec614fc5248
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677452"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089253"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Vyskytla se chyba licence v Outlooku na webu?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Dostáváte v aplikaci Outlook na webu neplatnou Outlook na webu?
 
-Pokud používáte Outlook na webu a dostanete chybu, která obsahuje chybovou **hodnotu** **X-OWA-Chyba: Microsoft. Exchange. data. Storage. InvalidLicenseException**, vaše licence na Exchange Online není správně přiřazená nebo nedávno vypršela. Správce vám může udělit licenci takto:
+Pokud používáte aplikaci Outlook na webu **a** zobrazí se chyba Něco se pokazilo, která obsahuje **chybu X-OWA-Error: Microsoft.Exchange. Data. Storage. InvalidLicenseException**, vaše Exchange Online licence není správně přiřazená nebo nedávno vypršela. Správce vám může přiřadit licenci takto:
   
-1. Otevřete [Centrum pro správu Microsoft 365](https://portal.office.com/adminportal/home#/homepage) a v části **aktivní uživatelé**vyberte **Upravit uživatele**.
+1. Otevřete okno [Centrum pro správu Microsoftu 365](https://portal.office.com/adminportal/home#/homepage) a v **části Aktivní uživatelé** vyberte Upravit **uživatele**.
 
-2. Na stránce **Upravit uživatele** , která se otevře, vyberte uživatele. Na stránce vlastností uživatele, která se otevře, klikněte na **Upravit** pro **licence na produkty**.
+2. Na **stránce Upravit uživatele,** která se otevře, vyberte uživatele. Na stránce vlastností uživatele, která se otevře, klikněte **na Upravit** pro **licence produktu**.
 
-3. Na stránce **licence na produkty** , která se otevře, vyberte příslušnou hodnotu **umístění** a přiřaďte licenci, která obsahuje Exchange Online (Rozšiřte licenci a zobrazte podrobnosti). Po dokončení klepněte na **Uložit**.
+3. Na stránce **Licence produktu,** která se  otevře, vyberte příslušnou hodnotu Umístění a přiřaďte licenci, která obsahuje Exchange Online (rozbalte licenci a zobrazte její podrobnosti). Po dokončení klepněte na **Uložit**.

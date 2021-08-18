@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107010"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317337"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Pozastavení nebo pozastavení předplatného
 
@@ -27,6 +27,6 @@ Pokud chcete předplatné dočasně pozastavit nebo pozastavit, můžete předpl
 
 1. V Centru pro správu přejděte na stránku **Fakturace**  >  **[vaše](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkty.
 2. Na kartě **Produkty** najděte předplatné, které chcete zrušit. Vyberte tři tečky (další akce) a pak vyberte **Zrušit předplatné.**
-3. Stav předplatného se zobrazí jako **Zakázaný** a zobrazuje datum zrušení předplatného. Předplatné zůstane v zakázaném stavu po dobu 90 dní a bude mít omezenou funkčnost, dokud ho nevymazáte nebo [znovu aktivujete.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+3. Stav předplatného se zobrazí jako **Zakázaný** a zobrazuje datum zrušení předplatného. Předplatné zůstane v zakázaném stavu po dobu 90 dnů a bude mít omezenou funkčnost, dokud ho nevymazáte nebo [znovu aktivujete.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Další informace najdete v tématu [Co se stane, když](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) zrušíte předplatné, a Uložení [dat](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+Další informace najdete v tématu [Co se stane, když](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) zrušíte předplatné, a Uložení [dat](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).

@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 026e9722ac533e69178c40dd26792a362cf8fdda
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890295"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317179"
 ---
 # <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Řešení problémů s aplikací Microsoft Defender pro Office 365
 
-- **Oznámení o zpoždění při doručování e-mailových zpráv?** Zkuste použít možnost Dynamické doručování pro microsoft defender pro Office 365 Sejf přílohy. Tím se zabrání prodlevám při doručování e-mailových zpráv při ochraně příjemců před škodlivými soubory.
+- **Oznámení o zpoždění při doručování e-mailových zpráv?** Zkuste použít možnost dynamického doručování pro microsoft defender pro Office 365 Sejf přílohy. Tím se zabrání prodlevám při doručování e-mailových zpráv při ochraně příjemců před škodlivými soubory.
 - **Chcete nahlásit falešná kladná nebo falešná negativa?** Použijte [Průzkumníka odeslání.](https://protection.office.com/reportsubmission)
 - **Věděli jste, že v programu Microsoft Defender** můžete povolit ochranu Office 365 Sejf Odkazy pro e-maily odeslané mezi lidmi ve vaší organizaci? Postupujte takto:
     1. Přejděte na https://protection.office.com a přihlaste se.

@@ -1,5 +1,5 @@
 ---
-title: Odborníci na hrozby Microsoftu – odborníci na vyžádání
+title: Microsoft Threat Experts – Odborníci na vyžádání
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8321"
-ms.openlocfilehash: 583b1099ad4ea07f780a3b122f381dd0ac2e864d
-ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
+ms.openlocfilehash: 63ba0615d118d2ac32ffe5acc289838ef9dfb62d3576c5cfecf361e182060acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50841504"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113913"
 ---
-# <a name="microsoft-threat-experts---experts-on-demand"></a>Odborníci na hrozby Microsoftu – odborníci na vyžádání
+# <a name="microsoft-threat-experts---experts-on-demand"></a>Microsoft Threat Experts – Odborníci na vyžádání
 
-Odborníci na vyžádání jsou druhou funkcí odborníků na hrozby společnosti Microsoft. Tady nás můžete kontaktovat, když potřebujete konzultovat relevantní otázky týkající se zjišťování a protivenství.
+Odborníci na vyžádání jsou druhou Microsoft Threat Experts funkcí. Tady nás můžete kontaktovat, když potřebujete konzultovat relevantní otázky týkající se zjišťování a protivenství.
 
-Pokud už jste zákazníkem Defenderu pro koncový bod, můžete kontaktovat svého zástupce Microsoftu a přihlásit se k odběru specialistů na hrozby Microsoftu – specialistů na vyžádání.
+Pokud už jste zákazníkem Defenderu pro koncový bod, můžete kontaktovat svého zástupce Microsoftu a přihlásit se k odběru Microsoft Threat Experts – Odborníci na vyžádání.
 
 Možnost **Konzultovat odborníka na** hrozby je dostupná v následujících nabídkách na portálu, kde můžete spolupracovat s odborníky v souvislosti s vyšetřováním:
 
@@ -32,4 +32,4 @@ Možnost **Konzultovat odborníka na** hrozby je dostupná v následujících na
 - Nabídka akcí na stránce Upozornění
 - Nabídka Akce stránky souboru
 
-Další informace najdete v tématu [Konfigurace a správa funkcí odborníků na hrozby společnosti Microsoft](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).
+Další informace najdete v tématu [Konfigurace a správa Microsoft Threat Experts funkcí](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts).

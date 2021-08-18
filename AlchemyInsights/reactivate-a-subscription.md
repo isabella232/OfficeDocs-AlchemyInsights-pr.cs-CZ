@@ -15,14 +15,14 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: eed4a608153248bd2feba8bd1aa0a8a66d55edb54b3d5fecb88d69fd2e165fcf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c9fa862fce7c5f60d3d654b490e5ed181ebbf52ec10e475c2fa4815d845a1d59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062505"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900913"
 ---
-# <a name="reactivate-a-microsoft-365-subscription"></a>Opětovná aktivace předplatného Microsoft 365 předplatného
+# <a name="reactivate-a-microsoft-365-subscription"></a>Opětovná aktivace Microsoft 365 předplatného
 
 Pokud platnost vašeho předplatného vyprší, microsoft ho zakázal nebo jste ho zrušili během období předplatného, můžete ho znovu aktivovat v Centru pro správu.
   
@@ -31,4 +31,4 @@ Pokud platnost vašeho předplatného vyprší, microsoft ho zakázal nebo jste 
 3. V podokně **Znovu aktivovat toto** předplatné vyberte v rozevíracím seznamu způsob platby nebo vyberte Přidat způsob **platby**.
 4. Vyberte **Uložit**.
 
-Další informace najdete v článku [Opětovná aktivace předplatného](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

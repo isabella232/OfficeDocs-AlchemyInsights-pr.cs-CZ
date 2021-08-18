@@ -11,25 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7a26f7e1a18239a24b2ebf57fc4a3eccd07058a99638a14c18a9b358a79fb27b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060777"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901173"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams upgrade
 
-Ať už právě začínáte s Teams, používáte Teams společně s Skype pro firmy nebo jste připravení upgradovat, chceme zajistit, abyste měli všechno, co potřebujete k úspěšné cestě k Teams. Další informace najdete na níže uvedených odkazech.
+Ať už právě začínáte s Teams, používáte Teams vedle Skype pro firmy nebo jste připravení upgradovat, chceme zajistit, abyste měli všechno, co potřebujete k úspěšné cestě k Teams. Další informace najdete na níže uvedených odkazech.
 
-[Začínáme s Microsoft Teams upgradem](/MicrosoftTeams/upgrade-start-here)
+[Začínáme s Microsoft Teams upgradem](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[Plánování upgradu](/MicrosoftTeams/upgrade-plan-journey)
+[Plánování upgradu](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[Principy Microsoft Teams Skype pro firmy soužití](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Principy Microsoft Teams a Skype pro firmy soužití](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Provedení upgradu z Skype pro firmy Online na Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[Provedení upgradu z Skype pro firmy Online na Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Provedení upgradu z místního Skype pro firmy na místní Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Provedení upgradu z místního Skype pro firmy na místní Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Kontrola stavu Skype pro firmy Online Teams pomocí PowerShellu](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Kontrola stavu Skype pro firmy Online Teams pomocí PowerShellu](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

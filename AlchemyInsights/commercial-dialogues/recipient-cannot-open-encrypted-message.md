@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5719e86596dc8e5755e141b5dddee40511875ba78c23c6529a131e9cab118fc8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 336e1906526c07d8db51f61a867fef9ff87c871c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967146"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317735"
 ---
 # <a name="fix-problem-of-viewing-protected-message-in-outlook"></a>Řešení problému se zobrazením chráněné zprávy v Outlook
 
@@ -28,8 +28,7 @@ Pokud chcete otevřít zašifrované zprávy, musí uživatelé provést násled
 
 1. V závislosti na používaném e-mailovém klientovi klikněte na **Přečíst zprávu** nebo na podobnou výzvu. Uživatelé se přesměrují na stránku, kde se mohou přihlásit a přijímat kód na jedno použití.
 
-> [!NOTE]
-> Pro uživatele Gmailu se jim bude hlásit přihlášení pomocí Gmailu. Po kliknutí na Povolit se zpráva otevře na nové **kartě.**
+    **Poznámka:** Pro uživatele Gmailu se jim bude hlásit přihlášení pomocí Gmailu. Po kliknutí na Povolit se zpráva otevře na nové **kartě.**
 
 2. Zkontrolujte, že e-mail obsahuje kód pro jedno použití, a pak tento kód zadejte do okna prohlížeče.
 

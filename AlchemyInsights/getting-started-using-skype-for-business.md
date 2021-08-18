@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002421"
 - "4698"
-ms.openlocfilehash: 76a00d06316a95d59badf1e7def60761a2a4c5cd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3bf6a09de069057b625c1f392bc3d3d5a15b7665cec0775493e38fd47fbcf3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088929"
 ---
 # <a name="getting-started-using-skype-for-business"></a>Začínáme pracovat se Skypem pro firmy
 

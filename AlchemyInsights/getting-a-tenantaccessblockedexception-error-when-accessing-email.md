@@ -1,5 +1,5 @@
 ---
-title: 127 s chybou TenantAccessBlockedException při přístupu k e-mailům?
+title: 127 Při přístupu k e-mailu se zobrazí chyba TenantAccessBlockedException?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089433"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Zobrazuje se chyba TenantAccessBlockedException při přístupu k e-mailům?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Dostáváte při přístupu k e-mailu chybu TenantAccessBlockedException?
 
-K této chybě může dojít několika různými důvody. Příklad:
+Existuje několik různých důvodů, proč se může tato chyba zobrazit. Příklad:
 
-- Ověřte, jestli je vaše předplatné platné na stránce **fakturace** \> **[vašich produktů](https://portal.office.com/adminportal/home#/subscriptions)** v centru pro správu Microsoft 365.
+- Ověřte, jestli je vaše předplatné platné na **stránce** Fakturace vaše produkty \> **[](https://portal.office.com/adminportal/home#/subscriptions)** v Centrum pro správu Microsoftu 365.
 
-- Na stránce **fakturace** \> **[& platby](https://portal.office.com/adminportal/home#/billoverview)** v centru pro správu Microsoft 365 vyhledejte všechna prošlá oznámení.
+- Na stránce Fakturace a platby  & po splatnosti \> **[](https://portal.office.com/adminportal/home#/billoverview)** Centrum pro správu Microsoftu 365.
 
-- Pokud byly fakturace a předplatná pro váš účet nedávno aktualizovány, může to trvat, než se změny rozšíří. Zkuste to znovu za pár minut a pokud problém přetrvává, kontaktujte nás.
+- Pokud se fakturace a předplatná vašeho účtu nedávno aktualizovala, může to chvíli trvat, než se změny rozšíří. Zkuste to znovu za několik minut, a pokud problém přetrvává, kontaktujte nás.

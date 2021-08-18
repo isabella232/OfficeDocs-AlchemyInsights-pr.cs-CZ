@@ -1,5 +1,5 @@
 ---
-title: Microsoft vyžaduje poštovní schránku Exchange Online
+title: Microsoft To Do vyžaduje Exchange Online poštovní schránku
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5751"
 - "9003043"
-ms.openlocfilehash: 3f31263e938df7019753ab44231c3f7fedea8a4a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10ea96671133724dea312ef6b51a4a0ceb974050d8bd0dbdd9e89b895e76e671
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777741"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113949"
 ---
-# <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft vyžaduje poštovní schránku Exchange Online
+# <a name="microsoft-to-do-requires-an-exchange-online-mailbox"></a>Microsoft To Do vyžaduje Exchange Online poštovní schránku
 
-Microsoft pro ukládání a synchronizaci položek k vydaných položkám aktuálně vyžaduje poštovní schránku Exchange Online. Protože společnost Microsoft vyžaduje Exchange, nemůžete používat aplikaci to do aplikace, dokud nebudete mít poštovní schránku Exchange Online. Plány, které jsou v současnosti podporované, zahrnují: Exchange Essentials, Exchange Online – terminál, Exchange Online – plán 1, Exchange Online (plán 1), Exchange Online (plán 2), Exchange Online (Microsoft) a Exchange Online POP.
+Microsoft To Do k ukládání a synchronizaci položek Exchange Online aktuálně vyžaduje poštovní schránku. Protože Microsoft To Do vyžaduje Exchange, nemůžete aplikaci To Do používat, dokud nemáte Exchange Online poštovní schránku. Aktuálně podporované plány: Exchange Essentials, Exchange Online Kiosk, Exchange Online Plán 1, Exchange Online (Plán 1), Exchange Online (Plán 2), Exchange Online (P1) a Exchange Online POP.
 
-V důsledku toho to, že v současné době nepodporují poštovní schránky v cloudu, zatím nepodporuje místní účty Exchange. Pracujeme na tom, abychom v budoucnu podporovali další typy účtů, ale mezitím vám pomůžete s Accessem kontaktovat svého správce IT.
+V důsledku toho To Do místní účty Exchange, pokud nemáte poštovní schránky v cloudu. V budoucnu pracujeme na podpoře dalších typů účtů, ale mezitím se obraťte na správce IT, který vám pomůže s přístupem.
