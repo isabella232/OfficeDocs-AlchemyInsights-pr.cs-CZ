@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895784"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325064"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Útočný trenažér v Microsoft 365
 
-- Chybí vám útočný trenažér? Útočný trenažér **vyžaduje Microsoft Defender pro Office 365 Plán 2** nebo Office 365 Enterprise **E5**. Attack Simulator není **součástí** programu Microsoft Defender for Office 365 Plan 1, Office 365 Enterprise E3 ani v Microsoft 365 Apps pro firmy předplatných.
+- Chybí vám útočný trenažér? Útočný **trenažér vyžaduje Microsoft Defender pro Office 365 Plán 2** nebo Office 365 Enterprise **E5.** V programu Microsoft Defender **for** Office 365 Plán 1, Office 365 Enterprise E3 nebo předplatných Microsoft 365 Apps pro firmy útoku.
 
 - Účet, který používáte ke spouštění simulovaných útoků, vyžaduje oprávnění globálního správce nebo správce zabezpečení a vícefaktorové ověřování (MFA). Další informace o požadavcích na útočný trenažér najdete v [tomto tématu](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -29,7 +29,7 @@ ms.locfileid: "57895784"
 
   - Pokud má cílový účet povolenou vícefaktorovou ověřování a heslo bylo správně uhodnuté, účet se nebude zobrazovat jako ohrožený (druhý faktor ověřování bude neúplný).
 
-  - Soubor hesla nemůže být větší než 10 MB. Použijte jedno heslo na řádek a za poslední heslo v seznamu zadejte prázdný řádek (návrat k řádku).
+  - Soubor hesla nemůže být větší než 10 MB. Použijte jedno heslo na řádek a za poslední heslo v seznamu zahrňte prázdný řádek (návrat k řádku).
 
 - Důležité informace o útoku **Spear Phishing** připojte k simulacím:
 

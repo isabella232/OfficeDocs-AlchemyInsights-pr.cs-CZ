@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5719"
-ms.openlocfilehash: 72eefe436b3ad138add0cf4fd72f912b69298bd93e4b352d5802f015ec94cbc3
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 58ac4e422c1c0693a55bf2dd2231dbcc567cd564
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897893"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323595"
 ---
 # <a name="recover-deleted-items-from-exchange-admin-center"></a>Obnovení odstraněných položek z Exchange Admin Center
 
@@ -29,4 +29,4 @@ V rámci zjednodušeného a [aktualizovaného](https://admin.exchange.microsoft.
     - Možná se budete muset podívat pod **... Další** rozevírací seznam zobrazíte **obnovení odstraněných položek**.
 4. Vyberte možnosti filtru, abyste našli položky, které potřebujete obnovit.
 
-Další informace najdete v tématu [Použití nového EAC k obnovení odstraněných zpráv](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).
+Další informace najdete v článku [Použití nového EAC k obnovení odstraněných zpráv](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/recover-deleted-messages#use-new-eac-for-recovering-deleted-messages).

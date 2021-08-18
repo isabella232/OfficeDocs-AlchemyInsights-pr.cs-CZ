@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 8698136c5d5505bae0d38ca5d416ee0ca0e27461d92dc3b41ce029cb383abfb8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1ce2e78f5ea6eaa8c1a7ecc2bfea9a017e3cbf5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53950946"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324121"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Přicházíte o to! Požádejte správce o povolení Microsoft Teams
 
 Pokud máte tenanta EDU, je potřeba povolit Microsoft Teams ručně. To můžete udělat tak, že Centrum pro správu Microsoftu 365 > **služby a** doplňky > Microsoft Teams . Pokud používáte nové centrum pro správu Teams, budete muset vypnout **** Vyzkoušejte nové centrum pro správu a vyhledejte služby a    **doplňky.** 
 
-**DŮLEŽITÉ:** Možná budete muset počkat až 24 hodin, než se změny projeví.
+**Důležité**: možná budete muset počkat až 24 hodin, než se změny projeví.

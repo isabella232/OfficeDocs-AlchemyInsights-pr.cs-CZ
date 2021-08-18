@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003562"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325456"
 ---
 # <a name="enable-cost-management"></a>Povolení správy nákladů
 
 **Co znamená "náklady jsou pro vaši organizaci zakázané"?**
 
-Organizace používající účty smlouva Enterprise (EA) nebo Microsoft Customer Agreement (MCA) mohou zakázat přístup k informacím o nákladech a cenám.
+Organizace používající smlouva Enterprise (EA) nebo microsoft customer agreement (MCA) mohou zakázat přístup k informacím o nákladech a cenám.
 
 Po přihlášení k webu Azure Portal mohou pomocí rozhraní API pro fakturaci programově získat faktury (po přihlášení) a podrobnosti o využití.
 
@@ -34,8 +34,7 @@ Po přihlášení k webu Azure Portal mohou pomocí rozhraní API pro fakturaci 
 2. Vyberte **Faktury a** pak Access k **fakturám**.
 3. Pokud chcete uživatelům v rolích s rozsahem předplatného povolit stahování faktur, zapněte přístup a pak změny ukládáte.
 
-> [!NOTE]
-> Správce účtu taky může nakonfigurovat, aby se faktury posílaly e-mailem. Další informace najdete v tématu [Získání faktury e-mailem](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+**Poznámka:** Správce účtu může taky nakonfigurovat, aby se faktury posílaly e-mailem. Další informace najdete v tématu [Získání faktury e-mailem](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
 **Přidání uživatelů do role Čtečka fakturace**
 

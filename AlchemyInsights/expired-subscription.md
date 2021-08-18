@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895880"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325288"
 ---
 # <a name="expired-subscription"></a>Vypršela platnost předplatného
 
@@ -30,8 +30,7 @@ Zdá se, že máte jedno nebo více předplatných s ukončenou platností. Poku
   
 1. V Centru pro správu přejděte na stránku **Fakturace** \> [vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
 2. Na kartě **Produkty** najděte předplatné, které chcete znovu aktivovat. Vyberte tři tečky (další akce) a pak vyberte **Znovu aktivovat toto předplatné.**
-    > [!NOTE]
-    > Pokud toto předplatné nevidíte **znovu aktivovat,** zavolejte na podporu.
+    **Poznámka:** Pokud nevidíte znovu aktivovat toto **předplatné,** zavolejte na podporu.
 3. V podokně **Znovu aktivovat toto** předplatné vyberte v rozevíracím seznamu způsob platby nebo vyberte Přidat způsob **platby**.
 4. Vyberte **Uložit**.
 

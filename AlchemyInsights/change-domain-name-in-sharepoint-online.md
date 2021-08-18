@@ -1,5 +1,5 @@
 ---
-title: Změna názvu domény v SharePointu Online
+title: Změna názvu domény v SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: c45ee866ea5972199ed2539d61013a4f55c493eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f33ee5530d15fb32f74e6c41149ae1abedfb60396287113c59c6b4dc3af24017
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119817"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Změna názvu domény v SharePointu Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Změna názvu domény v SharePoint Online
 
-Bohužel není možné změnit název domény SharePointu Online pro vaši organizaci. Pokud se například název vaší organizace změní z "contoso" na "čtvrtá káva", nemůžete změnit contoso.sharepoint.com na fourthcoffee.sharepoint.com.
+Bohužel není možné změnit název domény SharePoint Online pro vaši organizaci. Pokud se třeba název vaší organizace změní z "Contoso" na "Fourth Coffee", nemůžete změnit název contoso.sharepoint.com na fourthcoffee.sharepoint.com.
   
-Pokud chcete použít název domény fourthcoffee.sharepoint.com, musíte si koupit nové předplatné a přesunout všechny e-maily, soubory a další data, která chcete mít v novém předplatném.
+Pokud chcete použít název domény fourthcoffee.sharepoint.com, musíte si koupit nové předplatné a přesunout všechny e-maily, soubory a všechna další data, která chcete zachovat, do nového předplatného.
   
- **Poznámka**: Chcete-li například změnit název webu z https://contoso.sharepoint.com/sites/sample1 na https://contoso.sharepoint.com/sites/sample2 , postupujte podle pokynů v [tomto článku](https://docs.microsoft.com/sharepoint/change-site-address). 
+ **Poznámka:** Pokud třeba chcete změnit název webu z https://contoso.sharepoint.com/sites/sample1 na , postupujte podle pokynů v tomto https://contoso.sharepoint.com/sites/sample2 [článku](https://docs.microsoft.com/sharepoint/change-site-address). 
   
-Informace o přesouvání položek v knihovnách dokumentů najdete v článku [přesunutí nebo zkopírování položek z knihovny dokumentů SharePointu](https://go.microsoft.com/fwlink/?linkid=2025831).
+Informace o přesouvání položek v knihovnách dokumentů najdete v tématu Přesunutí nebo zkopírování [položek SharePoint knihovny dokumentů](https://go.microsoft.com/fwlink/?linkid=2025831).
   

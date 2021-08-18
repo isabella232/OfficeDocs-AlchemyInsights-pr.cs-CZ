@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 20d241947c356b3d2b9f050f88de8af1d370d799
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901017"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323697"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Zakoupení programu Microsoft Defender pro Office 365
 
-Program Microsoft Defender pro Office 365 je součástí určitých předplatných, jako jsou Microsoft 365 E5, Office 365 E5, Office 365 A5 a Microsoft 365 Business Premium. Pokud vaše předplatné neobsahuje microsoft defender pro Office 365, můžete si koupit [Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) pro Office 365 jako doplněk k určitému předplatnému. Nákup v Centrum pro správu Microsoftu 365:
+Microsoft Defender pro Office 365 je součástí určitých předplatných, jako jsou Microsoft 365 E5, Office 365 E5, Office 365 A5 a Microsoft 365 Business Premium. Pokud vaše předplatné neobsahuje Program Microsoft Defender pro Office 365, můžete si koupit [Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) pro Office 365 jako doplněk k určitému předplatnému. Nákup v Centrum pro správu Microsoftu 365:
 
 1. V Centru pro správu přejděte na stránku **Služby nákupu**  >  [fakturace.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. V dolní části stránky **Koupit** služby  v části Doplňky najděte doplněk Microsoft Defender pro Office 365 a vyberte **Podrobnosti**.
