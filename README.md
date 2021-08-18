@@ -1,3 +1,3 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source Code of Conduct
-Tento projekt přijal etický [kodex microsoftového open source kódu](https://opensource.microsoft.com/codeofconduct/).
-Další informace najdete v [častých otázkách týkajících](https://opensource.microsoft.com/codeofconduct/faq/) se kodexu chování [nebo](mailto:opencode@microsoft.com) opencode@microsoft.com s dalšími dotazy nebo komentáři.
+Tento projekt přijal etický [kód Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
+Další informace najdete v [častých](https://opensource.microsoft.com/codeofconduct/faq/) otázkách týkajících se kodexu chování [nebo](mailto:opencode@microsoft.com) opencode@microsoft.com s dalšími dotazy nebo komentáři.

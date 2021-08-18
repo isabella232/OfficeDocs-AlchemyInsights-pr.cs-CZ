@@ -12,23 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9ed0c5f350138e9745a87d6f5a90f11e7ce4b279
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53973834"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338953"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Oprávnění vyžadovaná pro vyhledávání v eDiscovery
 
-Pokud chcete provádět vyhledávání obsahu v Centru dodržování předpisů zabezpečení &, musí být uživatel aspoň členem skupiny rolí Správce eDiscovery, která jim umožňuje provádět vyhledávání a umístění blokování poštovních schránek, webů SharePoint a OneDrive umístění. Členové taky mohou vytvářet a spravovat případy eDiscovery, přidávat a odebírat členy do případu, vytvářet a upravovat vyhledávání obsahu a přistupovat k datům případu v Advanced eDiscovery.
+Pokud chcete v Centru zabezpečení & obsahu provádět xearches, musí být uživatel aspoň členem skupiny rolí Správce eDiscovery.
 
-Pokud chcete In-Place eDiscovery v Centru pro správu Exchange (EAC), musí být uživatel členem skupiny rolí Správa zjišťování v Exchange Online.
+Pokud chcete provádět vyhledávání obsahu v Centrum dodržování předpisů Microsoftu 365, musí být uživatel aspoň členem skupiny rolí Správce eDiscovery.  
 
-Další informace o oprávněních eDiscovery najdete v těchto článku: 
+Přiřazení oprávnění:
 
-- [Přiřazení oprávnění eDiscovery v Centru & dodržování předpisů](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
-
-- [Přiřazení oprávnění eDiscovery v Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+1. Přejděte na [Centrum dodržování předpisů Microsoftu 365](https://compliance.microsoft.com/)  >  **Oprávnění**.
+1. V **části Centrum dodržování** předpisů vyberte **Role** a pak vyberte **Správce eDiscovery**.
+1. V plovoucím seznamu přidejte uživatele k  požadované roli tak, že vedle správce eDiscovery nebo role správce eDiscovery vyberete Upravit.
 
 **Poznámka:** Po přiřazení oprávnění eDiscovery budete možná muset několik minut počkat, než se oprávnění rozšíří.
+
+Další informace o oprávněních eDiscovery najdete v tématu Přiřazení [oprávnění k eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)v Centrum dodržování předpisů Microsoftu 365 .

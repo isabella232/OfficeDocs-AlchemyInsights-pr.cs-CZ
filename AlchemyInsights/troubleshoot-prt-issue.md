@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a005c4a6848bbf0725560375df1220ce906cbb5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972709"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330952"
 ---
 # <a name="troubleshoot-prt-issue"></a>Poradce při potížích s PRT
 
@@ -31,11 +31,10 @@ Proces registrace hybridního připojení k Azure AD vyžaduje, aby zařízení 
 Tento registrační tok se taky označuje jako "Synchronizovat spojení".
 
 1. Windows 10 zjistí záznam SCP po přihlášení uživatele k zařízení.
-    1. Zařízení se nejdřív pokusí načíst informace o tenantovi ze SCP na straně klienta v registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Další informace najdete v tomto [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. Zařízení se nejdřív pokusí načíst informace o tenantovi z klienta SCP v registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Další informace najdete v tomto [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
     2. Pokud se to nepodaří, zařízení komunikuje s místní službou Active Directory (AD), aby se informace o tenantovi dostaly z spojovacího bodu služby (SCP). Pokud chcete ověřit SCP, přečtěte si prosím tento [dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
 
-> [!NOTE]
-> Doporučujeme povolit SCP ve službě AD a k počátečnímu ověření používat jenom SCP na straně klienta.
+**Poznámka:** Doporučujeme povolit SCP ve službě AD a k počátečnímu ověření používat jenom SCP na straně klienta.
 
 2. Windows 10 se snaží komunikovat s Azure AD v kontextu systému a ověřit se v Azure AD. Pomocí skriptu Připojení k registraci testovacího zařízení můžete ověřit, jestli má zařízení přístup k prostředkům Microsoftu pod systémovým účtem.
 
@@ -47,8 +46,7 @@ Tento registrační tok se taky označuje jako "Synchronizovat spojení".
 
 6. Při příštím přihlášení uživatele k Windows 10 se registrace dokončí. 
 
-> [!NOTE]
-> Pokud používáte VPN a proces odhlášení ukončí připojení domény, můžete registraci spustit ručně:
+**Poznámka:** Pokud používáte VPN a proces odhlášení ukončí připojení domény, můžete registraci spustit ručně:
  1. Vyděste dsregcmd /join místně na výzvu správce nebo vzdáleně přes PSExec do počítače. Například PsExec -s \\ win10client01 cmd, dsregcmd /join
 
  2. Další podrobnosti o problémech s hybridním připojením najdete v tématu [Řešení potíží se zařízeními.](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344)

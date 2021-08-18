@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963780"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339025"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Přidání a správa správců – doporučené kroky
 
@@ -57,7 +57,7 @@ Správce služby nebo spoluse správce může tuto akci samoobslužně provést 
 
 Můžete přidat nové uživatele nebo odstranit stávající uživatele z vaší Azure Active Directory (Azure AD):
 
-1. Pokud chcete přidat nového uživatele, přihlaste se na [portál Azure portal](https://ms.portal.azure.com/#home) jako správce uživatele organizace.
+1. Pokud chcete přidat nového uživatele, přihlaste se na [portál Azure portal](https://ms.portal.azure.com/#home) jako správce uživatele pro organizaci.
 2. Vyberte **Azure Active Directory**, vyberte **Uživatelé a** potom klikněte na Nový **uživatel**.
 3. Na **stránce Uživatel** vyplňte požadované informace. Klikněte **na Vytvořit.** Uživatel se vytvoří a přidá do vašeho tenanta Azure AD.
 
@@ -75,7 +75,7 @@ Můžete přidat nové uživatele nebo odstranit stávající uživatele z vaš�
 - [Kurz: Udělení přístupu uživateli pomocí RBAC a portálu Azure Portal](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Řešení potíží s RBAC v Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Uspořádání zdrojů pomocí skupin pro správu Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Jak požádat o kopii faktury Azure e-mailem](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Jak požádat o kopii faktury Azure e-mailem](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Přidání, aktualizace nebo odebrání platební nebo debetní karty z Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Správa předplatného (opětovná aktivace/zrušení/přepnutí)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 

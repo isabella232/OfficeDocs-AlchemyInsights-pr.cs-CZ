@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0ad0a26430168ea26ad08a5faf911c0fc439588f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892592"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333060"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams –  Audiokonference
 
 Potřebujete pomoc s zapnutím nebo nastavením [audiokonferencí pro Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Byl uživatel nedávno vytvořen? Pokud ano, bude trvat několik hodin, než se nastavení projeví.
 
-Pokud [jste si koupili licence,](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)ověřte, že uživatel má licenci na Microsoft 365 audiokonferencí a má výchozí číslo mýtného.
+Pokud [jste si koupili licence,](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)ověřte, že uživatel má licenci Microsoft 365 audiokonferencí a má výchozí číslo mýtného.
 
 1. Přejděte na [Aktivní uživatelé](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) a vyberte daného uživatele.
 
 2. V závislosti na verzi centra pro správu vyberte buď **Licence a aplikace**, nebo klikněte na možnost **Upravit** v záložce **Licence na produkty**.
 
-3. Ověřte, že uživatel má vybrané licence pro Microsoft 365 **audiokonference, Microsoft Teams** a **Skype pro firmy Online (plán 2).** Pokud licence **Microsoft 365 audiokonference** není k dispozici, budete si muset nejdřív koupit přidat [licence.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
+3. Ověřte, že uživatel má vybrané licence pro Microsoft 365 **audiokonference, Microsoft Teams** a **Skype pro firmy Online (plán 2).** Pokud licence **Microsoft 365 Audio Conferencing** není k dispozici, budete si muset nejdřív koupit add [on licenses.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
 4. V **centru pro správu** uživatele klikněte na **Zobrazit vše** a pak na **Teams**.
 

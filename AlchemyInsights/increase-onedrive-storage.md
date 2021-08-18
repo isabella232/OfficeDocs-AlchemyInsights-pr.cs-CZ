@@ -1,26 +1,29 @@
 ---
-title: Zvýšení úložiště OneDrive
+title: Zvýšení OneDrive Storage
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000354"
 - "6214"
-ms.openlocfilehash: 6c22e94cf98c4dad6e6d68a7c4a8c2eeecb1a0bb
-ms.sourcegitcommit: 5a76ffd17b09b1f4daf041fbc08a6512172198a6
+ms.openlocfilehash: b3249629c0c2ed7799c16a6ac37d3bd26a5e2700
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46871652"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58338917"
 ---
-# <a name="increase-onedrive-storage"></a>Zvýšení úložiště OneDrive
+# <a name="increase-onedrive-storage"></a>Zvýšení OneDrive Storage
 
-Jako globální správce nebo správce SharePointu v Microsoft 365 můžete nastavit prostor úložiště OneDrive pro určitého uživatele přímo z centra pro správu Microsoftu.  
+Jako globální nebo SharePoint správce Microsoft 365 můžete nastavit OneDrive úložiště pro konkrétního uživatele přímo z Centra pro správu Microsoftu.  
 
-Další informace najdete v článku [Změna prostoru úložiště OneDrivu určitého uživatele](https://docs.microsoft.com/onedrive/change-user-storage).
+Další informace najdete v tématu Změna volného místa OneDrive [uživatele.](https://docs.microsoft.com/onedrive/change-user-storage)
+
+**Poznámka:** Pokud chcete potvrdit úložiště dostupné pro uživatele ve vaší organizaci, podívejte se na [úplnou tabulku porovnání předplatného](https://go.microsoft.com/fwlink/?linkid=2139145). 

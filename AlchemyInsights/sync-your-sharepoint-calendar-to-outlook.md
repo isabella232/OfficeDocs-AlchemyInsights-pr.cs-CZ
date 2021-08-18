@@ -1,5 +1,5 @@
 ---
-title: Synchronizace SharePoint kalendáře Outlook
+title: Synchronizace SharePoint kalendáře s Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca2ec22177b3fbe2ba4d82ae7482e3a1dcc00a37
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54008872"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331652"
 ---
 # <a name="issues-synchronizing-your-calendar-to-devices"></a>Problémy se synchronizací kalendáře se zařízeními
 
@@ -31,7 +31,6 @@ Pokud chcete synchronizovat SharePoint kalendář Outlook, postupujte takto:
 3. V nabídce klasického pásu karet klikněte na **Kalendář** a potom **klikněte Připojení na Outlook.**
 4. V místní nabídce s žádostí o potvrzení synchronizace klikněte na **Povolit.**
 
->[!Note]
-> Když v synchronizované kalendáři změníte Outlook, zobrazí se v kalendáři SharePoint a naopak.
+**Poznámka:** Když v synchronizované kalendáři změníte Outlook, zobrazí se v kalendáři SharePoint a naopak.
 
 Další informace o skupinách Microsoft 365 najdete v tomto [článku](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002548"
 - "5149"
-ms.openlocfilehash: 7926d77a8c5fab6f2f42d29a00e556aa630c2bfe40e89317c14e12e4033961fb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48e8961164a36f3bf95ff40b2abc7c42f86b49f2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874344"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332106"
 ---
 # <a name="exchange-license-management"></a>Správa licencí Exchange
 
