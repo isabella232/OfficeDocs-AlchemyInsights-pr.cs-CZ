@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ae0061651012e12ec5792c4c27df99c0092141ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003607"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326498"
 ---
 # <a name="e-mail-invoice---legacy"></a>E-mailová faktura – starší verze
 
@@ -52,5 +52,4 @@ Pokud chcete uživatelům/skupinám s přístupem na úrovni předplatného povo
 4. Vyberte své předplatné Azure a klikněte na **Povolit ostatním stahování faktur**.
 5. Nahoře na stránce vyberte **Povolit** a pak **Uložit**.
 
-> [!NOTE]
-Pokud nejste správcem účtu, obraťte se na správce účtu a postupujte podle výše uvedených pokynů a požádejte o přihlášení, přidání příjemců nebo povolení dalších uživatelů ke stažení faktury.
+**Poznámka:** Pokud nejste správcem účtu, obraťte se na správce účtu a postupujte podle výše uvedených pokynů a požádejte o přihlášení, přidání příjemců nebo povolení dalších uživatelů, aby si fakturu stáhli.

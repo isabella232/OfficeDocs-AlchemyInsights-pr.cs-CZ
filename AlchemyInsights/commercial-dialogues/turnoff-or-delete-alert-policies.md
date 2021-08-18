@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 5dddd01139d40f4ce97e0e8a18c1a98ac9dbd8aefd01ca7f27c9b30eb532701a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: edc41ecc9db1b3d163d1b44a669dd72fcdfef3ab
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090916"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326688"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>Vypnutí nebo odstranění zásad upozornění
 
 Tady je postup:
 
-1. Přejděte do [Centra Office 365 zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Vyberte **Upozornění**  >  [na zásady upozornění](https://go.microsoft.com/fwlink/?linkid=2103208).
-1. Pokud se jedná o vlastní zásadu, vyberte ji ze seznamu a pak vyberte **Odstranit zásadu**. Více vlastních zásad najednou můžete povolit, zakázat nebo odstranit tak, že ze seznamu vyberete víc než jednu.
+1. Proveďte jednu z následujících akcí:
+   - V Centrum dodržování předpisů Microsoftu 365 v části Upozornění přejděte na Zásady <https://compliance.microsoft.com>  \>  upozornění.  Pokud chcete přejít přímo na stránku **zásad** upozornění, použijte <https://compliance.microsoft.com/alertpolicies> .
+   - Na portálu Microsoft 365 Defender na <https://security.microsoft.com> adrese přejděte na **Zásady & pravidla** \> **upozornění.** Pokud chcete přejít přímo na stránku **zásad** upozornění, použijte <https://security.microsoft.com/alertpolicies> .
+2. Pokud se jedná o vlastní zásadu, vyberte ji ze seznamu a pak vyberte **Odstranit zásadu**. Více vlastních zásad najednou můžete povolit, zakázat nebo odstranit tak, že ze seznamu vyberete víc než jednu.
 
-> [!NOTE]
-> Pokud se jedná o systémovou zásadu, nemůžete ji odstranit, ale můžete ji povolit nebo zakázat a pak vytvořit novou zásadu, aby vyhovovala vašim potřebám.
+**Poznámka:** Pokud se jedná o systémovou zásadu, nemůžete ji odstranit, ale můžete ji povolit nebo zakázat a pak vytvořit novou zásadu, aby vyhovovala vašim potřebám.

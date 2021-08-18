@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7396ea1d863956e151f238e471e14eafa43f1881
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898313"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326826"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Vyhledání konkrétní zprávy v karanténě
 
-1. Na portálu Microsoft 365 Defender na <https://security.microsoft.com> webu přejděte na **Karanténa & kontrola spolupráce e-mailem.** \>  \> 
+1. Na portálu Microsoft 365 Defender na <https://security.microsoft.com> webu přejděte na **Email & Collaboration** \> **Review** \> **Quarantine**.)
 
    Pokud chcete přejít přímo na **stránku Karanténa,** použijte <https://security.microsoft.com/quarantine> .
 

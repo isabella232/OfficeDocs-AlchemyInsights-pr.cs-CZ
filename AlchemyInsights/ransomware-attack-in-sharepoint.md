@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893188"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327514"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Útok ransomwaru v SharePoint nebo OneDrive
 
-1.  Pokud hledáte nápovědu k tomu, co dělat, když se na vašem OneDrive nebo SharePoint nebo Teams nachází škodlivý soubor, podívejte se na informace v tématu Co dělat, když se nachází škodlivý [soubor.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
+1.  Pokud hledáte nápovědu k tomu, co dělat, když se na vašem OneDrive nebo SharePoint nebo Teams nachází škodlivý soubor, podívejte se na informace v tématu Co dělat, když je nalezen škodlivý [soubor.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
 2. Pokud hledáte způsob ochrany dat před ransomwarem, podívejte se na tyto informace:
     - [Ochrana dat v SharePoint a OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Ochrana před hrozbami ransomwaru](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
 3.  Jsou všechny soubory na vašem OneDrive nebo SharePoint ransomwaru nebo malwaru nebo kryptografických virů? 
 
-Okamžitě zastavte nebo pozastavte zobrazení OneDrive Synchronizace (pokud nějaké) nebo odpojte zobrazení Průzkumníka mapované na knihovnu z postiženého počítače (pokud je k dispozici) a pak můžete obnovit celou knihovnu OneDrive nebo SharePoint do předchozího času pomocí funkce obnovení souborů. 
+Okamžitě zastavte nebo pozastavte zobrazení OneDrive Synchronizace (pokud je k dispozici) nebo odpojte zobrazení Průzkumníka mapované na knihovnu z postiženého počítače (pokud je k dispozici) a pak můžete obnovit celou knihovnu OneDrive nebo SharePoint do předchozího času pomocí funkce obnovení souborů. 
 
 Další informace o tom, jak obnovit, najdete v těchto článku:
 

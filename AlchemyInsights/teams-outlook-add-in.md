@@ -14,22 +14,22 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 5af0a042e1ffb686899c9e777fc7ff2a14ad7ecfb8f0d42f529a7ddc449978e6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1216eb60a4a2f0d4d8f67c8284f15539e3ab3ca5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901209"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325892"
 ---
 # <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook (Sdílet do Teams , Sejít se hned, Nová Teams schůzka, Připojit se Teams schůzky)
 
 ## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Řešení potíží s chybějícím Teams Outlook doplňku
 
-1. Spusťte diagnostickou chybu "Doplněk pro tým chybí v Outlook", který ověřuje, že uživatel má správné zásady, aby Teams Outlook doplněk povolit. Pokud chcete získat přístup k diagnostice, zadejte **Diag: Teams doplněk chybí v Outlook** do vyhledávacího pole.
+1. Spusťte diagnostiku "Doplněk týmu chybí v aplikaci Outlook", což ověří, že uživatel má správné zásady, které Teams Outlook doplněk povolit. Pokud chcete získat přístup k diagnostice, zadejte **Diag: Teams doplněk chybí v Outlook** do vyhledávacího pole.
 
-1. Pokud diagnostika služby indikuje žádné problémy, diagnostikujte a opravte všechny problémy klienta na počítačích uživatelů, kterých se to týká, stažením a spuštěním scénáře doplňku [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook.**
+1. Pokud Diagnostika služeb indikuje žádné problémy, diagnostikujte a opravte všechny [](https://aka.ms/SaRA-TeamsAddInScenario)problémy klienta na počítačích uživatelů, kterých se to týká, stažením a spuštěním Support and Recovery Assistant  >  **Teams Outlook doplňku** Microsoft .
 
-Pokud chcete ručně vyřešit Teams Outlook doplňku, zkontrolujte seznam potenciálních faktorů, které můžou způsobit, že se Teams doplněk nezobrazí. Další informace najdete v tématu Teams doplněk Schůzka v Outlook pro Windows se [nezohlédněte.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+Pokud chcete ručně vyřešit Teams Outlook, zkontrolujte seznam potenciálních faktorů, které můžou způsobit, že se Teams doplněk nezobrazí. Další informace najdete v tématu Teams doplněk Schůzka [v Outlook pro Windows se nezokoumá.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
 ## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Řešení potíží s plánováním Teams schůzky jménem někoho jiného (delegáta)
 

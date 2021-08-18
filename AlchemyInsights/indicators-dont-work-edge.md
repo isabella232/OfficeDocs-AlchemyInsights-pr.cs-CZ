@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11230"
 - "9005470"
-ms.openlocfilehash: ff7a2ee4c97c579422c7679c461f6fb288a9235ff9056be1c56e80b1d6379723
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2a48a49ec52a585e450edf448bc9203cd9c3f935
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887433"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326254"
 ---
 # <a name="indicators-dont-work-using-edge-browser"></a>Indikátory nefungují v prohlížeči Edge
 
 Po vytvoření indikátoru ho Edge (Smartscreen) nebude ctít. Další informace najdete v tématu Vytvoření indikátorů pro IP adresy a [adresy URL/domény](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/indicator-ip-domain).
 
-## <a name="step-1-ensure-the-following"></a>Krok 1: Zkontrolujte následující:
+## <a name="step-1-ensure-the-following"></a>Krok 1: Ujistěte se, že jste na následujícím kroku:
 
 - Ověřte, jestli je indikátor správný (žádné překlepy v IP/URL, správná akce, správné skupiny RBAC).
 - Počkejte minimálně 2 hodiny po vytvoření indikátoru, aby se zohlednila jakákoli možná latence.

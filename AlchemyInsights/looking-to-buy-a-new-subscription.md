@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: commerce_purchasing
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: ae9e8990e826a0cc0f6505dc6c0f2083599cd4866c7f4338d4a1c67568083616
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 9a58e263201ae272f51e75bdb0a3826ae236f59e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895440"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326218"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Chcete si koupit nové předplatné?
 
@@ -37,4 +37,4 @@ Pokud už máte předplatné Microsoft 365 pro firmy a chcete si koupit další 
     
 - [Zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Pokud máte zájem o přepnutí předplatných, podívejte se na stránku Přechod na jiný [plán Microsoft 365 pro firmy.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Pokud máte zájem o přepínání předplatných, podívejte se na stránku Přechod na jiný [plán Microsoft 365 pro firmy.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

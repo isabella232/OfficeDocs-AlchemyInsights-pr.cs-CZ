@@ -16,15 +16,15 @@ ms.custom:
 - "335"
 - "1500009"
 ms.assetid: 22f7af2f-85b5-405b-9116-50abe531b023
-ms.openlocfilehash: 62ab2fc121658b106eee4807edae6f291269cab3e4c844565acc3dbce949b3c0
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 450734781a0db054082535aff9b6af8417aeb24b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499901"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326290"
 ---
 # <a name="how-to-purchase-office-365-education-plans"></a>Jak koupit Office 365 Education plány
 
 Vaši žádost jsme si prohlédli a zjistili jsme, že tato organizace není oprávněná jako kvalifikovaná akademická instituce Microsoftu. Platnost vašich aktuálních nabídek akademické zkušební verze vyprší na konci zkušebního období.
   
-Pokud chcete Microsoft 365 koupit komerčně, přečtěte si [prosím dostupné nabídky](https://go.microsoft.com/fwlink/p/?linkid=868433).  
+Pokud si chcete Microsoft 365 obchodně koupit, podívejte se na [dostupné nabídky](https://go.microsoft.com/fwlink/p/?linkid=868433).  

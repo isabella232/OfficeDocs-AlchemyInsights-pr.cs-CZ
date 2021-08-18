@@ -14,18 +14,18 @@ ms.custom:
 - commerce_billing
 - "9002612"
 - "5073"
-ms.openlocfilehash: 0a160b0caba0098ce678872ae54df7b6ad69e78cba4eac85ac15567f2e75a8c7
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a99f93ef4858a19de2d134a882a34867795afd4e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891524"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327060"
 ---
 # <a name="change-payment-method-fromto"></a>Změna způsobu platby (oba směry)
 
 1. **Změna z platby fakturou na platbu platební kartou nebo převodem z účtu**
 
-    - Nemůžete se automaticky změnit z placení fakturou na platbu jiným způsobem platby. Místo toho si musíte koupit jiné předplatné placené platební kartou [](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)nebo bankovním účtem, přesunout všechny uživatele do nového předplatného [a](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) zrušit [staré předplatné](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+    - Nemůžete se automaticky změnit z placení fakturou na platbu jiným způsobem platby. Místo toho musíte koupit jiné předplatné placené platební kartou nebo [](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)bankovním účtem, přesunout všechny uživatele do nového předplatného [a](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) zrušit [staré předplatné](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 2. **Změna z platby platební kartou nebo převodem z účtu na platbu fakturou**
 

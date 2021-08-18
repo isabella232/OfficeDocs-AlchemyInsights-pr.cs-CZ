@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4698a2eaaca196673dcf227405dcca1bfa441ea7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030229"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326534"
 ---
 # <a name="eligible-services-and-plans-for-fasttrack"></a>Oprávněné služby a plány pro FastTrack
 
-Díky výhodě Programu FastTrack Center pro Office 365 můžete pracovat na dálku s specialisty fasttracku ( bez dalších nákladů ) a připravit Office 365 prostředí k použití. Specialisté fasttracku vám po zakoupení aspoň 150 licencí pomůžou.
+S výhodou FastTrack Center pro Office 365 můžete pracovat na dálku s specialisty FastTrack (bez dalších nákladů) a připravit Office 365 prostředí k použití. FastTrack Specialisté vám po zakoupení aspoň 150 licencí pomůžou.
 
-Pokud chcete získat nápovědu prostřednictvím portálu FastTrack, přihlaste se na portál [FastTrack a](https://go.microsoft.com/fwlink/?linkid=2125443) podle pokynů vyplňte formulář Žádost o pomoc **s Microsoft 365.**
+Pokud chcete získat nápovědu prostřednictvím portálu FastTrack, přihlaste se na [portál FastTrack a](https://go.microsoft.com/fwlink/?linkid=2125443) podle pokynů vyplňte formulář Žádost o pomoc s **Microsoft 365.**
 
-> [!NOTE]
-> Pokud máte problémy s přihlášením nebo potřebujete další pomoc, pošlete e-mail ftcrfa@microsoft.com [.](mailto:ftcrfa@microsoft.com)
+**Poznámka:** Pokud máte problémy s přihlášením nebo potřebujete další pomoc, pošlete e-mail ftcrfa@microsoft.com [.](mailto:ftcrfa@microsoft.com)
 
-Existuje celá řada plánů, které mají nárok na FastTrack pro různá odvětví, od podnikových firem až po vzdělávací instituce.
+Existuje celá řada plánů FastTrack pro různá odvětví, od podnikových firem po vzdělávací instituce.
 
 Další informace najdete v tématu [Oprávněné Microsoft 365 plány](https://go.microsoft.com/fwlink/?linkid=2125459).
 
