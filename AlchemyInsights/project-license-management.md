@@ -15,22 +15,22 @@ ms.custom:
 - commerce_licensing
 - "9002424"
 - "5105"
-ms.openlocfilehash: 56614aa6e63f9ac57c9020b759f996ae99a1d1ce74d17cd8db9b6a8a31c49fc4
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 8b787e3229e7e1c457d1afb2809b55fa762083cc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500297"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318153"
 ---
 # <a name="project-license-management"></a>Správa licencí Projectu
 
 Správu licencí Projectu můžete dokončit v **centru pro správu Microsoftu 365**.
 
 - Na stránce [Porovnání řešení pro řízení projektů](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software) najdete informace o rozdílech mezi předplatnými **Project Plan 1, 3 a 5**.
-- Pokud chcete **zakoupit** Project, přejděte na **Fakturace > [Koupit služby](https://go.microsoft.com/fwlink/p/?linkid=868433)**.. Pomocí vyhledávacího pole najděte „Project“, vyberte plán a počet uživatelů. Další informace získáte v tématu [Nákup jiného předplatného](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
-- Pokud chcete **změnit plán**, přečtěte si článek [Upgrade na jiný plán](/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Pokud chcete **přiřadit** licence Projectu uživatelům, přejděte na **Fakturace > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Další informace najdete v článku [Přiřazení licencí uživatelům](/microsoft-365/admin/manage/assign-licenses-to-users).
-- Pokud chcete **Přidat či odebrat** licence na Project, přejděte na **Fakturace > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Další informace najdete v článku [Přidání či odebrání licencí](/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
-- Pokud chcete **zrušit** předplatné Projectu přejděte na **Fakturace > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vyberte předplatné a v sekci **Nastavení předplatného a plateb** vyberte **Zrušit předplatné**. Další informace najdete v článku [Zrušení předplatného](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Pokud chcete **zakoupit** Project, přejděte na **Fakturace > [Koupit služby](https://go.microsoft.com/fwlink/p/?linkid=868433)**.. Pomocí vyhledávacího pole najděte „Project“, vyberte plán a počet uživatelů. Další informace získáte v tématu [Nákup jiného předplatného](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Pokud chcete **změnit plán**, přečtěte si článek [Upgrade na jiný plán](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Pokud chcete **přiřadit** licence Projectu uživatelům, přejděte na **Fakturace > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Další informace najdete v článku [Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Pokud chcete **Přidat či odebrat** licence na Project, přejděte na **Fakturace > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Další informace najdete v článku [Přidání či odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
+- Pokud chcete **zrušit** předplatné Projectu přejděte na **Fakturace > [Vaše produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**, vyberte předplatné a v sekci **Nastavení předplatného a plateb** vyberte **Zrušit předplatné**. Další informace najdete v článku [Zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-Další informace najdete v článku [Přidání či odebrání licencí](/microsoft-365/commerce/licenses/buy-licenses).
+Další informace najdete v článku [Přidání či odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

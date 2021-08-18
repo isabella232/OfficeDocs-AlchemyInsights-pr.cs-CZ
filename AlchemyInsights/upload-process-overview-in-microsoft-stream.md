@@ -13,12 +13,12 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5095"
-ms.openlocfilehash: 1bdf1c254fbc4b7f17560cfd414a5fedfffeb3a99af2458e1c8f0a889ddd97bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2bbf6dcdb743cc5c04ccf57fc8d344ac62db80d5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896856"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317873"
 ---
 # <a name="upload-process-overview-in-microsoft-stream"></a>Upload procesu v Microsoft Streamu
 

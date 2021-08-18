@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 76921d4111f8e5f268ea5a2196e0a209b5dbe16d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4e46bc1384051ff184a2ead669c495ea455b226263e0be30b37a339151d810a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090333"
 ---
 # <a name="schedule-a-meeting-in-teams"></a>Naplánování schůzky v Teams
 
-**Důležité:** Pokud máte problémy s vytvořením schůzky nebo nemůžete najít možnost schůzky v Teams, ujistěte se, že ovlivnění uživatel(é) má povolenou poštovní schránku Exchange v podporované verzi pro Microsoft Teams. I když se doporučuje Exchange Online, místní poštovní schránky Exchange jsou podporované v systému Exchange Server 2016 CU3 nebo novějším s OAuth úspěšně nakonfigurovanou mezi online a místním serverem. Další informace najdete v tématu [Vytvoření poštovních](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) schránek uživatelů v Exchange Online a Požadavky na [poštovní schránky hostované místně](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
+**Důležité:** Pokud máte problémy s vytvořením schůzky nebo nemůžete najít možnost schůzky v aplikaci Teams, ujistěte se, že ovlivnění uživatel(é) mají povolenou poštovní schránku Exchange v podporované verzi pro Microsoft Teams. I Exchange Online se doporučuje Exchange místní poštovní schránky podporované v cu3 Exchange Server 2016 nebo novějším s OAuth úspěšně nakonfigurovanou mezi online a místním. Další informace najdete v tématu Vytvoření poštovních schránek uživatelů [v Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) a Požadavky na poštovní [schránky hostované místně](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
 1. Schůzku můžete naplánovat tak, že vyberete:
 
@@ -29,12 +29,12 @@ ms.locfileid: "51815968"
 
     - **Ikona** kalendáře na levé straně aplikace. Buď v **pravém horním rohu** vyberte Nová schůzka, nebo vyberte rozsah času v kalendáři a otevřete tak plánovací formulář.
 
-2. Podobně jako při plánování schůzky v Outlooku dáte schůzce název, pozvete lidi a přidáte podrobnosti o schůzkách.
+2. Podobně jako plánování schůzky v Outlook, dáte schůzce název, pozvete lidi a přidáte podrobnosti o schůzkách.
 
 3. Na pravé straně formuláře pro plánování můžete přidat kanál nebo jednotlivé lidi nebo nechat obě prázdné, aby naplánujte soukromou událost.
 
-Další informace o vytváření a plánování schůzek v Microsoft Teams najdete v tématu [Naplánování schůzky v Teams.](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5)
+Další informace o vytváření a plánování schůzek v Microsoft Teams najdete v tématu Naplánování [schůzky v Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
 
-Další informace o limitech a specifikacích schůzek najdete v článku [Limity](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)a specifikace pro Microsoft Teams .
+Další informace o limitech a specifikacích schůzek najdete v tématu [Limity](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls)a specifikace pro Microsoft Teams .
 
-Nápovědu k řešení interakcí s Aplikacemi Teams a Exchange, zejména pokud jde o problémy s plánováním delegátů, najdete v článku Řešení problémů s [aplikací Microsoft Teams a Exchange Server interakce.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+Nápovědu k řešení Teams a Exchange, zejména u problémů s plánováním delegátů, najdete v tématu Řešení potíží Microsoft Teams a [Exchange Server interakce.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

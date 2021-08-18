@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090122"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>Registrace zařízení s Androidem do Intune
 
-Pokud chcete migrovat uživatele z registrace Správce zařízení s Androidem na Android Enterprise, přečtěte si téma: [přesunutí zařízení s Androidem ze Správce zařízení do správy pracovních profilů](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+Pokud chcete migrovat uživatele z registrace správce zařízení s Androidem na Android Enterprise, přečtěte si prosím: Přesunutí zařízení [s Androidem](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)od správce zařízení do správy pracovního profilu .
 
-Intune podporuje zápis následujících zařízení s Androidem:  
+Intune podporuje registraci těchto zařízení s Androidem:  
 
-- [Samsung KNOX, klipartu zebry, Správce zařízení](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [Firemní profil pro Android](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Vyhrazený podnik s Androidem](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [Plně spravovaná verze pro Android](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Samsung Knox, Zebra, správce zařízení](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Pracovní profil Enterprise Androidu](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Vyhrazené Enterprise Androidu](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise plně spravovaný](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Před nastavením zápisu pro zařízení s Androidem [si přečtěte předpoklady](https://docs.microsoft.com/intune/enrollment/android-enroll).  
+Před nastavením registrace pro zařízení s Androidem si [prohlédněte předpoklady](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
-Informace o řešení potíží s registrací zařízení obecně a s některými chybami zápisu pro Android najdete v článku [řešení potíží s registrací zařízení v Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
+Informace o řešení potíží s registrací zařízení obecně a některých chybách při registraci zařízení s Androidem najdete v tématu Řešení potíží s registrací zařízení [v Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-Pomocí obsahu, který popisuje řešení problémů v Intune, můžete zjistit, co enrolment problémy s vašimi uživateli.
+Můžete taky použít obsah popisující okno Řešení potíží s Intune, které vám pomůžou zjistit, jaké problémy s registracemi mají vaši uživatelé.

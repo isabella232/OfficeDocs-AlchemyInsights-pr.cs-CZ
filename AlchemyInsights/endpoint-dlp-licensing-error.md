@@ -1,5 +1,5 @@
 ---
-title: Chyba licencování služby Endpoint DLP
+title: Chyba licencování DLP koncového bodu
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564417"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090125"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>Chyba licencování služby Endpoint DLP
+# <a name="endpoint-dlp-licensing-error"></a>Chyba licencování DLP koncového bodu
 
-Při pokusu o nastavení ochrany před únikem koncových bodů se zobrazí následující chybová zpráva:
+Pokud se při pokusu o nastavení koncového bodu DLP zobrazí následující chybová zpráva:
 
 `Your organization is missing the licenses required to manage these devices`.
 
@@ -30,12 +30,12 @@ Ujistěte se, že máte jedno z následujících předplatných nebo doplňků:
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
-- Dodržování předpisů v Microsoft 365 E5
-- Dodržování předpisů v Microsoft 365 a5
-- Microsoft 365 E5 Information Protection a vládnutí
-- Microsoft 365 a5 – ochrana informací a vládnutí
+- Microsoft 365 E5 dodržování předpisů
+- Microsoft 365 A5 dodržování předpisů
+- Microsoft 365 E5 informací a řízení
+- Microsoft 365 A5 informací a řízení
 
 > [!NOTE]
-> Tento postup nefunguje pro kombinace licencí, jako jsou: Win E5 + O365 E5 + EMS E5. K nastavení této funkce potřebujete licenci Pure M365 E5.
+> To nebude fungovat u kombinací licencí, jako je: Win E5 + O365 E5 + EMS E5. K nastavení této funkce musíte mít čistou licenci M365 E5.
 
-Další informace o licencování [koncových](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management) bodů pro ochranu koncového bodu
+Další informace o licencování DLP koncového bodu najdete v tématu [Licencování DLP koncového bodu.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
