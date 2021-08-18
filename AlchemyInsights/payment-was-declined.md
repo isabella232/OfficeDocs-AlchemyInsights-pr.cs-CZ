@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 5938b4f91d3459f5c41711566f8afd99f0dd28ea
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829045"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087201"
 ---
 # <a name="your-payment-was-declined"></a>Vaše platba byla zamítnuta
 
@@ -27,7 +27,7 @@ ms.locfileid: "51829045"
 
 **Nahrazení způsobu platby pro všechny položky**
 
-1. V Centru pro správu přejděte na stránku Fakturační  >  **& platební**  >  [metody.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. V Centru pro správu přejděte na stránku **Fakturace**  >  **Účty a platby** > [Způsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
 2. Vyberte řádek způsobu platby, který chcete nahradit. V pravém podokně jsou uvedené všechny fakturační profily a jednotlivá předplatná, která používají vybraný způsob platby.
 
@@ -46,7 +46,7 @@ ms.locfileid: "51829045"
 
 **Aktualizace podrobností o způsobu platby**
 
-1. V Centru pro správu přejděte na stránku Fakturační  >  **& platební**  >  [metody.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. V Centru pro správu přejděte na stránku **Fakturace**  >  **Účty a platby** > [Způsoby platby](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
 2. Vyberte řádek způsobu platby, který chcete aktualizovat. V pravém podokně vyberte **Upravit**.
 

@@ -1,5 +1,5 @@
 ---
-title: Chyba přihlášení na OneDrive AADSTS50011
+title: OneDrive přihlášení AADSTS50011
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003820"
 - "6840"
-ms.openlocfilehash: 1f906f82e99c322ed953800d54fba5a073eacd10
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 80aafa2aee7213e1b77d274509a7eb9741c20b525ed97f473093ac8c6514f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982431"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112905"
 ---
-# <a name="onedrive-login-error-aadsts50011"></a>Chyba přihlášení na OneDrive AADSTS50011
+# <a name="onedrive-login-error-aadsts50011"></a>OneDrive přihlášení AADSTS50011
 
-Pokud se zobrazí chybová zpráva "AADSTS50011: adresa URL odpovědi zadaná v žádosti neodpovídá odpovědi" při přihlášení do aplikace OneDrive, zkontrolujte následující skutečnosti:
+Pokud se zobrazí chybová zpráva "AADSTS50011: Adresa URL odpovědi zadaná v žádosti neodpovídá odpovědi" při přihlašování do aplikace OneDrive, zkontrolujte následující informace:
 
-Vaše verze OneDrivu musí být stejná nebo větší než verze 20.052. XXXX. XXXX. Pokud chcete zkontrolovat svoji verzi, klikněte na modré ikoně OneDrivu v oznamovací oblasti a vyberte **& nastavení > nastavení >**.
+Vaše OneDrive verze musí být rovna nebo větší než verze 20.052.XXXX.XXXX. Pokud chcete zkontrolovat svou verzi, klikněte na modrou OneDrive v oznamovací oblast a vyberte Nápověda & Nastavení > Nastavení > **O aplikaci**.
 
-Síť může blokovat provoz na **g.Live.com** a **oneclient.SFX.MS**. Pokud je tento přenos blokován, nemůže se OneDrive sám aktualizovat. Spolupracujte s vaším správcem sítě, abyste měli přístup k těmto adresám URL. [Tyto koncové body](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) by měly být dosažitelné pro zákazníky používající plány Microsoft 365.
+Vaše síť může blokovat přenosy **g.live.com** **a oneclient.sfx.ms**. Pokud je tento přenos zablokovaný, OneDrive se aktualizovat. Pracujte se správcem sítě, abyste měli přístup k těm adresm URL. [Tyto koncové body by](https://docs.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) měly být dosažitelné pro zákazníky, kteří používají Microsoft 365 plány.
 
-Pokud potřebujete ručně získat aktuální verzi OneDrivu, navštivte [https://aka.ms/getonedrive](https://aka.ms/getonedrive) .
+Pokud potřebujete ručně získat aktuální verzi OneDrive, navštivte [https://aka.ms/getonedrive](https://aka.ms/getonedrive) stránku .

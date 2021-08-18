@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: d6d8f87c9c1ba76c6d0c83a7cac6f259028771e3b1f8d8755729381f79f5b342
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e18aaa8abe7fd7cf501b612ecb08b9fca7d9c36e0e6552f75742beb770063e93
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54016441"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897036"
 ---
 # <a name="review-or-act-on-an-alert"></a>Kontrola nebo jednání s upozorněním
 
 Postupujte takto:
 
-1. Přejděte do [Centra zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Klikněte **na Upozornění** Zobrazit  >  **[upozornění](https://go.microsoft.com/fwlink/?linkid=2103301)**.
-1. Klikněte na upozornění. V podokně podrobností se podívejte, co upozornění spustilo.
-1. Pokud chcete v upozornění provést akci, klikněte na poskytnutý odkaz poblíž podrobností.
-1. Pokud **chcete upozornění** zavřít, klikněte na Vyřešit.
+1. Proveďte jednu z následujících akcí:
+   - V Centrum dodržování předpisů Microsoftu 365 na <https://compliance.microsoft.com> , přejděte na **Upozornění**. Nebo otevřete stránku přímo na webu <https://compliance.microsoft.com/compliancealerts> .
+   - Na portálu Microsoft 365 Defender přejděte <https://security.microsoft.com> na **Upozornění**. Nebo otevřete stránku přímo na webu <https://security.microsoft.com/alerts> .
+2. Vyberte upozornění. V plovoucím seznamu podrobností, který se zobrazí, se podívejte, co upozornění spustilo.
+3. Pokud chcete v upozornění provést akci, klikněte na poskytnutý odkaz.
+4. Pokud **chcete upozornění** zavřít, klikněte na Vyřešit.
 
-Další informace o správě upozornění najdete v tématu [Zásady výstrah v Centru](https://go.microsoft.com/fwlink/?linkid=2103211)zabezpečení a dodržování předpisů .
-
+Další informace o správě upozornění najdete v tématu [Zásady upozornění v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/alert-policies).

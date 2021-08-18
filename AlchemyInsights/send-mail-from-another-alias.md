@@ -14,12 +14,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: fd0981edd96aee4daa7eaf39c3c1e069911ce7d1
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 00d9b2959f84ac3267c76ed27dfeacf8e30974ac8b70ad72f444a9e87c6ea5be
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58310852"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897236"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Odeslání e-mailu z aliasu nebo sekundární adresy
 

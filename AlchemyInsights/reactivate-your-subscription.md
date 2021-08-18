@@ -17,12 +17,12 @@ ms.custom:
 - "9001497"
 - "4736"
 - "3551"
-ms.openlocfilehash: 0dcb9eae3241ae76850e9c5149b4c813b6967c70a431c3bea38fba1843967a95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d9e65533910eae15c58eb6b0881bdc60ebf1f5bbfaf0880da90811cb95c820a9
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53959460"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897305"
 ---
 # <a name="reactivate-your-subscription"></a>Opětovná aktivace předplatného
 
@@ -33,7 +33,7 @@ Pokud vám vypršela platnost předplatného nebo ho zakázal Microsoft nebo pok
 3. V podokně **Znovu aktivovat toto** předplatné vyberte v rozevíracím seznamu způsob platby nebo vyberte Přidat způsob **platby**.
 4. Vyberte **Uložit**.
 
-Další informace najdete v článku [Opětovná aktivace předplatného](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Další informace najdete v článku [Opětovná aktivace předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Správa prodlužování platnosti předplatného**
 
@@ -45,4 +45,4 @@ Pokud chcete spravovat měsíční nebo roční fakturaci, můžete zapnout nebo
 4. V podokně **Upravit nastavení opakované fakturace** vyberte **Zapnout**, **Zapnout, ale jednou** prodloužit nebo **Vypnout**.
 5. Vyberte **Uložit**.
 
-Další informace najdete v článku [Vypnutí nebo zapnutí opakované fakturace](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Další informace najdete v článku [Vypnutí nebo zapnutí opakované fakturace](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
