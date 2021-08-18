@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896708"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323279"
 ---
 # <a name="create-user"></a>Vytvoření uživatele
 
@@ -37,5 +37,5 @@ ms.locfileid: "57896708"
 1. Podívejte se [na názvy](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) domén pro azure AD.
 1. Prohlédněte [si protokoly](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) auditování a podívejte se na podrobnější informace o nedávno vytvořeném nebo odstraněných uživatelech, jako je kdo akci provedl a kdy.
 1. Další informace o přidávání nových uživatelů najdete v tématu Použití portálu Azure Portal k vytvoření nového [uživatele ve službě Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal).
-1. [Role správy Azure AD:](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)Oprávnění rolí správce v Azure Active Directory
+1. [Role správy Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): Oprávnění rolí správce v Azure Active Directory
 1. K vytvoření [nového uživatele můžete taky použít Azure AD PowerShell.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

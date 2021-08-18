@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 31ebb466394dddd4c72c64c3f10500d578cb206cfe2c316a2f12d9a34bff130d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 353571996403d1ddd133d5ef1705d86e7dc38d02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57882560"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322206"
 ---
 # <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Nastavení zásad Sejf propojení v programu Microsoft Defender pro Office 365
 
-1. Na portálu Microsoft 365 Defender na webu přejděte na <https://security.microsoft.com/> **E-mail & zásady** spolupráce & pravidla zásady hrozeb \>  \>  \> **Sejf odkazy** v **části Zásady.**
+1. Na portálu Microsoft 365 Defender na webu přejděte na <https://security.microsoft.com/> **E-mail & zásady** spolupráce & pravidla zásady hrozeb Sejf odkazy v \>  \>  \>  **části** Zásady.
 
    Pokud chcete přejít přímo na **Sejf odkazy,** použijte <https://security.microsoft.com/safelinksv2> .
 
-2. Na **Sejf odkazy** proveďte některý z následujících kroků:
+2. Na **Sejf Odkazy** proveďte některý z následujících kroků:
    - Pokud chcete přidat novou zásadu, vyberte **+ Vytvořit**. Spustí se průvodce, který vám pomůže definovat nastavení zásad.
    - Pokud chcete upravit existující zásadu, vyberte ji kliknutím na název zásady. V plovoucím seznamu podrobností, který se zobrazí, vyberte **Upravit** v části obsahující nastavení, která chcete nakonfigurovat.
-   - Pokud chcete blokovat adresy URL z ochrany Sejf Odkazy nebo nakonfigurovat nastavení pro odkazy Sejf v podporovaných aplikacích Office 365, klikněte na Globální nastavení **,** nakonfigurujte nastavení a potom klikněte na **Uložit.**
+   - Pokud chcete blokovat adresy URL z ochrany Sejf Odkazy nebo nakonfigurovat nastavení pro odkazy Sejf v podporovaných aplikacích Office 365, klikněte na Globální **nastavení,** nakonfigurujte nastavení a potom klikněte na **Uložit.**
 
 3. Po prošetřování nastavení vyberte **Odeslat** (nové) nebo **Uložit** (upravit).
 

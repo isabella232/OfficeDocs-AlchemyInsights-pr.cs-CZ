@@ -12,12 +12,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7966933cd7474dd640ac8397ce560c9fb1c57fb4e99d02f8976d5dcfe7cf5a82
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d83dd6f96b0d8788ebd11d7f89fa07bf204604b6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909207"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322558"
 ---
 # <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Synchronizace sharepointových souborů pomocí nového synchronizačního klienta OneDrivu
 
@@ -27,8 +27,7 @@ ms.locfileid: "53909207"
     
 3. Ve výběru synchronizačního klienta pro službu SharePoint vyberte možnost **spuštění nového klienta**.
     
-    > [!NOTE]
-    > Pokud se tato možnost nezobrazuje, je už vaše organizace na používání nového synchronizačního klienta OneDrivu k synchronizaci sharepointových souborů připravená. 
+    **Poznámka:** Pokud se tato možnost nezobrazí, je vaše organizace už nastavená tak, aby k synchronizaci souborů synchronizační aplikace OneDrivu nového SharePoint klienta. 
   
 4. Klikněte na **OK**.
     

@@ -13,27 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 40da85009f051005940429dcd2ac81ec9fa6dd64
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 9300f9981ea98548f32d908cb6b06a1490793ebc2ba38e774dac45f5e341a869
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119205"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
 Díky zabezpečenému skóre Microsoftu můžete zajistit lepší zabezpečení prostředí. Představte si to jako kredit za zabezpečení. Informuje vás o akcích, které můžete udělat, které by mohly pomoct zlepšit zabezpečení vaší organizace.
 
-1. Na portálu Microsoft 365 Defender přejděte <https://security.microsoft.com> na **Zabezpečené skóre**.
+1. Přejděte do [Centra Office 365 zabezpečení & dodržování předpisů](https://go.microsoft.com/fwlink/p/?linkid=2077143).
+1. Vyberte kartu Microsoft Secure Score nebo přejděte na [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2099589).
+    > [!TIP]
+    >  Na stránce Microsoft Secure Score Overview (Přehled zabezpečeného skóre Microsoftu) vyberte Improvement actions (Akce zlepšování) a zobrazí se doporučení k zabezpečení vaší organizace. V tabulce můžete vybrat filtrovat nebo seskupit podle, abyste rychle identifikovali akce, které by mohly být lepší, když je dokončíte v pořadí.
+1. V seznamu vyberte akci zlepšování. Zobrazí se informační seznam s stručným popisem akce.
+1. Klikněte **na Nastavení zobrazení** a pak postupujte podle pokynů uvedených v části Další **kroky.**
+    > [!NOTE]
+    > Máte body pro konfiguraci doporučených funkcí zabezpečení, ale mějte na paměti, že některé akce jsou označené **jako [Not Scored] .)** To znamená, že i když tuto akci zlepšování implementujete, nebudou vám za vaše skóre uděleny žádné body. V opačném případě může aktualizace skóre trvat *až 24* hodin.
 
-   Pokud chcete přejít přímo na **stránku Zabezpečené skóre,** použijte <https://security.microsoft.com/securescore>
-
-2. Na kartě **Přehled** v **oddílech** Akce ke zdokonalování a Nejlepší akce zlepšování si poznamenejte všechna doporučení k zabezpečení vaší organizace. 
-
-3. Na kartě **Akce vylepšení**  si všimněte, že položky  akce Pořadí vylepšení mají hodnoty Stavu **Adresy** nebo **Regrese**.  Pomocí funkce **Filtrovat** nebo seskupit podle v tabulce můžete rychle identifikovat akce, které by mohly být lepší, když je dokončíte v pořadí. 
-
-4. V seznamu na  **kartě** Akce vylepšení vyberte položku Adresa nebo Regrese.  Otevře se nová stránka s úplným popisem a tlačítkem **Spravovat,** které problém vyřeší.
-
-    **Poznámka:** Máte body pro konfiguraci doporučených funkcí zabezpečení, ale mějte na paměti, že některé akce jsou označené **jako [Not Scored] .)** To znamená, že i když tuto akci zlepšování implementujete, nebudou vám za vaše skóre uděleny žádné body. V opačném případě může aktualizace skóre trvat *až 24* hodin.
-
-Další informace o zabezpečeném skóre Microsoftu najdete v tématu [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score).
+Další informace o zabezpečeném skóre Microsoftu najdete v tématu [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2103077).

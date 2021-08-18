@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054791"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321900"
 ---
 # <a name="issues-with-links-and-urls"></a>Problémy s odkazy a adresami URL
 
@@ -42,15 +42,13 @@ Pokud chcete přidat adresu URL, jděte na kartu **Autentifikace** na vaší **s
     - platformě (iOS/Android/UWP)
     - Informaci používané k vytvoření aplikace, jako je ID svazku v iOS, název balíčku a hash podpis na Androidu, registrace aplikace na Azure portal vám pomůže. Podrobnosti najdete na [Platformě konfigurace a přesměrování identifikátorech URI](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Webová rozhraní API a některé tiché způsoby získání tokenů (IWA a uživatelské jméno a heslo) nevyžadují identifikátor URI přesměrování.
+**Poznámka:** Webová rozhraní API a některé tiché způsoby získání tokenů (IWA a uživatelské jméno/heslo) nevyžadují identifikátor URI přesměrování.
 
 **Nasadil(a) jsem webovou aplikaci a když jsem otestoval(a) nasazenou aplikaci, zobrazí se zpráva o neshodě adresy URL**
 
 Přidejte URI přesměrování pro všechna umístění, ve kterých webovou aplikaci nasazujete. Další informace najdete v [Registrace webové aplikace pomocí Azure portal](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Přidejte URI přesměrování do umístění hned po nasazení aplikace v tomto umístění.
+**Poznámka:** Přidejte identifikátor URI přesměrování pro umístění hned po nasazení aplikace v tomto umístění.
 
 **Nemůžu zaregistrovat dost adres URL pro odpovědi**
 

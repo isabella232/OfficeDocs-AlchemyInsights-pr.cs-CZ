@@ -15,12 +15,12 @@ ms.custom:
 - "9006502"
 - "6950"
 - "11143"
-ms.openlocfilehash: 7f4725323a30da42521c95c2f6ee8c72a1671150f251da193199d140f17beb66
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3ce60388adbbee51cb008a1dc691f298e13d39e1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892376"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322522"
 ---
 # <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Zobrazení stavu správy aplikací Microsoft pomocí Microsoft Edge pro zařízení s iOS nebo Androidem
 
@@ -28,4 +28,4 @@ Pokud chcete získat přístup k protokolům aplikací pro řešení potíží s
 
 Seznam nastavení uložených v protokolech aplikací najdete v tématu Kontrola [protokolů ochrany klientských aplikací](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
 
-Pokud se chcete dozvědět, jak zobrazit protokoly aplikací na zařízeních s Androidem, přečtěte si Upload a [protokoly e-mailů.](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
+Informace o tom, jak zobrazit protokoly aplikací na zařízeních s Androidem, najdete v Upload a [e-mailových protokolech](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
