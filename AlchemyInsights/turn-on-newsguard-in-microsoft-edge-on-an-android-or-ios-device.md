@@ -1,5 +1,5 @@
 ---
-title: Zapnutí NewsGuardu v Microsoft Edge na zařízení s Androidem nebo iOS
+title: Zapnutí NewsGuardu v Microsoft Edge zařízení s Androidem nebo iOS
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,16 +15,16 @@ ms.custom:
 - "7098"
 - "8308"
 - "9004621"
-ms.openlocfilehash: 73e2cefe98185ff9f741e8d46b92ebcc8a5a499a
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: e70c38192ab3ddcf7af08ad744e5de66d0f282c5a5a080ef930f5f50b9f9e3d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092367"
 ---
-# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a>Zapnutí NewsGuardu v Microsoft Edge na zařízení s Androidem nebo iOS
+# <a name="turn-on-newsguard-in-microsoft-edge-on-an-android-or-ios-device"></a>Zapnutí NewsGuardu v Microsoft Edge zařízení s Androidem nebo iOS
 
-NewsGuard je rozšíření třetích stran, které hodnotí a hodnotí weby na základě novinářských standardů důvěryhodnosti a transparentnosti v USA. Toto rozšíření je dostupné v Microsoft Edge, ale ve výchozím nastavení je vypnuté. Když je toto rozšíření zapnuté, nezabrání přístupu k webům a nepřeruší procházení.
+NewsGuard je rozšíření třetích stran, které hodnotí a hodnotí weby na základě novinářských standardů důvěryhodnosti a transparentnosti v USA. Toto rozšíření je dostupné v Microsoft Edge ale ve výchozím nastavení je vypnuté. Když je toto rozšíření zapnuté, nezabrání přístupu k webům a nepřeruší procházení.
 
 Pokud chcete zapnout NewsGuard, postupujte takto:
 1. Vyberte ... > **Nastavení**  >  **Hodnocení příspěvků**.

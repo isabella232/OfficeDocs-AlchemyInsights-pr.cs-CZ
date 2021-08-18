@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 72c730ef9e63e29f452580e4d0b8d0c605f621e540c1f2807f284c47aeaa37f5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1a70fe2b468251f48eb3399e75dd414d3aa0fe02
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896968"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319447"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Přiřazení nebo zrušení přiřazení licencí uživatelům
 

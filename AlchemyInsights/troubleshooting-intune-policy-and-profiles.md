@@ -1,5 +1,5 @@
 ---
-title: Řešení potíží s zásadami a profily Intune
+title: Poradce při potížích se zásadou a profily Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092403"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Poradce při potížích s zásadami a profily Intune
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Řešení potíží se zásadou a profily Intune
 
-Aby se vám zobrazily existující zásady, řešení konfliktů, kontrola dat protokolu a zobrazení běžných otázek a problémů, můžou vám pomoct následující návody.
+Pokud chcete zobrazit existující zásady, řešit konflikty, zkontrolovat data protokolu a zobrazit běžné otázky a problémy, můžou vám pomoct následující příručky.
 
-- [Řešení potíží s zásadami a profily v Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
+- [Poradce při potížích se zásadami a profily v Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Běžné otázky, problémy a řešení se zásadami zařízení a profily v Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Časté otázky, problémy a řešení se zásadami a profily zařízení v Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
 - [Sledování profilů konfigurace zařízení a zobrazení konfliktů v Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Řešení potíží se dodržováním předpisů a podmíněným přístupem v Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Řešení potíží s dodržováním předpisů zařízení a podmíněným přístupem v Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Sledování zásad dodržování předpisů a zobrazení konfliktů v Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Monitorování zásad dodržování předpisů a zobrazení konfliktů v Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Odesílání dat protokolu Intune do úložiště Azure, na centra událostí nebo do analýzy protokolů](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Odesílání dat protokolu Intune do úložiště Azure, centra událostí nebo analýzy protokolů](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Podívejte se na přehled pro [konfiguraci zařízení](https://docs.microsoft.com/intune/device-profiles) nebo [použití zásad dodržování předpisů](https://docs.microsoft.com/intune/device-compliance-get-started).
+Podívejte se na přehled konfigurace [zařízení nebo](https://docs.microsoft.com/intune/device-profiles) použití zásad [dodržování předpisů](https://docs.microsoft.com/intune/device-compliance-get-started).

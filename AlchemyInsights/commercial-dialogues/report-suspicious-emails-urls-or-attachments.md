@@ -12,25 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091119"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Nahlášení podezřelých e-mailů, adres URL nebo příloh
 
-Je mi jasné, že potřebujete pomoct s vyšetřováním podezřelého e-mailu nebo nesprávného filtrování e-mailu. Můžu vám pomoct s odesláním problému k analýze pomocí portálu **Pro odeslání,** který vám poskytne okamžitou zpětnou vazbu. Tady je souhrn kroků:
+Chápu, že potřebujete pomoct s vyšetřováním podezřelého e-mailu nebo e-mailu, který byl nesprávně filtrovaný. Můžu vám pomoct s odesláním problému k analýze pomocí Průzkumníka odeslání, který vám poskytne okamžitou zpětnou vazbu. Tady je souhrn kroků:
 
-1. Na portálu Microsoft 365 Defender na <https://security.microsoft.com> webu přejděte na **Odeslání e-mailu &** \> **spolupráci.**
-
-   Pokud chcete přejít přímo na **stránku Odeslání,** použijte <https://security.microsoft.com/reportsubmission> .
-
-2. Na stránce **Odeslání ověřte,** že **je** vybraná karta Odesláno k analýze, a potom klikněte na + Odeslat do **Microsoftu pro analýzu**.
-
-3. Zobrazí se plovoucí seznam s možností odeslání e-mailu, adresy URL nebo souboru.
-
-Další informace najdete v článku Odeslání správce k odeslání podezřelého [spamu, phish, adres URL a souborů do Microsoftu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
-
-**Poznámka:** Informujte uživatele o tom, že by měli nahlásit podezřelé zprávy ve složce Doručená pošta pomocí doplňku Zpráva sestavy nebo pomocí doplňku Nahlásit útok [phishing.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
+1. Přejděte na [Centrum Office 365 zabezpečení &](https://go.microsoft.com/fwlink/p/?linkid=2077143)dodržování předpisů a pak přejděte na Odeslání správy   >  [hrozeb.](https://go.microsoft.com/fwlink/?linkid=2101521)
+2. Vyberte **+ Nové odeslání**. Zobrazí se plovoucí okno s možností odeslání e-mailu, adresy URL nebo souboru.
+    > [!NOTE]
+    > Informujte uživatele, že by měli pomocí doplňku Zpráva sestavy nahlásit microsoftu podezřelé zprávy ve složce [Doručená pošta.](https://go.microsoft.com/fwlink/?linkid=2092385)
