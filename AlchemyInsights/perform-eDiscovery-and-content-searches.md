@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317469"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902037"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Jak provádět vyhledávání obsahu a vyhledávání v eDiscovery
 
@@ -29,14 +29,15 @@ ms.locfileid: "58317469"
 2. Vyberte **Hledat > hledání obsahu**.
 3. Pokud **chcete vytvořit** nové hledání, vyberte Nové hledání.
 4. Zadejte požadované podmínky hledání včetně klíčových slov a umístění obsahu.
-5. Vyberte **Uložit & spustit a** pojmnovat hledání, spustit ho a pak zobrazit náhled výsledků.
+5. Vyberte **Uložit & spustit,** pokud chcete hledání pojmnovat, spustit ho a pak zobrazit náhled výsledků.
 
-**Poznámka:** V **Microsoft 365 Centrum dodržování** předpisů  >  rozbalte **eDiscovery** a vyberte požadovaný nástroj eDiscovery.
+> [!NOTE]
+> V **Microsoft 365 Centra dodržování**  >  **předpisů** rozbalte **eDiscovery** a vyberte požadovaný nástroj eDiscovery.
 
 Podrobné pokyny k vyhledávání obsahu, exportu výsledků a vytváření případů eDiscovery pro blokování dat najdete v tématu [Hledání](https://docs.microsoft.com/microsoft-365/compliance/content-search) obsahu [a případy eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
 **Další informace:**
 
-- Další informace o nástrojích eDiscovery v Microsoft 365 najdete v tématu [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Další informace o nástrojích eDiscovery v Microsoft 365 najdete v [tématu eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
 - Přečtěte si o oprávněních, požadavcích a limitech potřebných pro vyhledávání v eDiscovery z oprávnění vyžadovaných pro vyhledávání [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) a požadavky a [limity](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
 - Pokud řešení potíží s eDiscovery, podívejte se na [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) Řešení běžných problémů a zkoumání [částečně indexovaných položek](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).

@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303570"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902253"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>Vyhledání IP adresy v protokolu auditování
 
 IP adresa, která odpovídá aktivitě prováděné uživatelem nebo správcem, se zobrazuje v protokolech auditování. Zaprotokoluje se taky informace o klientovi. Tady je postup, jak identifikovat IP adresu:
 
 1. Proveďte jednu z následujících akcí:
-   - V Centrum dodržování předpisů Microsoftu 365 přejděte <https://compliance.microsoft.com> na Audit  \> **řešení**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://compliance.microsoft.com/auditlogsearch> .
-   - Na Microsoft 365 Defender přejděte na <https://security.microsoft.com> **Audit**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://security.microsoft.com/auditlogsearch> .
+   - V Centrum dodržování předpisů Microsoftu 365 přejděte <https://compliance.microsoft.com> na **Audit** \> **řešení**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portálu Microsoft 365 Defender přejděte <https://security.microsoft.com> na **Audit**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://security.microsoft.com/auditlogsearch> .
 
-    **Poznámka:** Pokud se zobrazí upozornění, že je potřeba auditování zapnout, pokračujte a zapněte ho hned. Pokud tato funkce není povolená, výsledky hledání nebudou moct natahovat data z předchozích dat.
+    > [!NOTE]
+    > Pokud se zobrazí oznámení, že je potřeba auditování zapnout, pokračujte a zapněte ho hned. Pokud tato funkce není povolená, výsledky hledání nebudou moct natahovat data z předchozích dat.
 
 2. Na stránce **Auditování** ověřte, že **je vybraná karta** Hledání, a nakonfigurujte následující nastavení:
    - **Rozsah dat a času:** V polích  Začátek a **Konec** vyberte rozsah dat a času.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50744657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090989"
 ---
 # <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Řešení problémů s instalací MDATP na Macu
 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055547"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318641"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>Jak povolit hostovanou hlasovou poštu
 
@@ -29,7 +29,6 @@ Vlastnost **HostedVoicemail** pro uživatele pomocí vzdáleného PowerShellu (R
 Další informace o připojení k RPS najdete v článku [Microsoft Teams PowerShellu –](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) přehled, který obsahuje další informace o připojení k RPS.
 
 1. Správce Teams by měl být přihlášený ke vzdálenému PowerShellu pro Teams.
-1. V powershellové výzvě může správce Teams **spustit set-csuser user@contoso.com -HostedVoiceMail $true,** kde je identifikátor uri sip ovládacího prvku uživatele.
+1. V powershellové výzvě může správce Teams **spustit set-csuser user@contoso.com -HostedVoiceMail $true** kde sip uri je ovládacího prvku uživatele.
 
-> [!NOTE]
-> Replikace změn zásad může trvat až 24 hodin.
+**Poznámka:** Replikace změn zásad může trvat až 24 hodin.

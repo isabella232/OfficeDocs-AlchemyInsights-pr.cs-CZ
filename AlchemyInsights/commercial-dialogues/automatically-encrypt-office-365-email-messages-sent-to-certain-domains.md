@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d30535d8605fcbfa0ca73c262d8f8671d73234a4
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082179"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318841"
 ---
 # <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>Automatické šifrování Office 365 e-mailových zpráv odeslaných do určitých domén
 
@@ -33,7 +33,6 @@ ms.locfileid: "54082179"
 9. Zvolte libovolný volitelný výběr (ze seznamu volitelných výběrů, které můžete v tomto okamžiku provést, z nichž mnohé můžete nechat s výchozím nastavením pro jednoduchost).
 10. Klikněte na **Uložit**.
 
-> [!IMPORTANT]
-> Toto pravidlo se můžete vrátit a toto pravidlo upravit později.
+**Důležité:** Toto pravidlo se vždycky můžete vrátit a upravit později.
 
 Další informace o vytváření pravidel pro šifrování najdete v tématu Definování pravidel toku pošty pro šifrování e-mailových zpráv [v Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)

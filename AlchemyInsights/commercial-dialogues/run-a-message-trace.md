@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c21a12855895c8e7f29c2a5917763940c30489e2aa3461cc0dc99799b86c9a34
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2828594b2a1ceff3eea7aeb0eb9e160b222bdd96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081783"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318749"
 ---
 # <a name="run-a-message-trace"></a>Spuštění sledování zpráv
 
-Trasování zpráv se spustí v části Tok pošty v Centru Office 365 zabezpečení & dodržování předpisů.
+Trasování zpráv můžete spustit z Exchange **zprávy** na portálu Microsoft 365 Defender na <https://security.microsoft.com> webu .
 
-Informace o tom, jak spustit sledování zpráv, najdete v tématu Sledování zpráv [v Office 365 Security & Compliance Center](https://go.microsoft.com/fwlink/?linkid=2103855).
+Další informace najdete v tématu [Sledování zpráv na Microsoft 365 Defender portálu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc)

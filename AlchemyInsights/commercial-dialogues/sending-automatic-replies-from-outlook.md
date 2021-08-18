@@ -1,5 +1,5 @@
 ---
-title: Posílání automatických odpovědí z Outlooku
+title: Posílání automatických odpovědí z Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: dc0b35ca22ebb5e7572a48e372c619ec9b8a14d4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5775e0de2392ed82fdd2f8ea46fac5b38212bd52e836f00bdac68b24e31639ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090966"
 ---
-# <a name="sending-automatic-replies-from-outlook"></a>Posílání automatických odpovědí z Outlooku
+# <a name="sending-automatic-replies-from-outlook"></a>Posílání automatických odpovědí z Outlook
 
 - V závislosti na typu e-mailového účtu, který máte, můžete posílat automatické odpovědi mimo kancelář dvěma způsoby.
-- Klikněte **na** Soubor a pak **vyberte Automatické odpovědi** na základě vaší verze Outlooku.
+- Klikněte **na** Soubor a **pak** vyberte Automatické odpovědi na základě vaší Outlook.
