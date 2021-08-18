@@ -1,5 +1,5 @@
 ---
-title: Migrace SharePointu pomocí nástroje SPMT
+title: SharePoint Migrace pomocí nástroje SPMT
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04716e85da6432703f25bf37f253d7d4553ecc4c68123a21b46fbb4501bccf2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085761"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>Migrace SharePointu pomocí nástroje SPMT
+# <a name="sharepoint-migration-with-spmt"></a>SharePoint Migrace pomocí nástroje SPMT
 
-Nástroj sharepointové migrace, který je určený k migraci od nejmenší sady souborů po rozsáhlou podnikovou migraci, vám umožní přenést vaše informace do cloudu a využít nejnovějších řešení pro spolupráci, inteligenci a zabezpečení s Microsoftem 365.
+Nástroj SharePoint Migration Tool je navržený tak, aby se používal pro migrace od nejmenší sady souborů až po rozsáhlou podnikovou migraci, který vám umožní přenést vaše informace do cloudu a využít nejnovějších řešení pro spolupráci, inteligenci a zabezpečení pomocí Microsoft 365.
 
 - [Stažení a instalace nástroje pro migraci SharePointu](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Řešení běžných problémů a chyb spmt](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)

@@ -1,5 +1,5 @@
 ---
-title: Nastavení služby Exchange Online Protection
+title: Nastavení Exchange Online Protection
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 038274244578f8fd4d05ef94a53705f6498de757
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085869"
 ---
-# <a name="set-up-exchange-online-protection"></a>Nastavení služby Exchange Online Protection
+# <a name="set-up-exchange-online-protection"></a>Nastavení Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) je cloudová služba filtrování e-mailu, která poskytuje ochranu před spamem a malwarem a má funkce na ochranu vaší organizace před porušením zásad zasílání zpráv.
+Microsoft Exchange Online Ochrana (EOP) je cloudová služba filtrování e-mailů, která chrání před spamem a malwarem a nabízí funkce, které vaší organizaci chrání před porušením zásad zasílání zpráv.
 
-K nastavení služby EOP použijte průvodce nastavením [Exchange Online Protection–](https://go.microsoft.com/fwlink/?linkid=2071067) vyberte si ze tří scénářů nasazení – místních poštovních schránek, hybridních (kombinaci místních a cloudových) poštovních schránek nebo všech cloudových poštovních schránek, které se hodí do vaší organizace. Průvodce poskytuje informace a zdroje informací pro nastavení EOP a kontrolu licencování vašeho uživatele, přiřaďte oprávnění v Centru pro správu Microsoftu 365 a nakonfigurujte zásady ochrany proti malwaru a spamu vaší organizace v Centru zabezpečení & dodržování předpisů.
+Pomocí průvodce [nastavením Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) můžete nastavit EOP výběrem ze tří scénářů nasazení – místních poštovních schránek, hybridních (kombinaci místních a cloudových) poštovních schránek nebo všech cloudových poštovních schránek, které se hodí pro vaši organizaci. Příručka obsahuje informace a zdroje informací pro nastavení EOP a kontrolu licencování vašeho uživatele, přiřazení oprávnění v Centrum pro správu Microsoftu 365 a konfiguraci zásad ochrany proti malwaru a spamu vaší organizace v Centru zabezpečení & dodržování předpisů.

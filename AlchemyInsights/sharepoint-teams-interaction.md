@@ -1,5 +1,5 @@
 ---
-title: Nápověda k SharePoint a Microsoft Teams interakce
+title: Pomoc s SharePoint a Microsoft Teams interakce
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,17 +14,17 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 34f2db749fe457dfad457e15c3b836d98b9f0de75a9c03bd79a3c1a8f4d4d4de
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f60b07d1f39cce07fc64e1029398633582997dee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898349"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315469"
 ---
-# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Nápověda k SharePoint a Microsoft Teams interakce
+# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Pomoc s SharePoint a Microsoft Teams interakce
 
-Každý tým v Microsoft Teams má týmový web v SharePoint a každý standardní kanál v týmu získá složku ve výchozí knihovně dokumentů týmového webu. Každý soukromý kanál získá vlastní samostatný SharePoint webu. Další informace:
+Každý tým v Microsoft Teams má týmový web v SharePoint a každý standardní kanál v týmu dostane složku ve výchozí knihovně dokumentů týmového webu. Každý soukromý kanál získá vlastní samostatný SharePoint webu. Další informace:
 
 - Další informace o interakci se soukromým kanálem najdete v tématu [Soukromé kanály v Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-- Další informace o limitech a o tom, SharePoint má vliv na úložiště, najdete v článku Limity a [specifikace pro Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage). 
+- Další informace o limitech a tom, jak SharePoint úložiště ovlivňuje, najdete v článku Limity a [specifikace pro Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage). 

@@ -1,5 +1,5 @@
 ---
-title: Předplatná Outlook.com e-mailu
+title: Outlook.com e-mailová předplatná
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3151"
 - "9001191"
-ms.openlocfilehash: cc65c04f0f77936fdc5d7919729aeeafba502c92
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 99846eb93c3bc4c46120a6650d4cfe0910a358b1b0c43147f5723d3e09b91fa4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111897"
 ---
 # <a name="email-subscriptions"></a>Předplatná e-mailu
 
-Proč mi vidím e-maily v seznamech předplatných?
+Proč se mi v seznamech předplatných zobrazuje e-maily?
 
-Outlook.com zjistil, že e-mailová zpráva obsahuje informace o předplatném, včetně "zrušení odběru" ve zprávě. Outlook.com vám automaticky nezaregistroval žádné bulletiny.
+Outlook.com zjistil, že e-mailová zpráva obsahuje informace o předplatném, včetně "Zrušit odběr" ve zprávě. Outlook.com vás automaticky nepřiplatil k odběru žádných bulletinů.
 
-Pokud chcete přestat dostávat bulletiny nebo propagační akce, existují dva způsoby, jak můžete odhlásit odběr pomocí Outlook.com:
-1. Ve složce Doručená pošta vyberte bulletin nebo propagační e-mail. V horní části podokna čtení vyberte **Odhlásit odběr**.
-2. Otevřete svoje nastavení [Předplatných Outlook.com](https://go.microsoft.com/fwlink/?linkid=2110887) a vyberte **Odhlásit odběr**.
+Pokud chcete přestat dostávat bulletiny nebo propagační akce, můžete odběr odběru zrušit dvěma způsoby Outlook.com:
+1. Ve složce Doručená pošta vyberte bulletin nebo propagační e-mail. V horní části podokna čtení vyberte **Odhlásit odběr.**
+2. Otevřete nastavení [předplatného Outlook.com a](https://go.microsoft.com/fwlink/?linkid=2110887) vyberte **Odhlásit odběr.**
 
-Poznámky: tuto funkci uvidíte jenom v případě, že jste dostali e-mail od společnosti, která posílá odebírané e-maily.
-Pokud máte dotaz týkající se předplatných Microsoft 365, přejděte na stránku [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888)   [Microsoft 365 a přečtěte si další informace](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
+Poznámky: Tuto funkci uvidíte jenom v případě, že jste dostali e-mail od společnosti, která odesílala odebírané e-maily.
+Pokud se dotaz týká Microsoft 365 placených předplatných, přejděte na nebo [https://account.microsoft.com/services](https://go.microsoft.com/fwlink/?linkid=2110888) Další informace o [Microsoft 365](https://products.office.com/compare-all-microsoft-office-products?tab=1&WT.mc_id=PROD_OL-Web_Support_O365NewValue_Upgrade).
   

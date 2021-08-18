@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "9002555"
 - "4942"
-ms.openlocfilehash: 562cf9c433b076509788d26c0bf9ad20e7d8938b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4f17eaec292b24344aa31bd12dcccc1a0ac7cf4a7d693f912ccfc03ac316db47
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313799"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896812"
 ---
 # <a name="change-billing-information"></a>Změna fakturačních údajů
 

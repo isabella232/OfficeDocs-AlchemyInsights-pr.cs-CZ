@@ -1,5 +1,5 @@
 ---
-title: Běžné problémy a řešení pro SharePoint Online
+title: SharePoint Běžné problémy a řešení online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 15237313dd8a14f7b4f6b16a8e55cc82b44de2a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0e43dc115578746c91faf66423b2145b3dbb093ee9d6148a3fe28cc42f2d396
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085797"
 ---
-# <a name="sharepoint-online-common-issues-and-resolutions"></a>Běžné problémy a řešení pro SharePoint Online
+# <a name="sharepoint-online-common-issues-and-resolutions"></a>SharePoint Běžné problémy a řešení online
 
-Tady jsou některé často používaná témata pro problémy se SharePointem Online:
+Tady jsou některá často požadovaná témata pro SharePoint Online:
 
-- **Začínáme**: pomocí [sharepointové příručky](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) můžete vytvořit atraktivní a nejvýkonnější síť intranet, která spojuje pracovní plochu. Podívejte se na [Příklady](https://lookbook.microsoft.com/) a získejte [pokyny pro návrh](https://spdesign.azurewebsites.net/). Celkový Úvod do SharePointu Online najdete v tématu [Úvod k SharePointu Online](https://docs.microsoft.com/sharepoint/introduction) .
+- **Začínáme:** Pomocí [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) můžete vytvořit krásný a výkonný intranet, který propojuje pracoviště. Podívejte [se na příklady](https://lookbook.microsoft.com/) a získejte pokyny k [návrhu.](https://spdesign.azurewebsites.net/) Celkový [úvod k SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) najdete v článku Úvod SharePoint Online.
 
-- **Oprávnění**: [Vytvořte strategii oprávnění](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) a [pochopení úrovní oprávnění](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+- **Oprávnění:** [Vytvoření strategie oprávnění a](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) princip úrovní [oprávnění](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
 
-- **Sdílení**: [sdílení s ostatními](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) uvnitř vaší organizace nebo [s ostatními mimo vaši organizaci](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+- **Sdílení:** [Sdílení s ostatními](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) uživateli ve vaší organizaci nebo s [jinými uživateli mimo vaši organizaci](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- **Práce se soubory dokumentů**: Další informace o [nahrávání](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)souborů, [stahování](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)souborů, [Úpravy](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)souborů a omezení aktuálních [souborů](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- **Práce se soubory dokumentů:** Další informace o [](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)nahrávání [souborů,](https://support.office.com/article/Upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb) [stahování](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)souborů, úpravách souborů a aktuálních [omezeních souborů](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- **Úložiště**: Naučte se spravovat vaše uživatele úložiště OneDrive </a> , jako je [Správa úložiště webu](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits) pro vaše předplatné a [pochopení všech omezení](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+- **Storage:** Zjistěte, jak spravovat uživatele OneDrive úložiště , jako je správa úložiště webu pro vaše předplatné a </a> [principy všech limitů](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits). [](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits)
 
-- **Přejmenování tenanta**: Další informace najdete v článku [Změna názvu sharepointové domény](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) .
+- **Přejmenování tenanta:** Další [informace najdete v tématu SharePoint název](https://docs.microsoft.com/sharepoint/change-your-sharepoint-domain-name) domény.
 
-- **Vizualizujte SharePoint**: Přečtěte si [příručku k moderním zkušenostem v SharePointu](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) a [Vizualizujte sharepointových webů](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) na začátek přesouvání.
+- **Modernizujte SharePoint:** Projděte [](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) si průvodce moderním prostředím v SharePoint a modernizujte své klasické SharePoint [weby](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) a začněte s tím.
 
-**Poznámka:** Přesnější odpověď týkající se problému s SharePointem, stručně formulujte otázku a uveďte případné chyby, které používáte.
+**Poznámka:** Pokud chcete konkrétní odpověď na problém SharePoint, stručně přehrňte svou otázku a zahrňte případné chyby, které vidíte, nebo funkce, které používáte.
