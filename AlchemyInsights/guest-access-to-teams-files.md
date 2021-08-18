@@ -11,12 +11,12 @@ ms.custom:
 - "6500001"
 - "4353"
 ms.assetid: ''
-ms.openlocfilehash: 603bc90b53839f32c70a895b456a61da3a33556d
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: 8176ac9b9baf5c83de06469aa97fe55bd0465fde2609975db90e361fb88343f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51122908"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088612"
 ---
 # <a name="guest-access-to-teams-files"></a>Přístup hostů k souborům Teams
 

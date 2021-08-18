@@ -1,5 +1,5 @@
 ---
-title: Sledování využití a aktivity OneDrivu a SharePointu
+title: Sledování OneDrive a SharePoint a aktivit
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 7bf2c8dbb542773fce8830890f869d9dc99a9f66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0a74d150be81d4684e481a76eb4b1d93fcc8b70997d513c9230406f520d1ec2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666647"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113337"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Zobrazení sestav aktivit a využití OneDrivu a SharePointu
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Zobrazení sestav o OneDrive a SharePoint aktivitách a využití
 
-Přejděte na [stránku sestavy využití v centru pro správu Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). V části **Vybrat sestavu**zvolte aktivitu nebo sestavu služby OneDrive nebo SharePoint.
+Přejděte na stránku [Sestavy využití v Centrum pro správu Microsoftu 365](https://admin.microsoft.com/AdminPortal/Home). V **části Vyberte sestavu** zvolte OneDrive nebo SharePoint aktivity nebo využití.
   
-[Další informace o sestavách OneDrivu](https://go.microsoft.com/fwlink/?linkid=875239)
+[Další informace o OneDrive sestavách](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[Další informace o sestavách SharePointu](https://go.microsoft.com/fwlink/?linkid=875240)
+[Další informace o SharePoint sestavách](https://go.microsoft.com/fwlink/?linkid=875240)
   

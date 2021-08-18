@@ -1,5 +1,5 @@
 ---
-title: Sledování podmíněného přístupu v Intune
+title: Monitorování podmíněného přístupu Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7855d8dac488fe62d8e0ad8ee2ad46e615ea031fc535eb54dfde9512c8921ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694846"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113373"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Poradce při potížích s Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Řešení problémů s Microsoft Intune
 
-Prohlédněte si níže uvedené zdroje a problém vyřešte.
+Pokud chcete problém vyřešit hned, zkontrolujte níže uvedené zdroje informací.
   
-1. Na [portálu Poradce při potížích s Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) můžete diagnostikovat a vyřešit některé běžné chyby. Další podrobnosti najdete v [tomto dokumentu ](https://docs.microsoft.com/intune/help-desk-operators).
+1. K [diagnostice a](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) řešení některých běžných chyb použijte Portál řešení potíží s Intune. Další [podrobnosti najdete v ](https://docs.microsoft.com/intune/help-desk-operators)tomto dokumentu.
     
-2. Podívejte se na [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)a hledejte odpovědi a řešení běžných problémů.
+2. Na [webu Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)najdete odpovědi a řešení běžných problémů.
     
-3. Podívejte se na stav [služby](https://portal.office.com/AdminPortal/Home#/servicehealth) , abyste viděli stav služby. 
+3. Pokud chcete [zobrazit](https://portal.office.com/AdminPortal/Home#/servicehealth) stav služby, podívejte se na stav služby. 
     
-4. Podívejte se na [dokumentaci k Intune](https://docs.microsoft.com/intune/) , kde najdete postupy pro řešení problémů a další. 
+4. V [dokumentaci k Intune](https://docs.microsoft.com/intune/) najdete informace o plánování, návodech, článcích o řešení potíží a dalších informacích. 
     
 

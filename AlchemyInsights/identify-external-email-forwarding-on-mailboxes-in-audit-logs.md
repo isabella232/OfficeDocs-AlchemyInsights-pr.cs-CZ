@@ -13,31 +13,33 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1e80917a323128ba23175651cdf4d892d7815a89c1223b654812c1b456c787da
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028724"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899877"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Určení, kdy je v poštovních schránkách nakonfigurované externí přeposílání e-mailů
 
-Když Microsoft 365 externí přeposílání e-mailů v poštovní schránce, aktivita se audituje jako součást rutiny **Set-Mailbox.** Aktivitu můžete zobrazit pomocí vyhledávání v protokolu auditování v Centru & dodržování předpisů.
+Když Microsoft 365 externí přeposílání e-mailů v poštovní schránce, aktivita se audituje jako součást rutiny **Set-Mailbox.** Aktivitu můžete zobrazit pomocí vyhledávání v protokolu auditování. Tady je postup.
 
-1. Přihlaste se do [centra Microsoft 365 dodržování předpisů](https://protection.office.com/).
+1. Proveďte jeden z následujících kroků:
+   - V Centrum dodržování předpisů Microsoftu 365 přejděte <https://compliance.microsoft.com> na **Audit** \> **řešení**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://compliance.microsoft.com/auditlogsearch> .
+   - Na portálu Microsoft 365 Defender přejděte <https://security.microsoft.com> na **Audit**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://sip.security.microsoft.com/auditlogsearch> .
 
-2. Přejděte na **vyhledávací stránku protokolu**  >  **auditování** hledání.
+2. Na stránce **Auditování** ověřte, že **je vybraná karta** Hledání, a nakonfigurujte následující nastavení:
+   - V polích Začátek a  Konec vyberte rozsah dat **a** času.
+   - Ověřte, **že pole Aktivity** obsahuje zobrazit výsledky pro všechny **aktivity**.
 
-3. Vyberte rozsah dat v **polích Počáteční datum** a **Koncové** datum. Nemusíte zadít uživatelské jméno. Ověřte, **jestli je** pole Aktivity nastavené na Zobrazit výsledky pro všechny **aktivity**.
+3. Až skončíte, klikněte na **Hledat**. Aktivity se zobrazí na nové stránce **vyhledávání auditování.**
 
-4. Klikněte na **Hledat.**
+4. Ve výsledcích klikněte na **Filtrovat výsledky** **a** do pole filtru aktivity zadejte Nastavit poštovní schránku.
 
-Ve výsledcích klikněte na **Filtrovat výsledky** **a** do pole filtru aktivity zadejte Nastavit poštovní schránku. Ve výsledcích vyberte záznam auditování. V **informačním podokně Podrobnosti** klikněte na **Další informace**. Abyste zjistili, jestli aktivita souvisí s přeposíláním e-mailů, musíte se podívat na podrobnosti jednotlivých záznamů auditování.
+5. Ve výsledcích vyberte záznam auditování. V **informačním podokně Podrobnosti** klikněte na **Další informace**. Abyste zjistili, jestli aktivita souvisí s přeposíláním e-mailů, musíte se podívat na podrobnosti jednotlivých záznamů auditování.
 
-- **Id Objektu:** Hodnota aliasu poštovní schránky, která byla změněna.
+   - **Id Objektu:** Hodnota aliasu poštovní schránky, která byla změněna.
+   - **Parametry:** _ForwardingSmtpAddress_ označuje cílovou e-mailovou adresu.
+   - **Id_uživatele:** Uživatel, který nakonfiguroval přeposílání e-mailů v poštovní schránce v **poli Id Objektu.**
 
-- **Parametry:** _ForwardingSmtpAddress_ označuje cílovou e-mailovou adresu.
-
-- **Id_uživatele:** Uživatel, který nakonfiguroval přeposílání e-mailů v poštovní schránce v **poli Id Objektu.**
-
-Další informace najdete v článku [Určení, kdo nastavil přeposílání e-mailů pro poštovní schránku](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).
+Další informace najdete v článku [Určení, kdo nastavil přeposílání e-mailů pro poštovní schránku](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

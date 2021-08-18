@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8fafb3377ce7b09a87f9cf5458db56f00e4387d9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 641a65038520a42b3a62dc2a3ff6a989238ba422649a973adb6f42cf556e5a53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831655"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113553"
 ---
 # <a name="recover-missing-notebook"></a>Obnovení chybějícího poznámkového bloku
 
-Pokud byl poznámkový blok na OneDrivu omylem odstraněn, můžete ho obnovit podle pokynů v článku Obnovení odstraněných souborů nebo složek [na OneDrivu.](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Pokud byl poznámkový blok v OneDrive omylem odstraněn, můžete ho obnovit podle pokynů v článku Obnovení odstraněných souborů nebo složek [v OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Poznámkový blok na odstraněné OneDrivu můžete obnovit do 30 dnů ve výchozím nastavení podle pokynů v článku Obnovení [odstraněné OneDrivu.](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Poznámkový blok můžete obnovit na odstraněné OneDrive do 30 dnů ve výchozím nastavení podle pokynů v článku Obnovení [odstraněné OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote může používat jiný účet, než jste čekali. Pokud máte kromě svého osobního účtu Microsoft pracovní nebo školní účet, budete muset přidat svůj další účet, abyste si prohlíželi všechny poznámkové bloky (viz pokyny k přidání účtu [ve OneNotu.](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)
+OneNote může používat jiný účet, než jste čekali. Pokud máte kromě svého osobního účtu Microsoft pracovní nebo školní účet, budete muset přidat svůj další účet, abyste si prohlíželi všechny poznámkové bloky (viz pokyny k přidání účtu v [aplikaci OneNote.](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299)
