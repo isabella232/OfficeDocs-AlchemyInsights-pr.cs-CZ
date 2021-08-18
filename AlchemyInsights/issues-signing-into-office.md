@@ -1,5 +1,5 @@
 ---
-title: Problémy s přihlášením k aplikacím Microsoft 365
+title: Problémy s přihlášením k Microsoft 365 aplikacím
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: 02841a1b4e92eec94fc6409941d91618f02518c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1954ceef7454a4bb047d366cc55793dc78a969e375e9eea88d2d0dbe7f4997ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836596"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087993"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a>Problémy s přihlášením k aplikacím Microsoft 365
+# <a name="issues-signing-into-microsoft-365-apps"></a>Problémy s přihlášením Microsoft 365 Apps
 
-Pokud chcete vyřešit problémy s přihlášením k aplikacím Microsoft 365, vyzkoušejte na příslušném počítači následující možnosti:  
+Pokud chcete vyřešit problémy s přihlášením Microsoft 365 aplikací, vyzkoušejte na příslušném počítači následující možnosti:  
 
-- Pro Windows najdete v tématu [Doporučení k řešení běžných problémů s přihlášením.](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- Mac najdete v tématu Nemůžu se přihlásit k  [aplikaci Office 2016 pro Mac.](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- Další Windows najdete v Recommendations řešení běžných problémů s [přihlášením.](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Informace pro Mac najdete v článku Nemůžu se [přihlásit k Office 2016 pro Mac aplikaci](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Tip** Na počítačích s Windows můžeme diagnostikovat a automaticky vyřešit několik běžných problémů s přihlášením k Office. Stáhněte a spusťte  **[Pomocníka pro podporu](https://aka.ms/SaRA-OfficeSignInScenario)** a obnovení microsoftu a použijte náš automatizovaný nástroj.
+**Tip** Na Windows počítačích můžeme diagnostikovat a automaticky opravit několik běžných problémů Office přihlášení. Stáhněte si a spusťte **[Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-OfficeSignInScenario)** a použijte náš automatizovaný nástroj.
 
-**Poznámka:** Zakázání moderního ověřování (ADAL) nebo správy webových účtů (WAM) pro řešení problémů s přihlášením nebo aktivací **se nedoporučuje.** Pokud dojde k chybám při připojování k Microsoftu 365 [](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) pomocí Office 2013, ujistěte se, že pro klienta Office povolíte moderní ověřování.
+**Poznámka:** Zakázání moderního ověřování (ADAL) nebo správy webových účtů (WAM) pro řešení problémů s přihlášením nebo aktivací **se nedoporučuje.** Pokud dojde k chybám při připojování Microsoft 365 pomocí Office 2013, zajistěte, abyste pro klienta Office moderní ověřování. [](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
 
 Konkrétní akce řešení potíží najdete v těchto článku:
 
@@ -36,6 +36,6 @@ Konkrétní akce řešení potíží najdete v těchto článku:
 
 [Nemůžete se přihlásit ke svému účtu organizace, jako je Office 365, Azure nebo Intune.](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 
-[Řešení potíží s aplikacemi bez prohlížeče, které se neschytá přihlásit k Office 365, Azure nebo Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+[Řešení potíží s aplikacemi mimo prohlížeč, které se neschytá přihlásit k Office 365, Azure nebo Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
 
-[Opakovaně se výzva k zadání přihlašovacích údajů v Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
+[Opakovaně se v aplikaci Office](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)

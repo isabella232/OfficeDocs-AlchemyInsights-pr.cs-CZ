@@ -1,5 +1,5 @@
 ---
-title: Problémy s předplatnými, licencemi a účty
+title: Problémy s předplatným, licencemi a účty
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004324"
 - "7732"
-ms.openlocfilehash: a2476d5c3bd804577cf37dce98050050a55eaa52
-ms.sourcegitcommit: 3f1426f3cec23997f65a3e83376a9b348cc205ba
+ms.openlocfilehash: a54102577dcd2c9fc2c679615798aa646c4367886b6599cfc630f4a7f8484a2f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49884815"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087957"
 ---
-# <a name="issues-with-subscriptions-licenses-and-accounts"></a>Problémy s předplatnými, licencemi a účty
+# <a name="issues-with-subscriptions-licenses-and-accounts"></a>Problémy s předplatným, licencemi a účty
 
-1. Všichni uživatelé v Azure AD zdarma můžou používat vícefaktorové ověřování Azure s použitím [výchozích hodnot zabezpečení](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
-1. Pochopení [funkcí a licencí pro Azure AD Multi-Factor Authentication](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)
-1. Zjistěte, jak [přidružit předplatné Azure ke svému Tenantovi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-1. Pomocí těchto kroků [přeneste předplatné Azure do jiného adresáře Azure AD](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription).
-1. Pokyny k přiřazení nebo odebrání licencí uživatelům najdete v tématu [přiřazení nebo odebrání licencí na portálu Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) .
+1. Všichni uživatelé v tenantovi Azure AD Free používat vícefaktorové ověřování Azure pomocí [výchozích nastavení zabezpečení.](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)
+1. Princip funkcí a licencí pro vícefaktorové [ověřování Azure AD](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-licensing)
+1. [Zjistěte, jak přidružit nebo přidat předplatné Azure do svého Azure Active Directory tenanta.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+1. Podle těchto kroků [přeneste předplatné Azure do jiného adresáře Azure AD.](https://docs.microsoft.com/azure/role-based-access-control/transfer-subscription)
+1. Pokyny k přiřazení nebo odebrání licencí uživatelům najdete v tématu Přiřazení nebo odebrání licencí na [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) portálu.

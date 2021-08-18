@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100395"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316633"
 ---
 # <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>Export položek do archivního souboru v Outlook pro Mac
 
@@ -24,20 +24,19 @@ Pokud chcete zmenšit velikost doručené pošty, archivujte e-mailové zprávy,
 
 1. Na kartě **Nástroje** klikněte na **Exportovat.**
 
-> [!NOTE]
-> Nevidíte tlačítko **Exportovat?** Ujistěte se, že máte nejnovější verzi Outlook. V nabídce Outlook **Nápověda** klikněte na **Vyhledat aktualizace**. Pokud se Outlook všechny aktualizace a pořád nevidíte tlačítko **Exportovat,**  vyhledejte v nabídce Outlook **Soubor** možnost Exportovat.
+    **Poznámka:** Nevidíte tlačítko **Exportovat?** Ujistěte se, že máte nejnovější verzi Outlook. V nabídce Outlook **Nápověda** klikněte na **Vyhledat aktualizace**. Pokud se Outlook všechny aktualizace a tlačítko **Exportovat** pořád nevidíte,  vyhledejte v nabídce Outlook **soubor** možnost Exportovat.
 
 2. V poli Exportovat do archivního souboru **(.olm)** zaškrtněte položky, které chcete exportovat, a klikněte na **Pokračovat.**
 
 3. V poli **Uložit jako** v části **Oblíbené** zvolte složku **Stažené** soubory a klikněte na **Uložit.**
 
-4. Po exportu dat a oznámení klikněte na **Dokončit.**
+4. Po exportu dat a zobrazení oznámení klikněte na **Dokončit.**
 
-Informace o tom, jak získat přístup k datům uloženým v datovém souboru Outlook pro Mac (.olm), najdete v tématu Import e-mailových [zpráv,](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)kontaktů a dalších položek do Outlook 2016 pro Mac .
+Informace o tom, jak získat přístup k datům, která jste uložili v datovém souboru Outlook pro Mac (.olm), najdete v tématu Import e-mailových [zpráv,](https://support.microsoft.com/office/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=macOS)kontaktů a dalších položek do Outlook 2016 pro Mac .
 
 **Chci exportovat do iCloudu nebo do jiného typu archivačního souboru**
 
-Jedinou možností exportu, která je v tuto chvíli dostupná, je archivační soubor .olm. Pokud chcete požádat o další možnosti exportu, přejděte [Outlook pole návrhů](https://outlook.uservoice.com/) a nahlaste svůj názor. Tým Outlook aktivně sleduje toto fórum.
+Jedinou možností exportu, která je v tuto chvíli dostupná, je archivační soubor .olm. Pokud chcete požádat o další možnosti exportu, navštivte [Outlook Pole návrhů a](https://outlook.uservoice.com/) nahlaste svůj názor. Tým Outlook aktivně sleduje toto fórum.
 
 **Viz také**
 

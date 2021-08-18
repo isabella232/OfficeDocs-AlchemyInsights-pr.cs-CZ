@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: de141118124bf76339888a325c595c63cbaaa06d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57894016"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317005"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Zrušit rozšířenou ochranu před hrozbou
 
