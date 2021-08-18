@@ -12,23 +12,22 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: c7657935ca752744b6a53fbbff1e69b8642239a074376722cbb0b1fa4036650c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cbaebcf71380d558d6d34237373d07aa59584623
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979414"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321344"
 ---
 # <a name="change-your-display-name"></a>Změna zobrazované jméno
   
 Pokud chcete změnit zobrazované jméno v Outlook, použijte následující postup.
   
-1. V Outlook vyberte **Účet** \> **souboru Nastavení** Účet \> **Nastavení**.
+1. V Outlook vyberte **Účet** \> **souboru Nastavení** účet \> **Nastavení**.
 
 2. Vyberte e-mailový účet a pak vyberte **Změnit**.
 
-    > [!NOTE]
-    > Pokud možnost změnit zobrazované jméno nevidíte, pravděpodobně používáte e-mailový účet Microsoft Exchange účtu. V takovém případě musíte kontaktovat správce, aby změnil zobrazované jméno. Viz [Změna uživatelského jména a e-mailové adresy](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+    **Poznámka:** Pokud možnost změnit zobrazované jméno nevidíte, pravděpodobně používáte e-mailový Exchange Microsoftu. V takovém případě musíte kontaktovat správce, aby změnil zobrazované jméno. Viz [Změna uživatelského jména a e-mailové adresy](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
   
 3. Po změně zobrazovaný název uložte změny kliknutím na **OK.** Může trvat několik hodin, než se změny budou odrážet v celé vaší organizaci.
 

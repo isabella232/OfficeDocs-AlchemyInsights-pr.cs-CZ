@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893584"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320436"
 ---
 # <a name="retrieve-the-audit-logs"></a>Načtení protokolů auditování
 
 Když poprvé otevřete protokol auditování, bude prázdný. Abyste viděli, co tam je, musíte udělat hledání. Tady je postup, jak provést obecné hledání všech aktivit:
 
 1. Proveďte jednu z následujících akcí:
-   - V Centrum dodržování předpisů Microsoftu 365 přejděte <https://compliance.microsoft.com> na **Audit** \> **řešení**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://compliance.microsoft.com/auditlogsearch> .
-   - Na portálu Microsoft 365 Defender přejděte <https://security.microsoft.com> na **Audit**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://security.microsoft.com/auditlogsearch> .
+   - V Centrum dodržování předpisů Microsoftu 365 přejděte <https://compliance.microsoft.com> na Audit  \> **řešení**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://compliance.microsoft.com/auditlogsearch> .
+   - Na Microsoft 365 Defender přejděte na <https://security.microsoft.com> **Audit**. Pokud chcete přejít přímo na **stránku Auditování,** použijte <https://security.microsoft.com/auditlogsearch> .
 
 2. Na kartě **Hledání** na stránce **Auditování** nakonfigurujte následující nastavení:
    - **Rozsah dat a času:** V polích  Začátek a **Konec** vyberte rozsah dat a času.

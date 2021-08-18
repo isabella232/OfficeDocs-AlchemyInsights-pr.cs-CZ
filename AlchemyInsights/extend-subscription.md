@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1400006"
 - "5832"
-ms.openlocfilehash: 5a509837a48de8cce20da08722f24202be6f703d
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 9641edb674b90a97a617349250494d053a9e0518bbb13c171d5f164a117abf3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53689435"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117693"
 ---
 # <a name="what-are-my-options-to-extend"></a>Jaké mám možnosti prodloužení?
 

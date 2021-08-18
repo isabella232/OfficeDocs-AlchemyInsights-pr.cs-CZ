@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 25744bee6f3ed06ae67fc3c246c7d64fce9994bb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896148"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320518"
 ---
 # <a name="fix-languageip-filter-policy"></a>Oprava zásad filtru jazyka nebo IP adresy
 
 Tato zpráva se týká jedné z vašich zásad ochrany proti spamu. Pokud chcete zkontrolovat zásady, postupujte takto:
 
-1. Na portálu Microsoft 365 Defender přejděte na E-mail & zásady spolupráce & pravidla Zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam** v **části Zásady.**
+1. Na portálu Microsoft 365 Defender na webu přejděte na Zásady spolupráce e-mailu & & pravidla Zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam** v **části Zásady.**
 
    Pokud chcete přejít přímo na stránku Zásady ochrany **proti spamu,** použijte <https://security.microsoft.com/antispam> .
 

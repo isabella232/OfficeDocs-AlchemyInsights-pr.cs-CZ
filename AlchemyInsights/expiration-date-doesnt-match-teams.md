@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6667"
 - "9003760"
-ms.openlocfilehash: 7174158a73cd5c26f3ff531381e2d6c62b6a1ad3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 76bf82780ad74c4ecc7077b26d3bd9c88f3957842685bcd683d7b2bbaf3a26fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813429"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117729"
 ---
 # <a name="expiration-date-of-team-and-underlying-group-dont-match"></a>Datum vypršení platnosti týmu a podkladové skupiny se neshoduje
 
-Před prodloužením týmu se skupina, která tým zachytá, obnoví jako první. V rámci prodloužení je pro skupinu nastavené nové datum vypršení platnosti pro budoucí datum. Toto nové datum nemusí být v Teams okamžitě viditelné. Synchronizace může trvat až 24 hodin. Pokud vidíte rozdíl mezi datem vypršení platnosti týmu a jeho podkladovou skupinou, počkejte 24 hodin, než budete hledat další podporu.  
+Před prodloužením týmu se skupina, která tým zachytá, obnoví jako první. V rámci prodloužení je pro skupinu nastavené nové datum vypršení platnosti pro budoucí datum. Toto nové datum nemusí být ve Teams. Synchronizace může trvat až 24 hodin. Pokud vidíte rozdíl mezi datem vypršení platnosti týmu a jeho podkladovou skupinou, počkejte 24 hodin, než budete hledat další podporu.  
 
-Další informace najdete v článku Vypršení platnosti a prodloužení platnosti týmu v [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)
+Další informace najdete v článku [Vypršení platnosti Microsoft Teams](https://docs.microsoft.com/microsoftteams/team-expiration-renewal) prodloužení platnosti týmu v aplikaci.

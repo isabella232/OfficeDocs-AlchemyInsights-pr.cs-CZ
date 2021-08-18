@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 6d491718291940175fe7f319ba6eebf1c4011577e7e15802725a3c5baa77db25
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900101"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321674"
 ---
 # <a name="suspend-or-pause-licenses"></a>Pozastavení nebo pozastavení licencí
 
@@ -28,7 +28,7 @@ ms.locfileid: "57900101"
 
 Pokud chcete dočasně pozastavit nebo pozastavit používání licencí, můžete odebrat licence z Centrum pro správu Microsoftu 365 a pak je později přidat zpátky.
 
-1. Před odebráním licencí z předplatného musíte nejdřív zrušit přiřazení licencí [uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+1. Před odebráním licencí z předplatného musíte nejdřív zrušit přiřazení licencí [od uživatelů](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
 2. Potom přejděte na stránku **Fakturace**  >  [vaše](https://go.microsoft.com/fwlink/p/?linkid=842054) produkty.
 3. Na kartě **Produkty** vyberte předplatné, které chcete aktualizovat.
 4. Na stránce s podrobnostmi předplatného vyberte **Odebrat licence**.

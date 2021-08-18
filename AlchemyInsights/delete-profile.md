@@ -14,16 +14,16 @@ ms.custom:
 - "626"
 - "1800001"
 ms.assetid: a5c5cf46-d23b-40c7-8983-34fdcbdc02fe
-ms.openlocfilehash: 21bad16e22d8c1ef0f39f4376f0a299756d43587d5a2b3b165bc6a90c1fc4e1a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5ac46a90e3ad928723ba601043acce92c23d5c84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005515"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320151"
 ---
 # <a name="delete-a-profile"></a>Odstranění profilu
 
-Pokud chcete odstranit profil, postupujte podle následujících kroků.
+Pokud chcete odstranit profil, použijte následující postup.
   
 1. V Outlook vyberte **Účet** \> **souboru Nastavení** Spravovat \> **profily**.
 
@@ -31,8 +31,7 @@ Pokud chcete odstranit profil, postupujte podle následujících kroků.
 
 3. V dialogovém **okně Pošta** vyberte profil, který chcete odstranit, a potom klikněte na **Odebrat.**
 
-    > [!NOTE]
-    > Outlook vás může upozornit, že odstraněním profilu se odeberou offline data. Neztratíte žádné informace uložené ve svých datových souborech Outlook (.pst) ani žádné informace uložené ve vašich online účtech, například Outlook.com, Exchange nebo Microsoft 365 účty.
+    **Poznámka:** Outlook vás může upozornit, že odstraněním profilu se odeberou offline data. Neztratíte žádné informace uložené v datových souborech Outlook (.pst) ani žádné informace uložené ve vašich online účtech, například Outlook.com, Exchange nebo Microsoft 365 účty.
   
 Další **Outlook pro Mac** najdete v tématu Správa profilů nebo [identit v Outlook pro Mac](https://support.office.com/article/fed2a955-74df-4a24-bef6-78a426958c4c.aspx) nebo použijte následující postup.
   

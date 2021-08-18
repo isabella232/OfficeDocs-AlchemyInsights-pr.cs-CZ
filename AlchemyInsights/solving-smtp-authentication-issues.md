@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890427"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321746"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Povolení ověřování SMTP a odstraňování potíží
 
-Pokud chcete povolit ověřování SMTP pro poštovní schránku nebo se vám zobrazí chyba "Klient není ověřen", "Ověřování neúspěšné" nebo "SmtpClientAuthentication" s kódem 5.7.57 nebo 5.7.3 nebo 5.7.139 při pokusu o přenos e-mailů ověřením zařízení nebo aplikace s Microsoft 365, proveďte tyto tři akce k vyřešení problému:
+Pokud chcete povolit ověřování SMTP pro poštovní schránku nebo se zobrazí chyba "Klient není ověřen", "Ověřování neúspěšné" nebo "SmtpClientAuthentication" s kódem 5.7.57 nebo 5.7.3 nebo 5.7.139 při pokusu o přenos e-mailů ověřením zařízení nebo aplikace pomocí Microsoft 365, proveďte tyto tři akce k vyřešení problému:
 
 1. Výchozí nastavení [zabezpečení Azure můžete zakázat](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) tak, že **povolíte výchozí nastavení zabezpečení** na **Ne**.
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896104"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320482"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Oprava pravidel pro adresu odesílatele nebo seznam domén
 
 Tato zpráva se týká jedné z vašich zásad ochrany proti spamu. Odesílatel zprávy byl nalezen v seznamu Povolit nebo Blokovat. Pokud chcete zkontrolovat zásady, postupujte takto:
 
-1. Na portálu Microsoft 365 Defender v části Zásady přejděte na Zásady & spolupráce & pravidla zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam.** 
+1. Na portálu Microsoft 365 Defender na webu přejděte na E-mail & zásady spolupráce & pravidla zásady hrozeb <https://security.microsoft.com/>  \>  \>  \> **Anti-spam** v **části Zásady.**
 
    Pokud chcete přejít přímo na stránku Zásady ochrany **proti spamu,** použijte <https://security.microsoft.com/antispam> .
 
