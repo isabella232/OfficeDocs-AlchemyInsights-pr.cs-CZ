@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090729"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329911"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>Dodržování předpisů pro komunikaci v Microsoft 365
 
@@ -27,7 +27,7 @@ Dodržování předpisů pro komunikaci je nové řešení Microsoft 365 dodržo
 - Flexibilní pracovní postupy pro nápravu
 - Přehledy s akcemi
 
-Pokud v současné době používáte [zásady dohledu,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)doporučujeme, abyste teď k řešení regulačních potřeb vyhověl novému dodržování předpisů pro komunikaci.
+Pokud v současné době [používáte zásady dohledu,](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)doporučujeme, abyste teď k řešení regulačních potřeb vyhověl novému dodržování předpisů pro komunikaci.
 
 Informace o nastavení dodržování předpisů pro komunikaci najdete v tématu [Konfigurace dodržování předpisů pro komunikaci.](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure)
 
@@ -41,7 +41,6 @@ Licenční požadavky: Uživatelé, kteří jsou monitorováni zásadami komunik
 - Office 365 Enterprise Licence E3 s doplňkem Advanced Compliance
 - Office 365 Enterprise Předplatné E5
 
-Pokud nemáte žádné z výše uvedených možností a chcete vyzkoušet dodržování předpisů v komunikaci, zaregistrujte si zkušební **[verzi Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
+Pokud nemáte žádné z výše uvedených možností a chcete vyzkoušet dodržování předpisů v komunikaci, zaregistrujte se k zkušební **[verzi Office 365 Enterprise E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> Může trvat až 24 hodin, než budou e-mailové zprávy v zásadách plně zpracovány. Komunikace v Microsoft Teams, Yammer a platformách třetích stran může trvat až 48 hodin, než bude plně zpracována v zásadách.
+**Poznámka:** Může trvat až 24 hodin, než budou e-mailové zprávy v zásadách plně zpracovány. Komunikace v Microsoft Teams, Yammer a platformách třetích stran může trvat až 48 hodin, než se zásady plně zpracují.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898237"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330053"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Řešení běžných problémů s Microsoft Defenderem pro Office 365
 
@@ -31,13 +31,13 @@ Tady je několik řešení běžných problémů s Microsoft Defenderem pro Offi
 
   Další informace najdete v tématu [Nahlášení zpráv a souborů do Microsoftu](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft).
 
-- **Povolit Sejf linku:**
+- **Povolení Sejf ochrany odkazů:**
 
-  1. Na portálu Microsoft 365 Defender na webu přejděte na <https://security.microsoft.com/> **E-mail & zásady** spolupráce & pravidla zásady hrozeb \>  \>  \> **Sejf odkazy** v **části Zásady.**
+  1. Na portálu Microsoft 365 Defender na webu přejděte na <https://security.microsoft.com/> **E-mail & zásady** spolupráce & pravidla zásady hrozeb Sejf odkazy v \>  \>  \>  **části** Zásady.
 
      Pokud chcete přejít přímo na **Sejf odkazy,** použijte <https://security.microsoft.com/safelinksv2> .
 
-  2. Na Sejf **odkazy** vyberte zásadu kliknutím na název zásady.
+  2. Na **Sejf odkazy** vyberte zásadu kliknutím na název zásady.
   3. V plovoucím seznamu podrobností, který se zobrazí, proveďte některý z následujících kroků:
      - Pokud chcete přidat novou zásadu, vyberte **+ Vytvořit**. Spustí se průvodce, který vám pomůže definovat nastavení zásad.
      - Pokud chcete upravit existující zásadu, vyberte ji kliknutím na název zásady. V plovoucím seznamu podrobností, který se zobrazí, **vyberte Upravit** v **části Nastavení** ochrany.

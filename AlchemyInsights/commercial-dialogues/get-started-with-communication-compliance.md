@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: bd51464ed4d30055bf2279d58aff8b25f55e249f6afc24ec2db227a1e9bdfbad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9b4fbba05af371356497b68399277da4539a50db
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034675"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327911"
 ---
 # <a name="get-started-with-communication-compliance"></a>Začínáme s dodržováním předpisů pro komunikaci
 
@@ -30,10 +30,9 @@ Než začnete, musí mít vaše organizace jedno z následujících předplatný
 * Microsoft 365 A3 předplatné + doplněk Microsoft 365 A5 dodržování předpisů
 * Microsoft 365 A3 předplatné + doplněk Microsoft 365 A5 Insider Risk Management
 * Microsoft 365 Předplatné G5 (placená nebo zkušební verze)
-* Microsoft 365 Předplatné G5 + doplněk Microsoft 365 dodržování předpisů G5
+* Microsoft 365 Předplatné G5 + Microsoft 365 doplněk Dodržování předpisů G5
 * Microsoft 365 Předplatné G5 + doplněk Microsoft 365 G5 Insider Risk Management
 * Office 365 Enterprise Předplatné E5 (placená nebo zkušební verze)
 * Office 365 Enterprise Předplatné E3 + Office 365 Advanced Compliance (už není k dispozici pro nová předplatná, viz poznámka)
 
-    > [!NOTE]
-    > Pokud nemáte plán Office 365 Enterprise E5 a chcete vyzkoušet řízení rizik insider, můžete přidat [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) ke svému stávajícímu předplatnému nebo se zaregistrovat k zkušební verzi Office 365 Enterprise E5.
+    **Poznámka:** Pokud nemáte plán Office 365 Enterprise E5 a chcete vyzkoušet řízení rizik insider, můžete přidat [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2130508) ke svému stávajícímu předplatnému nebo si zaregistrovat zkušební verzi Office 365 Enterprise E5.

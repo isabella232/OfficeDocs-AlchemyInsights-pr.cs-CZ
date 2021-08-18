@@ -15,12 +15,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: bd1b749a5798bcf0b42d12bfe0add2a7b3933f4dec2225bfd1d030a29f3edb0a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 965e9d0a35ed2d220fd3750cfb59b0cd17f82601
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889823"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328855"
 ---
 # <a name="manage-subscription-renewal"></a>Správa prodlužování platnosti předplatného
 

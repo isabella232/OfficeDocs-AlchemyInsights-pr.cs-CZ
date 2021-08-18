@@ -15,19 +15,19 @@ ms.custom:
 - commerce_licensing
 - "491"
 - "1500032"
-ms.openlocfilehash: f7b3ed021960ec2bc4dd2b0cc6d89e0f70e5c9961a3ae48ef59a3f43994d8d04
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 4a2e35fd8fea0204c4902842f309b5236df160eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54498929"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328615"
 ---
-# <a name="questions-about-your-microsoft-365-license"></a>Otázky týkající se Microsoft 365 licence
+# <a name="questions-about-your-microsoft-365-license"></a>Otázky k vaší Microsoft 365 licenci
 
-Pomocí tohoto postupu zjistíte, kolik licencí jste koupili nebo kolik licencí je přiřazených z předplatného.
+Pomocí tohoto postupu zjistíte, kolik licencí jste si koupili nebo kolik licencí je přiřazených z předplatného.
   
 1. V Centru pro správu přejděte na stránku **Fakturace** \> **[vaše](https://go.microsoft.com/fwlink/p/?linkid=842054)** produkty.
-2. Na kartě **Produkty** najděte předplatné, o které chcete vědět víc. Můžete si zobrazit počet licencí, za které platíte, a počet aktuálně přiřazených licencí.
+2. Na kartě **Produkty** najděte předplatné, o které chcete vědět víc. Můžete si zobrazit počet licencí, za které platíte, a kolik licencí je aktuálně přiřazených.
 
 Pokud chcete přidat další licence nebo pokud jich máte moc, vyberte předplatné. Na stránce Data předplatného vyberte  **Koupit licence** nebo Odebrat licence a upravte celkový počet licencí předplatného.
 

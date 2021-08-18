@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898885"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330401"
 ---
 # <a name="change-your-billing-address"></a>Změna fakturační adresy
 
@@ -39,7 +39,7 @@ Další informace o změnách adresy a oznámení najdete v tématu Změna [fakt
 
 **Změna informací o fakturačním účtu**
 
-1. V Centru pro správu přejděte na **Fakturace > [fakturační účty](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+1. V Centru pro správu přejděte na Účty fakturace **> [fakturace](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
 2. Vyberte **Upravit informace o fakturačním účtu**.
 3. Aktualizujte informace o fakturačním účtu a klikněte na **Uložit > Hotovo**.
 

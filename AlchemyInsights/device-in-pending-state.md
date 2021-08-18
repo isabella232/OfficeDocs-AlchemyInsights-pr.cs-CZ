@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7d8a55f8c9a9fc30c653152c2f1b185874cea3ee
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913996"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330365"
 ---
 # <a name="device-in-pending-state"></a>Zařízení ve stavu čeká na vyřízení
 
@@ -37,15 +37,14 @@ Tady je přehled toho, co se stane během procesu registrace:
 
 1. Windows 10 zjistí záznam spojovacího bodu služby (SCP), když se uživatel přihlásí k zařízení.
 
-    1. Zařízení se nejdřív pokusí načíst informace o tenantovi ze SCP na straně klienta v registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Další informace najdete v [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    1. Pokud se to nepodaří, zařízení komunikuje s místní službou Active Directory, aby se informace o tenantovi z SCP dostaly. Pokud chcete ověřit SCP, přečtěte si tento [dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
+    1. Zařízení se nejdřív pokusí načíst informace o tenantovi z klienta SCP v registru [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. Další informace najdete v [dokumentu](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. Pokud se to nepodaří, zařízení komunikuje s místní službou Active Directory, aby se informace o tenantovi dostaly z SCP. Pokud chcete ověřit SCP, přečtěte si tento [dokument](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
-    > [!NOTE]
-    > Doporučujeme povolit SCP ve službě Active Directory a k počátečnímu ověření používat jenom SCP na straně klienta.
+    **Poznámka:** Doporučujeme povolit SCP ve službě Active Directory a k počátečnímu ověření používat jenom SCP na straně klienta.
 
 2. Windows 10 se snaží komunikovat s Azure AD v kontextu systému a ověřit se v Azure AD.
 
-    Pokud má zařízení přístup k prostředkům Microsoftu pod systémovým účtem, můžete ověřit pomocí skriptu [Test Device Registration Connectivity](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
+    Pomocí skriptu Připojení k registraci testovacího zařízení můžete ověřit, jestli má zařízení přístup k prostředkům Microsoftu pod systémovým [účtem.](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0)
 
 3. Windows 10 certifikát podepsaný svým držitelem a uloží ho pod objekt počítače v místní službě Active Directory. To vyžaduje viditelnost na řadiči domény.
 
@@ -55,11 +54,9 @@ Tady je přehled toho, co se stane během procesu registrace:
 
 6. Při příštím přihlášení uživatele k Windows 10 se registrace dokončí.
 
-    > [!NOTE]
-    > Pokud používáte VPN a odhlášení/přihlášení ukončí připojení domény, můžete registraci spustit ručně. To můžete udělat takhle:
-    >
-    > `dsregcmd /join`Vyděste místně výzvu správce nebo vzdáleně přes PSExec do počítače.
-    >
-    > Příklad: `PsExec -s \\win10client01 cmd, dsregcmd /join`
+    **Poznámka:** Pokud používáte VPN a odhlášení nebo přihlášení ukončí připojení k doméně, můžete registraci spustit ručně. To můžete udělat takhle:
+    
+    `dsregcmd /join`Vyděste místně výzvu správce nebo vzdáleně přes PSExec do počítače.\
+    Příklad: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
 Běžné problémy s registrací Azure Active Directory zařízení najdete v článku [Nejčastější dotazy k zařízením.](https://docs.microsoft.com/azure/active-directory/devices/faq)

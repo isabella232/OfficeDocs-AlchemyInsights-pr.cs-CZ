@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7111a26e54a909cd8541d8c351d4f9db0338138d76de1ad14402b1c86932b79c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bd60159789bc4945c7f5e464fd1359e8fb8458cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107901"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328431"
 ---
 # <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Zpoždění při přijímání SharePoint a OneDrive upozornění
 
-- Pokud **jsou všechna upozornění** z více souborů [](https://portal.office.com/adminportal/home?ref=/servicehealth) nebo knihoven zpožděná, podívejte se na řídicí panel Stav služby, kde najdete případné poradce nebo incidenty, ke kterým může do SharePoint nebo Exchange.
-- Pokud **není doručeno individuální** upozornění z určitého souboru nebo knihovny , zkuste ho odstranit a znovu vytvořit. Další [informace najdete v tématu Správa,](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) zobrazení nebo SharePoint upozornění.
+- Pokud **jsou všechna upozornění** z více souborů [](https://portal.office.com/adminportal/home?ref=/servicehealth) nebo knihoven zpožděná, podívejte se na řídicí panel Stav služby a zkontrolujte, jestli se v SharePoint nebo Exchange.
+- Pokud **není doručeno individuální** upozornění z určitého souboru nebo knihovny , zkuste ho odstranit a znovu vytvořit. Další [informace najdete v tématu Správa,](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) zobrazení SharePoint odstranění upozornění.
 - V e-mailu zkontrolujte složku Nevyžádaná pošta nebo Spam.
 
-> [!NOTE]
-> - Upozornění nelze odeslat distribuční skupině. Podporují se jenom skupiny Zabezpečení a O365.
-> - Šablony e-mailů s upozorněním nelze přizpůsobit. K dosažení těchto Microsoft Flow SharePoint musíte použít pracovní postup Návrháře.
+**Poznámka:**
+- Upozornění nelze odeslat distribuční skupině. Podporují se jenom skupiny Zabezpečení a O365.
+- Šablony e-mailů s upozorněním nelze přizpůsobit. K dosažení těchto Microsoft Flow SharePoint musíte použít pracovní postup Návrháře.
