@@ -3,7 +3,7 @@ title: Časté otázky k předplatným Microsoft 365 E1
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002870"
 - "5407"
-ms.openlocfilehash: 0a93db6dff637d4f930e11645edb194a36ed0b1164474d8a2d69ee97d5d5a6c6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 970055eec05fd2ed096a8da6bddd1669f0d0da9a
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53925050"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451051"
 ---
 # <a name="microsoft-365-e1-subscription-and-license-management-faq"></a>Časté otázky k předplatným Microsoft 365 E1 a správě licencí
 
@@ -27,8 +27,8 @@ ms.locfileid: "53925050"
 - Pokud si chcete **zakoupit** plán E1, přejděte na **Fakturace > [Koupit služby](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Pomocí vyhledávacího pole najděte „E1“, vyberte plán a počet uživatelů. [Kupte si jiné předplatné](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Pokud chcete **změnit plán**, přečtěte si článek [Upgrade na jiný plán](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Pokud **chcete uživatelům** přiřadit licence E1, přejděte na Fakturace > **[licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Další informace najdete v článku [Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Pokud **chcete koupit nebo odebrat** licence E1, přejděte na Fakturační > Vaše **[produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Další informace najdete v článku [Přidání či odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
-- Pokud **chcete zrušit** předplatné E1, přejděte na Fakturace >Vaše produkty , vyberte předplatné a v části **Nastavení** předplatného a platby vyberte **Zrušit předplatné.** **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** Další informace najdete v článku [Zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Pokud **chcete koupit nebo odebrat** licence E1, přejděte na Fakturace > Vaše **[produkty](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Další informace najdete v článku [Přidání či odebrání licencí](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Pokud **chcete předplatné** E1 zrušit, přejděte na Fakturace >Vaše produkty , vyberte předplatné a v části **Nastavení** předplatného a platby vyberte **Zrušit předplatné.** **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** Další informace najdete v článku [Zrušení předplatného](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Informace **o aktivaci** předplatného E1 najdete v [tématu Aktivace předplatného](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - Pokud **chcete předplatné** E1 znovu aktivovat, podívejte se na informace v tématu [Opětovná aktivace předplatného](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
 - Pokud **chcete prodloužit** zkušební verzi E1, podívejte se na informace v článku Prodloužení zkušební [verze](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).

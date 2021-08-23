@@ -1,26 +1,29 @@
 ---
-title: Nelze zakoupit nabídku EDU
-ms.author: pebaum
-author: pebaum
+title: Nejde koupit nabídku pro vzdělávací instituce
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "5989"
 - "1500009"
-ms.openlocfilehash: e3a8db9273fb3146bd798c36c0fa7c0b1a6e7187
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.date: 07/8/2020
+ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088313"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451843"
 ---
-# <a name="unable-to-purchase-edu-offer"></a>Nelze zakoupit nabídku EDU
+# <a name="unable-to-purchase-edu-offer"></a>Nejde koupit nabídku pro vzdělávací instituce
 
-Chcete-li zjistit, zda vaše organizace splňuje podmínky pro akademické ceny, musíte [dokončit proces ověření a zadat svou doménu](https://portal.office.com/Adminportal/Home#/Domains/SOWizard). Office 365 A1 pro zkušební verzi ve fakultě a zkušební verze Office 365 A1 pro studenty můžete použít při čekání na kontrolu způsobilosti vaší organizace.
+Pokud chcete zjistit, jestli má vaše organizace nárok na ceny pro účely vzdělávání, musíte [dokončit proces ověření a zadat svoji doménu](https://admin.microsoft.com/Adminportal#/Domains/SOWizard). Po dobu, než se zkontroluje způsobilost vaší organizace, budete mít k dispozici zkušební verzi Office 365 A1 pro zaměstnance školy a zkušební verzi Office 365 A1 pro studenty.
 
-Chcete-li zakoupit Microsoft 365 komerčně, viz [dostupné nabídky](https://go.microsoft.com/fwlink/p/?linkid=868433).
+Informace o komerčním nákupu Microsoftu 365 najdete v [dostupných nabídkách](https://go.microsoft.com/fwlink/p/?linkid=868433).
