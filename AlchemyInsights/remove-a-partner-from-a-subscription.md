@@ -1,8 +1,9 @@
 ---
 title: Odebrání partnera pro předplatné
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001683"
 - "5064"
-ms.openlocfilehash: ea8abeaf734089f41f4a4d6ff3f284dba8bba4f547431d87445c249983dccb55
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 676b4d0bfcb8575f026c03dcc4dcfd03b74bfd05
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54023803"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58450763"
 ---
 # <a name="remove-a-partner-from-a-subscription"></a>Odebrání partnera pro předplatné
 

@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: Služba importu v Centru Office 365 zabezpečení & dodržování předpisů
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312716"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418142"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 Služba importu
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>Služba importu v Centru Office 365 zabezpečení & dodržování předpisů
 
-Přístup ke službě Import a spuštění procesu importu:
+Office 365 Služba importu umožňuje importovat více souborů PST do poštovních schránek Exchange Online uživatelů. Pomocí služby Import můžete hromadně importovat soubory PST do vaší organizace pomocí možnosti **Síťové** nahrávání nebo **Odesílání na jednotku.**
 
-1. Přejděte do Centra dodržování předpisů [M365](https://compliance.microsoft.com/)a přihlaste se pomocí přihlašovacích údajů účtu správce ve vaší organizaci.
+Přístup ke službě Import a nástrojům pro import více souborů PST:
 
-1. V levém podokně Centra dodržování předpisů M365 v části **Řešení** vyberte **Import zásad správného řízení**  >  **informací.**
+1. Přejděte na [Office 365 zabezpečení & a](https://protection.office.com)přihlaste se pomocí svého Office 365 účtu.
+1. Vyberte **Řízení dat**, vyberte **Importovat** a postupujte podle pokynů v průvodci. 
 
-1. Na stránce **Import** vyberte **Nová úloha importu**. Zadejte název úlohy a vyberte **Další**.
+Další informace a podrobné pokyny k importu více souborů PST najdete v tématu Přehled importu souborů [PST vaší organizace.](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)
 
-1. Vyberte **Upload data a** použijte možnost síťového nahrávání pro import typu **úlohy.** Podrobné kroky najdete v článku Použití síťového nahrávání k [importu](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)souborů PST vaší organizace do Microsoft 365 .
-
-Pokud chcete získat **přístup na stránku Import,** ujistěte se, že máte přiřazená příslušná oprávnění. Další informace najdete v tématu [Použití síťového nahrávání k importu souborů PST](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
-
-Pokud chcete importovat soubor PST do poštovní schránky, podívejte se na informace v tématu Import [e-mailů,](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)kontaktů a kalendáře ze souboru Outlook .pst .
-
-Pokud máte problémy s importem, podívejte se na problémy, které [mají vliv na úlohy importu pst](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
+Informace o importu jednoho souboru PST najdete v tématu Import a [export Outlook e-mailů, kontaktů](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)a kalendáře.
 

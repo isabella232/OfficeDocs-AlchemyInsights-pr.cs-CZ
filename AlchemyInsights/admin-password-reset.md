@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 13d4591fee375ed2ebbbef68220292f910c5eb3d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 26cb1ca85b63e5d99ce9a86c800d2b076eb6f441
+ms.sourcegitcommit: 3654e244361988ae92a16087d00a458277aff439
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58315949"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58422473"
 ---
 # <a name="admin-password-reset"></a>Resetování hesla správce
 
 - K resetování hesla správce použijte [samoobslužné resetování hesla](https://passwordreset.microsoftonline.com/) (SSPR).
 
-- Pokud jste heslo zapomněli, ale jste přihlášení pomocí přihlašovacích údajů v mezipaměti, přidejte nebo změňte svoje bezpečnostní údaje na kartě Můj účet [> Bezpečnostní](https://mysignins.microsoft.com/security-info)údaje a pak heslo resetujte pomocí [SSPR](https://passwordreset.microsoftonline.com/). (Většina účtů k dokončení resetování vyžaduje alternativní e-mailovou adresu a telefonní číslo.)
+- Pokud jste heslo zapomněli, ale jste přihlášení pomocí přihlašovacích údajů v mezipaměti, můžete změnit svoje bezpečnostní údaje v části Můj účet [> Bezpečnostní](https://mysignins.microsoft.com/security-info)údaje a pak heslo resetovat pomocí [SSPR](https://passwordreset.microsoftonline.com/). (Většina účtů k dokončení resetování vyžaduje alternativní e-mailovou adresu a telefonní číslo.)
 
-- Pokud jste zapomněli svoje uživatelské jméno, prohledejte váš alternativní/osobní e-mail pro .onmicrosoft.com a zkuste najít e-mailovou zprávu, která by ho mohla obsahovat.  Uživatelské jméno se dá také najít v aplikacích Office 365 na pravém horním pásu karet nebo pomocí příkazu **Soubor > účet**.
+- Pokud jste zapomněli uživatelské jméno, vyhledejte v alternativním nebo osobním **e-mailu .onmicrosoft.com** najít e-mail, který ho může mít.  Uživatelské jméno najdete také v Office 365 aplikacích na pravém horním pásu karet nebo tak, že se otevře **souborový**  >  **účet.**
 
-- Jiný správce může resetovat vaše heslo pomocí příkazu **Uživatelé > [Aktivní uživatelé](https://portal.office.com/adminportal/home#/users)**. Vyberte účet a potom klikněte na ikonu klíče.  Nebo pokud jsou vaše přihlašovací údaje uložené v mezipaměti, můžete si [vytvořit nový účet správce](https://portal.office.com/adminportal/home#/users), přihlásit se pomocí tohoto účtu a potom resetovat svoje vlastní heslo správce.
+- Jiný správce může resetovat vaše heslo od **uživatelů > [aktivních uživatelů](https://portal.office.com/adminportal/home#/users)**; vyberte účet a pak vyberte ikonu klávesy.  Nebo pokud jsou vaše přihlašovací údaje uložené v mezipaměti, můžete si [vytvořit nový účet správce](https://portal.office.com/adminportal/home#/users), přihlásit se pomocí tohoto účtu a potom resetovat svoje vlastní heslo správce.
 
 Pokud chcete získat další scénáře resetování hesel, zkuste téma [Resetování hesel Office 365 pro firmy](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords) nebo otevřete případ podpory.
