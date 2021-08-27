@@ -3,7 +3,6 @@ title: Zakoupení dalších licencí
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 54889cd480f85fc63254c8218d03e26541795620fe2711798c19c9c503637f92
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/27/2021
+ms.openlocfilehash: 6a00dd03114e7b393a8bbe45da10773ccbb77bc9
+ms.sourcegitcommit: 44081ba551e0424c7b78ba2304c5705b38567f3d
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892920"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58679220"
 ---
 # <a name="buy-additional-licenses"></a>Zakoupení dalších licencí
 
