@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 5dad4b43efac2468b57351a4d6c96379ed505071ca144ec0aa518e975633bb18
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0ab831696736352bf9de84f43c96bb8f7238d8eb
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998143"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744588"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Oprava zprávy Microsoft 365 aplikace "Právě se nemůžeme připojit".
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Oprava Microsoft 365 aplikace "Právě teď se nemůžeme připojit"
+
+Poznámka: Pokud používáte starší verzi Windows (například Windows 7 SP1, Windows Server 2008 R2), použijte [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) snadnou opravu k povolení protokolu TLS 1.2 jako výchozího. Další informace najdete v článku Aktualizace a povolení [tls 1.1 a TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)jako výchozích zabezpečených protokolů ve WinHTTP v Windows .
 
 Pokud se vám tato zpráva zobrazí, zkuste toto:
 
-1. Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru a ověřte, že neblokují přístup k internetu Microsoft 365 aplikacím. Další informace najdete v článku Adresy URL a [rozsahy IP adres společnosti Microsoft.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+1. Zkontrolujte nastavení brány firewall, antivirového softwaru a proxy serveru a ověřte, že neblokují přístup k internetu Microsoft 365 aplikacím. Další informace najdete v tématu Adresy URL a [rozsahy IP adres](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)společnosti Microsoft.
 
-2. Přejděte na **Spustit** spustit a  >  zadejte **services.msc**. Ujistěte se, že jsou všechny spuštěné následující služby:
+2. Přejděte na **Spustit**  >  **spustit a** zadejte **services.msc**. Ujistěte se, že jsou všechny spuštěné následující služby:
     - Automatické nastavení zařízení připojených k síti
     - Network List Service
     - Povědomí o umístění v síti
