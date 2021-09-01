@@ -14,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "1500001"
 - "4858"
-ms.openlocfilehash: 99fe735c1976716a723f5d11792548aa79acfa1f
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 92da1efda0a2a2fe7a3351e67a9b9acd81834376
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451951"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845819"
 ---
 # <a name="add-update-or-remove-your-payment-methods"></a>Přidání, aktualizace nebo odebrání způsobu platby
 

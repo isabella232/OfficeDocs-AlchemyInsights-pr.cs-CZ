@@ -3,7 +3,6 @@ title: Informace o faktuře a platbě
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: b28778c821b4440636a3edea450920306ee9f6a0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321956"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845315"
 ---
 # <a name="invoice-and-payment-information"></a>Informace o faktuře a platbě
 
@@ -31,7 +31,7 @@ Když si koupíte předplatné Microsoft 365 pro firmy přímo od Microsoftu, m�
 
 **Faktura/faktura**
 
-Faktury můžete najít a stáhnout na stránce fakturace &  >  [platbu.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
+Faktury můžete najít a stáhnout na stránce Fakturace &  >  [platbu.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
 **Poznámka:** Pokud nejsou žádné faktury viditelné, budete možná muset upravit filtr rozsahu dat.  Ve výchozím nastavení se zobrazují poslední 3 měsíce faktur.
 

@@ -14,12 +14,13 @@ ms.custom:
 - commerce_purchase
 - "9002419"
 - "4694"
-ms.openlocfilehash: e190eaa89e7609125cc0cce7f4a6861424154dec
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: fbf246007f6c029da196a9674ca89380c7ae747e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451087"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845999"
 ---
 # <a name="purchase-visio-subscription"></a>Nákup předplatného Visia
 

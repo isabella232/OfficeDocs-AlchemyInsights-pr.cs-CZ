@@ -3,7 +3,6 @@ title: Změna množství licencí aplikace
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9000568"
 - "2425"
-ms.openlocfilehash: 3e6ab7cdc92294a5902bd98c8c39cd3187b0aace
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/05/2021
+ms.openlocfilehash: 4f9a5a172e6b126e9d0e1ead9838c2bd6aa20838
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321410"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845963"
 ---
 # <a name="change-app-license-quantity"></a>Změna množství licencí aplikace
 
@@ -40,4 +40,4 @@ Můžete zobrazit nebo změnit počet licencí, které máte, a přiřadit je u�
 
 1. Přejděte na stránku **Fakturace**  >  **[produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na kartě **Produkty** v části **Aplikace** najděte aplikaci, kterou chcete spravovat.
-3. V **Nastavení & akcí** vyberte odkaz Spravovat na portálu **vydavatele.**
+3. V **Nastavení & akcí** vyberte odkaz na Spravovat na portálu **vydavatele.**

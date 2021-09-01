@@ -3,7 +3,6 @@ title: Správa licencí Exchange
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_licensing
 - "9002548"
 - "5149"
-ms.openlocfilehash: 48e8961164a36f3bf95ff40b2abc7c42f86b49f2
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 2eabbd09c47713694bd806f98fc0ed6b6a091090
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332106"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842579"
 ---
 # <a name="exchange-license-management"></a>Správa licencí Exchange
 

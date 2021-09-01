@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: d40d432be8da32a831d4278ee530a4ba8505f12e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 298b861bb964ddc0ef2b491ca59bd173b1f28a92
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328247"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845459"
 ---
 # <a name="subscription-no-longer-active"></a>Předplatné už není aktivní
 
-Pokud se [při otevření](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) aplikace Microsoft zobrazí oznámení o předplatném, je pravděpodobné, že budete muset předplatné znovu aktivovat.
+Pokud se [při](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) otevření aplikace Microsoft zobrazí oznámení o předplatném, je pravděpodobné, že budete muset předplatné znovu aktivovat.
 
 **Opětovná aktivace předplatného**
 
