@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002450"
 - "4766"
-ms.openlocfilehash: 0172c4bf6db44b8a638a5f8a73187f1da816469e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 80ff73a7e70188d030ead9c4aacf92831c9a1888
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323315"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841966"
 ---
 # <a name="change-exchange-online-plans"></a>Změna plánů Exchange Online
 

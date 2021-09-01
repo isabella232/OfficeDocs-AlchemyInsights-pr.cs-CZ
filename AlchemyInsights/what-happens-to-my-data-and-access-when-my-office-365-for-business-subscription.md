@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,19 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "484"
 - "1500030"
+ms.date: 04/21/2020
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: cb8af5d2a5b0e42bed280cdc283c1c486f5b1cd660df3f4340159950395034e9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7daba728085660bf64c25380a0d6468abf8ec015
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54083331"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841858"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>Co se stane s mými daty a přístupem, když Microsoft 365 předplatné pro firmy skončí?
 
 Pokud vaše předplatné skončí – buď kvůli vypršení platnosti předplatného nebo kvůli tomu, že se rozhodnete zrušit – váš přístup ke službám, aplikacím a zákaznickým datům prochází několika stavy před tím, než je předplatné úplně vypnuté nebo  *zrušené*  . Pokud o tomto postupu víte, budete lépe vybaveni k tomu, abyste vrátili předplatné do aktivního stavu, než bude příliš pozdě, nebo – pokud opouštíte Microsoft – zálohujte data, než se nakonec odstraní.
   
-Než předplatné skutečně dosáhne data vypršení platnosti, máte několik možností, jak spravovat opakované účtování **předplatného**.
+Než předplatné skutečně dosáhne data vypršení platnosti, máte několik možností pro správu opakované fakturace **předplatného**.
   
 - Pokud už máte zapnutou možnost **Opakovaná fakturace**, nemusíte nic dělat. Vaše předplatné se fakturuje  k jeho datu opakované fakturace a v závislosti na aktuální frekvenci fakturace vám bude účtován další rok nebo měsíc. Pokud jste z nějakého důvodu vypnuli **opakovanou** fakturaci, můžete opakovanou fakturaci [zase zapnout](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
 

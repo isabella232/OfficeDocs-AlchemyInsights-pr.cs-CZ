@@ -14,19 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 4b1b83f29d6ac91d3306792a405e531b174dd718
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 3f1e6e729d47bee0ff8c69b938883c32102d046c
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330437"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841642"
 ---
 # <a name="cancel-project-subscription"></a>Zrušení Project předplatného
 
-Správci mohou zrušit předplatné Project pro svoji organizaci v Centrum pro správu Microsoftu 365.
+Správci mohou zrušit předplatné Project organizace v Centrum pro správu Microsoftu 365.
 
 1. Přejděte na stránku **Fakturace** \> [produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. Na kartě **Produkty** najděte předplatné, Project chcete zrušit. Vyberte tři tečky (další akce) a pak vyberte **Zrušit předplatné.**
+2. Na kartě **Produkty** najděte předplatné Project, které chcete zrušit. Vyberte tři tečky (další akce) a pak vyberte **Zrušit předplatné.**
 3. V podokně **Zrušit předplatné** zvolte důvod, proč rušíte. Volitelně můžete poskytnout jakoukoli zpětnou vazbu.
 4. Vyberte **Uložit**.
 

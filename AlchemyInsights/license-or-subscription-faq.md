@@ -3,7 +3,7 @@ title: Časté otázky k licenci nebo předplatnému
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.reviewer: ?, ?
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +15,13 @@ ms.custom:
 - "9002903"
 - "5582"
 - "5583"
-ms.openlocfilehash: 3624a8f4f7ca00d5a133e25361b33861aa05592c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: c43b3d5b7e140fe91812b42b8622c826f9987f29
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316443"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836710"
 ---
 # <a name="license-or-subscription-faq"></a>Časté otázky k licenci nebo předplatnému
 
@@ -34,4 +35,4 @@ ms.locfileid: "58316443"
 - [Změna opakované fakturace](https://go.microsoft.com/fwlink/p/?linkid=2119216)
 - [Zrušení předplatného](https://go.microsoft.com/fwlink/p/?linkid=2119113)
 - [Zavřete svůj účet](https://docs.microsoft.com/alchemyinsights/how-to-close-your-account).
-- Další předplatná si můžete koupit na stránce **> [koupit](https://go.microsoft.com/fwlink/p/?linkid=868433)** služby.
+- Další předplatná si můžete koupit na stránce **Fakturace > [koupit](https://go.microsoft.com/fwlink/p/?linkid=868433)** služby.

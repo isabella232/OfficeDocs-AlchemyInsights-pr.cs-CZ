@@ -14,12 +14,13 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: 56bd131a3bbbd42bd6cd4ccf53f18d63ea2408b2
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 08/11/2021
+ms.openlocfilehash: 36e351d95d4a7c1387bf1385291b2977bf3768f7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451915"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58836781"
 ---
 # <a name="retail-prepaid-card"></a>Maloobchodní předplacená karta
 
