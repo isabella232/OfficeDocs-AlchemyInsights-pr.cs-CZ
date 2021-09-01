@@ -14,18 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "4981"
 - "9002568"
-ms.openlocfilehash: 76f09fd64c23912bcaa9db86859d276d7d817815
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 726306a739d074c1333b02e0e7755dd00624f3d1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452095"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843587"
 ---
 # <a name="microsoft-365-a1-faq"></a>Microsoft 365 A1 – časté otázky
 
 Časté otázky k předplatným A1 a správě licencí:
 
-- Pokud vaše instituce zatím nenastavila Microsoft 365 Education, ale vy chcete přidat Microsoft 365 zdarma, můžete **začít** tím, že zadáte svůj e-mail. Pokud chcete poskytnout svůj e-mail, přečtěte si článek [Začínáme s Office 365 zdarma](https://www.microsoft.com/education/products/office).  
+- Pokud vaše instituce zatím nenastavila Microsoft 365 Education, ale vy chcete přidat **Microsoft 365 zdarma**, můžete začít tím, že zadáte svůj e-mail. Pokud chcete zadat svůj e-mail, podívejte se na [Začínáme s Office 365 zdarma](https://www.microsoft.com/education/products/office).  
 - Pokud už vaše instituce má Microsoft 365 Education, přejděte na **Fakturace > [Koupit služby](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Pomocí vyhledávacího pole najděte „A1“ a vyberte plán a počet uživatelů. Další informace najdete v tématu [Vyzkoušejte si bezplatné zkušební předplatné](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#try-a-free-trial-subscription) nebo [Kupte si jiné předplatné](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - Pokud chcete **změnit plán**, přečtěte si článek [Upgrade na jiný plán](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - Pokud chcete **uživatelům přiřadit** licence A1, přejděte na **Fakturace > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Další informace najdete v článku [Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
