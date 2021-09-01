@@ -14,12 +14,13 @@ ms.custom:
 - commerce_purchase
 - "9002455"
 - "4793"
-ms.openlocfilehash: 59b3cc844dbc7fe39b1d645f173cf4533209393b
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: ea295c2d7f65f12d9c80fb95bdbd081b1109aaa3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452239"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843839"
 ---
 # <a name="purchased-wrong-subscription-license"></a>Zakoupení nesprávné licence předplatného
 

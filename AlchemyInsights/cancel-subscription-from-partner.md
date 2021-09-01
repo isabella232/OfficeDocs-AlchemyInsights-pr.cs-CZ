@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "5078"
-ms.openlocfilehash: 907adaa12d960f0f5a54624b7fe9ee70a83f51d0
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: ed145cdd0f5e5c4926b423b60fa90a223f442e27
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451987"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843335"
 ---
 # <a name="cancel-subscription-from-partner"></a>Zrušení předplatného od partnera
 

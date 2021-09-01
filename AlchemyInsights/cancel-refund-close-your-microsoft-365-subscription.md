@@ -14,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "9002914"
 - "5614"
-ms.openlocfilehash: b0edc8f3cf3c61e0b16983e171456cc5126f2b27
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 458824fe600ed0942e4f20ea315b3f56f7a85a52
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450979"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843371"
 ---
 # <a name="cancelrefundclose-your-microsoft-365-subscription"></a>Zrušení/refundace/zavření předplatného Microsoft 365 předplatného
 

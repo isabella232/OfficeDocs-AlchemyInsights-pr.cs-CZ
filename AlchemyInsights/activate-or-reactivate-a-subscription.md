@@ -3,6 +3,7 @@ title: Aktivace nebo opětovná aktivace předplatného
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +15,13 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 82e351382d66e5a1aa6d86be509fc9bb08bdc411
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314305"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842867"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktivace nebo opětovná aktivace předplatného
 
@@ -27,7 +29,7 @@ ms.locfileid: "58314305"
 
 - Pokud chcete uživatelům poskytnout přístup ke službě, přiřaďte jim licenci. Postup najdete v tématu [Přiřazení licencí uživatelům](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - Pokud už máte přiřazenou licenci, můžete aplikace, které si můžete stáhnout, najít na stránce [Můj účet](https://portal.office.com/account/#installs). Tato stránka obsahuje seznam aplikací, které si můžete stáhnout na základě přiřazených licencí.
-- Pokud jste si už stáhli Office aplikace, budete se možná muset přihlásit k aplikacím pomocí pracovního nebo školního účtu. Můžete to udělat v libovolné Office (Word, Excel atd.) kliknutím na Soubor  >  **Office účet** (v dolní části). V **části Informace o uživateli** vyberte **Přepnout účet**. Další informace najdete v tématu [Instalace Office aplikací](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Pokud jste si už stáhli Office aplikace, budete se možná muset k aplikacím přihlásit pomocí pracovního nebo školního účtu. Můžete to udělat v libovolné Office (Word, Excel atd.) kliknutím na Soubor Office  >  **Účet** (v dolní části). V **části Informace o uživateli** vyberte **Přepnout účet**. Další informace najdete v tématu [Instalace Office aplikací](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Opětovná aktivace předplatného**
 

@@ -14,19 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "9001683"
 - "3748"
-ms.openlocfilehash: 4a2c26c3850d99aeb19cc3c47116faffa879edfa
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 0f6e5cdfb678642b11c1375db47f0a988e4beb24
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450934"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842831"
 ---
 # <a name="add-change-or-remove-a-partner-relationship"></a>Přidání, změna nebo odebrání relace partnera
 
-Jako správce můžete spolupracovat s partnerem na nákupu, aktivaci a prodloužení předplatného Microsoft 365 předplatného. 
+Jako správce můžete spolupracovat s partnerem na nákupu, aktivaci a prodloužení Microsoft 365 předplatného. 
 
 - Pokud chcete upravit stávající partnerský vztah, podívejte se na stránku Přidání, změna nebo odstranění partnera poskytujícího doporučení [k předplatnému.](https://docs.microsoft.com/microsoft-365/admin/misc/add-partner)
 
 - Pokud hledáte partnera Microsoftu, podívejte se na článek Vyhledání [Microsoft 365 partnera nebo prodejce.](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller)
 
-Pokud jste stávajícím partnerem Microsoftu nebo se chcete stát partnerem, podívejte se do Partnerského centra [Microsoftu,](https://support.microsoft.com/help/4499930/partner-center-overview) kde najdete další informace o výhodách nebo o tom, jak získat pomoc od [podpory partnerů Microsoftu.](https://aka.ms/partnersupport)
+Pokud jste stávajícím partnerem Microsoftu nebo se chcete stát partnerem, podívejte se na partnerské centrum [Microsoftu,](https://support.microsoft.com/help/4499930/partner-center-overview) kde najdete další informace o výhodách nebo o tom, jak získat pomoc od [podpory partnerů Microsoftu.](https://aka.ms/partnersupport)

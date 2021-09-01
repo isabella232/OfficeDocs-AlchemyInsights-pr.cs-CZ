@@ -3,7 +3,6 @@ title: Změna fakturační adresy
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -17,12 +16,13 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: f5320762aa8327dc7aa94cf46226b70462c9d9ec
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330401"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843299"
 ---
 # <a name="change-your-billing-address"></a>Změna fakturační adresy
 
@@ -39,7 +39,7 @@ Další informace o změnách adresy a oznámení najdete v tématu Změna [fakt
 
 **Změna informací o fakturačním účtu**
 
-1. V Centru pro správu přejděte na Účty fakturace **> [fakturace](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+1. V Centru pro správu přejděte na Fakturace > **[fakturační účty](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
 2. Vyberte **Upravit informace o fakturačním účtu**.
 3. Aktualizujte informace o fakturačním účtu a klikněte na **Uložit > Hotovo**.
 

@@ -3,7 +3,6 @@ title: Změna způsobu platby
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -17,16 +16,17 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: b42fe2e660b83d40737855ff84d313c6b7df1860
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 04/21/2020
+ms.openlocfilehash: beee6c459e8306fecb4313d963fc91ac7a596de3
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58318897"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843119"
 ---
 # <a name="change-how-often-you-pay"></a>Změna způsobu platby
 
-Pokud chcete změnit, jak často se vám fakturuje a platí předplatné, proveďte následující kroky v Centrum pro správu Microsoftu 365.
+Pokud chcete změnit, jak často se vám fakturuje a platí za předplatné, proveďte následující kroky v Centrum pro správu Microsoftu 365.
 
 1. Přejděte na stránku **Fakturace**  >  [produkty.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na kartě **Produkty** vyberte předplatné, které chcete změnit.
