@@ -3,7 +3,6 @@ title: Aktualizace údajů o platební kartě
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jamitche, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 69cb08380caf1227ce218d9eb26d7a485609ff01
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330661"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844271"
 ---
 # <a name="update-credit-card-information"></a>Aktualizace údajů o platební kartě
 

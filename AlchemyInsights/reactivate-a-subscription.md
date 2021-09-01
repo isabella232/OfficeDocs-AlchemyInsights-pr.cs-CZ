@@ -14,15 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "482"
 - "1500028"
+ms.date: 08/10/2021
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 30bfec6c66b4ac9ae82704785c4739322b412726
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 4996c8ac56c0600517712509099e263d393eb682
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327478"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844091"
 ---
-# <a name="reactivate-a-microsoft-365-subscription"></a>Opětovná aktivace Microsoft 365 předplatného
+# <a name="reactivate-a-microsoft-365-subscription"></a>Opětovná aktivace předplatného Microsoft 365 předplatného
 
 Pokud platnost vašeho předplatného vyprší, microsoft ho zakázal nebo jste ho zrušili během období předplatného, můžete ho znovu aktivovat v Centru pro správu.
   

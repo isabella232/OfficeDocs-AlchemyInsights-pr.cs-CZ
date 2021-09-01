@@ -3,7 +3,6 @@ title: Zakoupení předplatného pro Microsoft 365 pro firmy z bezplatné zkuše
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +14,18 @@ ms.custom:
 - commerce_purchase
 - "257"
 - "1400007"
+ms.date: 08/10/2021
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1ea808a1d98ade11fc65ef9cafed8d71a79ed347
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325760"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845063"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Zakoupení předplatného předplatného Microsoft 365 bezplatné zkušební verzi
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Zakoupení předplatného pro Microsoft 365 z bezplatné zkušební verze
 
-Vyzkoušeli jste Microsoft 365 a teď můžete koupit. Při nákupu předplatného ze zkušební verze Microsoft 365 dvě možnosti:
+Pokusili jste se Microsoft 365 a teď můžete koupit. Při nákupu předplatného ze zkušební verze Microsoft 365 dvě možnosti:
   
  **Zakoupení plánu stejného, jako je zkušební verze**
   

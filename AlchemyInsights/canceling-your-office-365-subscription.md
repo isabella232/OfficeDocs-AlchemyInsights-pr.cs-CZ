@@ -14,19 +14,20 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: dae66f9bb40262a9fc0d643ca9585ec90adae399
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330165"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844775"
 ---
 # <a name="canceling-your-subscription"></a>Zrušení předplatného?
 
 Je nám líto, že jste na tom, ale pokud chcete předplatné zrušit, máte následující možnosti:
   
 - Pokud máte méně než 25 přiřazených licencí, můžete předplatné zrušit online. Přejděte na **stránku Fakturace:** Vaše produkty a \> **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** najděte předplatné, které chcete zrušit. Vyberte tři tečky (další akce) a pak vyberte **Zrušit předplatné.**
-- Pokud máte více než 25 licencí přiřazených uživatelům, zmenšete [](https://docs.microsoft.com/microsoft-365/business-video/get-help-support)je na méně než 25, abyste zrušili předplatné nebo zavolali na podporu.
+- Pokud máte více než 25 licencí přiřazených uživatelům, zmenšete je na méně než 25, abyste zrušili předplatné nebo zavolali na [podporu.](https://docs.microsoft.com/microsoft-365/business-video/get-help-support)
   
 **Refundace: Jakýkoli revizní kredit vám bude vrácen během dalšího fakturačního cyklu.**
 
