@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978154"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923547"
 ---
 # <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – Základní úrovně zabezpečení
 
@@ -37,6 +37,8 @@ Jednotlivé základní úrovně jsou pravidelně aktualizovány a vydávány v p
 Návod, jak co nejefektivněji změnit, která verze bude nasazená, najdete v tématu [Správa profilů základních úrovní zabezpečení v aplikaci Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 Po zavedení základní úrovně zabezpečení můžete monitorovat stav nasazení a kontrolovat nastavení na jednotlivých zařízeních.
+
+Vzhledem k tomu, že směrné plány zabezpečení obsahují mnoho nastavení, je důležité zkontrolovat změny konfigurace a provést testování, abyste zajistili, že všechna nastavení jsou vhodná pro vaše zařízení a obchodní potřeby.
 
 **Poznámka:** Od prvotního zavedení na zařízení může trvat až 24 hodin, než se data generování sestav základní úrovně zabezpečení objeví. V případě dodatečných aktualizací to může trvat až šest hodin. 
 

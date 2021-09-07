@@ -1,5 +1,5 @@
 ---
-title: Microsoft Viva Připojení Dostupnost
+title: Nastavení desktopové aplikace Viva Connections
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8c00d30e32914d9fb35d3c8e563aababa9e11093
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54000457"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923691"
 ---
-# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva Připojení Dostupnost
+# <a name="set-up-the-viva-connections-desktop-app"></a>Nastavení desktopové aplikace Viva Connections
 
-Microsoft Viva Připojení bude k dispozici pro plochu v první polovině roku 2021 a pro mobilní zařízení v létě 2021. V průběhu roku 2022 budou k dispozici další funkce.
+Existují dva hlavní požadavky na připojení Viva pro Teams Desktop. 
 
-Další informace najdete v článku o tom, jak Microsoft Viva Připojení pomáhá všem zůstat v [angažovaně a informovaně](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009).
+- Aby SharePoint aplikace Viva Connections plně využívat, musí být panel aplikací zahrnutý a povolený. Důrazně se doporučuje používat domovský web jako prostředí pro přistávání v Teams. 
+- První verzi připojení Viva můžete zřídit prostřednictvím centra pro stahování Microsoftu pomocí PowerShellu (použijte nejnovější verzi SharePoint [PowerShellu).](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/introduction-sharepoint-online-management-shell?view=sharepoint-ps) Aplikace Viva Connections se pak nahraje jako aplikace v centru Teams pro správu. Skript PowerShellu je dostupný od 31. března 2021. Stáhněte si aplikaci Viva Connections Desktop z oficiálního [webu Stažení softwaru společnosti Microsoft.](https://www.microsoft.com/download/confirmation.aspx?id=102888) 
+
+Další informace najdete v tématu [Přidání připojení Viva pro Microsoft Teams desktopové](https://docs.microsoft.com/SharePoint/viva-connections) a [Microsoft Teams PowerShellu](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
