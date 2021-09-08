@@ -1,5 +1,5 @@
 ---
-title: Aktivace Office 365 aplikací na Windows 365 počítačích
+title: Aktivace aplikací Office 365 na počítačích s Windows 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792671"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923511"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktivace Office 365 aplikací na Windows 365 počítačích
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktivace aplikací Office 365 na počítačích s Windows 365
 
-Windows 365 bitové kopie počítačů zahrnují nainstalované kopie Office 365 aplikací, které se aktivují při prvním otevření některé Office aplikace.
+**Poznámka**: Tento problém se netýká uživatelů s licencemi Windows 365 Enterprise.
 
-Během procesu aktivace může Windows 365 Business narazit na následující chybu:
+Image počítačů s Windows 365 obsahují nainstalované kopie aplikací Office 365, které se aktivují při prvním otevření některé z aplikací Office.
 
-"Problém s účtem
+Během procesu aktivace může licencovaný uživatel Windows 365 Business narazit na následující chybu:
 
-Produkty, které jsme našli ve vašem účtu, nelze použít k aktivaci office ve scénářích sdílených počítačů Kód chyby 0x80004005"
+„Problém s účtem
 
-Pokud chcete tento problém vyřešit, požádejte postiženého uživatele, aby dokončil následující kroky: 
+Produkty, které jsme našli na vašem účtu, nejde použít k aktivaci Office v situacích se sdílenými počítači. Kód chyby: 0x80004005“
 
-1. Odinstalujte stávající Office z cloudového počítače.
+Pokud chcete tento problém vyřešit, požádejte daného uživatele, aby se řídil následujícími kroky: 
+
+1. Odinstalujte existující aplikace Office z cloudového počítače.
 1. Přejděte na Office.com a vyberte možnost Nainstalovat Office.
 
-    Office aktivace by se pak měla úspěšně dokončit.
+    Aktivace Office by se pak měla úspěšně dokončit.
