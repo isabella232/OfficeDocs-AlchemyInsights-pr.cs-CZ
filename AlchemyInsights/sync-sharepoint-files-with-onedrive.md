@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 7c9b50abf89edca6cfded4e8f47bd3f4db9ec538
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 538cc24c091d42a8f7a8998ce1d18b61ac0b689c
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58329365"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475462"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>Řešení potíží s příkazem „Otevřít v Průzkumníkovi“ v SharePointu Online
 
@@ -30,9 +30,9 @@ Postupujte podle pokynů a doporučených postupů v následujících článcíc
 - [Zkopírování nebo přesunutí souborů knihovny pomocí příkazu Otevřít v Průzkumníkovi](https://support.microsoft.com/office/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2?ui=en-us&rs=en-us&ad=us)
 
 **Poznámka:**
-- Doporučujeme [synchronizovat SharePoint soubory](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us) s novým klientem synchronizační aplikace OneDrivu, který poskytuje [soubory](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us) na vyžádání, protože synchronizace uděluje místnímu přístupu k souborům a nabízí nejlepší výkon.
+- Doporučujeme [synchronizovat SharePoint soubory](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us) s novým klientem synchronizační aplikace OneDrivu, [](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us) který poskytuje soubory na vyžádání, protože synchronizace uděluje místnímu přístupu k vašim souborům a nabízí nejlepší výkon.
 
-- **Otevřít v Průzkumníkovi** je podporované jenom v Internet Exploreru 11. Další informace najdete v článku [Ukončení podpory pro IE11 s Microsoft 365 Apps](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)). **Otevřít v Průzkumníkovi** nefunguje v aplikaci Windows s Microsoft Edge, Prohlížečem Google Chrome, Prohlížečem Mozilla Firefox nebo na platformě Mac. Z tohoto důvodu může být možnost **Zobrazení** Průzkumníka šedě. 
+- **Otevřít v Průzkumníkovi** je podporované jenom v Microsoft Edge prohlížeči. Další informace najdete v tématu [Zobrazení SharePoint souborů](https://docs.microsoft.com/SharePoint/sharepoint-view-in-edge) pomocí Průzkumníka souborů v Microsoft Edge a Ukončení podpory, která přichází do starší verze [Microsoft Edge](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy). **Otevřít v Průzkumníkovi** nefunguje v prohlížeči Windows Google Chrome, Mozilla Firefox nebo  na platformě Mac, takže možnost Zobrazení Průzkumníka může být šedá.
 
 - Tlačítko **Otevřít v Průzkumníkovi** se v novém prostředí knihovny nezobrazuje. Vpravo nahoře vyberte z rozevíracího seznamu **Zobrazit** (jeho název se mění podle vašeho aktuálního zobrazení). Potom klikněte na **Zobrazit v Průzkumníkovi souborů**.
 

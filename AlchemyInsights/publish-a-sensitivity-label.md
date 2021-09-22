@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062865"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475210"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Publikování popisku citlivosti
 
-1. Přejděte do centra Microsoft 365 dodržování předpisů a > **štítků** na ochranu  >  **informací.**
+1. Přejděte do centra Microsoft 365 dodržování předpisů a > **štítků na ochranu**  >  **informací.**
 
 1. Pokud **chcete spustit** průvodce Popisek nové citlivosti, vyberte + Publikovat popisek.
 
-1. Vyberte **Zvolit popisky citlivosti, které chcete publikovat.** Vyberte popisky, které chcete v aplikacích a ve službách vytvořit, a pak vyberte **Přidat.**
+1. Vyberte **Zvolit popisky citlivosti, které chcete publikovat.** Vyberte popisky, které chcete mít k dispozici v aplikacích a ve službách, a pak vyberte **Přidat.**
 
     **Důležité:** Pokud vyberete dílčí popisek, ujistěte se, že taky vyberete jeho nadřazený popisek.
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062865"
 1. Pokud vytvoříte více zásad štítků, které můžou vést ke konfliktu pro uživatele nebo umístění, zkontrolujte pořadí zásad a v případě potřeby je přesuňte nahoru nebo dolů. Pokud chcete změnit pořadí zásad popisků, vyberte tři tečky (další akce) a pak vyberte **Přesunout nahoru** nebo **Přesunout dolů**.
 
 Dokončení průvodce automaticky publikuje zásady popisků.
+
+Další informace najdete v tématu [Vytvoření a konfigurace popisků citlivosti](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)a jejich zásad.
