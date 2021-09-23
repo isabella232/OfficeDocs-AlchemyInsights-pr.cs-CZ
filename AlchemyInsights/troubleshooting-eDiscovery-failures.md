@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: cs-CZ
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105561"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481783"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Poradce při potížích s chybami hledání obsahu
 
 Máte problémy s vyhledáváním obsahu nebo se při exportu výsledků hledání neúspěchy?
+Zobrazuje se vám například při spuštění hledání následující zpráva?
 
-Dostáváte například při vyhledávání následující informace?
-
-- Chyby CS008 nebo CS012
+- Chyby CS007, CS008 nebo CS012
 
 - Chyby zaneprázdnění a časového limitu serveru
 
 - Došlo k chybě aplikace.
 
-Nebo při hledání nebo exportu výsledků z velkého počtu poštovních schránek (přes 100 000 poštovních schránek) dochází k chybám při exportu?
+Nebo se při hledání nebo exportu výsledků z velkého počtu (přes 100 000) poštovních schránek zobrazí chyby při exportu?
 
-U těchto typů chyb zkuste znovu vyhledat umístění obsahu, která selhala. Další  [informace najdete v](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) tomto článku.
+U těchto chyb zkuste vyhledávání umístění obsahu, která selhala, nebo aktualizujte hledání snížením složitosti vyhledávacího dotazu. Hledání pomocí zástupných karet může například vrátit příliš mnoho výsledků pro zpracování systému, což způsobuje chybu CS007.   
 
-Pokud exportujete víc než 100 tisíc poštovních schránek, budete muset stáhnout výsledky exportu pomocí následujícího PowerShellu: Export výsledků z více než  [100 tisíc poštovních schránek](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Další informace najdete v [tématu](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) Opakování hledání obsahu k vyřešení chyby umístění obsahu nebo Zkoumání, řešení a řešení běžných problémů [s eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues).
+
+Pokud exportujete víc než 100 tisíc poštovních schránek, budete si muset stáhnout výsledky exportu. Podrobnosti najdete v tématu [Export výsledků hledání obsahu](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
